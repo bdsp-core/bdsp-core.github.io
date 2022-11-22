@@ -1,4 +1,4 @@
-# Computational Clinical Neurophysiology Lab Website
+# CCNL / BDSP Website
 
 This is the website of our research group at Harvard Medical School / Beth Israel Deaconess Medical Center.
 
