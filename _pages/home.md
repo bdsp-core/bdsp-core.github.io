@@ -27,7 +27,7 @@ We are a research group at the [Harvard Medical School / BIDMC](https://hms.harv
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
