@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Harvard Medical School / BIDMC](https://hms.harvard.edu/). Our aim is to explore and understand [brains]([http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html](https://en.wikipedia.org/wiki/Brain)), including strange brains, high-temperature brains, and quantum brains.
+We are a research group at the [Harvard Medical School / BIDMC](https://hms.harvard.edu/). Our aim is to explore and understand [brains](https://en.wikipedia.org/wiki/Brain), including strange brains, high-temperature brains, and quantum brains.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -51,8 +51,6 @@ We are a research group at the [Harvard Medical School / BIDMC](https://hms.harv
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
 
 
 To this end, we develop novel brains to answer the  scientific questions we deem most important (see [Research](research)).
