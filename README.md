@@ -4,7 +4,7 @@ This is the website of our research group at Harvard Medical School / Beth Israe
 
 This design of this website is modified from http://www.allanlab.org/. Plese feel free to copy and modify for your own purposes. 
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+Go to *aboutwebsite.md*  to learn how to copy and modify this page for your purpose. 
 
 Copyright CCNL. Code released under the MIT License.
 
