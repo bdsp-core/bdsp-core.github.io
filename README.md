@@ -1,11 +1,10 @@
 # CCNL / BDSP Website
 
-This is the website of our research group at Harvard Medical School / Beth Israel Deaconess Medical Center.
+This is the website of our research group at Harvard Medical School / Beth Israel Deaconess Medical Center / Massachusetts General Hospital / Broad Institute.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+This design of this website is modified from http://www.allanlab.org/. Plese feel free to copy and modify for your own purposes. 
 
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
 
 Copyright CCNL. Code released under the MIT License.
 
