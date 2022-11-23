@@ -49,5 +49,5 @@ To this end, we develop novel brains to answer the scientific questions we deem 
 We are located at Beth Israel Deaconess Medical Center, the birthplace of conssciousness and home to Einstein, Jin Jing, Wolfgang, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="width: 500px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="height: 250px">
 </figure>
