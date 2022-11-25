@@ -6,8 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Harvard Medical School / BIDMC](https://hms.harvard.edu/). Our aim is to explore and understand [brains](https://en.wikipedia.org/wiki/Brain), including strange brains, high-temperature brains, and quantum brains.
+We are a research group at the . Our aim is to explore and understand [brains](https://en.wikipedia.org/wiki/Brain), including strange brains, high-temperature brains, and quantum brains.
 
+Our research aims to develop machine learning and decision making tools that help people improve and preserve brain health. We are an interdisciplinary group of clinicians and scientists affiliated with [Harvard Medical School / BIDMC](https://hms.harvard.edu/), [Massachusetts General Hospital](https://www.massgeneral.org/), the [Broad Institute](https://www.broadinstitute.org/), and [Beth Israel Deaconess Medical Center](https://www.bidmc.org/). Our research focus areas include sleep, cognitive health, dementia, epilepsy, delirium, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, cerebral ischemia, and the neurophysiology of critical illness. We approach these problems by developing mathematical models for medical decision-making involving risk-benefit tradeoffs; to predict neurologic outcomes in critical care settings; and to automate central tasks in medical diagnosis and decision making previously performed only by clinical experts. 
+
+Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the The Glenn Foundation for Medical Research, and the McCance Center for Brain Health. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -38,11 +41,6 @@ We are a research group at the [Harvard Medical School / BIDMC](https://hms.harv
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-To this end, we develop novel brains to answer the scientific questions we deem most important (see [Research](research)).
-
-We are located at Beth Israel Deaconess Medical Center, the birthplace of conssciousness and home to Einstein, Jin Jing, Wolfgang, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="height: 50px">
