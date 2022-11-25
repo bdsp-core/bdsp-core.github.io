@@ -8,6 +8,8 @@ permalink: /
 
 Our research aims to develop machine learning and decision making tools that help people improve and preserve brain health. We are an interdisciplinary group of clinicians and scientists affiliated with [Harvard Medical School / BIDMC](https://hms.harvard.edu/), [Massachusetts General Hospital](https://www.massgeneral.org/), the [Broad Institute](https://www.broadinstitute.org/), and [Beth Israel Deaconess Medical Center](https://www.bidmc.org/). Our research focus areas include sleep, cognitive health, dementia, epilepsy, delirium, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, cerebral ischemia, and the neurophysiology of critical illness. We approach these problems by developing mathematical models for medical decision-making involving risk-benefit tradeoffs; to predict neurologic outcomes in critical care settings; and to automate central tasks in medical diagnosis and decision making previously performed only by clinical experts. 
 
+Our approach emphasizes working with real clinical data from groups of patients that are large, heterogenous, to ensure that our algorithms perform well in the real world. To enable this research, we and our collaborators are creating the Brain Data Science Platform (BDSP), a massive repository of clinical neurology data and computer algorithms for conducting research on this data. We welcome new collaborators who wish to use our data and tools, and who wish to contribute data and tools to grow the BDSP. 
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
