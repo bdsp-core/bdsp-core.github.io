@@ -75,7 +75,7 @@ Jump to [Faculty](#Faculty), [Lab members](#lab-members), [alumni](#alumni), [ad
 </div>
 {% endif %}
 
-## Alumni
+## Postdocs, Students, Staff
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
