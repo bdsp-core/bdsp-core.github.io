@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the . Our aim is to explore and understand [brains](https://en.wikipedia.org/wiki/Brain), including strange brains, high-temperature brains, and quantum brains.
-
 Our research aims to develop machine learning and decision making tools that help people improve and preserve brain health. We are an interdisciplinary group of clinicians and scientists affiliated with [Harvard Medical School / BIDMC](https://hms.harvard.edu/), [Massachusetts General Hospital](https://www.massgeneral.org/), the [Broad Institute](https://www.broadinstitute.org/), and [Beth Israel Deaconess Medical Center](https://www.bidmc.org/). Our research focus areas include sleep, cognitive health, dementia, epilepsy, delirium, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, cerebral ischemia, and the neurophysiology of critical illness. We approach these problems by developing mathematical models for medical decision-making involving risk-benefit tradeoffs; to predict neurologic outcomes in critical care settings; and to automate central tasks in medical diagnosis and decision making previously performed only by clinical experts. 
 
 Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the The Glenn Foundation for Medical Research, and the McCance Center for Brain Health. 
