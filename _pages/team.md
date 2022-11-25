@@ -76,9 +76,9 @@ Jump to [Faculty](#Faculty), [Lab members](#lab-members), [alumni](#alumni), [ad
 {% endif %}
 
 
-## Lab Members
+## Postdocs, Fellows, Students, and Staff
 {% assign number_printed = 0 %}
-{% for member in site.data.lab_members %}
+{% for member in site.data.postdocsFellowsStudentsStaff %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
