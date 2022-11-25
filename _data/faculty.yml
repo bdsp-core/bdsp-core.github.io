@@ -56,18 +56,5 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Marta Bento Fernandes, PhD
-  photo: marta.jpeg
-  info: Postdoctoral research fellow
-  email: mbentofernandes@mgh.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital 
-
-- name: Junior Moura, MSc
-  photo: juniorMoura.jpeg
-  info: Director of Data Science Technology, McCance Center
-  email: vmoura@mgh.harvard.edu
-
 
   
