@@ -28,7 +28,7 @@ For publications, you can add a "1" in the highlight field, then it will be feat
 
 For the news items, just keep adding them. The first 10 will be displayed on the 'home' page.
 
-For the `team.ylm` file
+For the `team.ylm` file, add pictures to the images folder, and edit team.yml file in the appropriate sections. 
 
 Next, change the content of all files in the `_pages` folder.  To change the title in the homepage, go to `homelay.html` in the `_layout` folder.
 
