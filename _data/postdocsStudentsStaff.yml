@@ -84,21 +84,3 @@
   email: e.h.m.dirks@student.utwente.nl
   number_educ: 1
   education1: University of Twente 
-
-- name: Manohar Ghanta, MSc  
-  photo: manohar.jpeg      
-  info: Software Engineer    
-  email: mghanta@mgh.harvard.edu
-  number_educ: 3
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
-  education3: Massachusetts General Hospital 
-
-- name: Aditya Gupta, MSc   
-  photo: aditya.jpeg       
-  info: Software Engineer    
-  email: agupta41@mgh.harvard.edu
-  number_educ: 3
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
-  education3: Massachusetts General Hospital 
