@@ -1,0 +1,29 @@
+- name: Junior Moura, MSc  
+  photo: manohar.jpeg      
+  info: Director of Data Science Technology    
+  email: juniorMoura.jpeg
+  number_educ: 4
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital
+  education3: Beth Israel Deaconess Medical Center 
+  education4: McCance Center for Brain Health
+
+- name: Manohar Ghanta, MSc  
+  photo: manohar.jpeg      
+  info: Software Engineer    
+  email: mghanta@mgh.harvard.edu
+  number_educ: 4
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital
+  education3: Beth Israel Deaconess Medical Center 
+  education4: McCance Center for Brain Health
+
+- name: Aditya Gupta, MSc   
+  photo: aditya.jpeg       
+  info: Software Engineer    
+  email: agupta41@mgh.harvard.edu
+  number_educ: 4
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital
+  education3: Beth Israel Deaconess Medical Center 
+  education4: McCance Center for Brain Health
