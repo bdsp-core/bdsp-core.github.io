@@ -140,7 +140,7 @@ Jump to [Faculty](#Faculty), [Lab members](#lab-members), [alumni](#alumni), [ad
 ## Former visitors, BSc/ MSc students
 ## Alumni
 {% assign number_printed = 0 %}
-{% for member in site.data.faculty %}
+{% for member in site.data.alumni %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
