@@ -1,4 +1,390 @@
-- name: XXX YYY, Spring 2017
+- name: [Kicky van Leeuwen, MSc](https://www.diagnijmegen.nl/people/kicky-van-leeuwen/)
+  photo: Kicky_van_Leeuwen.jpeg
+  info: Current status: PhD student
+  number_educ: 1: 
+  education1: Dates in lab: 2018-2019
 
-- name: XXX YYY, Spring 2016
+- name: [Nathaniel Eiseman, BSc](https://www.linkedin.com/in/eiseman/)
+  photo: nateEiseman.jpeg
+  info: Current status: Voleon Capital Management, Principal Trader
+  number_educ: 1: 
+  education1: Dates in lab: 2010-2011
+
+- name: [Sarah Wahlster, MD](https://www.uwmedicine.org/bios/sarah-wahlster)
+  photo: sarah-wahlster.jpeg
+  info: Current status: Assistant Professor, University of Washington.
+  number_educ: 1: 
+  education1: Dates in lab: 2011-2012
+
+- name: [Craig Williamson, MD](https://medicine.umich.edu/dept/neurosurgery/craig-williamson-md)
+  photo: williamson_2021.png
+  info: Current status: Associate Professor, University of Michigan
+  number_educ: 1: 
+  education1: Dates in lab: 2011-2012
+
+- name: [Matthew Ferguson](https://cdac.mgh.harvard.edu/)
+  photo: stickFig.png
+  info: Current status: Summer research intern.
+  number_educ: 1: 
+  education1: Dates in lab: 2012
+
+- name: [Justine Cormier, MD](https://www.linkedin.com/in/justine-cormier-3b134226/)
+  photo: justineCormier.jpeg
+  info: Current status: Critical Care EEG Fellow, Yale New Haven Hospital
+  number_educ: 1: 
+  education1: Dates in lab: 2012
+
+- name: [Lidia Moura, MD, PhD](https://neurovalue.mgh.harvard.edu/)
+  photo: lidia.jpeg
+  info: Current status: Assistant Professor at Harvard Medical School
+  number_educ: 1: 
+  education1: Dates in lab: 2013-2014
+
+- name: [Marcus Ng, MD](https://umanitoba.ca/medicine/faculty-staff/marcus-ng)
+  photo: MarcusNg.jpeg
+  info: Current status: Associate Professor, U of Manitoba, Winnipeg, Canada
+  number_educ: 1: 
+  education1: Dates in lab: 2013-2014
+
+- name: [Deirdre O'Rourke, MD](https://www.stjames.ie/consultants/orourkedeirdre/)
+  photo: dierdre2.jpg
+  info: Current status: Neurologist at Connolly Hospital Blanchardstown/ Beaumont Hospital Dublin
+  number_educ: 1: 
+  education1: Dates in lab: 2013-2014
+
+- name: [Sandipan Pati, MD](https://med.uth.edu/neurology/2022/10/31/sandipan-pati-md/)
+  photo: sandip.jpeg
+  info: Current status: Associate Professor, McGovern Medical School at UTHealth
+  number_educ: 1: 
+  education1: Dates in lab: 2013-2014
+
+- name: [Aaron Berkowitz, MD, PhD](https://medtweetorials.com/aaron-berkowitz-md/)
+  photo: AaronBerkowitz.webp
+  info: Current status: Director of global health at Kaiser Permanente Bernard J Tyson School of Medicine, Kaiser Permanente Los Angeles Medical Center
+  number_educ: 1: 
+  education1: Dates in lab: 2013-2014
+
+- name: [Lauren McClain, PhD](https://www.linkedin.com/in/lauren-mcclain-06428746/)
+  photo: stickFig.png
+  info: Current status: Clinical psychologist
+  number_educ: 1: 
+  education1: Dates in lab: 2013-2014
+
+- name: [Vincent Alvarez, MD, Professor](https://www.researchgate.net/profile/Vincent-Alvarez-2)
+  photo: Vincent-Alvarez-2.jpeg
+  info: Current status: Hopital du Valais, Sion, Switzerland. Dept Chair
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2016
+
+- name: [Elliot Akama-Garren](https://www.linkedin.com/in/elliot-akama-garren-b0739814/)
+  photo: elliot.jpeg
+  info: Current status: HMS Medical Student
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2015
+
+- name: [Aaron Struck, MD](https://www.linkedin.com/in/aaron-struck-b2807a89/)
+  photo: aaronStruck.jpeg
+  info: Current status: Assistant Professor, University of Wisconsin
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2015
+
+- name: [Mohammed Ghassemi, PhD, Professor](https://www.linkedin.com/in/mohammad-ghassemi-401a843/)
+  photo: mohammadG.jpeg
+  info: Current status: Michigan State University, Founder at Ghamut
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2019
+
+- name: [Jingzhi An, MD, PhD](https://www.linkedin.com/in/jingzhi-an-281a9315/)
+  photo: JZ.jpeg
+  info: Current status: Physician, National University Health System
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2020
+
+- name: [Sunil Belur Nagaraj, PhD](https://www.linkedin.com/in/sunil-belur-nagaraj-a319831b/?originalSubdomain=nl)
+  photo: sunil.jpeg
+  info: Current status: Scientist - Sleep and respiratory disorders at Philips
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2018
+
+- name: [Zhang Rui, PhD (教授)](https://www.aminer.cn/profile/63749783f5d67833f722697f)
+  photo: zhangRui.jpeg
+  info: Current status: Professor of Mathematics, Northwestern University, Xian, China
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2018
+
+- name: [Elham Bagheri, PhD](https://scholar.google.com.sg/citations?user=sKrAvqgAAAAJ&hl=en)
+  photo: elham.jpeg
+  info: Current status: Research scientist
+  number_educ: 1: 
+  education1: Dates in lab: 2015-2019
+
+- name: [Siddharth Biswal, PhD](https://github.com/sidsearch)
+  photo: siddharth.png
+  info: Current status: Amazon
+  number_educ: 1: 
+  education1: Dates in lab: 2015-2016
+
+- name: [Ellis Wickering, MSc](https://www.linkedin.com/in/ellis-wickering-800733104/?originalSubdomain=nl)
+  photo: ellisWickering.jpeg
+  info: Current status: Senior Business Analyst at Heart for Health ICT
+  number_educ: 1: 
+  education1: Dates in lab: 2015-2016
+
+- name: [Carlos Muniz, MD](https://www.linkedin.com/in/carlosmunizmd/)
+  photo: carlosM.jpeg
+  info: Current status: Assistant Professor, State University of New York
+  number_educ: 1: 
+  education1: Dates in lab: 2015-2017
+
+- name: [Katherine O’Connor]()
+  photo: stickFig.png
+  info: Current status: Kinesiologist
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2018
+
+- name: [Apeksha Shenoy, MS](https://www.linkedin.com/in/apeksha-shenoy-9b04bb45/)
+  photo: apeksha.jpeg
+  info: Current status: Principal at Boston Strategic Partners
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2018
+
+- name: [Greta Gadbois, BSc](https://www.linkedin.com/in/greta-gadbois/)
+  photo: greta.jpeg
+  info: Current status: Google
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2017
+
+- name: [Jord Vink, MS](https://www.linkedin.com/in/jord-vink-46b5479a/?originalSubdomain=nl)
+  photo: jordV.jpeg
+  info: Current status: PhD student
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2020
+
+- name: [Yu-Ping Shao, MSc](https://www.linkedin.com/in/yu-ping-shao-4622166/)
+  photo: yuping.jpeg
+  info: Current status: PhD student
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2020
+
+- name: [Eva Postma, MD](https://www.amsterdamumc.org/en/research/researchers/eva-n.-postma.htm)
+  photo: evaPostma.jpeg
+  info: Current status: PhD student
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2016
+
+- name: [Sungtae An, MSc](https://scholar.google.com/citations?user=zYMuRyQAAAAJ&hl=en)
+  photo: sungtae.jpeg
+  info: Current status: PhD student
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2018
+
+- name: [Jia Jian, PhD (教授)](https://www.aminer.cn/profile/5610074645ce1e5961fc90c5)
+  photo: jiaJian.jpeg
+  info: Current status: Professor of Mathematics, Northwestern University, Xian, China
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2017
+
+- name: [Senan Ebrahim, MD, PhD](https://www.linkedin.com/in/senane/)
+  photo: senan.jpeg
+  info: Current status: Founder & CEO at Delfina
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2017
+
+- name: [Sophia Bechek](https://connects.catalyst.harvard.edu/Profiles/display/Person/191465)
+  photo: bechek-sophia.jpeg
+  info: Current status: PhD Student
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2017
+
+- name: [Balaji Goparaju, MSc.](https://www.linkedin.com/in/balajigoparaju/)
+  photo: balaji.jpeg
+  info: Current status: Apple
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2018
+
+- name: [Jiang Ling Song (宋江玲), PhD](https://www.aminer.cn/profile/637327b2f5d67833f7bca064)
+  photo: jiangLing.jpeg
+  info: Current status: Assistant Professor of Mathematics, Northwestern University, Xian, China
+  number_educ: 1: 
+  education1: Dates in lab: 2016-2020
+
+- name: [Durga Jonnalagadda, MD](https://www.benefis.org/find-a-provider/find-a-provider?id=1252)
+  photo: durga.jpeg
+  info: Current status: Physician, Benefits Health System
+  number_educ: 1: 
+  education1: Dates in lab: 2014-2018
+
+- name: [Wade Whitt, MD](https://www.linkedin.com/in/wade-whitt-821779116/)
+  photo: wade.jpeg
+  info: Current status: Medical student
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2019
+
+- name: [Aline Herlopian, MD.](https://medicine.yale.edu/profile/aline-herlopian/)
+  photo: aline.jpeg
+  info: Current status: Assistant Professor
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2019
+
+- name: [Hassan Aboul Nour, MD.](https://twitter.com/aboulnourh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+  photo: hassan.jpeg
+  info: Current status: Neurology resident
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2020
+
+- name: [Mohammad Tabaeizadeh, MD.](https://www.linkedin.com/in/mohammad-tabaeizadeh/?originalSubdomain=ir)
+  photo: mohammadT.jpeg
+  info: Current status: Neurology resident
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2019
+
+- name: [Dennis Rebergen, MSc](https://www.linkedin.com/in/dennis-rebergen/)
+  photo: dennisR.jpeg
+  info: Current status: Industrialization Engineer bij ASML
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2018
+
+- name: [Emile d’Angremont, MSc](https://www.linkedin.com/in/emile-d-angremont-943ba26b/?originalSubdomain=nl)
+  photo: emile.jpeg
+  info: Current status: PhD student at UMCG University Medical Center Groningen
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2020
+
+- name: [Erik Bao, MD](https://scholar.google.com/citations?user=2qN8CnwAAAAJ&hl=en)
+  photo: erikBao.jpeg
+  info: Current status: candidate in the Harvard/MIT Health Sciences & Technology.
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2018
+
+- name: [Peiyun Ni](https://www.linkedin.com/in/peiyunni/)
+  photo: peiyun.jpeg
+  info: Current status: MD/PhD candidate at Harvard Medical School / MIT.
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2018
+
+- name: [Monica (Ling-Ya) Chao](https://compbio.hms.harvard.edu/people/ling-ya-monica-chao)
+  photo: lingYa.jpeg
+  info: Current status: MD candidate in Harvard HST program.
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2018
+
+- name: [Luis Paixao, MD](https://health.usnews.com/doctors/luis-carlos-de-carvalho-paixao-1812435)
+  photo: Paixao-Luis.jpeg
+  info: Current status: Neurology resident
+  number_educ: 1: 
+  education1: Dates in lab: 2017-2019
+
+- name: [Eyal Kimchi, MD, PhD](https://www.linkedin.com/in/eyal-kimchi/)
+  photo: eyalKimchi.jpeg
+  info: Current status: Assistant Professor, Northwestern School of Medicine
+  number_educ: 1: 
+  education1: Dates in lab: 2018
+
+- name: [Alek Westover](https://awestover.github.io/)
+  photo: alek-mit.jpeg
+  info: Current status: Undergraduate student
+  number_educ: 1: 
+  education1: Dates in lab: 2018
+
+- name: [Jacob Hogan](https://mobile.twitter.com/jake_hogan_)
+  photo: jakeHogan.jpeg
+  info: Current status: Medical student
+  number_educ: 1: 
+  education1: Dates in lab: 2018-2020
+
+- name: [Qiang Li, PhD (未知)](https://www.aminer.cn/profile/637835a0f5d67833f7ae226d)
+  photo: LiQiang.jpeg
+  info: Current status: PhD student, Northwestern University, Xi’an, China
+  number_educ: 1: 
+  education1: Dates in lab: 2018-2020
+
+- name: [Lisa Dummer, MD](https://www.linkedin.com/in/lisa-d%C3%BCmmer-22888063/)
+  photo: lisaDummer.jpeg
+  info: Current status: AIOS Neurologie at UMCG
+  number_educ: 1: 
+  education1: Dates in lab: 2020
+
+- name: [Michael Leone, MSc]()
+  photo: michael-leone.jpeg
+  info: Current status: Medical student
+  number_educ: 1: 
+  education1: Dates in lab: 2018-2020
+
+- name: [Eline Oppersma, PhD](https://people.utwente.nl/e.mos-oppersma)
+  photo: eline.jpeg
+  info: Current status: Assistant Professor
+  number_educ: 1: 
+  education1: Dates in lab: 2019
+
+- name: [Wendong Ge, PhD](https://www.linkedin.com/in/wendong-ge-b33915a8/)
+  photo: wendong.jpeg
+  info: Current status: MGH
+  number_educ: 1: 
+  education1: Dates in lab: 2019-2022
+
+- name: [Weilong Zheng, PhD](https://weilongzheng.github.io/)
+  photo: weilong.jpeg
+  info: Current status: Associate Professor, Shanghai Jiao Tong University.
+  number_educ: 1: 
+  education1: Dates in lab: 2018-2021
+
+- name: [Zi-Wei Fan, MSc]()
+  photo: ziwei.png
+  info: Current status: Software engineer
+  number_educ: 1: 
+  education1: Dates in lab: 2019-2022
+
+- name: [Elissa Ye, MSc](https://www.linkedin.com/in/elissa-ye-1319a182/)
+  photo: elissa.jpeg
+  info: Current status: Verily
+  number_educ: 1: 
+  education1: Dates in lab: 2018-2022
+
+- name: [Aayushee Jain, MSc](https://www.linkedin.com/in/aayushee-jain/)
+  photo: aayushee.jpeg
+  info: Current status: Informaticist
+  number_educ: 1: 
+  education1: Dates in lab: 2019-2022
+
+- name: [Noor Adra, BSc](https://www.nmr.mgh.harvard.edu/lab/valera/noor-adra)
+  photo: noor.jpeg
+  info: Current status: Medical student
+  number_educ: 1: 
+  education1: Dates in lab: 2019-2022
+
+- name: [Abigail Bucklin]()
+  photo: stickFig.png
+  info: Current status: Medical student
+  number_educ: 1: 
+  education1: Dates in lab: 2020-2021
+
+- name: [Syed Quadri, MD](https://www.linkedin.com/in/quadri-syed-9b27957/)
+  photo: syedQ.jpeg
+  info: Current status: Postdoctoral research fellow
+  number_educ: 1: 
+  education1: Dates in lab: 2019-2022
+
+- name: [Sijm Noteboom](https://www.linkedin.com/in/sijmnoteboom/?originalSubdomain=nl)
+  photo: sijm.jpeg
+  info: Current status: PhD student
+  number_educ: 1: 
+  education1: Dates in lab: 2020
+
+- name: [Meike van Sleuwen, MSc](https://www.linkedin.com/in/meikevansleuwen/?originalSubdomain=nl)
+  photo: meike.jpeg
+  info: Current status: Zorgconsultant bij KINASE
+  number_educ: 1: 
+  education1: Dates in lab: 2020
+
+- name: [Mehmet Nergiz, PhD](https://www.linkedin.com/in/mehmet-nergiz-b33a617/)
+  photo: mehmet.jpeg
+  info: Current status: Assistant Professor of Computer Engineering, Dicle University
+  number_educ: 1: 
+  education1: Dates in lab: 2019-2020
+
+- name: [Rajesh Amerineni, PhD](https://www.linkedin.com/in/amerineni-rajesh/)
+  photo: rajesh.jpeg
+  info: Current status: CertainTeed
+  number_educ: 1: 
+  education1: Dates in lab: 2020-2021
 
