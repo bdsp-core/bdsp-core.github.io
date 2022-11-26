@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Students, Staff](#postdocs), [Alumni](#alumni).
+Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Students, Staff](#postdocs-students-staff), [Alumni](#alumni).
 
 ## Faculty
 {% assign number_printed = 0 %}
