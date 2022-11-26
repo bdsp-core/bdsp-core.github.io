@@ -76,7 +76,7 @@ Jump to [Faculty](#Faculty), [Engineering Team](#Engineering), [Postdocs, Studen
 
 ## Engineering
 {% assign number_printed = 0 %}
-{% for member in site.data.faculty %}
+{% for member in site.data.engineering %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
