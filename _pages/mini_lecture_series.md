@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "CCNS - Lab Meeting"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
@@ -8,8 +8,8 @@ permalink: /aoa.html
 
 # Calendar
 
-Every Tuesday at 9:30 in HL124.
+Every Tuesday at 2PM EST.
 
-05.09.2017 Aarts
+Email Wolfgang to be added to the mailing list. 
 
 dfghjkl
