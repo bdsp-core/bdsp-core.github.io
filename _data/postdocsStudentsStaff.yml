@@ -6,6 +6,14 @@
   education1: Harvard Medical School 
   education2: Massachusetts General Hospital 
 
+- name: Marta Priscila Bento Fernandes, PhD    
+  photo: marta.jpeg         
+  info: Postdoctoral research fellow    
+  email: mbentofernandes@mgh.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School 
+  education3: Massachusetts General Hospital 
+
 - name: Yalda Amidi, PhD
   photo: yalda.png
   info: Postdoctoral fellow
@@ -21,13 +29,6 @@
   number_educ: 2
   education1: Harvard Medical School 
   education2: Beth Israel Deaconess Medical Center 
-
-- name: Evi Dirks, BSc  
-  photo: eviDirks.jpeg 
-  info: Masters student
-  email: e.h.m.dirks@student.utwente.nl
-  number_educ: 1
-  education1: University of Twente 
 
 - name: Wolfgang Ganglberger, MSc 
   photo: wolfgang.jpeg
@@ -76,6 +77,13 @@
   number_educ: 2
   education1: Harvard Medical School 
   education2: Beth Israel Deaconess Medical Center 
+ 
+- name: Evi Dirks, BSc  
+  photo: eviDirks.jpeg 
+  info: Masters student
+  email: e.h.m.dirks@student.utwente.nl
+  number_educ: 1
+  education1: University of Twente 
 
 - name: Manohar Ghanta, MSc  
   photo: manohar.jpeg      
@@ -93,12 +101,4 @@
   number_educ: 3
   education1: Harvard Medical School 
   education2: Beth Israel Deaconess Medical Center 
-  education3: Massachusetts General Hospital 
-
-- name: Marta Priscila Bento Fernandes, PhD    
-  photo: marta.jpeg         
-  info: Postdoctoral research fellow    
-  email: mbentofernandes@mgh.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School 
   education3: Massachusetts General Hospital 
