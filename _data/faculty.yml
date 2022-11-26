@@ -57,4 +57,28 @@
   education2: Beth Israel Deaconess Medical Center
 
 
+- name: Samaneh Nasiri, PhD
+  photo: samaneh.jpeg  
+  info: Instructor in Neurology
+  email: hsun3@bidmc.harvard.edu
+  number_educ: 3
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital 
+  education3: McCance Center for Brain Health
+
+- name: Kendrick Shaw, MD, PhD  
+  photo: kendrick.jpeg
+  info: Instructor in Anaesthesia 
+  email: kmshaw@mgh.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital 
+
+- name: James Luccarelli, MD, PhD
+  photo: jamesL.jpeg
+  info: Instructor in Psychiatry
+  email: jluccarelli@partners.org
+  number_educ: 2
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital 
   
