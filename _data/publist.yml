@@ -16,15 +16,33 @@
     display: https://pubmed.ncbi.nlm.nih.gov/36460472/
   highlight: 1
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+- title: Brain age from the electroencephalogram of sleep
   image: dummy.png
-  description: ""
+  description: "The human electroencephalogram (EEG) of sleep undergoes profound changes with age. These changes can be conceptualized as “brain age (BA),” which can be compared to chronological age to reflect the degree of deviation from normal aging."
   authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+    Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju O, Thomas RJ, Cash SS, Bianchi MT, Westover MB.
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
+    url: https://doi.org/10.1016/j.neurobiolaging.2018.10.016
+    display: "Neurobiology of Aging. 2019 Feb 19;74:112-20. doi: 10.1016/j.neurobiolaging.2018.10.016. PMID: 30448611; PMCID: PMC6478501."
+  highlight: 1
+  news1: <a style="color:#FF0000; text-decoration:underline" href="https://sleepresearchsociety.org/2020-outstanding-early-investigator-award-winners/">Haoqi Sun was awarded the Outstanding Early Investigator Award by the Sleep Research Society based on this publication.</a>
 
+- title: Expert-level sleep scoring with deep neural networks
+  image: dummy.png
+  description: "When trained on the clinical dataset, the RCNN reproduces PSG diagnostic scoring for sleep staging, sleep apnea, and limb movements with accuracies of 87.6%, 88.2% and 84.7% on held-out test data, a level of performance comparable to human experts."
+  authors:
+    Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT.
+  link:
+    url: https://doi.org/10.1093/jamia/ocy131
+    display: "Journal of the American Medical Informatics Association. 2018 Dec;25(12):1643-50. doi: 10.1093/jamia/ocy131. PMID: 30445569 PMCID: PMC6289549."
+  highlight: 0
+
+- title: Development of expert-level automated detection of epileptiform discharges during electroencephalogram interpretation
+  image: dummy.png
+  description: "A deep neural network was trained using 9571 scalp electroencephalogram recordings. The algorithm appeared to perform at or above the accuracy, sensitivity, and specificity of fellowship-trained clinical experts."
+  authors:
+    Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D, Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J, Lam A, Cole AJ, Cash SS, Westover MB.
+  link:
+    url: https://doi.org/10.1001/jamaneurol.2019.3485
+    display: "JAMA Neurology. 2020 Jan 1;77(1):103-8. doi: 10.1001/jamaneurol.2019.3485. PMID: 31633740 PMCID: PMC6806668."
+  highlight: 0
