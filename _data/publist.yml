@@ -7,13 +7,13 @@
     display: "Sci Rep. 2022 Nov 21;12(1):20011. doi: 10.1038/s41598-022-24010-1. PMID: 36414694; PMCID: PMC9681864."
   highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+- title: "Interrater Reliability of Expert Electroencephalographers Identifying Seizures and Rhythmic and Periodic Patterns in Electroencephalograms"
+  image: Figure3_Cali_plus_CM.png
+  description: The validity of brain monitoring using EEG requires that experts can reliably identify seizures and other potentially harmful rhythmic and periodic brain activity, collectively referred to as "ictal-interictal-injury continuum" (IIIC). Prior inter-rater reliability (IRR) studies are limited by small samples and selection bias. We recruited 30 experts with subspecialty clinical neurophysiology training from 18 institutions to classify IIIC patterns 50,697 EEG samples from 2,711 patients. From these data we obtain precise estimates of expert reliability, and propose a parsimonious theory to explain the origin of disagreements between experts. The results also establish a standard for how well an automated IIIC classifier must perform to match experts. 
+  authors: Jing J, Ge W, Struck AF, Fernandes MB, Hong S, An S, Fatima S, Herlopian A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan PW, Dhakar MB, Jayagopal LA, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal ES, Zafar SF, Sun J, Westover MB
   link:
-    url: https://arxiv.org/abs/2205.09740
-    display: arXiv:2205.09740 (2022)
+    url: https://pubmed.ncbi.nlm.nih.gov/36460472/
+    display: https://pubmed.ncbi.nlm.nih.gov/36460472/
   highlight: 1
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
