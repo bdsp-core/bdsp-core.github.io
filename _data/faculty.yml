@@ -56,7 +56,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-
 - name: Samaneh Nasiri, PhD
   photo: samaneh.jpeg  
   info: Instructor in Neurology
@@ -81,4 +80,13 @@
   number_educ: 2
   education1: Harvard Medical School 
   education2: Massachusetts General Hospital 
+
+- name: Fabio Nascimento, MD
+  photo: fabio.jpg
+  info: Assistant Professor in Neurology
+  email: fabion@wustl.edu
+  number_educ: 3
+  education1: Barnes-Jewish Hospital
+  education2: St. Louis Children's Hospital
+  education3: Washington Unviersity School of Medicine
   
