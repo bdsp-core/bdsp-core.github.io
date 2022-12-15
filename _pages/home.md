@@ -12,24 +12,24 @@ Our approach emphasizes working with real clinical data from groups of patients 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-    </ol>
+<!--     <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active" style="height: 50px"></li>
+        <li data-target="#carousel" data-slide-to="1" style="height: 50px"></li>
+        <li data-target="#carousel" data-slide-to="2" style="height: 50px"></li>
+        <p>test test test</p>
+    </ol> -->
 
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="Slide 1" width="500" height="800" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 2"  width="500" height="800" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/plotprroc_v5.jpg" alt="Slide 3"  width="500" height="800" />
-        </div>
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="Slide 1" style="height: 250px !important" />
     </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 2" style="height: 250px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/plotprroc_v5.jpg" alt="Slide 3" style="height: 250px !important" />
+    </div>
+</div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
