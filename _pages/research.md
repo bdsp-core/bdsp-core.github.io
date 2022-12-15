@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is XXX. To do so, we YYY.
+Our overarching goal is replace doctors with robots. To do so, we YYY.
 
 Our goal is to XYZ.
 
