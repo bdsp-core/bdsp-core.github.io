@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: Brain age from the electroencephalogram of sleep
-  image: dummy.png
+  image: CA_vs_BA.png
   description: "The human electroencephalogram (EEG) of sleep undergoes profound changes with age. These changes can be conceptualized as “brain age (BA),” which can be compared to chronological age to reflect the degree of deviation from normal aging."
   authors:
     Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju O, Thomas RJ, Cash SS, Bianchi MT, Westover MB.
