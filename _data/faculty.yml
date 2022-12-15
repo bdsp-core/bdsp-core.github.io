@@ -7,6 +7,14 @@
   education2: Beth Israel Deaconess Medical Center
   education3: McCance Center for Brain Health
 
+- name: Robert J. Thomas, MD
+  photo: RobertThomas.jpg
+  info: Professor of Neurology. Master Yoda of Sleep.
+  email: rthomas1@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School 
+  education2: Beth Israel Deaconess Medical Center
+
 - name: Jin Jing, PhD (JJ)
   photo: jin-jing.png
   info: Instructor in Neurology
