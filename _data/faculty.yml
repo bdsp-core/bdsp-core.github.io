@@ -7,6 +7,14 @@
   education2: Beth Israel Deaconess Medical Center
   education3: McCance Center for Brain Health
 
+- name: Robert J. Thomas, MD
+  photo: RobertThomas2.jpg
+  info: Professor of Medicine. Master Yoda of Sleep.
+  email: rthomas1@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School 
+  education2: Beth Israel Deaconess Medical Center
+
 - name: Jin Jing, PhD (JJ)
   photo: jin-jing.png
   info: Instructor in Neurology
@@ -56,7 +64,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-
 - name: Samaneh Nasiri, PhD
   photo: samaneh.jpeg  
   info: Instructor in Neurology
@@ -81,4 +88,12 @@
   number_educ: 2
   education1: Harvard Medical School 
   education2: Massachusetts General Hospital 
-  
+
+- name: <a href="https://www.youtube.com/@FabioANascimento">Fabio Nascimento, MD</a>
+  photo: fabio.jpg
+  info: Assistant Professor in Neurology
+  email: fabion@wustl.edu
+  number_educ: 3
+  education1: Barnes-Jewish Hospital
+  education2: St. Louis Children's Hospital
+  education3: Washington Unviersity School of Medicine

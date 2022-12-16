@@ -84,3 +84,11 @@
   email: e.h.m.dirks@student.utwente.nl
   number_educ: 1
   education1: University of Twente 
+
+- name: Mike Westmeijer 
+  photo: mike_westmeijer.jpeg
+  info: Medical student
+  email: mwestmeijer@mgh.harvard.edu
+  number_educ: 1
+  education1: University Medical Center Utrecht
+

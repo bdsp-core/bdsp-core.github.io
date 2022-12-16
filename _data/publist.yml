@@ -1,44 +1,42 @@
 - title: "EEG-based grading of immune effector cell-associated neurotoxicity syndrome"
   image: ICANS-EEG-2022-11-26.jpeg
-  description: CAR-T cell therapy is an effective cancer therapy for multiple refractory/relapsed hematologic malignancies but is associated with substantial toxicity, including Immune Effector Cell Associated Neurotoxicity Syndrome (ICANS). We developed the Visual EEG-ICANS (VE-ICANS) grading scale, a grading scale with a physiological basis that has a strong correlation to ICANS severity. VE-ICANS shows promise as a biomarker for ICANS which could help to improve clinical care through greater accuracy in assessing ICANS severity..
+  description: CAR-T cell therapy is an effective cancer therapy for multiple refractory/relapsed hematologic malignancies but is associated with substantial toxicity, including Immune Effector Cell Associated Neurotoxicity Syndrome (ICANS). We developed the Visual EEG-ICANS (VE-ICANS) grading scale, a grading scale with a physiological basis that has a strong correlation to ICANS severity. VE-ICANS shows promise as a biomarker for ICANS which could help to improve clinical care through greater accuracy in assessing ICANS severity.
   authors: Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C, Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, Westover MB. 
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/36414694/
     display: "Sci Rep. 2022 Nov 21;12(1):20011. doi: 10.1038/s41598-022-24010-1. PMID: 36414694; PMCID: PMC9681864."
   highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+- title: "Interrater Reliability of Expert Electroencephalographers Identifying Seizures and Rhythmic and Periodic Patterns in Electroencephalograms"
+  image: Figure3_Cali_plus_CM.png
+  description: The validity of brain monitoring using EEG requires that experts can reliably identify seizures and other potentially harmful rhythmic and periodic brain activity, collectively referred to as "ictal-interictal-injury continuum" (IIIC). Prior inter-rater reliability (IRR) studies are limited by small samples and selection bias. We recruited 30 experts with subspecialty clinical neurophysiology training from 18 institutions to classify IIIC patterns 50,697 EEG samples from 2,711 patients. From these data we obtain precise estimates of expert reliability, and propose a parsimonious theory to explain the origin of disagreements between experts. The results also establish a standard for how well an automated IIIC classifier must perform to match experts. 
+  authors: Jing J, Ge W, Struck AF, Fernandes MB, Hong S, An S, Fatima S, Herlopian A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan PW, Dhakar MB, Jayagopal LA, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal ES, Zafar SF, Sun J, Westover MB
   link:
-    url: https://arxiv.org/abs/2205.09740
-    display: arXiv:2205.09740 (2022)
+    url: https://pubmed.ncbi.nlm.nih.gov/36460472/
+    display: https://pubmed.ncbi.nlm.nih.gov/36460472/
   highlight: 1
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
-
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
+- title: Brain age from the electroencephalogram of sleep
+  image: CA_vs_BA.png
+  description: "The human electroencephalogram (EEG) of sleep undergoes profound changes with age. These changes can be conceptualized as “brain age (BA),” which can be compared to chronological age to reflect the degree of deviation from normal aging."
   authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+    Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju O, Thomas RJ, Cash SS, Bianchi MT, Westover MB.
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
+    url: https://doi.org/10.1016/j.neurobiolaging.2018.10.016
+    display: "Neurobiology of Aging. 2019 Feb 19;74:112-20. doi: 10.1016/j.neurobiolaging.2018.10.016. PMID: 30448611; PMCID: PMC6478501."
+  highlight: 1
+  news1: <a style="color:#FF0000; text-decoration:underline" href="https://sleepresearchsociety.org/2020-outstanding-early-investigator-award-winners/">Haoqi Sun was awarded the Outstanding Early Investigator Award by the Sleep Research Society based on this publication.</a>
+
+- title: Expert-level sleep scoring with deep neural networks
+  image: dummy.png
+  description: "When trained on the clinical dataset, the RCNN reproduces PSG diagnostic scoring for sleep staging, sleep apnea, and limb movements with accuracies of 87.6%, 88.2% and 84.7% on held-out test data, a level of performance comparable to human experts."
+  authors:
+    Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT.
+  link:
+    url: https://doi.org/10.1093/jamia/ocy131
+    display: "Journal of the American Medical Informatics Association. 2018 Dec;25(12):1643-50. doi: 10.1093/jamia/ocy131. PMID: 30445569 PMCID: PMC6289549."
   highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
+
 
 - title: "Automated scoring of respiratory events in sleep with a single effort belt and deep neural networks"
   image: dummy.png
@@ -48,3 +46,13 @@
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9119908/
     display: IEEE Transactions on Biomedical Engineering (2022); DOI: 10.1109/TBME.2021.3136753
   highlight: 1
+
+- title: Development of expert-level automated detection of epileptiform discharges during electroencephalogram interpretation
+  image: dummy.png
+  description: "A deep neural network was trained using 9571 scalp electroencephalogram recordings. The algorithm appeared to perform at or above the accuracy, sensitivity, and specificity of fellowship-trained clinical experts."
+  authors:
+    Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D, Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J, Lam A, Cole AJ, Cash SS, Westover MB.
+  link:
+    url: https://doi.org/10.1001/jamaneurol.2019.3485
+    display: "JAMA Neurology. 2020 Jan 1;77(1):103-8. doi: 10.1001/jamaneurol.2019.3485. PMID: 31633740 PMCID: PMC6806668."
+  highlight: 0

@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**A [full list of publications](https://www.ncbi.nlm.nih.gov/myncbi/m.%20brandon.westover.1/bibliography/public/) is available on PubMed.**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
