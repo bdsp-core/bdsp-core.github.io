@@ -29,6 +29,12 @@ Our approach emphasizes working with real clinical data from groups of patients 
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/plotprroc_v5.jpg" alt="Slide 3" style="height: 250px !important" />
     </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="Slide 3" style="height: 250px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bobbyFig.png" alt="Slide 3" style="height: 250px !important" />
+    </div>
 </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
