@@ -23,7 +23,7 @@ Jump to: [CCNL+BDSP+CDAC](#ccnl+bdsp+cdac), [Cornell](#cornell), [St Andrews](#s
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="120%" style="float: left; height: 90%;" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
