@@ -7,5 +7,5 @@ git diff
 q
 
 git add .
-git commit -m "updated vacancies page"
+git commit -m "added cdac pig"
 git push 
