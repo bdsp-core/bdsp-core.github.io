@@ -28,9 +28,9 @@
   number_educ: 1
   education1: In lab 2012
 
-- name: <a href="https://neurovalue.mgh.harvard.edu/">Lidia Moura, MD, PhD</a>
+- name: <a href="https://neurovalue.mgh.harvard.edu/">Lidia Moura, MD, PhD, MPH</a>
   photo: lidia.jpeg
-  info: Assistant Professor at Harvard Medical School
+  info: Associate Professor at Harvard Medical School
   number_educ: 1
   education1: In lab 2013-2014
 
@@ -292,7 +292,7 @@
   number_educ: 1
   education1: In lab 2018-2020
 
-- name: <a href="https://www.aminer.cn/profile/637835a0f5d67833f7ae226d">Qiang Li, PhD (未知)</a>
+- name: <a href="https://www.aminer.cn/profile/637835a0f5d67833f7ae226d">Qiang Li, PhD (李强)</a>
   photo: LiQiang.jpeg
   info: PhD student, Northwestern University, Xi’an, China
   number_educ: 1
