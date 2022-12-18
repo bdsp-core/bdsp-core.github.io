@@ -29,7 +29,7 @@
 
 - title: Expert-level sleep scoring with deep neural networks
   image: sleep_tsne.png
-  description: "We assembled a large set (N = 10,000) set of polysomnograms for training and testing a deep neural network to perform classification of sleep stages and detection of apneas and leg movements with levels of accuracy comparable to human experts. Our network, a combination of a deep recurrent neural network and a convolutional neural network. This work began to pave the way for analysis of data from low cost home monitoring devices to extend the reach of sleep diagnostics beyond specialty sleep clinics."
+  description: "We assembled 10,000 clinical polysomnograms for training and testing a machine learning algorithm to perform classification of sleep stages and detection of apneas and leg movements. This dataset was more diverse and an order of magnitude larger than used in any prevoius work. We trained a deep neural network to achieve levels of accuracy on these tasks comparable to human experts. This work opened the way for analysis of data from low cost home monitoring devices to extend the reach of sleep diagnostics beyond specialty sleep clinics."
   authors:
     Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT.
   link:
