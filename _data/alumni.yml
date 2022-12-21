@@ -34,9 +34,6 @@
   number_educ: 1
   education1: In lab 2013-2014
 
-
-
-
 - name: <a href="https://umanitoba.ca/medicine/faculty-staff/marcus-ng">Marcus Ng, MD</a>
   photo: MarcusNg.jpeg
   info: Associate Professor, U of Manitoba, Winnipeg, Canada
@@ -319,6 +316,13 @@
   info: Neurology Resident, University of Oklahoma
   number_educ: 1
   education1: In lab 2019-2020
+
+- name: <a href = "https://healthy.kaiserpermanente.org/colorado/clinicians/avinash-sagi-8981377">Avinash Rao Sagi, MD</a>
+  photo: AvinashSagi.png
+  info: Neurologist, Kaiser Permanente
+  number_educ: 1
+  education1: In lab 2019-2020
+
 
 - name: <a href="https://www.linkedin.com/in/lisa-d%C3%BCmmer-22888063/">Lisa Dummer, MD</a>
   photo: lisaDummer.jpeg
