@@ -34,6 +34,9 @@
   number_educ: 1
   education1: In lab 2013-2014
 
+
+
+
 - name: <a href="https://umanitoba.ca/medicine/faculty-staff/marcus-ng">Marcus Ng, MD</a>
   photo: MarcusNg.jpeg
   info: Associate Professor, U of Manitoba, Winnipeg, Canada
@@ -214,6 +217,13 @@
   number_educ: 1
   education1: In lab 2017-2019
 
+- name: <a href="https://www.linkedin.com/in/wade-whitt-821779116/">Marinka Oudkerk Pool</a>
+  photo: Marinka-Oudkerk-Pool.jpeg
+  info: Data scientist, Achme, The Netherlands
+  number_educ: 1
+  education1: In lab 2017
+
+  
 - name: <a href="https://medicine.yale.edu/profile/aline-herlopian/">Aline Herlopian, MD.</a>
   photo: aline.jpeg
   info: Assistant Professor
@@ -286,6 +296,12 @@
   number_educ: 1
   education1: In lab 2018
 
+- name: <a href="https://www.linkedin.com/in/sophie-ligtenstein/">Sophie Ligtenstein</a>
+  photo: sophieLickgenstein.jpeg
+  info: Integraal Capaciteitsmanagement / Zorglogistiek
+  number_educ: 1
+  education1: In lab 2018
+
 - name: <a href="https://mobile.twitter.com/jake_hogan_">Jacob Hogan</a>
   photo: jakeHogan.jpeg
   info: Medical student
@@ -297,6 +313,12 @@
   info: PhD student, Northwestern University, Xi’an, China
   number_educ: 1
   education1: In lab 2018-2020
+
+- name: <a href = "https://www.linkedin.com/in/maryum-shoukat-76b959118/">Maryam Shoukat, MD</a>
+  photo: maryam.jpeg
+  info: Neurology Resident, University of Oklahoma
+  number_educ: 1
+  education1: In lab 2019-2020
 
 - name: <a href="https://www.linkedin.com/in/lisa-d%C3%BCmmer-22888063/">Lisa Dummer, MD</a>
   photo: lisaDummer.jpeg
