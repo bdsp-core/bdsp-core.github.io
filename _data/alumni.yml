@@ -34,6 +34,12 @@
   number_educ: 1
   education1: In lab 2013-2014
 
+- name: <a href="https://med.emory.edu/departments/pediatrics/divisions/neurology/profile/?u=AKHEDER">Ammar Kheder, MD, MPH</a>
+  photo: ammarKheder.png
+  info: Associate Professor of Neurology, Emory University
+  number_educ: 1
+  education1: In lab 2013-2014
+
 - name: <a href="https://umanitoba.ca/medicine/faculty-staff/marcus-ng">Marcus Ng, MD</a>
   photo: MarcusNg.jpeg
   info: Associate Professor, U of Manitoba, Winnipeg, Canada
@@ -136,11 +142,29 @@
   number_educ: 1
   education1: In lab 2016-2018
 
+- name: <a href="https://research.utwente.nl/en/persons/mathilde-van-rossum">Mathilde (Hermans) van Rossum, PhD</a>
+  photo: MathildeHermans.jpeg
+  info: Technical physician, Research & Education at University of Twente
+  number_educ: 1
+  education1: In lab 2015
+
+- name: <a href="https://www.linkedin.com/in/samantha-donovan-5997a13a/">Samantha Donovan, PA</a>
+  photo: samanthaDonovan.jpeg
+  info: Physician Assistant, Brigham and Women's Hospital
+  number_educ: 1
+  education1: In lab 2013-2014
+
 - name: <a href="https://www.linkedin.com/in/apeksha-shenoy-9b04bb45/">Apeksha Shenoy, MS</a>
   photo: apeksha.jpeg
   info: Principal at Boston Strategic Partners
   number_educ: 1
   education1: In lab 2016-2018
+
+- name: <a href="https://www.linkedin.com/in/emily-boyle-56212038/">Emily Boyle, MS</a>
+  photo: emilyBoyle.jpeg
+  info: Speech Language Pathologist at Spaulding Rehabilitation Hospital
+  number_educ: 1
+  education1: In lab 2015-2017
 
 - name: <a href="https://www.linkedin.com/in/greta-gadbois/">Greta Gadbois, BSc</a>
   photo: greta.jpeg
