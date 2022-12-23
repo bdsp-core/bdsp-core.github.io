@@ -220,7 +220,13 @@
   number_educ: 1
   education1: In lab 2017
 
-  
+- name: <a href="https://www.linkedin.com/in/justin-gallagher-15897813a/">Justin Gallagher, MA</a>
+  photo: justinGallagher.jpeg
+  info: Senior Research Associate, Clade Therapeutics
+  number_educ: 1
+  education1: In lab 2017
+
+
 - name: <a href="https://medicine.yale.edu/profile/aline-herlopian/">Aline Herlopian, MD.</a>
   photo: aline.jpeg
   info: Assistant Professor
@@ -314,6 +320,30 @@
 - name: <a href = "https://www.linkedin.com/in/maryum-shoukat-76b959118/">Maryam Shoukat, MD</a>
   photo: maryam.jpeg
   info: Neurology Resident, University of Oklahoma
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://directory.hsc.wvu.edu/Profile/60156">Farrukh Javed, MD</a>
+  photo: farrukh.jpeg
+  info: Neurology Resident, West Virginia University
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://twitter.com/mmedhi10?lang=en">Muhammad Muzzammil Edhi, MD</a>
+  photo: mohammadEdhi.jpeg
+  info: Neurology Resident, University at Buffalo
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://www.linkedin.com/in/elahe-bordbar-95780038/">Elahe Bordbar, MD</a>
+  photo: stickFig.png
+  info: Neurology Resident, Temple University - Lewis Katz School of Medicine
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://www.linkedin.com/in/solomon-kassa-04503b134/">Solomon Kassa, MD</a>
+  photo: solomonKassa.jpeg
+  info: Senior Medical Assistant, Atrius Health
   number_educ: 1
   education1: In lab 2019-2020
 
