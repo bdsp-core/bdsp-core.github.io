@@ -46,6 +46,7 @@
   number_educ: 1
   education1: In lab 2013-2014
 
+
 - name: <a href="https://www.stjames.ie/consultants/orourkedeirdre/">Deirdre O'Rourke, MD</a>
   photo: dierdre2.jpg
   info: Neurologist at Connolly Hospital Blanchardstown/ Beaumont Hospital Dublin
@@ -143,7 +144,7 @@
   number_educ: 1
   education1: In lab 2015-2017
 
-- name: <a href="">Katherine O’Connor</a>
+- name: <a href="">Katherine O’Connor, PhD</a>
   photo: stickFig.png
   info: Kinesiologist
   number_educ: 1
@@ -342,6 +343,55 @@
   number_educ: 1
   education1: In lab 2018-2020
 
+- name: <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/182968">Parimala Velpula Krishnamurthy, BE, MD</a>
+  photo: parimala.jpg
+  info: Research Fellow, University of Wisconsin Madison
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="https://www.linkedin.com/in/muhammad-abubakar-ayub-b2a6a7186/">M. Abubakar Ayub, MD</a>
+  photo: abbubakar.jpeg
+  info: Neurology Resident at LSU Health Shreveport
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="https://www.linkedin.com/in/preeti-malik-5b8080106/">Preeti Malik, MD</a>
+  photo: preetiMalik.jpeg
+  info: Resident Physician, Montefiore Medical Center, NY
+  number_educ: 1
+  education1: In lab 2020-2021
+  
+
+- name: <a href="https://www.linkedin.com/in/aashritha-hemmige-940b071a5/">Aashritha Hemmige, MD</a>
+  photo: aashrithaHemmage.jpeg
+  info: Internal Medicine Resident at Texas Health Resources
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="">Subapriya Rajan, MD</a>
+  photo: stickFig.png
+  info: Research Fellow
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="">Anudeepthi Neelagiri, MD</a>
+  photo: stickFig.png
+  info: Research Fellow
+  number_educ: 1
+  education1: In lab 2018-2019
+
+- name: <a href="">Pooja Pinki Sikka, MD</a>
+  photo: stickFig.png
+  info: Medical Resident, Tufts Medical Center, Boston, MA
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="https://www.linkedin.com/in/ezhil-panneerselvam-361676168/">Ezhil Panneerselvam, MD</a>
+  photo: stickFig.png
+  info: Medical Resident
+  number_educ: 1
+  education1: In lab 2019-2020
+
 - name: <a href="https://www.aminer.cn/profile/637835a0f5d67833f7ae226d">Qiang Li, PhD (李强)</a>
   photo: LiQiang.jpeg
   info: PhD student, Northwestern University, Xi’an, China
@@ -475,3 +525,14 @@
   number_educ: 1
   education1: In lab 2020-2021
 
+- name: <a href="https://www.linkedin.com/in/jaden-barfuss/">Jaden Barfuss</a>
+  photo: jadenBarfuss.jpeg
+  info: Medicinal Chemistry Research Assistant, BYU
+  number_educ: 1
+  education1: In lab 2021
+
+- name: <a href="https://www.uchealth.org/provider/nitish-harid-md/">Nitish Harid, MD</a>
+  photo: nitishHarid.jpeg
+  info: Neurologist, UCHealth University of Colorado Hospital
+  number_educ: 1
+  education1: In lab 2020-2021
