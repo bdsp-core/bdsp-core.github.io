@@ -70,6 +70,15 @@
   education1: Harvard Medical School 
   education2: Beth Israel Deaconess Medical Center 
 
+- name: Anika Zahoor, MD 
+  photo: anikaZahoor.jpeg     
+  info: Research Fellow   
+  email: azahoor@mgh.harvard.edu
+  number_educ: 3
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital
+  education3: Beth Israel Deaconess Medical Center 
+
 - name: Kaileigh Gallagher, BSc 
   photo: kaileigh.jpg    
   info: Research coordinator   

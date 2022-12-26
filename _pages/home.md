@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-Our research aims to develop machine learning and decision making tools that help people improve and preserve brain health. We are an interdisciplinary group of clinicians and scientists affiliated with [Harvard Medical School / BIDMC](https://hms.harvard.edu/), [Massachusetts General Hospital](https://www.massgeneral.org/), the [Broad Institute](https://www.broadinstitute.org/), and [Beth Israel Deaconess Medical Center](https://www.bidmc.org/). Our research focus areas include sleep, cognitive health, dementia, epilepsy, delirium, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, cerebral ischemia, and the neurophysiology of critical illness. We approach these problems by developing mathematical models for medical decision-making involving risk-benefit tradeoffs; to predict neurologic outcomes in critical care settings; and to automate central tasks in medical diagnosis and decision making previously performed only by clinical experts. 
+Our research aims to develop machine learning and decision making tools that help people improve and preserve brain health. We are an interdisciplinary group of clinicians and scientists affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), [Massachusetts General Hospital](https://www.massgeneral.org/), and the [Broad Institute](https://www.broadinstitute.org/). Our research areas include sleep, cognitive health, dementia, epilepsy, delirium/encephalopathy, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, delayed cerebral ischemia following subarachnoid hemorrhage, and the neurophysiology of critical illness. We approach these problems by developing mathematical models to clarify risk-benefit tradeoffs in medical decision-making, predict neurologic outcomes in critical care settings; and automate central tasks in medicine previously performed only by clinical experts. 
 
-Our approach emphasizes working with real clinical data from groups of patients that are large, heterogenous, to ensure that our algorithms perform well in the real world. To enable this research, we and our collaborators are creating the Brain Data Science Platform (BDSP), a massive repository of clinical neurology data and computer algorithms for conducting research on this data. We welcome new collaborators who wish to use our data and tools, and who wish to contribute data and tools to grow the BDSP. 
+Our approach emphasizes working with real clinical data from large and heterogenous groups of patients, to ensure that our models perform well in the real world. To enable this research, we and our collaborators are creating the Brain Data Science Platform (BDSP), a massive cloud-based repository of clinical neurology data and code for conducting research on this data. We welcome new collaborators who wish to use our data and tools, and who wish to contribute data and tools to grow the BDSP. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -29,6 +29,12 @@ Our approach emphasizes working with real clinical data from groups of patients 
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/plotprroc_v5.jpg" alt="Slide 3" style="height: 250px !important" />
     </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="Slide 3" style="height: 250px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bobbyFig.png" alt="Slide 3" style="height: 250px !important" />
+    </div>
 </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -40,7 +46,7 @@ Our approach emphasizes working with real clinical data from groups of patients 
   </a>
 </div>
 
-Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the The Glenn Foundation for Medical Research, and the McCance Center for Brain Health. 
+Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and the McCance Center for Brain Health. 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="height: 50px">

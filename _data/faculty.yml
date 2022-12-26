@@ -1,5 +1,5 @@
-- name: M. Brandon Westover, MD, PhD
-  photo: mbw_picture.jpeg
+- name: <a href="https://mb-westover.github.io/">M. Brandon Westover, MD, PhD<a/>
+  photo: mbw_gretchenPic_2022_12_17.jpeg
   info: Professor of Neurology. Lab Director.
   email: mwestove@bidmc.harvard.edu
   number_educ: 3
@@ -7,7 +7,7 @@
   education2: Beth Israel Deaconess Medical Center
   education3: McCance Center for Brain Health
 
-- name: Robert J. Thomas, MD
+- name: <a href="https://www.researchgate.net/scientific-contributions/Robert-J-Thomas-10104712">Robert J. Thomas, MD<a/>
   photo: RobertThomas2.jpg
   info: Professor of Medicine. Master Yoda of Sleep.
   email: rthomas1@bidmc.harvard.edu
@@ -15,7 +15,7 @@
   education1: Harvard Medical School 
   education2: Beth Israel Deaconess Medical Center
 
-- name: Jin Jing, PhD (JJ)
+- name: <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/161107">Jin Jing (经津）, PhD<a/>
   photo: jin-jing.png
   info: Instructor in Neurology
   email: jjing@bidmc.harvard.edu
@@ -23,7 +23,7 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
   
-- name: Haoqi Sun, PhD
+- name: <a href="https://scholar.harvard.edu/sunhaoqi/home">Haoqi Sun (孙毫棋), PhD</a>
   photo: haoqi.jpeg
   info: Instructor in Neurology
   email: hsun3@bidmc.harvard.edu
@@ -32,7 +32,7 @@
   education2: Beth Israel Deaconess Medical Center
   education3: McCance Center for Brain Health
   
-- name: Sahar Zafar, MD
+- name: <a href="https://www.massgeneral.org/doctors/20086/sahar-zafar">Sahar Zafar, MD<a/>
   photo: sahar.jpeg
   info: Assistant Professor of Neurology
   email: hsun3@bidmc.harvard.edu
@@ -41,7 +41,7 @@
   education2: Massachusetts General Hospital 
   education3: McCance Center for Brain Health
 
-- name: Eddy Amorim, MD
+- name: <a href="https://alab.ucsf.edu/people/ed-amorim-md">Eddy Amorim, MD</a>
   photo: eddy.jpeg
   info: Assistant Professor of Neurology
   email: hsun3@bidmc.harvard.edu
@@ -49,14 +49,14 @@
   education1: Unviersity of California, San Francisco 
   education2: San Francisco General Hospital
   
-- name: Jennifer Kim, MD, PhD
+- name: <a href="https://medicine.yale.edu/lab/kim/">Jennifer Kim, MD, PhD</a>
   photo: jennKim.jpeg
   info: Assistant Professor of Neurology
   email: jennifer.a.kim@yale.edu
   number_educ: 1
   education1: Yale School of Medicine
 
-- name: Daniel Goldenholz, MD, PhD
+- name: <a href="https://www.bidmc.org/research/research-by-department/neurology/laboratories/goldenholz-epilepsy-data-science-lab">Daniel Goldenholz, MD, PhD</a>
   photo: danielG.jpeg
   info: Assistant Professor of Neurology
   email: daniel.goldenholz@bidmc.harvard.edu
@@ -64,7 +64,15 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Samaneh Nasiri, PhD
+- name: <a href="https://www.massgeneral.org/neurology/research/mukerji-lab-team">Shibani Mukerji, MD, PhD</a>
+  photo: shibani.jpeg
+  info: Assistant Professor of Neurology
+  email: smukerji@partners.org
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+
+- name: <a href="https://researchers.mgh.harvard.edu/profile/24913253/Samaneh-Nasiri">Samaneh Nasiri, PhD<a/> 
   photo: samaneh.jpeg  
   info: Instructor in Neurology
   email: hsun3@bidmc.harvard.edu

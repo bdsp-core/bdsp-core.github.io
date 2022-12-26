@@ -34,17 +34,31 @@
   number_educ: 1
   education1: In lab 2013-2014
 
+- name: <a href="https://med.emory.edu/departments/pediatrics/divisions/neurology/profile/?u=AKHEDER">Ammar Kheder, MD, MPH</a>
+  photo: ammarKheder.png
+  info: Associate Professor of Neurology, Emory University
+  number_educ: 1
+  education1: In lab 2013-2014
+
 - name: <a href="https://umanitoba.ca/medicine/faculty-staff/marcus-ng">Marcus Ng, MD</a>
   photo: MarcusNg.jpeg
   info: Associate Professor, U of Manitoba, Winnipeg, Canada
   number_educ: 1
   education1: In lab 2013-2014
 
+
 - name: <a href="https://www.stjames.ie/consultants/orourkedeirdre/">Deirdre O'Rourke, MD</a>
   photo: dierdre2.jpg
   info: Neurologist at Connolly Hospital Blanchardstown/ Beaumont Hospital Dublin
   number_educ: 1
   education1: In lab 2013-2014
+
+- name: <a href="https://www.linkedin.com/in/patrick-chen-md-7a972329/">Patrick Chen, MD</a>
+  photo: patrickChen.jpeg
+  info: Assistant Professor of Neurology at University of California Irvine
+  number_educ: 1
+  education1: In lab 2013-2014
+
 
 - name: <a href="https://med.uth.edu/neurology/2022/10/31/sandipan-pati-md/">Sandipan Pati, MD</a>
   photo: sandip.jpeg
@@ -130,17 +144,35 @@
   number_educ: 1
   education1: In lab 2015-2017
 
-- name: <a href="">Katherine O’Connor</a>
+- name: <a href="">Katherine O’Connor, PhD</a>
   photo: stickFig.png
   info: Kinesiologist
   number_educ: 1
   education1: In lab 2016-2018
+
+- name: <a href="https://research.utwente.nl/en/persons/mathilde-van-rossum">Mathilde (Hermans) van Rossum, PhD</a>
+  photo: MathildeHermans.jpeg
+  info: Technical physician, Research & Education at University of Twente
+  number_educ: 1
+  education1: In lab 2015
+
+- name: <a href="https://www.linkedin.com/in/samantha-donovan-5997a13a/">Samantha Donovan, PA</a>
+  photo: samanthaDonovan.jpeg
+  info: Physician Assistant, Brigham and Women's Hospital
+  number_educ: 1
+  education1: In lab 2013-2014
 
 - name: <a href="https://www.linkedin.com/in/apeksha-shenoy-9b04bb45/">Apeksha Shenoy, MS</a>
   photo: apeksha.jpeg
   info: Principal at Boston Strategic Partners
   number_educ: 1
   education1: In lab 2016-2018
+
+- name: <a href="https://www.linkedin.com/in/emily-boyle-56212038/">Emily Boyle, MS</a>
+  photo: emilyBoyle.jpeg
+  info: Speech Language Pathologist at Spaulding Rehabilitation Hospital
+  number_educ: 1
+  education1: In lab 2015-2017
 
 - name: <a href="https://www.linkedin.com/in/greta-gadbois/">Greta Gadbois, BSc</a>
   photo: greta.jpeg
@@ -214,6 +246,19 @@
   number_educ: 1
   education1: In lab 2017-2019
 
+- name: <a href="https://www.linkedin.com/in/wade-whitt-821779116/">Marinka Oudkerk Pool</a>
+  photo: Marinka-Oudkerk-Pool.jpeg
+  info: Data scientist, Achme, The Netherlands
+  number_educ: 1
+  education1: In lab 2017
+
+- name: <a href="https://www.linkedin.com/in/justin-gallagher-15897813a/">Justin Gallagher, MA</a>
+  photo: justinGallagher.jpeg
+  info: Senior Research Associate, Clade Therapeutics
+  number_educ: 1
+  education1: In lab 2017
+
+
 - name: <a href="https://medicine.yale.edu/profile/aline-herlopian/">Aline Herlopian, MD.</a>
   photo: aline.jpeg
   info: Assistant Professor
@@ -286,17 +331,109 @@
   number_educ: 1
   education1: In lab 2018
 
+- name: <a href="https://www.linkedin.com/in/sophie-ligtenstein/">Sophie Ligtenstein</a>
+  photo: sophieLickgenstein.jpeg
+  info: Integraal Capaciteitsmanagement / Zorglogistiek
+  number_educ: 1
+  education1: In lab 2018
+
 - name: <a href="https://mobile.twitter.com/jake_hogan_">Jacob Hogan</a>
   photo: jakeHogan.jpeg
   info: Medical student
   number_educ: 1
   education1: In lab 2018-2020
 
+- name: <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/182968">Parimala Velpula Krishnamurthy, BE, MD</a>
+  photo: parimala.jpg
+  info: Research Fellow, University of Wisconsin Madison
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="https://www.linkedin.com/in/muhammad-abubakar-ayub-b2a6a7186/">M. Abubakar Ayub, MD</a>
+  photo: abbubakar.jpeg
+  info: Neurology Resident at LSU Health Shreveport
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="https://www.linkedin.com/in/preeti-malik-5b8080106/">Preeti Malik, MD</a>
+  photo: preetiMalik.jpeg
+  info:  Pathology Resident, Montefiore Medical Center/Albert Einstein College of Medicine, New York
+  number_educ: 1
+  education1: In lab 2020-2021
+  
+
+- name: <a href="https://www.linkedin.com/in/aashritha-hemmige-940b071a5/">Aashritha Hemmige, MD</a>
+  photo: aashrithaHemmage.jpeg
+  info: Internal Medicine Resident at Texas Health Resources
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="">Subapriya Rajan, MD</a>
+  photo: stickFig.png
+  info: Research Fellow
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="">Anudeepthi Neelagiri, MD</a>
+  photo: stickFig.png
+  info: Research Fellow
+  number_educ: 1
+  education1: In lab 2018-2019
+
+- name: <a href="">Pooja Pinki Sikka, MD</a>
+  photo: stickFig.png
+  info: Medical Resident, Tufts Medical Center, Boston, MA
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href="https://www.linkedin.com/in/ezhil-panneerselvam-361676168/">Ezhil Panneerselvam, MD</a>
+  photo: stickFig.png
+  info: Medical Resident
+  number_educ: 1
+  education1: In lab 2019-2020
+
 - name: <a href="https://www.aminer.cn/profile/637835a0f5d67833f7ae226d">Qiang Li, PhD (李强)</a>
   photo: LiQiang.jpeg
   info: PhD student, Northwestern University, Xi’an, China
   number_educ: 1
   education1: In lab 2018-2020
+
+- name: <a href = "https://www.linkedin.com/in/maryum-shoukat-76b959118/">Maryam Shoukat, MD</a>
+  photo: maryam.jpeg
+  info: Neurology Resident, University of Oklahoma
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://directory.hsc.wvu.edu/Profile/60156">Farrukh Javed, MD</a>
+  photo: farrukh.jpeg
+  info: Neurology Resident, West Virginia University
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://twitter.com/mmedhi10?lang=en">Muhammad Muzzammil Edhi, MD</a>
+  photo: mohammadEdhi.jpeg
+  info: Neurology Resident, University at Buffalo
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://www.linkedin.com/in/elahe-bordbar-95780038/">Elahe Bordbar, MD</a>
+  photo: stickFig.png
+  info: Neurology Resident, Temple University - Lewis Katz School of Medicine
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://www.linkedin.com/in/solomon-kassa-04503b134/">Solomon Kassa, MD</a>
+  photo: solomonKassa.jpeg
+  info: Senior Medical Assistant, Atrius Health
+  number_educ: 1
+  education1: In lab 2019-2020
+
+- name: <a href = "https://healthy.kaiserpermanente.org/colorado/clinicians/avinash-sagi-8981377">Avinash Rao Sagi, MD</a>
+  photo: AvinashSagi.png
+  info: Neurologist, Kaiser Permanente
+  number_educ: 1
+  education1: In lab 2019-2020
+
 
 - name: <a href="https://www.linkedin.com/in/lisa-d%C3%BCmmer-22888063/">Lisa Dummer, MD</a>
   photo: lisaDummer.jpeg
@@ -353,7 +490,7 @@
   education1: In lab 2019-2022
 
 - name: <a href="">Abigail Bucklin</a>
-  photo: stickFig.png
+  photo: Abigail Bucklin.JPG
   info: Medical student
   number_educ: 1
   education1: In lab 2020-2021
@@ -388,3 +525,14 @@
   number_educ: 1
   education1: In lab 2020-2021
 
+- name: <a href="https://www.linkedin.com/in/jaden-barfuss/">Jaden Barfuss</a>
+  photo: jadenBarfuss.jpeg
+  info: Medicinal Chemistry Research Assistant, BYU
+  number_educ: 1
+  education1: In lab 2021
+
+- name: <a href="https://www.uchealth.org/provider/nitish-harid-md/">Nitish Harid, MD</a>
+  photo: nitishHarid.jpeg
+  info: Neurologist, UCHealth University of Colorado Hospital
+  number_educ: 1
+  education1: In lab 2020-2021

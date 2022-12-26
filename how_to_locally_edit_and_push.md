@@ -7,5 +7,5 @@ git diff
 q
 
 git add .
-git commit -m "here is a message describing the changes i made"
+git commit -m "added cdac pig"
 git push 
