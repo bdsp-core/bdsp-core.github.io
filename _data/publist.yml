@@ -25,6 +25,15 @@
     display: https://pubmed.ncbi.nlm.nih.gov/36460472/
   highlight: 1
 
+- title: HIV increases sleep-based brain age despite antiretroviral therapy. 
+  image: HIV_BAI.jpeg
+  description: Age-related comorbidities and immune activation raise concern for advanced brain aging in people living with HIV. The brain age index (BAI) is a machine learning model that quantifies deviations in brain activity during sleep relative to healthy individuals of the same age. High BAI was previously found to be associated with neurological, psychiatric, cardiometabolic diseases, and reduced life expectancy among people without HIV. Here, we estimated the effect of HIV infection on BAI by comparing PLWH and HIV- controls. Code and data are available [here](https://github.com/bdsp-core/HIV-BAI).
+  authors: Leone MJ, Sun H, Boutros CL, Liu L, Ye E, Sullivan L, Thomas RJ, Robbins GK, Mukerji SS, Westover MB. 
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33783511/
+    display: "Sleep. 2021 Aug 13;44(8):zsab058. doi: 10.1093/sleep/zsab058. PMID: 33783511; PMCID: PMC8361332."
+  highlight: 1
+
 - title: Brain age from the electroencephalogram of sleep
   image: CA_vs_BA.png
   description: "The human electroencephalogram (EEG) of sleep undergoes profound changes with age. These changes can be conceptualized as “brain age (BA),” which can be compared to chronological age to reflect the degree of deviation from normal aging."
