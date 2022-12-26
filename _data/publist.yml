@@ -59,10 +59,11 @@
 - title: "Automated scoring of respiratory events in sleep with a single effort belt and deep neural networks"
   image: dummy.png
   description: The current gold standard of diagnosing sleep-disordered breathing, using polysomnography and manual analysis, is time-consuming, expensive, and only applicable in dedicated clinical environments. Our fully automated method using a single effort belt signal overcomes these limitations and can detect respiratory events and assess the AHI accurately.
-  authors: TE Nassi, W Ganglberger, H Sun, AA Bucklin, S Biswal, MJAM van Putten, RJ Thomas, MB Westover
+  authors: 
+    TE Nassi, W Ganglberger, H Sun, AA Bucklin, S Biswal, MJAM van Putten, RJ Thomas, MB Westover
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9119908/
-    display: IEEE Transactions on Biomedical Engineering (2022); DOI: 10.1109/TBME.2021.3136753
+    display: "IEEE Transactions on Biomedical Engineering (2022); DOI: 10.1109/TBME.2021.3136753"
   highlight: 1
 
 - title: Development of expert-level automated detection of epileptiform discharges during electroencephalogram interpretation
