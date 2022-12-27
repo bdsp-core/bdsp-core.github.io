@@ -94,7 +94,18 @@ firstp {
 
 /*BRANDON new stuff*/
 .navbar {
-	background-color: #3a342e;
+	background-color: #3D3D3D;
+}
+
+// set color of bottom panel, and text
+div.panel-footer {
+	background-color: #3D3D3D;
+  color: #ffffff;
+}
+
+// set color of links
+div.panel-footer a {
+  color: #FFF9C4;
 }
 
 .navbar a {
