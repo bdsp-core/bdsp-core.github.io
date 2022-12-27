@@ -16,9 +16,9 @@
   number_educ: 1
   education1: In lab 2011-2012
 
-- name: <a href="https://cdac.mgh.harvard.edu/">Matthew Ferguson</a>
-  photo: stickFig.png
-  info: Summer research intern.
+- name: <a href="https://nowack.lassp.cornell.edu/people/matt_ferguson">Matthew Ferguson</a>
+  photo: mattFerguson.jpeg
+  info: Graduate student.
   number_educ: 1
   education1: In lab 2012
 
@@ -360,7 +360,7 @@
   info:  Pathology Resident, Montefiore Medical Center/Albert Einstein College of Medicine, New York
   number_educ: 1
   education1: In lab 2020-2021
-  
+
 
 - name: <a href="https://www.linkedin.com/in/aashritha-hemmige-940b071a5/">Aashritha Hemmige, MD</a>
   photo: aashrithaHemmage.jpeg
@@ -528,6 +528,12 @@
 - name: <a href="https://www.linkedin.com/in/jaden-barfuss/">Jaden Barfuss</a>
   photo: jadenBarfuss.jpeg
   info: Medicinal Chemistry Research Assistant, BYU
+  number_educ: 1
+  education1: In lab 2021
+
+- name: <a href="">Danny Jones</a>
+  photo: stickFig.png
+  info: Undergraduate, BYU
   number_educ: 1
   education1: In lab 2021
 

@@ -3,7 +3,7 @@
   info: Professor of Neurology. Lab Director.
   email: mwestove@bidmc.harvard.edu
   number_educ: 3
-  education1: Harvard Medical School 
+  education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
   education3: McCance Center for Brain Health
 
@@ -12,33 +12,33 @@
   info: Professor of Medicine. Master Yoda of Sleep.
   email: rthomas1@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
+  education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/161107">Jin Jing (经津）, PhD<a/>
+- name: <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/161107">Jin Jing (经津), PhD<a/>
   photo: jin-jing.png
   info: Instructor in Neurology
   email: jjing@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  
+
 - name: <a href="https://scholar.harvard.edu/sunhaoqi/home">Haoqi Sun (孙毫棋), PhD</a>
   photo: haoqi.jpeg
   info: Instructor in Neurology
   email: hsun3@bidmc.harvard.edu
   number_educ: 3
-  education1: Harvard Medical School 
+  education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
   education3: McCance Center for Brain Health
-  
+
 - name: <a href="https://www.massgeneral.org/doctors/20086/sahar-zafar">Sahar Zafar, MD<a/>
   photo: sahar.jpeg
   info: Assistant Professor of Neurology
   email: hsun3@bidmc.harvard.edu
   number_educ: 3
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital 
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
   education3: McCance Center for Brain Health
 
 - name: <a href="https://alab.ucsf.edu/people/ed-amorim-md">Eddy Amorim, MD</a>
@@ -46,9 +46,9 @@
   info: Assistant Professor of Neurology
   email: hsun3@bidmc.harvard.edu
   number_educ: 2
-  education1: Unviersity of California, San Francisco 
+  education1: Unviersity of California, San Francisco
   education2: San Francisco General Hospital
-  
+
 - name: <a href="https://medicine.yale.edu/lab/kim/">Jennifer Kim, MD, PhD</a>
   photo: jennKim.jpeg
   info: Assistant Professor of Neurology
@@ -72,30 +72,30 @@
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
 
-- name: <a href="https://researchers.mgh.harvard.edu/profile/24913253/Samaneh-Nasiri">Samaneh Nasiri, PhD<a/> 
-  photo: samaneh.jpeg  
+- name: <a href="https://researchers.mgh.harvard.edu/profile/24913253/Samaneh-Nasiri">Samaneh Nasiri, PhD<a/>
+  photo: samaneh.jpeg
   info: Instructor in Neurology
   email: hsun3@bidmc.harvard.edu
   number_educ: 3
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital 
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
   education3: McCance Center for Brain Health
 
-- name: Kendrick Shaw, MD, PhD  
+- name: Kendrick Shaw, MD, PhD
   photo: kendrick.jpeg
-  info: Instructor in Anaesthesia 
+  info: Instructor in Anaesthesia
   email: kmshaw@mgh.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital 
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
 
 - name: James Luccarelli, MD, PhD
   photo: jamesL.jpeg
   info: Instructor in Psychiatry
   email: jluccarelli@partners.org
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital 
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
 
 - name: <a href="https://www.youtube.com/@FabioANascimento">Fabio Nascimento, MD</a>
   photo: fabio.jpg
