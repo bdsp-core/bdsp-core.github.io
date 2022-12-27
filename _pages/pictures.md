@@ -49,15 +49,3 @@ Jump to: [CCNL+BDSP+CDAC](#ccnl+bdsp+cdac), [Cornell](#cornell), [St Andrews](#s
 {% endif %}
 
 <p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
