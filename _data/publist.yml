@@ -66,6 +66,19 @@
     display: "IEEE Transactions on Biomedical Engineering (2022); DOI: 10.1109/TBME.2021.3136753"
   highlight: 1
 
+
+
+- title: Optimal spindle detection parameters for predicting cognitive performance.
+  image: spindlesNoor.jpeg
+  description: "This study characterizes how parameter settings in automated spindle detection algorithms influence the association between spindle features and cognition. We identify parameters that optimize this association."
+  authors:
+    Adra N, Sun H, Ganglberger W, Ye EM, Dümmer LW, Tesh RA, Westmeijer M, Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34984446/
+    display: "Sleep. 2022 Apr 11;45(4):zsac001. doi: 10.1093/sleep/zsac001. PMID: 34984446; PMCID: PMC8996023."
+  highlight: 1
+
+
 - title: Development of expert-level automated detection of epileptiform discharges during electroencephalogram interpretation
   image: dummy.png
   description: "A deep neural network was trained using 9571 scalp electroencephalogram recordings. The algorithm appeared to perform at or above the accuracy, sensitivity, and specificity of fellowship-trained clinical experts."
