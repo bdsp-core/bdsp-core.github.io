@@ -25,6 +25,15 @@
     display: https://pubmed.ncbi.nlm.nih.gov/36460472/
   highlight: 1
 
+- title: "VE-CAM-S: Visual EEG-Based Grading of Delirium Severity and Associations With Clinical Outcomes."
+  image: ve-cam-s.jpeg
+  description: We developed a visual physiologic grading system for the severity of acute encephalopathy manifesting as delirium or coma based on EEG, and investigated its association with clinical outcomes, using data from 406 acutely ill hospitalized patients. Our scale, the "Visual EEG-based Confusion Assessment Method Severity scale (VE-CAM-S) correlates strongly with the CAM-S clinical assessment scale, and with important clinical outcomes including inhospital mortality and level of neurologic disability after hospital discharge.
+  authors: Tesh RA, Sun H, Jing J, Westmeijer M, Neelagiri A, Rajan S, Krishnamurthy PV, Sikka P, Quadri SA, Leone MJ, Paixao L, Panneerselvam E, Eckhardt C, Struck AF, Kaplan PW, Akeju O, Jones D, Kimchi EY, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35072078/
+    display: "Crit Care Explor. 2022 Jan 18;4(1):e0611. doi: 10.1097/CCE.0000000000000611. PMID: 35072078; PMCID: PMC8769081."
+  highlight: 1
+
 - title: HIV increases sleep-based brain age despite antiretroviral therapy.
   image: HIV_BAI.jpeg
   description: Age-related comorbidities and immune activation raise concern for advanced brain aging in people living with HIV. The brain age index (BAI) is a machine learning model that quantifies deviations in brain activity during sleep relative to healthy individuals of the same age. High BAI was previously found to be associated with neurological, psychiatric, cardiometabolic diseases, and reduced life expectancy among people without HIV. Here, we estimated the effect of HIV infection on BAI by comparing PLWH and HIV- controls. Code and data are available [here](https://github.com/bdsp-core/HIV-BAI).
