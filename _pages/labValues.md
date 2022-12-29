@@ -12,12 +12,13 @@ This Values and Expectations Statement provides guidelines and implementation de
 [Lab Values Statement | ](#lab-values-statement)
 [Expectations | ](#expectations)
 [Collegiality | ](#collegiality)
-[Mentorship and Onboarding New Members | ](#mentorship-and-onboarding-new-members) 
+[Mentorship and Onboarding New Members | ](#mentorship-and-onboarding-new-members)
 [Diversity & Inclusion | ](#diversity--inclusion)
 [Scientific Integrity | ](#scientific-integrity)
 [Mental & Physical Wellbeing | ](#mental--physical-wellbeing)
 [Safety & Cleanliness | ](#safety--cleanliness)
 [Manuscripts & Authorship | ](#manuscripts--authorship)
+[Responding to Reviews |](#responding-to-reviews)
 [Conferences](#conferences)
 
 **Last revised:  2022-12-19**
@@ -25,10 +26,10 @@ This Values and Expectations Statement provides guidelines and implementation de
 ### Lab Values Statement
 Each member of our lab brings something important to the team. We strive to create an environment where every lab member can achieve their full potential in the lab. Every voice should be heard. Diversity of thought and background are celebrated, and all are welcome. Respect for each other is integral to our lab culture.
 
-This document is shared publicly on our website to remind lab members of the type of environment the CCNL seeks to foster. 
+This document is shared publicly on our website to remind lab members of the type of environment the CCNL seeks to foster.
 
 Text and ideas in places borrow heavily from
-https://hammondlab.mit.edu/labvalues/ and 
+https://hammondlab.mit.edu/labvalues/ and
 https://www.massgeneral.org/neurology/research/mukerji-lab-team .
 
 [Back to Top](#ccnl-lab-values-and-expectations)
@@ -77,7 +78,7 @@ _Mentees_
 You are responsible for your success. Asking for help is expected, and you should not feel uncomfortable reaching out to others who can provide mentorship in other, more specific areas (e.g. manuscript-writing, thesis proposals, grant-writing, professional development etc.). I expect longer-term lab members to help in these areas if they have expertise. If it is not clear who to ask for help, lab members can post their questions on the group Slack.
 
 _All lab members_  
-Everyone can be a mentor. And everyone can be a mentee. Good lab culture can only be maintained when lab members are equally willing to help and learn from each other. This includes inviting new members (who may not be your direct mentee) to review code, shadow you when conducting clinical assessments, offering to walk through and discuss data, helping out or working as a team when wrangling data, etc etc etc. Bear in mind that the kindness you show others today will be repaid in kind to those that come after. 
+Everyone can be a mentor. And everyone can be a mentee. Good lab culture can only be maintained when lab members are equally willing to help and learn from each other. This includes inviting new members (who may not be your direct mentee) to review code, shadow you when conducting clinical assessments, offering to walk through and discuss data, helping out or working as a team when wrangling data, etc etc etc. Bear in mind that the kindness you show others today will be repaid in kind to those that come after.
 
 _Mentor-Mentee Relations_  
 If ever mentor-mentee relations become strained to the point where conflict is interfering with daily research activities and the wellbeing of either party, it is important to let me know. Particularly when there are power dynamics involved, it may be impossible to resolve such conflict without mediation.  
@@ -102,11 +103,11 @@ Lab members are expected to always show respect towards others. Lab members shal
 
 **Methods** – The methods section of papers can be critical for reproducibility / repeatability of experiments and can impact a lab’s credibility if results are called into question. Lab members should make every effort to carefully record experiments and methods and to provide complete and thorough methods sections in their writing, sufficient to allow others to reproduce your results.
 
-**File organization** – develop a logical file organization system early on and keep all raw data files in a separate folder (don’t save over them!). This will save you the headache of having to sift through years of data later when you’re writing a manuscript. No one should have to guess at which experiment goes with which result. Our lab uses Dropbox for backing and sharing data. Each lab member should have a personal folder within the lab’s “Team” folder. Additional folders are maintained inside the Team folder for specific projects. All lab-related data should be stored in the Team folder. 
+**File organization** – develop a logical file organization system early on and keep all raw data files in a separate folder (don’t save over them!). This will save you the headache of having to sift through years of data later when you’re writing a manuscript. No one should have to guess at which experiment goes with which result. Our lab uses Dropbox for backing and sharing data. Each lab member should have a personal folder within the lab’s “Team” folder. Additional folders are maintained inside the Team folder for specific projects. All lab-related data should be stored in the Team folder.
 
-**Protocols** – New protocols or updates to protocols should be deposited to the Protocols folder in the lab Dropbox Team folder, which is overseen and organized by the Protocol Steward. 
+**Protocols** – New protocols or updates to protocols should be deposited to the Protocols folder in the lab Dropbox Team folder, which is overseen and organized by the Protocol Steward.
 
-**PHI (Protected Health Information)** —All lab members are expected to follow BIDMC rules regarding handling of PHI, and to follow the 
+**PHI (Protected Health Information)** —All lab members are expected to follow BIDMC rules regarding handling of PHI, and to follow the
 
 
 **Reporting results** – Negative results are just as important as positive results — and can end up saving time and resources for future researchers. For this reason, you are required to include all results (including negative ones) as well as detailed notes on failed procedures and methods.
@@ -128,10 +129,10 @@ _Authority and duties of the lab manager_
 Questions related to safety and cleanliness, maintenance of lab equipment, animal protocols, and procedures should go to the lab manager. All lab members are expected to defer to the lab manager’s decisions on anything related to safety & cleanliness and complete any requested actions (e.g. cleaning) in a timely manner.
 
 _Personal spaces and datasets_   
-All lab members are expected to keep their personal spaces organized, clean, and safe. 
+All lab members are expected to keep their personal spaces organized, clean, and safe.
 
 _Cleanliness of shared spaces_  
-All lab members are expected to keep shared equipment and spaces clean, tidy, and organized. These spaces should be left in at least the same condition they were found, if not tidier. 
+All lab members are expected to keep shared equipment and spaces clean, tidy, and organized. These spaces should be left in at least the same condition they were found, if not tidier.
 
 _Broken equipment_    
 If a piece of equipment is broken, lab members are expected to report the situation to the lab manager and/or the equipment steward immediately upon discovery. Lab members are expected to address the issue if they feel comfortable doing so. Lab members must not ignore the problem or wait for someone else to take care of it.
@@ -140,7 +141,7 @@ _Stewardship Assignments_
 Annual lab organizational meetings will be held to assign stewardships and discuss changes in the lab. All lab members must attend these meetings.
 
 _Individual Contributions to Overall Lab Cleanliness & Safety_  
-All lab members are expected to contribute equally to maintenance of the lab, including stewarding pieces of equipment, participating in lab cleaning days, and helping with additional organized lab clean ups. Lab clean-up days are group activities that only work well when everyone participates; for that reason, it is mandatory that every lab member participates. Clean-up days will be scheduled at least two weeks ahead by the lab manager and for dates and times that all lab members can be present. If a lab member is planning to be absent from an organized lab cleaning event, they must provide a reason and be excused by the lab manager. 
+All lab members are expected to contribute equally to maintenance of the lab, including stewarding pieces of equipment, participating in lab cleaning days, and helping with additional organized lab clean ups. Lab clean-up days are group activities that only work well when everyone participates; for that reason, it is mandatory that every lab member participates. Clean-up days will be scheduled at least two weeks ahead by the lab manager and for dates and times that all lab members can be present. If a lab member is planning to be absent from an organized lab cleaning event, they must provide a reason and be excused by the lab manager.
 
 _Authority and Duties of Equipment Stewards_  
 If you are planning on using a piece of equipment, look up the steward for the piece of equipment and contact them before use. If the equipment requires training by the steward, lab members must request and complete training from that steward before attempting to use the equipment. Failure to do so may result in loss of access to that equipment. Stewards are expected to maintain and repair their equipment and train users as necessary.  
@@ -153,8 +154,35 @@ Publishing papers is the most important way that we disseminate our work to othe
 _Outline Early and Often_  
 You should begin to visualize contents and concepts for your paper as early as possible in a project and after any major result discovery. As soon as you begin a new line of investigation, start to generate research outlines to predict and guide your future research activity. Of course, outlining early means you will need to be flexible and open to major revisions as your research story evolves. Pay attention to opportunities to adapt and streamline your outlines and projects, for example swapping in different types of experiments to better provide data that supports your take-home messages. As an outline grows and matures, be sure to re-evaluate whether it still provides a single, cohesive story. If not, consider splitting it into two outlines and manuscripts to avoid a single, colossal paper.
 
+_Reference Management_  
+Use a reference manager. Do not type your references by hand. A reference manager makes is easy to change reference formatting, and helps you avoid needing to manually update references when you add new ones. The preferred reference manager in the lab is the free program [Zotero](https://www.zotero.org/). Zotero also makes it easy to collect references from the web and to share reference collections.
+
 _Conversations about Authorship_  
-It can be difficult to define the threshold between simply assisting and making an intellectual contribution to a project or paper. Therefore, we aim to normalize early and open conversations about authorship in the lab. If someone is advising or helping you with a project, it is important to discuss what contributions would be expected from a co-author. To help guide this discussion, you can look at different ways that research groups assign tasks and roles in papers. One example of this is the CRediT Taxonomy: https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf  
+It can be difficult to define the threshold between simply assisting and making an intellectual contribution to a project or paper. Therefore, we aim to normalize early and open conversations about authorship in the lab. If someone is advising or helping you with a project, it is important to discuss what contributions would be expected from a co-author. To help guide this discussion, you can look at different ways that research groups assign tasks and roles in papers. One example of this is the CRediT Taxonomy: https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf    
+[Back to Top](#ccnl-lab-values-and-expectations)
+
+### Responding to Reviews
+Most papers require revisions before they will be accepted by the editor for publication. Editors rely on volunteers to donate their time and expertise to critique your paper. Respect the reviewers! While not all reviewers "get it", and some can sound abrasive, it is best to assume they are doing their best to offer constructive feedback and to do their part in stewarding the scientific process. In any case, acceptance of your manuscript depends on satisfying the reviewers!
+
+Some helpful general rules for responding to reviewers are:
+1.  Provide an overview, then quote the full set of reviews
+2.  Be polite and respectful
+3.  Accept the blame: show the reviewer that they were listened to and understood.
+4. Make the response self-contained
+5. Respond to every point raised by the reviewer
+6. Use typography to help the reviewer navigate your response
+7. Whenever possible, begin your response to each comment with a direct answer to the point being raised
+8. When possible, do what the reviewer asks
+9. Be clear about what changed relative to the previous version
+10. If necessary, write the response twice
+These rules are explained in detail [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730).
+
+In addition, I expect lab members to follow these specific guidelines:
+11. *Response letter:* Begin your response to review with a brief and courteous letter to the editor. Include the manuscript title and ID number assigned by the journal. Tell the editor whether the line numbers in your responses are for the clean or tracked-changes version of your revised manuscript. The line numbers will be different between these versions.
+12. *Number the lines:* Add running line numbers to the revised manuscript, so that you can tell reviewers where you've made changes.
+13. *Track changes:* Make certain that tracked changes are on when revising the manuscript. Many journals require you to submit both a clean version and a version with tracked changes shown. Either way, it is courteous to the reviewers to make clear where you have changed the manuscript, and tracking changes is an easy way to do this.
+14. *Indicate where you've made changes:* Provide a point-by-point summary to the reviews. These should almost always be of the form: "We have addressed this point in the XXX section of the revised manuscript (lines YYY)". Do not argue with the reviewer (exceptions are very rare). Also never simply answer the reviewer's question in the response letter without making a corresponding change in the manuscript. The most important part of responding to reviews is to be RESPONSIVE. You should assume that if the reviewer did not understand that readers will likewise not understand, and this means you need to make the manuscript clearer.
+15. *Keep responses brief:* Responses should be brief. See the point above. In general it's best to respond by changing the paper, and indicating in the response letter where (which line numbers) you've made the changes. A *brief* summary of the change is often helpful, but do not quote the text of the main manuscript or copy new figures or tables into the response letter.  
 [Back to Top](#ccnl-lab-values-and-expectations)
 
 
