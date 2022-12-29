@@ -5,11 +5,7 @@ excerpt: "CCNL + BDSP -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [CCNL+BDSP+CDAC](#ccnl+bdsp+cdac), [Cornell](#cornell), [St Andrews](#st-andrews)
-
-
-## CCNL+BDSP+CDAC
+# Lab Pictures
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
