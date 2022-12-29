@@ -75,8 +75,6 @@
     display: "IEEE Transactions on Biomedical Engineering (2022); DOI: 10.1109/TBME.2021.3136753"
   highlight: 1
 
-
-
 - title: Optimal spindle detection parameters for predicting cognitive performance.
   image: spindlesNoor.jpeg
   description: "This study characterizes how parameter settings in automated spindle detection algorithms influence the association between spindle features and cognition. We identify parameters that optimize this association."
@@ -85,6 +83,66 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/34984446/
     display: "Sleep. 2022 Apr 11;45(4):zsac001. doi: 10.1093/sleep/zsac001. PMID: 34984446; PMCID: PMC8996023."
+  highlight: 1
+
+- title: 'Physiological Assessment of Delirium Severity: The Electroencephalographic
+    Confusion Assessment Method Severity Score (E-CAM-S).'
+  image: ecams.jpeg
+  description: The E-CAM-S is an automated physiologic measure of delirium severity that predicts clinical outcomes with a level of performance comparable to conventional interview-based clinical assessment.
+  authors: van Sleuwen M, Sun H, Eckhardt C, Neelagiri A, Tesh RA, Westmeijer M, Paixao
+    L, Rajan S, Velpula Krishnamurthy P, Sikka P, Leone MJ, Panneerselvam E, Quadri
+    SA, Akeju O, Kimchi EY, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34582420
+    display: 'Crit Care Med 2022 Jan 1; 50 (1) :e11-e19 doi: 10.1097/CCM.0000000000005224.
+      PMID:34582420 ; PMCID:PMC8678335 '
+  highlight: 1
+
+- title: 'Continuous electroencephalography predicts delayed cerebral ischemia after
+    subarachnoid hemorrhage: A prospective study of diagnostic accuracy.'
+  image: sah_MSA.jpeg
+  description: Delayed cerebral ischemia (DCI) is a common, disabling complication of subarachnoid hemorrhage (SAH). Preventing DCI is a key focus of neurocritical care, but interventions carry risk and cannot be applied indiscriminately. We prospectively assessed the accuracy of cEEG for predicting DCI. We find that cEEG accurately predicts DCI following SAH and may thus be useful to help target therapies to patients at highest risk of secondary brain injury.
+  authors: Rosenthal ES, Biswal S, Zafar SF, O'Connor KL, Bechek S, Shenoy AV, Boyle
+    EJ, Shafi MM, Gilmore EJ, Foreman BP, Gaspard N, Leslie-Mazwi TM, Rosand J, Hoch
+    DB, Ayata C, Cash SS, Cole AJ, Patel AB, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29659050
+    display: 'Ann Neurol 2018 May; 83 (5) :958-969 doi: 10.1002/ana.25232. Epub 2018
+      May 16. PMID:29659050 ; PMCID:PMC6021198 '
+  highlight: 1
+
+- title: 'Predicting Neurological Outcome From Electroencephalogram Dynamics in Comatose
+    Patients After Cardiac Arrest With Deep Learning.'
+  image: weilong.jpeg
+  description: Most cardiac arrest patients who are successfully resuscitated are initially comatose due to hypoxic-ischemic brain injury. EEG provides valuable prognostic information, however prior approaches neglect temporal information. We assembled EEGs from 1,038 patients from seven hospitals in Europe and the US and developed a recurrent deep neural network to predict long-term neurological outcomes. Our model provides accurate probabilistic predictions which improve with continued observation. Our results show that accounting for EEG trend information can improve prediction of neurologic outcomes for patients with coma following cardiac arrest.
+  authors: Zheng WL, Amorim E, Jing J, Wu O, Ghassemi M, Lee JW, Sivaraju A, Pang
+    T, Herman ST, Gaspard N, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer J, van
+    Putten MJAM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34962860
+    display: 'IEEE Trans Biomed Eng 2022 May; 69 (5) :1813-1825 doi: 10.1109/TBME.2021.3139007.
+      Epub 2022 Apr 21. PMID:34962860 ; PMCID:PMC9087641 '
+  highlight: 1
+
+- title: 'Dementia Detection from Brain Activity During Sleep.'
+  image: elissaAD.jpeg
+  description: Altered brain activity during sleep is an early feature of neurodegenerative diseases. We investigated whether sleep EEG signals can be used to identify people on the verge of cognitive decline. We assembled a clinical dataset overnight sleep EEGs from 8,044 participants. We extracted sleep macro-and micro-structural features from the EEG and trained machine learning models to predict which patients had dementia or mild cognitive impairment. Our algorithms show promise for incorporating dementia screening techniques using routine sleep EEG, and strengthen the concept of sleep as a window into neurodegenerative disease.
+  authors: Ye EM, Sun H, Krishnamurthy PV, Adra N, Ganglberger W, Thomas RJ, Lam AD, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36448766/
+    display: 'Sleep. 2022 Nov 30:zsac286. doi: 10.1093/sleep/zsac286. Epub ahead of print. PMID: 36448766.'
+  highlight: 1
+
+- title: 'Automated Annotation of Epileptiform Burden and Its Association with Outcomes.'
+  image: bigBurd.jpeg
+  description: 'We set out to quantify the dose-response relation between epileptiform activity burden and outcomes in acutely ill patients. We gathered data from 1,967 patients who underwent continuous EEG and developed artificial intelligence algorithms to 1) annotate epileptiform activity (EA) in 11.02 terabytes of EEG and 2) estimate the effect of EA burden on the probability of a poor neurologic outcome. After adjusting for covariates, increasing EA burden from 0 to 100% increased the probability of poor outcome by 35%. Automated measurement of EA burden affords a quantitative target for future trials investigating whether suppressing EA improves outcomes.'
+  authors: Zafar SF, Rosenthal ES, Jing J, Ge W, Tabaeizadeh M, Aboul Nour H, Shoukat
+    M, Sun H, Javed F, Kassa S, Edhi M, Bordbar E, Gallagher J, Moura V Jr, Ghanta
+    M, Shao YP, An S, Sun J, Cole AJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34231244
+    display: 'Ann Neurol 2021 Aug; 90 (2) :300-311 doi: 10.1002/ana.26161. Epub 2021
+      Jul 20. PMID:34231244 ; PMCID:PMC8516549 '
   highlight: 1
 
 
@@ -196,6 +254,7 @@
     display: 'JAMA Neurol 2022 Jun 1; 79 (6) :614-622 doi: 10.1001/jamaneurol.2022.0888.
       PMID:35499837 ; PMCID:PMC9062772 '
   highlight: 0
+
 - title: '"Predicting Neurological Outcome From Electroencephalogram Dynamics in Comatose
     Patients After Cardiac Arrest With Deep Learning."'
   image: ''
@@ -208,6 +267,7 @@
     display: 'IEEE Trans Biomed Eng 2022 May; 69 (5) :1813-1825 doi: 10.1109/TBME.2021.3139007.
       Epub 2022 Apr 21. PMID:34962860 ; PMCID:PMC9087641 '
   highlight: 0
+
 - title: '"Accurate identification of EEG recordings with interictal epileptiform
     discharges using a hybrid approach: Artificial intelligence supervised by human
     experts."'
@@ -290,6 +350,7 @@
     display: 'J Clin Neurophysiol 2022 Jan 20; doi: 10.1097/WNP.0000000000000916.
       [Epub ahead of print] PMID:35066530 ; PMCID:PMC9296700 '
   highlight: 0
+
 - title: '"Physiological Assessment of Delirium Severity: The Electroencephalographic
     Confusion Assessment Method Severity Score (E-CAM-S)."'
   image: ''
@@ -302,6 +363,7 @@
     display: 'Crit Care Med 2022 Jan 1; 50 (1) :e11-e19 doi: 10.1097/CCM.0000000000005224.
       PMID:34582420 ; PMCID:PMC8678335 '
   highlight: 0
+
 - title: '"One EEG, one read - A manifesto towards reducing interrater variability
     among experts."'
   image: ''
@@ -780,8 +842,7 @@
     display: 'Ann Neurol 2020 Sep; 88 (3) :588-595 doi: 10.1002/ana.25812. Epub 2020
       Jul 9. PMID:32567720 ; PMCID:PMC7720795 '
   highlight: 0
-- title: '"Association of Sleep Electroencephalography-Based Brain Age Index With
-    Dementia."'
+- title: '"Association of Sleep Electroencephalography-Based Brain Age Index With Dementia."'
   image: ''
   description: ''
   authors: Ye E, Sun H, Leone MJ, Paixao L, Thomas RJ, Lam AD, Westover MB.
@@ -1483,6 +1544,7 @@
     display: 'Postgrad Med J 2018 Jun; 94 (1112) :364-366 doi: 10.1136/postgradmedj-2018-135555.
       Epub 2018 Mar 7. PMID:29514996 ; PMCID:PMC6771257 '
   highlight: 0
+
 - title: '"Continuous electroencephalography predicts delayed cerebral ischemia after
     subarachnoid hemorrhage: A prospective study of diagnostic accuracy."'
   image: ''
@@ -1495,6 +1557,7 @@
     display: 'Ann Neurol 2018 May; 83 (5) :958-969 doi: 10.1002/ana.25232. Epub 2018
       May 16. PMID:29659050 ; PMCID:PMC6021198 '
   highlight: 0
+
 - title: '"Minimizing ICU Neurological Dysfunction with Dexmedetomidine-induced Sleep
     (MINDDS): protocol for a randomised, double-blind, parallel-arm, placebo-controlled
     trial."'
