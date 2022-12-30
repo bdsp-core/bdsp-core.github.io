@@ -30,12 +30,6 @@ Our approach emphasizes working with real clinical data from large and heterogen
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDzoo.png_resized.jpg" alt="Slide 1" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 2" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/plotprroc_v5.jpg" alt="Slide 3" style="height: 300px !important" />
-    </div>
-    <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item">
