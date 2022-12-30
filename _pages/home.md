@@ -21,19 +21,58 @@ Our approach emphasizes working with real clinical data from large and heterogen
 
 <div class="carousel-inner" markdown="0">
     <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="Slide 1" style="height: 250px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flames.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 2" style="height: 250px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starfish.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/plotprroc_v5.jpg" alt="Slide 3" style="height: 250px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDzoo.png_resized.jpg" alt="Slide 1" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="Slide 3" style="height: 250px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 2" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bobbyFig.png" alt="Slide 3" style="height: 250px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/plotprroc_v5.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSamples_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDfeatures.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CPDspreading.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_model_180K.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_model_180K_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_spikeBurden_180K.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDwithVotes.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IIICqualitative.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_spikeBurden_180K_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPspreading.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="Slide 3" style="height: 300px !important" />
     </div>
 </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

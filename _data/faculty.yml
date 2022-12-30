@@ -19,9 +19,11 @@
   photo: jin-jing.png
   info: Instructor in Neurology
   email: jjing@bidmc.harvard.edu
-  number_educ: 2
+  number_educ: 3
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
+  education3: McCance Center for Brain Health
+
 
 - name: <a href="https://scholar.harvard.edu/sunhaoqi/home">Haoqi Sun (孙毫棋), PhD</a>
   photo: haoqi.jpeg
@@ -46,7 +48,7 @@
   info: Assistant Professor of Neurology
   email: hsun3@bidmc.harvard.edu
   number_educ: 2
-  education1: Unviersity of California, San Francisco
+  education1: University of California, San Francisco
   education2: San Francisco General Hospital
 
 - name: <a href="https://medicine.yale.edu/lab/kim/">Jennifer Kim, MD, PhD</a>
@@ -104,4 +106,4 @@
   number_educ: 3
   education1: Barnes-Jewish Hospital
   education2: St. Louis Children's Hospital
-  education3: Washington Unviersity School of Medicine
+  education3: Washington University School of Medicine
