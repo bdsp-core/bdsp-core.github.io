@@ -165,24 +165,24 @@ It can be difficult to define the threshold between simply assisting and making 
 Most papers require revisions before they will be accepted by the editor for publication. Editors rely on volunteers to donate their time and expertise to critique your paper. Respect the reviewers! While not all reviewers "get it", and some can sound abrasive, it is best to assume they are doing their best to offer constructive feedback and to do their part in stewarding the scientific process. In any case, acceptance of your manuscript depends on satisfying the reviewers!
 
 Some helpful general rules for responding to reviewers are:
-1.  Provide an overview, then quote the full set of reviews
-2.  Be polite and respectful
-3.  Accept the blame: show the reviewer that they were listened to and understood.
+1. Provide an overview, then quote the full set of reviews
+2. Be polite and respectful
+3. Accept the blame: show the reviewer that they were listened to and understood.
 4. Make the response self-contained
 5. Respond to every point raised by the reviewer
 6. Use typography to help the reviewer navigate your response
-7. Whenever possible, begin your response to each comment with a direct answer to the point being raised
-8. When possible, do what the reviewer asks
+7. Begin your response to each comment with a direct answer to the point being raised
+8. Do what the reviewer asks whenever possible (it is almost always possible)
 9. Be clear about what changed relative to the previous version
 10. If necessary, write the response twice
 These rules are explained in detail [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730).
 
-In addition, I expect lab members to follow these specific guidelines:
-11. *Response letter:* Begin your response to review with a brief and courteous letter to the editor. Include the manuscript title and ID number assigned by the journal. Tell the editor whether the line numbers in your responses are for the clean or tracked-changes version of your revised manuscript. The line numbers will be different between these versions.
-12. *Number the lines:* Add running line numbers to the revised manuscript, so that you can tell reviewers where you've made changes.
-13. *Track changes:* Make certain that tracked changes are on when revising the manuscript. Many journals require you to submit both a clean version and a version with tracked changes shown. Either way, it is courteous to the reviewers to make clear where you have changed the manuscript, and tracking changes is an easy way to do this.
-14. *Indicate where you've made changes:* Provide a point-by-point summary to the reviews. These should almost always be of the form: "We have addressed this point in the XXX section of the revised manuscript (lines YYY)". Do not argue with the reviewer (exceptions are very rare). Also never simply answer the reviewer's question in the response letter without making a corresponding change in the manuscript. The most important part of responding to reviews is to be RESPONSIVE. You should assume that if the reviewer did not understand that readers will likewise not understand, and this means you need to make the manuscript clearer.
-15. *Keep responses brief:* Responses should be brief. See the point above. In general it's best to respond by changing the paper, and indicating in the response letter where (which line numbers) you've made the changes. A *brief* summary of the change is often helpful, but do not quote the text of the main manuscript or copy new figures or tables into the response letter.  
+In addition, I expect lab members to follow these lab-specific guidelines:
+1. *Response letter:* Begin your response to review with a brief and courteous letter to the editor. Include the manuscript title and ID number assigned by the journal. Tell the editor whether the line numbers in your responses are for the clean or tracked-changes version of your revised manuscript.
+2. *Number the lines:* Add running line numbers to the revised manuscript, so that you can tell reviewers where you've made changes.
+3. *Track changes:* Use tracked changes. Many journals require you to submit both a clean version and a version with tracked changes shown. Either way, it is courteous to the reviewers to make clear where you have changed the manuscript, and tracking changes is an easy way to do this.
+4. *Indicate where you've made changes:* Provide a point-by-point summary to the reviews. These should have the form: "We have addressed this point in the XXX section of the revised manuscript (lines YYY)". Do not argue with the reviewer. Do not answer the reviewer's question in the response letter without making a corresponding change in the manuscript. You should assume that if the reviewer did not understand that readers will likewise not understand, and this means you need to make the manuscript clearer. The most important part of responding to reviews is to be RESPONSIVE. 
+5. *Keep responses brief:* See the point above. In general it's best to respond by changing the paper and indicating in the response letter where (line numbers) you've made the changes. A *brief* summary of the change may be appropriate, but do not quote the text of the main manuscript or copy figures or tables into the response letter.  
 [Back to Top](#ccnl-lab-values-and-expectations)
 
 
