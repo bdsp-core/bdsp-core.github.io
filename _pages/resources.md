@@ -28,4 +28,4 @@ A list of manuscripts that are planned or in progress, and anticipated authorshi
 [CLAIM checklist]({{ site.baseurl }}/downloads/CLAIM.docx) and [paper]({{ site.baseurl }}/downloads/CLAIM.pdf) - Checklist for Artificial Intelligence in Medical Imaging  
 [IJMEDI/ChAMAI checklist]({{ site.baseurl }}/downloads/CHAMAI.pdf) and [paper]({{ site.baseurl }}/downloads/CHAMAI_Paper.pdf) - Checklist for Assessment of Medical AI   
 [TRIPOD checklist]({{ site.baseurl }}/downloads/TRIPOD_checklist.docx) and [paper]({{ site.baseurl }}/downloads/TRIPOD_paper.pdf) - Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis  
-[TRIPOD - ICU - paper]({{ site.baseurl }}/downloads/TRIPOD_checklist.docx) Guidance for Authors From Editors of Respiratory, Sleep, and Critical Care Journals - **highly recommended for predictive modeling papers**  
+[TRIPOD - ICU - paper]({{ site.baseurl }}/downloads/Development_and_Reporting_of_Prediction_Models_CCM_2020.pdf) Guidance for Authors From Editors of Respiratory, Sleep, and Critical Care Journals - **recommended for predictive modeling papers**  
