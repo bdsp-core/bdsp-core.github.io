@@ -32,7 +32,7 @@ Text and ideas in places borrow heavily from
 https://hammondlab.mit.edu/labvalues/ and
 https://www.massgeneral.org/neurology/research/mukerji-lab-team .
 
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 ### Expectations
 I expect everyone in our lab to uphold the lab values. Although expectations of lab members vary with time and experience in the lab and, each member is expected to embrace the spirit of our values from the start.
@@ -51,7 +51,7 @@ RCs are an integral part of the lab. They are expected to be thoroughly familiar
 
 _PhD Students_  
 Just like all new lab members, the early stages of your PhD should revolve around developing good scientific questions. Whether your projects are well-defined or in development, this is the time to hammer out a framework for your time in the lab. Work hard to craft and refine your ideas and to communicate the with other lab members and with me. Consider applying for external funding. While your projects are developing, it is also a good time to get experience by assisting with ongoing projects in the lab. This stage of your PhD studies can seem uncertain – don’t be afraid to seek advice from senior lab members, who have been there before. Before long you will be a senior member of the lab. Then you will be expected take on leadership responsibility within the lab, mentorship younger lab members, and execute your project more independently as you prepare to write your papers and thesis. You will be expected to assist with manuscript preparation in non-author (editing) roles, and with grant applications. Embrace these opportunities – these are essential skills for you to learn.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 
 ### Collegiality
@@ -82,7 +82,7 @@ Everyone can be a mentor. And everyone can be a mentee. Good lab culture can onl
 
 _Mentor-Mentee Relations_  
 If ever mentor-mentee relations become strained to the point where conflict is interfering with daily research activities and the wellbeing of either party, it is important to let me know. Particularly when there are power dynamics involved, it may be impossible to resolve such conflict without mediation.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 
 ### Diversity & Inclusion
@@ -95,7 +95,7 @@ In lab-sponsored or lab-centric social events, it is expected that the invitatio
 
 _Lab Policy on Discrimination_  
 Lab members are expected to always show respect towards others. Lab members shall not discriminate or use any behavior or language that might be considered discriminatory. Lab members are expected to follow the discrimination policy outlined in the Harvard Handbook [LINK]. Our lab believes that kindness matters and lab members are expected to act accordingly.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 ### Scientific Integrity
 
@@ -107,21 +107,20 @@ Lab members are expected to always show respect towards others. Lab members shal
 
 **Protocols** – New protocols or updates to protocols should be deposited to the Protocols folder in the lab Dropbox Team folder, which is overseen and organized by the Protocol Steward.
 
-**PHI (Protected Health Information)** —All lab members are expected to follow BIDMC rules regarding handling of PHI, and to follow the
-
+**PHI (Protected Health Information)** —All lab members are expected to follow BIDMC rules regarding handling of PHI.
 
 **Reporting results** – Negative results are just as important as positive results — and can end up saving time and resources for future researchers. For this reason, you are required to include all results (including negative ones) as well as detailed notes on failed procedures and methods.
 
 _Data Manipulation and Academic Misconduct_  
 Any form of data manipulation will not be tolerated and can ultimately result in the reporting of the violation to Research & Academic Affairs (R&AA), and ultimately in termination of employment. If you believe that someone else is falsifying results, please come directly to me to alert me of the concerns. This process applies to all other modes of academic misconduct, including plagiarism and malicious interference in others’ projects. If you have any doubts about whether you are presenting and interpreting data correctly, you should seek input from other lab members.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 
 ### Mental & Physical Wellbeing
 Harvard can be a stressful place full of high expectations. But remember that you are here first and foremost to learn. Your growth and development are paramount. The lab should be a place people love to be. Be proactive seeking help and be on the lookout for your lab mates’ wellbeing, and don’t hesitate to ask for help.
 
 Productivity is a better metric than hours in the lab. That said, different disciplines have different metrics for productivity, and at the end of the day, I will judge your time here more by what you learned and how you grew than by what or where you published. Make space for your mental and physical wellbeing. Protect yourself and others by staying home when you are sick. Find alternative uses of your days such as data analysis or manuscript writing.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 ### Safety & Cleanliness
 
@@ -145,7 +144,7 @@ All lab members are expected to contribute equally to maintenance of the lab, in
 
 _Authority and Duties of Equipment Stewards_  
 If you are planning on using a piece of equipment, look up the steward for the piece of equipment and contact them before use. If the equipment requires training by the steward, lab members must request and complete training from that steward before attempting to use the equipment. Failure to do so may result in loss of access to that equipment. Stewards are expected to maintain and repair their equipment and train users as necessary.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 
 ### Manuscripts & Authorship
@@ -155,23 +154,22 @@ _Outline Early and Often_
 You should begin to visualize contents and concepts for your paper as early as possible in a project and after any major result discovery. As soon as you begin a new line of investigation, start to generate research outlines to predict and guide your future research activity. Of course, outlining early means you will need to be flexible and open to major revisions as your research story evolves. Pay attention to opportunities to adapt and streamline your outlines and projects, for example swapping in different types of experiments to better provide data that supports your take-home messages. As an outline grows and matures, be sure to re-evaluate whether it still provides a single, cohesive story. If not, consider splitting it into two outlines and manuscripts to avoid a single, colossal paper.
 
 _Writing the Abstract and Introduction_
-Patrick Winston's [VSNC paradigm](https://holdenlee.github.io/What%20I%20learned%20from%20Patrick%20Winston.html) (Vision, Steps, News, Contributions) is a helpful guide to writing an abstract and introduction that peeople will **read**. Also use the  **Inversion heuristic** (imagine how the paper would be understood by a reader) to help your scientific writing be **understood**. The **5 S's** (Slogan, Symbol, Salient, Surprise, Story) can be helpful to help ensure your writing can be **remembered** (this also applies to giving talks).
+Patrick Winston's [VSNC paradigm](https://holdenlee.github.io/What%20I%20learned%20from%20Patrick%20Winston.html) (Vision, Steps, News, Contributions) is a helpful guide to writing an abstract and introduction that peeople will **read**. Also use the  **Inversion heuristic** (imagine how the paper would be understood by a reader) to help your scientific writing be **understood**. The **5 S's** (Slogan, Symbol, Salient, Surprise, Story) can be helpful to help ensure your story is **remembered** (this applies even more to giving talks).
 
 _Reference Management_  
 Use a reference manager. Do not type your references by hand. A reference manager makes it easy to collect new references from the web, to change reference formatting in your manuscript, and avoids the need to manually update references when you add new ones. The preferred reference manager in the lab is [Zotero](https://www.zotero.org/). Zotero is free.
 
-_More tips_
-[this part is in progress]
-Table 1 is a key part of most papers that we write in the lab. This is the table that presents descriptive statistics of baseline characteristics of the study cohort, stratified by "exposure." **Make Table 1 early on in your project**. Doing this early will force you to think clearly about whether you've strictly followed (or forumated) your project inclusion and exclusion criteria, whether you have identified and gathered all the variables you need, data missingness, and data quality.
+_More tips_  
+**Table 1** is a key part of most papers that we write in the lab. This is the table that presents descriptive statistics of baseline characteristics of the study cohort, stratified by "exposure." **Make Table 1 early on in your project**. Doing this early will force you to think clearly about whether you've strictly followed (or forumated) your project inclusion and exclusion criteria, whether you have identified and gathered all the variables you need, data missingness, and data quality.
 
-Checklists can be helpful to ensure your manuscript is not missing critical elements. Several of these have been created by thoughtful, experienced people. Checklists that lab members often find useful (or are asked by reviewers to use) are on the "Resources" page of this website.
+**Checklists** can be helpful to ensure your manuscript is not missing critical elements. Several of these have been created by thoughtful, experienced people. Checklists that lab members often find useful (or are required to use by reviewers) are on the ["Resources"]({{ site.baseurl }}/resources/) page.
 
 _Conversations about Authorship_  
 It can be difficult to define the threshold between simply assisting and making an intellectual contribution to a project or paper. Therefore, we aim to normalize early and open conversations about authorship in the lab. If someone is advising or helping you with a project, it is important to discuss what contributions would be expected from a co-author. To help guide this discussion, you can look at different ways that research groups assign tasks and roles in papers. One example of this is the CRediT Taxonomy: https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf    
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 ### Responding to Reviews
-Most papers require revisions before they will be accepted by the editor for publication. Editors rely on volunteers to donate their time and expertise to critique your paper. Respect the reviewers! While not all reviewers "get it", and some can sound abrasive, it is best to assume they are doing their best to offer constructive feedback and to do their part in stewarding the scientific process. In any case, acceptance of your manuscript depends on satisfying the reviewers!
+Most papers require revisions before being accepted for publication. Editors rely on volunteer experts to donate their time to critique your paper. Respect the reviewers! While you might feel at times like writing a response like [this]({{ site.baseurl }}/downloads/frustrated_author.pdf), it is best to assume reviewers mean well and are doing their best. In any case, your manuscript will not be accepted unless you can satisfy the reviewers.
 
 Some helpful general rules for responding to reviewers are:
 1. Provide an overview, then quote the full set of reviews
@@ -192,9 +190,9 @@ In addition, I expect lab members to follow these lab-specific guidelines:
 3. *Track changes:* Use tracked changes. Many journals require you to submit both a clean version and a version with tracked changes shown. Either way, it is courteous to the reviewers to make clear where you have changed the manuscript, and tracking changes is an easy way to do this.
 4. *Indicate where you've made changes:* Provide a point-by-point summary to the reviews. These should have the form: "We have addressed this point in the XXX section of the revised manuscript (lines YYY)". Do not argue with the reviewer. Do not answer the reviewer's question in the response letter without making a corresponding change in the manuscript. You should assume that if the reviewer did not understand that readers will likewise not understand, and this means you need to make the manuscript clearer. The most important part of responding to reviews is to be RESPONSIVE.
 5. *Keep responses brief:* See the point above. In general it's best to respond by changing the paper and indicating in the response letter where (line numbers) you've made the changes. A *brief* summary of the change may be appropriate, but do not quote the text of the main manuscript or copy figures or tables into the response letter.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
 
 
 ### Conferences
 Developing a professional network is an essential part of your training, so each lab member is expected to attend conferences. With the typical exception of one’s first year in the lab, it is reasonable to expect to attend at least one conference per year. Which conference(s) you would like to aim for should be discussed and strategized with me; in cases where you have an interest in multiple meetings, I will ask you to prioritize which ones are key to disseminating your work and advancing your professional development. As you prepare a conference submission, be aware that some submissions are publicly shared and may affect where you can later submit a manuscript on the presented data. Additionally, you should plan ahead so that any submitted abstracts can be reviewed by all coauthors at least two weeks prior to the submission deadline. In some cases you may be able to practice your talk in lab meeting. Even when this is not possible, you are encouraged to ask a handful of lab mates to watch your practice and lend advice or tips for refining the presentation. Finally, remember that you are a representative of the lab when you are attending a conference, and your behavior should reflect the positivity, decorum, and interpersonal respect with which we operate.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#  )
