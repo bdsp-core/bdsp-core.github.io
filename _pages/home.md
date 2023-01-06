@@ -1,14 +1,12 @@
 ---
-title: "CCNL / BDSP - Home"
+title: "CDAC - Home"
 layout: homelay
-excerpt: "Computational Clinical Neurophysiology Laboratory at Harvard Medical School."
+excerpt: "Clinical Data Animation Center (CDAC) at Harvard Medical School."
 sitemap: false
 permalink: /
 ---
 
-Our research aims to develop machine learning and decision making tools that help people improve and preserve brain health. We are an interdisciplinary group of clinicians and scientists affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), [Massachusetts General Hospital](https://www.massgeneral.org/), and the [Broad Institute](https://www.broadinstitute.org/). Our research areas include sleep, cognitive health, dementia, epilepsy, delirium/encephalopathy, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, delayed cerebral ischemia following subarachnoid hemorrhage, and the neurophysiology of critical illness. We approach these problems by developing mathematical models to clarify risk-benefit tradeoffs in medical decision-making, predict neurologic outcomes in critical care settings; and automate central tasks in medicine previously performed only by clinical experts.
-
-Our approach emphasizes working with real clinical data from large and heterogenous groups of patients, to ensure that our models perform well in the real world. To enable this research, we and our collaborators are creating the Brain Data Science Platform (BDSP), a massive cloud-based repository of clinical neurology data and code for conducting research on this data. We welcome new collaborators who wish to use our data and tools, and who wish to contribute data and tools to grow the BDSP.
+The Clinical Data Animation Center (CDAC) brings medical data to life. Our research aims to help people preserve and enhance brain health. We are affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), [Massachusetts General Hospital](https://www.massgeneral.org/), and the [Broad Institute](https://www.broadinstitute.org/). Our research areas include sleep, dementia, epilepsy, delirium/encephalopathy, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, subarachnoid hemorrhage, and the neurophysiology of critical illness.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -78,6 +76,10 @@ Our approach emphasizes working with real clinical data from large and heterogen
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+We approach these problems by developing mathematical models to clarify risk-benefit tradeoffs in medical decision-making, predict neurologic outcomes in critical care settings; and automate central tasks in medicine previously performed only by clinical experts.
+
+Our research philosophy emphasizes working with real clinical data from large and heterogenous groups of patients, to ensure that our models perform well in the real world. To enable this research, we and our collaborators are creating the Brain Data Science Platform (BDSP), a massive cloud-based repository of clinical neurology data and code for conducting research. We welcome new collaborators who wish to use our data and tools, and who wish to contribute data and tools to grow the BDSP.
 
 Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and the McCance Center for Brain Health.
 

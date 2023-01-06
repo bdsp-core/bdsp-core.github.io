@@ -1,7 +1,7 @@
 ---
-title: "CCNL - Team"
+title: "CDAC - Team"
 layout: gridlay
-excerpt: "CCNL: Team members"
+excerpt: "CDAC: Team members"
 sitemap: false
 permalink: /team/
 ---

@@ -1,12 +1,12 @@
 ---
-title: "CCNL - Lab Values"
+title: "CDAC - Lab Values"
 layout: textlay
-excerpt: "CCNL - Lab Values"
+excerpt: "CDAC - Lab Values"
 sitemap: false
 permalink: /labvalues/
 ---
 
-# CCNL Lab Values and Expectations
+# CDAC Lab Values and Expectations
 This Values and Expectations Statement provides guidelines and implementation details about lab cultural values. This document outlines expectations for lab members in specific roles and guidelines for maintaining lab values, including collegiality, mentorship, diversity, inclusion, mental and physical wellbeing, safety, and scientific integrity.
 
 [Lab Values Statement | ](#lab-values-statement)
@@ -26,7 +26,7 @@ This Values and Expectations Statement provides guidelines and implementation de
 ### Lab Values Statement
 Each member of our lab brings something important to the team. We strive to create an environment where every lab member can achieve their full potential in the lab. Every voice should be heard. Diversity of thought and background are celebrated, and all are welcome. Respect for each other is integral to our lab culture.
 
-This document is shared publicly on our website to remind lab members of the type of environment the CCNL seeks to foster.
+This document is shared publicly on our website to remind lab members of the type of environment the CDAC seeks to foster.
 
 Text and ideas in places borrow heavily from
 https://hammondlab.mit.edu/labvalues/ and
@@ -44,7 +44,7 @@ _Postdocs, Fellows, and Medical Residents_
 As a postdoc, fellow, or medical resident you should be working toward scientific independence and the next stage of your career. I am ready to help with writing fellowship and grant applications, and big-picture project strategies and design. Postdocs are expected to master the technical, basic science, and medical literature related to their research area, act independently when drafting manuscripts, mentor and train junior members, and act as lab leaders. Depending on your career goals you may be more or less involved in grant applications as a key part of your training.
 
 _Undergraduates and other visiting students_  
-CCNL welcomes undergraduates and other visiting students to gain training in both research methods and the scientific process through working with graduate students or postdoc mentors. Undergraduates and visiting students are expected to come to the lab on the days and hours agreed upon and to be willing to learn and make corrections when given feedback. When the time comes for letters of recommendation, the student will be expected to prepare a first draft of the letter. Brandon and the direct mentor will work together to revise and finalize letters of recommendation.
+CDAC welcomes undergraduates and other visiting students to gain training in both research methods and the scientific process through working with graduate students or postdoc mentors. Undergraduates and visiting students are expected to come to the lab on the days and hours agreed upon and to be willing to learn and make corrections when given feedback. When the time comes for letters of recommendation, the student will be expected to prepare a first draft of the letter. Brandon and the direct mentor will work together to revise and finalize letters of recommendation.
 
 _Research Coordinators_  
 RCs are an integral part of the lab. They are expected to be thoroughly familiar with and to diligently execute laboratory protocols, to manage IRB responsibilities assigned to them, and to maintain data integrity, among other responsibilities. In most cases RCs will report to a fellow, senior PhD student, or a postdoc for day-to-day lab operations. I will gladly assist RCs in achieving their own career goals (e.g. meeting to discuss graduate school or medical school applications). RCs are valued members of the lab with the same level of participation as people in other roles. For example, they will receive the same types of general lab responsibilities, and are highly encouraged to take part in lab meetings and social events sponsored by the lab.
@@ -66,7 +66,7 @@ If you are struggling with a particular method or concept, it is preferable to a
 
 _Fellowship and commiseration_  
 Don’t forget to celebrate one another’s achievements, and don’t be afraid to share yours with the lab. They will be excited with you! By the same token, when you have a disappointing experimental result or receive a “rejection” on an application or manuscript, remember that your lab mates understand what you’re feeling, and are happy to provide empathy and advice.  
-[Back to Top](#ccnl-lab-values-and-expectations)
+[Back to Top](#cdac-lab-values-and-expectations)
 
 ### Mentorship and Onboarding New Members  
 There will be two designated Onboarding Stewards for the lab, who will assist with introductions and administrative onboarding tasks. In addition, I will assign a primary mentor for each new member of the lab. This mentor is responsible for ensuring that newer members of the lab feel welcome. New members may include graduate students, postdocs, visiting students and scientists and technicians/staff. The role of the primary mentor includes introducing the new member to the rest of the lab, providing a general overview of lab structure and organization, and ensuring new members are aware of policies laid out by the lab culture document. Mentors will also  extend lab social invitations, inform new members of all general lab knowledge (e.g. mailing lists, Slack, lab meetings, etc.), and answer questions related to lab culture, conduct, subgroup-specific protocols. In particular, if the newer lab member is a postdoc, medical resident or fellow, or first-year graduate student, I expect that mentors will include mentees on their projects to learn basic skills while the mentee is establishing their own research project direction. Over time, the mentee, in a collaborative process with input, guidance and approval from me, will be responsible for fully developing and driving their own research directions. If the mentee is a research coordinator (RC), mentors will engage them directly in their research projects and provide the background and technical context to the project. RCs are also encouraged to provide their own input and perspectives on the projects that they are working on in the lab and to work and act independently within the scope of their projects.
@@ -91,7 +91,7 @@ Diversity
 Lab members should recognize and appreciate the diversity of scientific and personal backgrounds of other lab members. Lab members are expected to have patience and understanding for different cultures and backgrounds and have an attitude of forgiveness towards misunderstandings or conflict. Diversity makes our lab stronger. Everyone has something to contribute and something to learn.
 
 _Inclusion_  
-In lab-sponsored or lab-centric social events, it is expected that the invitation be extended to all lab members. For example, the CCNL lab meeting is always open to all lab members.
+In lab-sponsored or lab-centric social events, it is expected that the invitation be extended to all lab members. For example, the CDAC lab meeting is always open to all lab members.
 
 _Lab Policy on Discrimination_  
 Lab members are expected to always show respect towards others. Lab members shall not discriminate or use any behavior or language that might be considered discriminatory. Lab members are expected to follow the discrimination policy outlined in the Harvard Handbook [LINK]. Our lab believes that kindness matters and lab members are expected to act accordingly.  

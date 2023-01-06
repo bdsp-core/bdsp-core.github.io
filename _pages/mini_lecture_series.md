@@ -11,5 +11,3 @@ permalink: /aoa.html
 Every Tuesday at 2PM EST.
 
 Email Wolfgang to be added to the mailing list. 
-
-dfghjkl

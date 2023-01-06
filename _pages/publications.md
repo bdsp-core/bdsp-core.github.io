@@ -1,7 +1,7 @@
 ---
-title: "CCNL + BDSP - Publications"
+title: "CDAC - Publications"
 layout: gridlay
-excerpt: "CCNL + BDSP - Publications."
+excerpt: "CDAC - Publications."
 sitemap: false
 permalink: /publications/
 ---

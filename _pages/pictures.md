@@ -1,7 +1,7 @@
 ---
-title: "CCNL + BDSP - Pictures"
+title: "CDAC - Pictures"
 layout: piclay
-excerpt: "CCNL + BDSP -- Pictures"
+excerpt: "CDAC -- Pictures"
 permalink: /pictures/
 ---
 

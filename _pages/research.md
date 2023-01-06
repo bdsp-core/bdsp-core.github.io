@@ -1,7 +1,7 @@
 ---
-title: "CCNL + BDSP - Research"
+title: "CDAC - Research"
 layout: textlay
-excerpt: "CCNL + BDSP - Research"
+excerpt: "CDAC - Research"
 sitemap: false
 permalink: /research/
 ---
