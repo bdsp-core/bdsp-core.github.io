@@ -1,103 +1,110 @@
-- name: Christine Eckhardt, MD  
-  photo: christineEckhardt.jpeg  
+- name: Christine Eckhardt, MD
+  photo: christineEckhardt.jpeg
   info: Neurocritical care fellow
   email: ceckhardt@partners.org
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital 
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
 
-- name: Marta Priscila Bento Fernandes, PhD    
-  photo: marta.jpeg         
-  info: Postdoctoral research fellow    
+- name: Marta Priscila Bento Fernandes, PhD
+  photo: marta.jpeg
+  info: Postdoctoral research fellow
   email: mbentofernandes@mgh.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital 
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
 
 - name: Yalda Amidi, PhD
   photo: yalda.png
   info: Postdoctoral fellow
   email: yamidi@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
-- name: Ruoqi Wei, MD, PhD 
-  photo: ruoqi.jpeg  
+- name: Ruoqi Wei, MD, PhD
+  photo: ruoqi.jpeg
   info: Postdoctoral fellow
   email: rwei@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
-- name: Wolfgang Ganglberger, MSc 
+- name: Wan Yee Kong, MD, MSc
+  photo: wanYeeKong.png
+  info: Epilepsy fellow
+  email: wkong@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+
+- name: Wolfgang Ganglberger, MSc
   photo: wolfgang.jpeg
-  info: PhD student 
+  info: PhD student
   email: wganglbe@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
-- name: Erik-Jan Meulenbrugge, MSc 
-  photo: erik-jan.jpeg 
-  info: Bioinformaticist 
+- name: Erik-Jan Meulenbrugge, MSc
+  photo: erik-jan.jpeg
+  info: Bioinformaticist
   email: wganglbe@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
 - name: Thijs Nassi, MSc
-  photo: thijs.jpeg  
-  info: PhD student 
+  photo: thijs.jpeg
+  info: PhD student
   email: tnassi@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
 - name: Ryan Tesh, BSc
-  photo: Ryan-Tesh.jpeg    
-  info: Research coordinator   
+  photo: Ryan-Tesh.jpeg
+  info: Research coordinator
   email: tnassi@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
-- name: Jayme Banks, BA 
-  photo: jayme.jpeg     
-  info: Research coordinator   
+- name: Jayme Banks, BA
+  photo: jayme.jpeg
+  info: Research coordinator
   email: jbanks4@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
-- name: Anika Zahoor, MD 
-  photo: anikaZahoor.jpeg     
-  info: Research Fellow   
+- name: Anika Zahoor, MD
+  photo: anikaZahoor.jpeg
+  info: Research Fellow
   email: azahoor@mgh.harvard.edu
   number_educ: 3
-  education1: Harvard Medical School 
+  education1: Harvard Medical School
   education2: Massachusetts General Hospital
-  education3: Beth Israel Deaconess Medical Center 
+  education3: Beth Israel Deaconess Medical Center
 
-- name: Kaileigh Gallagher, BSc 
-  photo: kaileigh.jpg    
-  info: Research coordinator   
+- name: Kaileigh Gallagher, BSc
+  photo: kaileigh.jpg
+  info: Research coordinator
   email: kgallagher23@mgh.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School 
-  education2: Beth Israel Deaconess Medical Center 
- 
-- name: Evi Dirks, BSc  
-  photo: eviDirks.jpeg 
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+
+- name: Evi Dirks, BSc
+  photo: eviDirks.jpeg
   info: Masters student
   email: e.h.m.dirks@student.utwente.nl
   number_educ: 1
-  education1: University of Twente 
+  education1: University of Twente
 
-- name: Mike Westmeijer 
+- name: Mike Westmeijer
   photo: mike_westmeijer.jpeg
   info: Medical student
   email: mwestmeijer@mgh.harvard.edu
   number_educ: 1
   education1: University Medical Center Utrecht
-
