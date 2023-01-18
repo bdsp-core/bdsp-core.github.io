@@ -543,3 +543,15 @@
   info: Neurologist, UCHealth University of Colorado Hospital
   number_educ: 1
   education1: In lab 2020-2021
+
+- name: <a href="https://www.linkedin.com/in/mattdintino/">Matt D'Intino, MSc</a>
+  photo: mattDintino.jpeg
+  info: Data Scientist at Meta
+  number_educ: 1
+  education1: In lab 2020-2022
+
+- name: <a href="">Cara Rathmell</a>
+  photo: caraRathmell.jpeg
+  info: Medical Student
+  number_educ: 1
+  education1: In lab 2021-2022
