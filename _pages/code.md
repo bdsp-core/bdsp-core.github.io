@@ -13,6 +13,8 @@ This lists code that is publicly available from CDAC.
 
 [**Rapid annotation of cEEGs.**](https://github.com/bdsp-core/Rapid_IIIC_Labeling_GUI) Code for efficient labeling of IIIC patterns.
 
+[**Interpretable Spike Detection.**](https://github.com/bdsp-core/IFCN6) Detection of spikes (IEDs) based on the IFCN6 (International Federation of Clinical Neurophysiology - 6 features of epileptiform discharges).
+
 [**MOCA.**](https://github.com/bdsp-core/MOCA) EEG analysis code for the Multimodal network connectivity architecture (MOCA) project.
 
 [**ABIEE.**](https://github.com/bdsp-core/ABIEE) Code for the Acute Brain Injury EEG and Epilepsy (ABIEE) project.
