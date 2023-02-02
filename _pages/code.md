@@ -25,4 +25,6 @@ This lists code that is publicly available from CDAC.
 
 [**HIV BAI.**](https://github.com/bdsp-core/HIV-BAI) Code for calculating BAI in people with HIV.
 
+[**Burst Suppression.**](https://github.com/bdsp-core/cdac-burst-suppression-data) Data for JZ's paper that shows the need for closed-loop control of burst suppression (_Variability in Pharmacologically-induced Coma for Treatment of Refractory Status Epilepticus_).
+
 [Back to Top](#  )
