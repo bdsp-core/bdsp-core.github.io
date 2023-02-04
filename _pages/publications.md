@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**A [full list of publications](https://www.ncbi.nlm.nih.gov/myncbi/m.%20brandon.westover.1/bibliography/public/) is available on PubMed.**
+**A full list of lab publications is available on [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/m.%20brandon.westover.1/bibliography/public/) or [Google scholar](https://scholar.google.com/citations?hl=en&user=helCG6IAAAAJ).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
