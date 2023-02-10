@@ -24,7 +24,10 @@ blockquote strong em {
 [Academics | ](#academics)
 [Computation | ](#computation)
 [Creativity | ](#creativity)
+[Culture | ](#culture)
 [Faith | ](#faith)
+[Absurdity | ](#absurdity)
+[Evil | ](#evil)
 [Passion | ](#passion)
 [Planning | ](#planning)
 [Psychology | ](#psychology)
@@ -65,6 +68,10 @@ blockquote strong em {
 >  
 > **-- _H. L. Mencken, 1880-1956_**  
 
+> The academic politician is interested in victory. He has the moral code of Machiavelli, but, because he is too impatient to submit to the instruction of history, he has not the old master’s shrewd sense of human limitations and contradictions. He makes the worst of rulers: he is neither a lover of truth, nor a practical man of the world, nor an habitual examiner of his all-too-human and persistent failings.  
+>  
+> **-- _Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
+
 [Back to Top](#  )
 
 
@@ -86,6 +93,15 @@ blockquote strong em {
 
 [Back to Top](#  )
 
+### Culture
+> What is the worst thing about living near an open sewer? It is not that you sicken at the stench of it every time you leave your front door. It is that the noisome vapors are so pervasive, and you have lived with them so long, you no longer notice it. What is the worst thing about living in the rubble of a civilization? It is not that you shed a tear for the noble churches and courts and town halls you once knew, as you recall years filled with religious services, parades, block parties, and all the bumptious folderol of an ordinary civic life. It is that you do not even suspect that such things existed.  
+>  
+> **-- _Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
+
+> If you are a really serious student, you will be in science, or finance, or politics—you will be in the business of money or power. Everything is about ourselves. We don’t want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, “Here, let me teach you about Milton,” the author of the greatest poem in the English language. The students reply, “No, let us teach you about us.” Dear Narcissus, there is a great and beautiful world beyond that pool.  
+>  
+> **-- _Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
+
 
 ### Faith
 > Roughly speaking, the word faith seems to be used by Christians in two senses or on two levels, and I will take them in turn. In the first sense it means simply belief—accepting or regarding as true the doctrines of Christianity. That is fairly simple. But what does puzzle people—at least it used to puzzle me—is the fact that Christians regard faith in this sense as a virtue. I used to ask how on Earth it can be a virtue—what is there moral or immoral about believing or not believing a set of statements? Obviously, I used to say, a sane man accepts or rejects any statement, not because he wants or does not want to, but because the evidence seems to him good or bad. If he were mistaken about the goodness or badness of the evidence, that would not mean he was a bad man, but only that he was not very clever. And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid.  
@@ -98,7 +114,31 @@ blockquote strong em {
 >  
 > **-- _C.S. Lewis, Mere Christianity, 1952._**
 
+> More than half a century ago, while I was still a child, I recall hearing a number of older people offer the following explanation for the great disasters that had befallen Russia: “Men have forgotten God; that’s why all this has happened.”  
+>  
+> Since then I have spent well-nigh 50 years working on the history of our Revolution; in the process I have read hundreds of books, collected hundreds of personal testimonies, and have already contributed eight volumes of my own toward the effort of clearing away the rubble left by that upheaval. But if I were asked today to formulate as concisely as possible the main cause of the ruinous Revolution that swallowed up some 60 million of our people, I could not put it more accurately than to repeat: “Men have forgotten God; that’s why all this has happened.”  
+>  
+> What is more, the events of the Russian Revolution can only be understood now, at the end of the century, against the background of what has since occurred in the rest of the world. What emerges here is a process of universal significance. And if I were called upon to identify briefly the principal trait of the entire 20th century, here too, I would be unable to find anything more precise and pithy than to repeat once again: “Men have forgotten God.” The failings of human consciousness, deprived of its divine dimension, have been a determining factor in all the major crimes of this century. The first of these was World War I, and much of our present predicament can be traced back to it. It was a war (the memory of which seems to be fading) when Europe, bursting with health and abundance, fell into a rage of self-mutilation which could not but sap its strength for a century or more, and perhaps forever. The only possible explanation for this war is a mental eclipse among the leaders of Europe due to their lost awareness of a Supreme Power above them. Only a godless embitterment could have moved ostensibly Christian states to employ poison gas, a weapon so obviously beyond the limits of humanity.  
+>  
+> **-- _Aleksandr Solzhenitsyn, "Godlessness: the First Step to the Gulag", Templeton Address, 1983_**
+
 [Back to Top](#  )
+
+### Absurdity
+> Where am I, or what? From what causes do I derive my existence, and to what condition shall I return? ... I am confounded with all these questions, and begin to fancy myself in the most deplorable condition imaginable, environed with the deepest darkness, and utterly deprived of the use of every member and faculty.  
+>  
+> Most fortunately it happens, that since Reason is incapable of dispelling these clouds, Nature herself suffices to that purpose, and cures me of this philosophical melancholy and delirium, either by relaxing this bent of mind, or by some avocation, and lively impression of my senses, which obliterate all these chimeras. I dine, I play a game of backgammon, I converse, and am merry with my friends. And when, after three or four hours' amusement, I would return to these speculations, they appear so cold, and strained, and ridiculous, that I cannot find in my heart to enter into them any farther.  
+>  
+> **--_David Hume, An Enquiry Concerning Human Understanding, 1748_**
+
+[Back to Top](#  )
+
+
+### Evil  
+
+
+[Back to Top](#  )
+
 
 
 ### Passion
