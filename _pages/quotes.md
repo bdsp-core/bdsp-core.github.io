@@ -135,7 +135,26 @@ blockquote strong em {
 
 
 ### Evil  
+> When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.  
+> 
+> **--_Mahatma Gandhi_**
 
+> If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?  
+>  
+> **--_Aleksandr Solzhenitsyn, The Gulag Archipelago 1918–1956_**
+
+> The trouble is that we have a bad habit, encouraged by pedants and sophisticates, of considering happiness as something rather stupid. Only pain is intellectual, only evil interesting. This is the treason of the artist; a refusal to admit the banality of evil and the terrible boredom of pain.  
+>  
+> **--_Ursula K. LeGuin, The Ones Who Walk Away from Omelas_**
+
+> The man who refuses to judge, who neither agrees nor disagrees, who declares that there are no absolutes and believes that he escapes responsibility, is the man responsible for all the blood that is now spilled in the world. Reality is an absolute, existence is an absolute, a speck of dust is an absolute and so is a human life. Whether you live or die is an absolute. Whether you have a piece of bread or not, is an absolute. Whether you eat your bread or see it vanish into a looter's stomach, is an absolute.  
+>  
+> There are two sides to every issue: one side is right and the other is wrong, but the middle is always evil. The man who is wrong still retains some respect for truth, if only by accepting the responsibility of choice. But the man in the middle is the knave who blanks out the truth in order to pretend that no choice or values exist, who is willing to sit out the course of any battle, willing to cash in on the blood of the innocent or to crawl on his belly to the guilty, who dispenses justice by condemning both the robber and the robbed to jail, who solves conflicts by ordering the thinker and the fool to meet each other halfway. In any compromise between food and poison, it is only death that can win. In any compromise between good and evil, it is only evil that can profit. In that transfusion of blood which drains the good to feed the evil, the compromise is the transmitting rubber tube.  
+> **--_Ayn Rand, Atlas Shrugged_**
+
+> When one with honeyed words but evil mind persuades the mob, great woes befall the state.  
+>  
+> **--_Euripides, Orestes_**
 
 [Back to Top](#  )
 
