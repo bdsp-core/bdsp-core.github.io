@@ -30,6 +30,7 @@ blockquote strong em {
 [Good and Evil | ](#good-and-evil)
 [Suffering | ](#suffering)
 [Love | ](#love)
+[Anger | ](#anger)
 [Passion | ](#passion)
 [Planning | ](#planning)
 [Psychology | ](#psychology)
@@ -292,6 +293,74 @@ blockquote strong em {
 
 [Back to Top](#  )
 
+
+### Anger
+> Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.  
+>  
+> **-_Psalm 37:8_**
+
+
+> A soft answer turneth away wrath: but grievous words stir up anger.  
+>  
+> **--_Proverbs 15:1, KJV_**
+
+> A fool uttereth all his mind: but a wise man keepeth it in till afterwards.  
+>  
+> **--_Proverbs 29:11, KJV_**
+
+>  Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath.  
+>  
+> *--_James 1:19, KJV_**
+
+> He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.    
+>  
+> **--_Proverbs 16:32, KJV_**
+
+> He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.  
+>  
+> **--_Proverbs 14:29, KJV_**
+
+> Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.  
+>  
+> **-_Ecclesiastes 7:9, KJV_**
+
+> The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.  
+>  
+> **--_Proverbs 17:14, KJV_**
+
+> Be not overcome of evil, but overcome evil with good.  
+>  
+> **--_Romans 12:21, KJV_**
+
+> Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment: But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire. Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee; Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.  
+>  
+> **--_Matthew 5:21-24, KJV_**
+
+> Fathers, do not provoke your children, lest they become discouraged.  
+>  
+> **--_> Colossians 3:21, KJV_**
+
+> Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.  
+>  
+> **--_Ephesians 4:29, KJV_**
+
+> Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.  
+>  
+> **--_Matthew 7:12, KJV_**
+
+> And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.  
+>  
+> **--_Matthew 7:3-5, KJV_**
+
+>  If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest.  
+>  
+> **--_Proverbs 29:9, KJV_**
+
+> Be angry and do not sin; do not let the sun go down on your anger.  
+>  
+> **--_Ephesians 4:26 ESV_**
+
+[Back to Top](#  )
 
 ### Passion
 > I would rather be ashes than dust!
