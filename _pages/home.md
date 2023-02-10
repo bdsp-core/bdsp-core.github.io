@@ -22,6 +22,9 @@ The Clinical Data Animation Center (CDAC) brings medical data to life. Our resea
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flames.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wordcloud.png" alt="Slide 3" style="height: 300px !important" />
+    </div>
+    <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starfish.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
     </div>
     <div class="item">
