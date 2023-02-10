@@ -27,7 +27,9 @@ blockquote strong em {
 [Culture | ](#culture)
 [Faith | ](#faith)
 [Absurdity | ](#absurdity)
-[Evil | ](#evil)
+[Good and Evil | ](#good-and-evil)
+[Suffering | ](#suffering)
+[Love | ](#love)
 [Passion | ](#passion)
 [Planning | ](#planning)
 [Psychology | ](#psychology)
@@ -102,6 +104,13 @@ blockquote strong em {
 >  
 > **-- _Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
 
+> The world says: "You have needs -- satisfy them. You have as much right as the rich and the mighty. Don't hesitate to satisfy your needs; indeed, expand your needs and demand more." This is the worldly doctrine of today. And they believe that this is freedom. The result for the rich is isolation and suicide, for the poor, envy and murder.  
+>  
+> **―-_Fyodor Dostoyevsky, The Brothers Karamazov_**
+
+[Back to Top](#  )
+
+
 
 ### Faith
 > Roughly speaking, the word faith seems to be used by Christians in two senses or on two levels, and I will take them in turn. In the first sense it means simply belief—accepting or regarding as true the doctrines of Christianity. That is fairly simple. But what does puzzle people—at least it used to puzzle me—is the fact that Christians regard faith in this sense as a virtue. I used to ask how on Earth it can be a virtue—what is there moral or immoral about believing or not believing a set of statements? Obviously, I used to say, a sane man accepts or rejects any statement, not because he wants or does not want to, but because the evidence seems to him good or bad. If he were mistaken about the goodness or badness of the evidence, that would not mean he was a bad man, but only that he was not very clever. And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid.  
@@ -131,10 +140,32 @@ blockquote strong em {
 >  
 > **--_David Hume, An Enquiry Concerning Human Understanding, 1748_**
 
+> Most people feel on occasion that life is absurd, and some feel it vividly and continually. Yet the reasons usually offered in defense of this conviction are patently inadequate: they could not really explain why life is absurd. Why then do they provide a natural expression for the sense that it is?  
+>  
+> What we say to convey the absurdity of our lives often has to do with space or time: we are tiny specks in the infinite vastness of the universe; our lives are mere instants even on a geological time scale, let alone a cosmic one; we will all be dead any minute. But of course none of these evident facts can be what makes life absurd, if it is absurd. For suppose we lived forever; would not a life that is absurd if it lasts seventy years be infinitely absurd if it lasted through eternity? And if our lives are absurd given our present size, why would they be any less absurd if we filled the universe (either because we were larger or because the universe was smaller)? Reflection on our minuteness and brevity appears to be intimately connected with the sense that life is meaningless; but it is not clear what the connection is...  
+>   
+> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
+1971_**
+
+> We cannot live human lives without energy and attention, nor without making choices which show that we take some things more seriously than others. Yet we have always available a point of view outside the particular form of our lives, from which the seriousness appears gratuitous. These two inescapable viewpoints collide in us, and that is what makes life absurd. It is absurd because we ignore the doubts that we know cannot be settled, continuing to live with nearly undiminished seriousness in spite of them.  
+>   
+> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
+1971_**
+
+> In ordinary life a situation is absurd when it includes a conspicuous discrepancy between pretension or aspiration and reality: someone gives a complicated speech in support of a motion that has already been passed; a notorious criminal is made president of a major philanthropic foundation; you declare your love over the telephone to a recorded announcement; as you are being knighted, your pants fall down.  
+>   
+> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
+1971_**
+
+> If a sense of the absurd is a way of perceiving our true situation (even though the situation is not absurd until the perception arises), then what reason can we have to resent or escape it? Like the capacity for epistemological skepticism, it results from the ability to understand our human limitations. It need not be a matter for agony unless we make it so. Nor need it evoke a defiant contempt of fate that allows us to feel brave or proud. Such dramatics, even if carried on in private, betray a failure to appreciate the cosmic unimportance of the situation. If sub specie aeternitatis there is no reason to believe that anything matters, then that doesn't matter either, and we can approach our absurd lives with irony instead of heroism or despair.  
+>   
+> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
+1971_**
+
 [Back to Top](#  )
 
 
-### Evil  
+### Good and Evil  
 > When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.  
 > 
 > **--_Mahatma Gandhi_**
@@ -156,8 +187,110 @@ blockquote strong em {
 >  
 > **--_Euripides, Orestes_**
 
+> Now I know the full power of evil. It makes ugliness seem beautiful and goodness seem ugly and weak.  
+>  
+> **--_August Strindberg_**
+
+> There is evil in every human heart, which may remain latent, perhaps, through the whole of life; but circumstances may rouse it to activity.  
+>  
+> **--_Nathaniel Hawthorne_**
+
+> When evil men plot, good men must plan. When evil men burn and bomb, good men must build and bind. When evil men shout ugly words of hatred, good men must commit themselves to the glories of love.  
+> 
+> **--_Martin Luther King, Jr_**
+
+> Nothing is easier than to denounce the evildoer; nothing is more difficult than to understand him.  
+> 
+> **--_Fyodor Dostoevsky (1821 - 1881), Crime and Punishment_**
+
+> He has shown you, O man, what is good; and what does the Lord require of you but to do justly, to love mercy and to walk humbly with your God.  
+>  
+>  **--_Micah 6:8_**
+
+> Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.  
+>  
+>  **--_Fyodor Dostoevsky (1821 - 1881), The Brothers Karamazov_**
+
+> People speak sometimes about the "bestial" cruelty of man, but that is terribly unjust and offensive to beasts, no animal could ever be so cruel as a man, so artfully, so artistically cruel.  
+>  
+> **--_Fyodor Dostoyevsky_**
+
+> If you wish to glimpse inside a human soul and get to know a man, don't bother analyzing his ways of being silent, of talking, of weeping, of seeing how much he is moved by noble ideas; you will get better results if you just watch him laugh. If he laughs well, he's a good man.  
+>  
+> **--_Fyodor Dostoevsky_**
+
+> It is not the brains that matter most, but that which guides them — the character, the heart, generous qualities, progressive ideas.  
+>  
+>  **--_Fyodor Dostoevsky_**
+
 [Back to Top](#  )
 
+### Suffering
+> What is hell? I maintain that it is the suffering of being unable to love.  
+>  
+>  **--_Fyodor Dostoevsky, The Brothers Karamazov_**
+
+> The soul is healed by being with children.  
+>  
+>  **--_Fyodor Dostoevsky_**
+
+> Man is sometimes extraordinarily, passionately, in love with suffering.  
+>  
+> **--_Fyodor Dostoevsky_**
+
+[Back to Top](#  )
+
+
+### Love 
+>  A sudden impulse seemed to come into his [Alyosha's] soul. With a serious and earnest expression he looked from one to another of the bright, pleasant faces of Ilusha’s schoolfellows, and suddenly said to them:  
+>  
+> “Boys, I should like to say one word to you, here at this place.”  
+>  
+>  The boys stood round him and at once bent attentive and expectant eyes upon him.
+>  
+>  “Boys, we shall soon part. I shall be for some time with my two brothers, of whom one is going to Siberia and the other is lying at death’s door. But soon I shall leave this town, perhaps for a long time, so we shall part. Let us make a compact here, at Ilusha’s stone, that we will never forget Ilusha and one another. And whatever happens to us later in life, if we don’t meet for twenty years afterwards, let us always remember how we buried the poor boy at whom we once threw stones, do you remember, by the bridge? and afterwards we all grew so fond of him. He was a fine boy, a kindhearted, brave boy, he felt for his father’s honor and resented the cruel insult to him and stood up for him. And so in the first place, we will remember him, boys, all our lives. And even if we are occupied with most important things, if we attain to honor or fall into great misfortune—still let us remember how good it was once here, when we were all together, united by a good and kind feeling which made us, for the time we were loving that poor boy, better perhaps than we are. My little doves—let me call you so, for you are very like them, those pretty blue birds, at this minute as I look at your good dear faces. My dear children, perhaps you won’t understand what I am saying to you, because I often speak very unintelligibly, but you’ll remember it all the same and will agree with my words some time. You must know that there is nothing higher and stronger and more wholesome and good for life in the future than some good memory, especially a memory of childhood, of home. People talk to you a great deal about your education, but some good, sacred memory, preserved from childhood, is perhaps the best education. If a man carries many such memories with him into life, he is safe to the end of his days, and if one has only one good memory left in one’s heart, even that may sometime be the means of saving us. Perhaps we may even grow wicked later on, may be unable to refrain from a bad action, may laugh at men’s tears and at those people who say as Kolya did just now, ‘I want to suffer for all men,’ and may even jeer spitefully at such people. But however bad we may become—which God forbid—yet, when we recall how we buried Ilusha, how we loved him in his last days, and how we have been talking like friends all together, at this stone, the cruelest and most mocking of us—if we do become so—will not dare to laugh inwardly at having been kind and good at this moment! What’s more, perhaps, that one memory may keep him from great evil and he will reflect and say, ‘Yes, I was good and brave and honest then!’ Let him laugh to himself, that’s no matter, a man often laughs at what’s good and kind. That’s only from thoughtlessness. But I assure you, boys, that as he laughs he will say at once in his heart, ‘No, I do wrong to laugh, for that’s not a thing to laugh at.’”
+> 
+> “That will be so, I understand you, Karamazov!” cried Kolya, with flashing eyes.
+> 
+> The boys were excited and they, too, wanted to say something, but they restrained themselves, looking with intentness and emotion at the speaker.
+> 
+> “I say this in case we become bad,” Alyosha went on, “but there’s no reason why we should become bad, is there, boys? Let us be, first and above all, kind, then honest and then let us never forget each other! I say that again. I give you my word for my part that I’ll never forget one of you. Every face looking at me now I shall remember even for thirty years. Just now Kolya said to Kartashov that we did not care to know whether he exists or not. But I cannot forget that Kartashov exists and that he is not blushing now as he did when he discovered the founders of Troy, but is looking at me with his jolly, kind, dear little eyes. Boys, my dear boys, let us all be generous and brave like Ilusha, clever, brave and generous like Kolya (though he will be ever so much cleverer when he is grown up), and let us all be as modest, as clever and sweet as Kartashov. But why am I talking about those two? You are all dear to me, boys, from this day forth, I have a place in my heart for you all, and I beg you to keep a place in your hearts for me! Well, and who has united us in this kind, good feeling which we shall remember and intend to remember all our lives? Who, if not Ilusha, the good boy, the dear boy, precious to us forever! Let us never forget him. May his memory live forever in our hearts from this time forth!”
+> 
+> “Yes, yes, forever, forever!” the boys cried in their ringing voices, with softened faces.
+> 
+> “Let us remember his face and his clothes and his poor little boots, his coffin and his unhappy, sinful father, and how boldly he stood up for him alone against the whole school.”
+> 
+> “We will remember, we will remember,” cried the boys. “He was brave, he was good!”
+> 
+> “Ah, how I loved him!” exclaimed Kolya.
+> 
+> “Ah, children, ah, dear friends, don’t be afraid of life! How good life is when one does something good and just!”
+> 
+“Yes, yes,” the boys repeated enthusiastically.
+> 
+> “Karamazov, we love you!” a voice, probably Kartashov’s, cried impulsively.
+> 
+> “We love you, we love you!” they all caught it up. There were tears in the eyes of many of them.
+> 
+“Hurrah for Karamazov!” Kolya shouted ecstatically.
+> 
+> “And may the dead boy’s memory live forever!” Alyosha added again with feeling.
+> 
+“For ever!” the boys chimed in again.
+> 
+> “Karamazov,” cried Kolya, “can it be true what’s taught us in religion, that we shall all rise again from the dead and shall live and see each other again, all, Ilusha too?”
+> 
+> “Certainly we shall all rise again, certainly we shall see each other and shall tell each other with joy and gladness all that has happened!” Alyosha answered, half laughing, half enthusiastic.
+> 
+> “Ah, how splendid it will be!” broke from Kolya.
+> 
+> “Well, now we will finish talking and go to his funeral dinner. Don’t be put out at our eating pancakes—it’s a very old custom and there’s something nice in that!” laughed Alyosha. “Well, let us go! And now we go hand in hand.”
+> 
+> “And always so, all our lives hand in hand! Hurrah for Karamazov!” Kolya cried once more rapturously, and once more the boys took up his exclamation: “Hurrah for Karamazov!”
+> 
+> **--_Dostoyevsky, The Brothers Karamozov, Ilusha’s Funeral. The Speech at the Stone_**
+
+[Back to Top](#  )
 
 
 ### Passion
@@ -193,6 +326,10 @@ I shall use my time.
 > "The world is continuous, but the mind is discrete."
 >  
 > **--_David Mumford, ICM 2002 plenary talk, Aug. 21, 2002_**
+
+> Don’t let us forget that the causes of human actions are usually immeasurably more complex and varied than our subsequent explanations of them.  
+>  
+> **--_Fyodor Dostoevsky, The Idiot_**
 
 [Back to Top](#  )
 
