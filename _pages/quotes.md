@@ -26,6 +26,9 @@ blockquote strong em {
 [Creativity | ](#creativity)
 [Culture | ](#culture)
 [Faith | ](#faith)
+[Meaning | ](#meaning)
+[Beauty | ](#beauty)
+[Happiness | ](#happiness)
 [Absurdity | ](#absurdity)
 [Good and Evil | ](#good-and-evil)
 [Suffering | ](#suffering)
@@ -43,6 +46,7 @@ blockquote strong em {
 [Math Jokes | ](#math-jokes)
 [Philosophy | ](#philosophy)
 [Philosophical jokes | ](#philosophical-jokes)
+[Uncertainty | ](#uncertainty)
 [Probability | ](#probability)
 [Probability + Statistics jokes | ](#probability-and-statistics-jokes)
 
@@ -75,6 +79,10 @@ blockquote strong em {
 >  
 > **-- _Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
 
+>. And further, by these, my son, be admonished: of making many books there is no end; and much astudy is a weariness of the flesh.  
+>. 
+> **--_Ecclesiastes 12:12_**
+
 [Back to Top](#  )
 
 
@@ -94,12 +102,21 @@ blockquote strong em {
 >  
 > **-- _J. K. Rowling_**
 
+> “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”  
+>  
+> --**_Richard Feynmann_**
+
 [Back to Top](#  )
 
 ### Culture
 > What is the worst thing about living near an open sewer? It is not that you sicken at the stench of it every time you leave your front door. It is that the noisome vapors are so pervasive, and you have lived with them so long, you no longer notice it. What is the worst thing about living in the rubble of a civilization? It is not that you shed a tear for the noble churches and courts and town halls you once knew, as you recall years filled with religious services, parades, block parties, and all the bumptious folderol of an ordinary civic life. It is that you do not even suspect that such things existed.  
 >  
 > **-- _Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
+
+> No society has been able to abolish human sadness, no political system can deliver us from the pain of living, from our fear of death, our thirst for the absolute. It is the human condition that directs the social condition, not vice versa.  
+> 
+> **--_Eugene Ionesco_**
+
 
 > If you are a really serious student, you will be in science, or finance, or politics—you will be in the business of money or power. Everything is about ourselves. We don’t want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, “Here, let me teach you about Milton,” the author of the greatest poem in the English language. The students reply, “No, let us teach you about us.” Dear Narcissus, there is a great and beautiful world beyond that pool.  
 >  
@@ -134,7 +151,72 @@ blockquote strong em {
 
 [Back to Top](#  )
 
+### Meaning
+> “Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”  
+>  
+> **-―_Richard P. Feynman, 1918-1988_**
+[Back to Top](#  )
+
+### Beauty
+> “I have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.”  
+>  
+> **--_Richard P. Feynman, The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman_**
+
+> “A poet once said, 'The whole universe is in a glass of wine.' We will probably never know in what sense he meant it, for poets do not write to be understood. But it is true that if we look at a glass of wine closely enough we see the entire universe. There are the things of physics: the twisting liquid which evaporates depending on the wind and weather, the reflection in the glass; and our imagination adds atoms. The glass is a distillation of the earth's rocks, and in its composition we see the secrets of the universe's age, and the evolution of stars. What strange array of chemicals are in the wine? How did they come to be? There are the ferments, the enzymes, the substrates, and the products. There in wine is found the great generalization; all life is fermentation. Nobody can discover the chemistry of wine without discovering, as did Louis Pasteur, the cause of much disease. How vivid is the claret, pressing its existence into the consciousness that watches it! If our small minds, for some convenience, divide this glass of wine, this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it! So let us put it all back together, not forgetting ultimately what it is for. Let it give us one more final pleasure; drink it and forget it all!”  
+>  
+> **-―_Richard P. Feynman, 1918-1988_**
+
+>  “Poets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?”  
+>    
+> **-―_Richard Feynman, 1918-1988_**
+
+
+[Back to Top](#  )
+
+### Happiness
+> The true secret of happiness lies in taking a genuine interest in all the details of daily life.  
+> 
+> **--_William Morris_**
+
+[Back to Top](#  )
+
+
 ### Absurdity
+
+> Cut off from his religious, metaphysical and transcendental roots, man is lost; all his actions become senseless, absurd, useless.  
+> 
+> **--_Eugene Ionesco, 1912-1994_**
+
+> Those who can make you believe absurdities, can make you commit atrocities.  
+> 
+> **—-_Voltaire, 1694-1778_**
+
+> There is nothing so absurd that it has not been said by some philosopher.  
+> 
+> **—-_Cicero, 106-43 BC_**
+
+> Death is there as irrefutable proof of the absurdity of life.  
+> 
+> **—-_André Malraux, 1901-1976_**
+
+> At any street corner the feeling of absurdity can strike any man in the face.  
+> 
+> This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.
+> 
+> **-—_Albert Camus, 1913-1960_**
+
+> Take away paradox from the thinker and you have a professor.  
+> 
+> **—-_Søren Kierkegaard, 1813-1855_**
+
+> To me, absurdity is the only reality.  
+> 
+> **—-_Frank Zappa, 1940-1993_**
+
+> From the sublime to the ridiculous is but a step.  
+> 
+> **—-_Napoleon, 1769-1821_**
+
 > Where am I, or what? From what causes do I derive my existence, and to what condition shall I return? ... I am confounded with all these questions, and begin to fancy myself in the most deplorable condition imaginable, environed with the deepest darkness, and utterly deprived of the use of every member and faculty.  
 >  
 > Most fortunately it happens, that since Reason is incapable of dispelling these clouds, Nature herself suffices to that purpose, and cures me of this philosophical melancholy and delirium, either by relaxing this bent of mind, or by some avocation, and lively impression of my senses, which obliterate all these chimeras. I dine, I play a game of backgammon, I converse, and am merry with my friends. And when, after three or four hours' amusement, I would return to these speculations, they appear so cold, and strained, and ridiculous, that I cannot find in my heart to enter into them any farther.  
@@ -224,6 +306,26 @@ blockquote strong em {
 >  
 >  **--_Fyodor Dostoevsky_**
 
+> Looking back, I saw that for my whole conscious life I had not understood either myself or my strivings. What had seemed for so long beneficial now turned out in actuality to be fatal, and I had been striving to go in the opposite direction to that which was truly necessary to me. But just as the waves of the sea knock the inexperienced swimmer off his feet and keep tossing him back on to the shore, so also was I painfully tossed back on dry land by the blows of misfortune. And it was only because of this that I was able to travel the path which I had always really wanted to travel. It was granted me to carry away from my prison years on my bent back, which nearly broke beneath its load, this essential experience: how a human being becomes evil and how good.  
+>  
+> In the intoxication of youthful successes I had felt myself to be infallible, and I was therefore cruel. In the surfeit of power I was a murderer and an oppressor. In my most evil moments I was convinced that I was doing good, and I was well supplied with systematic arguments. And it was only when I lay there rotting on prison straw that I sensed within myself the first stirrings of good. Gradually it was disclosed to me that the line separating good and evil passes not through states, nor between classes, nor between political parties either – but right through every human heart – and through all human hearts. This line shifts. Inside us it oscillates with the years. And even within the hearts overwhelmed with evil, one small bridgehead of good is retained. And even in the best of all hearts, there remains…an un-uprooted small corner of evil.  
+> 
+> Since then I have come to understand the truth of all the religions of the world: They struggle with the evil inside a human being (inside every human being). It is impossible to expel evil from the world in its entirety, but it is possible to constrict it within each person.  
+> 
+> “Bless you, prison, for having been in my life!”   
+> 
+> **--_Aleksandr Solzhenitsyn, 1918-2008, The Gulag Archipelago_**
+
+> Then the lion said - but I don't know if it spoke – ‘You will have to let me undress you.’ I was afraid of his claws, I can tell you, but I was pretty nearly desperate now. So I just lay flat down on my back to let him do it.  
+> 
+> The very first tear he made was so deep that I thought it had gone right into my heart. And when he began pulling the skin off, it hurt worse than anything I've ever felt. The only thing that made me able to bear it was just the pleasure of feeling the stuff peel off. You know - if you've ever picked the scab off a sore place. It hurts like billy-oh but it is such fun to see it coming away.  
+> 
+> Well, he peeled the beastly stuff right off ... And there was I as smooth and soft as a peeled switch and smaller than I had been. Then he caught hold of me - I didn't like that much for I was very tender underneath now that I'd no skin on - and threw me into the water. It smarted like anything but only for a moment. After that it became perfectly delicious and as soon as I started swimming and splashing I found that all the pain had gone from my arm. And then I saw why. I'd turned into a boy again...  
+> 
+> **--_Eustace Scrubb in C. S. Lewis, The Voyage of the Dawn Treader_** 
+
+
+
 [Back to Top](#  )
 
 ### Suffering
@@ -238,6 +340,10 @@ blockquote strong em {
 > Man is sometimes extraordinarily, passionately, in love with suffering.  
 >  
 > **--_Fyodor Dostoevsky_**
+
+> There is no religion in which everyday life is not considered a prison; there is no philosophy or ideology that does not think that we live in alienation.  
+> 
+> **--_Eugene Ionesco_**
 
 [Back to Top](#  )
 
@@ -290,6 +396,14 @@ blockquote strong em {
 > “And always so, all our lives hand in hand! Hurrah for Karamazov!” Kolya cried once more rapturously, and once more the boys took up his exclamation: “Hurrah for Karamazov!”
 > 
 > **--_Dostoyevsky, The Brothers Karamozov, Ilusha’s Funeral. The Speech at the Stone_**
+
+> “The highest forms of understanding we can achieve are laughter and human compassion.”  
+>  
+> **-―_Richard P. Feynman_**
+
+> “Physics isn't the most important thing. Love is.”  
+>  
+> **-―_Richard P. Feynman_**
 
 [Back to Top](#  )
 
@@ -380,6 +494,10 @@ I shall use my time.
 >  
 > **--_Mark Twain, 1835-1910_**
 
+> “Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.”  
+>   
+> **--_Richard P. Feynman_**
+
 [Back to Top](#  )
 
 
@@ -404,16 +522,23 @@ I shall use my time.
 
 
 ### Science
-> "The most beautiful experience is the mysterious. It is the source of true art and science."
-"Everything should be made as simple as possible, but not simpler."
-"Pure mathematics is, in its way, the poetry of logical ideas."
-"Not everything that can be counted counts, and not everything that counts can be counted."
-"Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater."
-"I never think of the future--it comes soon enough."
-"Imagination is more important than knowledge."
-"It's not that I'm so smart. It's just that I spent more time on problems."
->  
+> "The most beautiful experience is the mysterious. It is the source of true art and science."  
+> "Everything should be made as simple as possible, but not simpler."  
+> "Pure mathematics is, in its way, the poetry of logical ideas."  
+> "Not everything that can be counted counts, and not everything that counts can be counted."  
+> "Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater."  
+> "I never think of the future--it comes soon enough."  
+> "Imagination is more important than knowledge."  
+> "It's not that I'm so smart. It's just that I spent more time on problems."  
+>   
 > **--_Albert Einstein, 1879-1955_**
+
+> “The first principle is that you must not fool yourself and you are the easiest person to fool.”
+>  
+> **-―_Richard P. Feynman, 1918-1988_**
+
+> “I learned very early the difference between knowing the name of something and knowing something.”  
+> **-―_Richard P. Feynman, 1918-1988_**
 
 > "I have not failed. I've just found 10,000 ways that won't work."
 >  
@@ -433,7 +558,7 @@ I shall use my time.
 >
 > **--_Buckminster Fuller, 1895-1983_**
 
-> "Philosophy is written in this grand book--I mean the universe--which stands continually open to our glaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures, without which it is humanly impossible to understand a single word of it."
+> "Philosophy is written in this grand book--I mean the universe--which stands continually open to our gaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures, without which it is humanly impossible to understand a single word of it."
 >
 >  **--_Galileo Galilei, Il Saggiatore, 1623_**
 
@@ -500,6 +625,10 @@ I shall use my time.
 > "We've taught you that the earth is round, That red and white make pink, And something else that matters more -- We've taught you how to think."
 >
 > **--_Dr. Seuss, Hooray for Diffendoofer Day_**
+
+>  “I don't know what's the matter with people: they don't learn by understanding, they learn by some other way — by rote or something. Their knowledge is so fragile!”  
+>  
+> **-―_Richard Feynman, 1918-1988_**
 
 [Back to Top](#  )
 
@@ -578,7 +707,7 @@ I shall use my time.
 
 >Suppose that you want to teach the 'cat' concept to a very young child. Do you explain that a cat is a relatively small, primarily carnivorous mammal with retractible claws, a distinctive sonic output, etc.? I'll bet not. You probably show the kid a lot of different cats, saying 'kitty' each time, until it gets the idea. To put it more generally, generalizations are best made by abstraction from experience.
 >
-> **--_R. P. Boas, From: Can we make mathematics inelligible?, American Mathematical Monthly 88 (1981), pp. 727-731_**
+> **--_R. P. Boas, From: "C"an we make mathematics inelligible?", American Mathematical Monthly 88 (1981), pp. 727-731_**
 
 > Mathematics as we know it and as it has come to shape modern science could never have come into being without some disregard for the dangers of the infinite.
 >
@@ -758,6 +887,27 @@ Lisa: Well, where's my dad?
 > It is an important and popular fact that things are not always as what they seem. For instance, on the planet earth, man has always assumed that he was more intelligent than dolphins because he had achieved so much: the wheel, New York, wars. [...] But conversely, the dolphins had always believed that they were far more intelligent than men; for precisely the same reasons.
 >
 > **--_Douglas Adams, The hitchhiker's guide to the galaxy_**
+
+> God is dead. Marx is dead. And I don’t feel so well myself.  
+> 
+> **--_Eugene Ionesco, 1912-1994_**
+
+[Back to Top](#  )
+
+### Uncertainty
+> “I think it's much more interesting to live not knowing than to have answers which might be wrong. I have approximate answers and possible beliefs and different degrees of uncertainty about different things, but I am not absolutely sure of anything and there are many things I don't know anything about, such as whether it means anything to ask why we're here. I don't have to know an answer. I don't feel frightened not knowing things, by being lost in a mysterious universe without any purpose, which is the way it really is as far as I can tell.”  
+>  
+> “I would rather have questions that can't be answered than answers that can't be questioned.”  
+>  
+> “I think it's much more interesting to live not knowing than to have answers which might be wrong.”  
+>  
+> “If you thought that science was certain - well, that is just an error on your part.”  
+>  
+> **--_Richard P. Feynman, 1918-1988_**
+
+> “I can live with doubt and uncertainty and not knowing. I think it is much more interesting to live not knowing than to have answers that might be wrong. If we will only allow that, as we progress, we remain unsure, we will leave opportunities for alternatives. We will not become enthusiastic for the fact, the knowledge, the absolute truth of the day, but remain always uncertain … In order to make progress, one must leave the door to the unknown ajar.”  
+>  
+> **--_Richard P. Feynman, 1918-1988_**  
 
 [Back to Top](#  )
 
