@@ -13,6 +13,11 @@ Harvard Medical School
 Beth Israel Deaconess Medical Center (BIDMC)  
 Office: BIDMC, 444 Kirstein, 330 Brookline Ave, Boston, MA 02215, USA
 
+[Affiliations | ](#affiliations)
+[Bio | ](#bio)
+[CV | ]({{ site.baseurl }}/downloads/1-Westover_HMS_CV-2023-01-06.pdf)
+[Quote collection](/quotes/)
+
 ### Affiliations
 [BIDMC Neurology Department](https://www.bidmc.org/centers-and-departments/neurology/)  
 [MGH McCance Center for Brain Health, Director of Data Science](https://www.massgeneral.org/neurology/mccance-center/)  
@@ -24,7 +29,3 @@ Office: BIDMC, 444 Kirstein, 330 Brookline Ave, Boston, MA 02215, USA
 
 ### Bio
 M. Brandon Westover, MD, PhD is the Emily Fisher Landau Professor of Neurology at Harvard Medical School. He earned his PhD in Physics working in the field of information theory. He is a board-certified Neurologist and Clinical Neurophysiologist practicing at Beth Israel Deaconess Medical Center, where he directs the Critical Care EEG Monitoring Service. His research group, the Clinical Data Animation Center, develops machine learning approaches to improve medical care for patients with neurological problems including anoxic brain injury, seizures, cerebral ischemia, delirium, and sleep disorders. He is a co-producer of EEGTalk, author of Pocket Neurology and Atlas of Intensive Care Quantitative EEG, and co-founder of Beacon Biosignals.  
-[Full CV]({{ site.baseurl }}/downloads/1-Westover_HMS_CV-2023-01-06.pdf)
-
-### Fun things
-<a href="/quotes/">Quote collection<a/>
