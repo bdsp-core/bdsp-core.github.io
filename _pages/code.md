@@ -31,4 +31,6 @@ This lists code that is publicly available from CDAC.
 
 [**Burst Suppression.**](https://github.com/bdsp-core/cdac-burst-suppression-data) Data for JZ's paper that shows the need for closed-loop control of burst suppression (_Variability in Pharmacologically-induced Coma for Treatment of Refractory Status Epilepticus_).
 
+[**VE-CAM-S**](https://github.com/bdsp-core/VE-CAM-S) Code for traning the [VE-CAM-S model](https://pubmed.ncbi.nlm.nih.gov/35072078/) for scoring the severity of delirium from EEG. 
+
 [Back to Top](#  )
