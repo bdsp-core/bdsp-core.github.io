@@ -3,7 +3,7 @@
   description: We designed an algorithm to identify five fiducial landmarks, and from these to quantify the six IFCN features of IEDs. We trained a simple model with these features to quantify the probability that the waveform is epileptiform and incorporated into a user-friendly interface. **The interface is available [here](https://github.com/bdsp-core/IFCN6)**. This model may assist clinical electroencephalographers in deciding whether candidate waveforms are epileptiform and may assist trainees learn to identify IEDs.
   authors: Nascimento FA, Barfuss JD, Jaffe A, M. Brandon Westover, Jing J.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36473334/
+    url: /downloads/1-vestibularSystem-2002.pdf
     display: "Clin Neurophysiol. 2022 Nov 17;146:10-17. doi: 10.1016/j.clinph.2022.10.018. Epub ahead of print. PMID: 36473334."
   highlight: 1
 
@@ -12,7 +12,7 @@
   description: CAR-T cell therapy is an effective cancer therapy for multiple refractory/relapsed hematologic malignancies but is associated with substantial toxicity, including Immune Effector Cell Associated Neurotoxicity Syndrome (ICANS). We developed the Visual EEG-ICANS (VE-ICANS) grading scale, a grading scale with a physiological basis that has a strong correlation to ICANS severity. VE-ICANS shows promise as a biomarker for ICANS which could help to improve clinical care through greater accuracy in assessing ICANS severity.
   authors: Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C, Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, Westover MB.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36414694/
+    url: /downloads/2-icans-eeg-grading.pdf
     display: "Sci Rep. 2022 Nov 21;12(1):20011. doi: 10.1038/s41598-022-24010-1. PMID: 36414694; PMCID: PMC9681864."
   highlight: 1
 
@@ -30,7 +30,7 @@
   description: We developed a visual physiologic grading system for the severity of acute encephalopathy manifesting as delirium or coma based on EEG, and investigated its association with clinical outcomes, using data from 406 acutely ill hospitalized patients. Our scale, the "Visual EEG-based Confusion Assessment Method Severity scale (VE-CAM-S) correlates strongly with the CAM-S clinical assessment scale, and with important clinical outcomes including inhospital mortality and level of neurologic disability after hospital discharge.
   authors: Tesh RA, Sun H, Jing J, Westmeijer M, Neelagiri A, Rajan S, Krishnamurthy PV, Sikka P, Quadri SA, Leone MJ, Paixao L, Panneerselvam E, Eckhardt C, Struck AF, Kaplan PW, Akeju O, Jones D, Kimchi EY, Westover MB.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35072078/
+    url: /downloads/3-VE-CAM-S_ Visual EEG-Based Grading of Delirium Severity and Associations With Clinical Outcomes.pdf
     display: "Crit Care Explor. 2022 Jan 18;4(1):e0611. doi: 10.1097/CCE.0000000000000611. PMID: 35072078; PMCID: PMC8769081."
   highlight: 1
 
@@ -39,7 +39,7 @@
   description: Age-related comorbidities and immune activation raise concern for advanced brain aging in people living with HIV. The brain age index (BAI) is a machine learning model that quantifies deviations in brain activity during sleep relative to healthy individuals of the same age. High BAI was previously found to be associated with neurological, psychiatric, cardiometabolic diseases, and reduced life expectancy among people without HIV. Here, we estimated the effect of HIV infection on BAI by comparing PLWH and HIV- controls. Code and data are available [here](https://github.com/bdsp-core/HIV-BAI).
   authors: Leone MJ, Sun H, Boutros CL, Liu L, Ye E, Sullivan L, Thomas RJ, Robbins GK, Mukerji SS, Westover MB.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/33783511/
+    url: /downloads/4-HIV-BAI.pdf
     display: "Sleep. 2021 Aug 13;44(8):zsab058. doi: 10.1093/sleep/zsab058. PMID: 33783511; PMCID: PMC8361332."
   highlight: 1
 
@@ -49,7 +49,7 @@
   authors:
     Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju O, Thomas RJ, Cash SS, Bianchi MT, Westover MB.
   link:
-    url: https://doi.org/10.1016/j.neurobiolaging.2018.10.016
+    url: /downloads/5-BAI-Haoqi.pdf
     display: "Neurobiology of Aging. 2019 Feb 19;74:112-20. doi: 10.1016/j.neurobiolaging.2018.10.016. PMID: 30448611; PMCID: PMC6478501."
   highlight: 1
   news1: <a style="color:#800000; text-decoration:underline" href="https://sleepresearchsociety.org/2020-outstanding-early-investigator-award-winners/">Haoqi Sun was awarded the Outstanding Early Investigator Award by the Sleep Research Society based on this publication.</a>
@@ -60,7 +60,7 @@
   authors:
     Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT.
   link:
-    url: https://doi.org/10.1093/jamia/ocy131
+    url: /downloads/6-Siddharth-Sleep-DNN.pdf
     display: "Journal of the American Medical Informatics Association. 2018 Dec;25(12):1643-50. doi: 10.1093/jamia/ocy131. PMID: 30445569 PMCID: PMC6289549."
   highlight: 1
 
@@ -71,7 +71,7 @@
   authors:
     TE Nassi, W Ganglberger, H Sun, AA Bucklin, S Biswal, MJAM van Putten, RJ Thomas, MB Westover
   link:
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9119908/
+    url: /downloads/7-Automated_Scoring_of_Respiratory_Events_in_Sleep_With_a_Single_Effort_Belt_and_Deep_Neural_Networks.pdf
     display: "IEEE Transactions on Biomedical Engineering (2022); DOI: 10.1109/TBME.2021.3136753"
   highlight: 1
 
@@ -81,7 +81,7 @@
   authors:
     Adra N, Sun H, Ganglberger W, Ye EM, Dümmer LW, Tesh RA, Westmeijer M, Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas RJ, Westover MB.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34984446/
+    url: /downloads/8-spindles-noor.pdf
     display: "Sleep. 2022 Apr 11;45(4):zsac001. doi: 10.1093/sleep/zsac001. PMID: 34984446; PMCID: PMC8996023."
   highlight: 1
 
@@ -93,7 +93,7 @@
     L, Rajan S, Velpula Krishnamurthy P, Sikka P, Leone MJ, Panneerselvam E, Quadri
     SA, Akeju O, Kimchi EY, Westover MB.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34582420
+    url: /downloads/9-E-CAM-S.pdf
     display: 'Crit Care Med 2022 Jan 1; 50 (1) :e11-e19 doi: 10.1097/CCM.0000000000005224.
       PMID:34582420 ; PMCID:PMC8678335 '
   highlight: 1
@@ -2725,8 +2725,8 @@
     display: 'Neurocomputing 2003 Jun; 52-54 :511-518 doi: 10.1016/s0925-2312(02)00762-2.
       Epub 2003 Jan 29. PMID:32153319 ; PMCID:PMC7062373 '
   highlight: 0
-- title: '"A general framework for neurobiological modeling: an application to the
-    vestibular system."'
+- title: 'A general framework for neurobiological modeling: an application to the
+    vestibular system.'
   image: ''
   description: ''
   authors: Eliasmith C, Westover MB, Anderson CH.
