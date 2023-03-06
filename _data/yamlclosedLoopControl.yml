@@ -1,0 +1,30 @@
+- title: '"Design, implementation, and evaluation of a physiological closed-loop control
+    device for medically-induced coma."'
+  image: ''
+  description: ''
+  authors: Jingzhi An, Purdon PL, Solt K, Sims NM, Brown EN, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29060851
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2017 Jul; 2017 :4313-4316 doi: 10.1109/EMBC.2017.8037810.
+      PMID:29060851 ; PMCID:PMC5835010 '
+  highlight: 0
+- title: '"Robust control of burst suppression for medical coma."'
+  image: ''
+  description: ''
+  authors: Westover MB, Kim SE, Ching S, Purdon PL, Brown EN.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26020243
+    display: 'J Neural Eng 2015 Aug; 12 (4) :046004 doi: 10.1088/1741-2560/12/4/046004.
+      Epub 2015 May 28. PMID:26020243 ; PMCID:PMC4517835 '
+  highlight: 0
+- title: '"Real-time closed-loop control in a rodent model of medically induced coma
+    using burst suppression."'
+  image: ''
+  description: ''
+  authors: Ching S, Liberman MY, Chemali JJ, Westover MB, Kenny JD, Solt K, Purdon
+    PL, Brown EN.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23770601
+    display: 'Anesthesiology 2013 Oct; 119 (4) :848-60 doi: 10.1097/ALN.0b013e31829d4ab4.
+      PMID:23770601 ; PMCID:PMC3857134 '
+  highlight: 0

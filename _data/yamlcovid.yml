@@ -1,0 +1,152 @@
+- title: '"Impact of the COVID-19 Pandemic on Continuous EEG Utilization."'
+  image: ''
+  description: ''
+  authors: Zafar SF, Khozein RJ, LaRoche SM, Westover MB, Gilmore EJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33394823
+    display: 'J Clin Neurophysiol 2022 Nov 1; 39 (7) :567-574 doi: 10.1097/WNP.0000000000000802.
+      Epub 2020 Dec 22. PMID:33394823 ; PMCID:PMC8217411 '
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients With Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34163546
+    display: 'Neurohospitalist 2021 Jul; 11 (3) :204-213 doi: 10.1177/1941874420972237.
+      Epub 2020 Dec 3. PMID:34163546 ; PMCID:PMC8182395 '
+  highlight: 0
+- title: '"Development and Prospective Validation of a Deep Learning Algorithm for
+    Predicting Need for Mechanical Ventilation."'
+  image: ''
+  description: ''
+  authors: Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North
+    CM, Mukerji SS, Robbins GK, Shao YP, Westover MB, Nemati S, Malhotra A.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33345948
+    display: 'Chest 2021 Jun; 159 (6) :2264-2273 doi: 10.1016/j.chest.2020.12.009.
+      Epub 2020 Dec 17. PMID:33345948 ; PMCID:PMC8027289 '
+  highlight: 0
+- title: '"Global Incidence of Neurological Manifestations Among Patients Hospitalized
+    With COVID-19-A Report for the GCS-NeuroCOVID Consortium and the ENERGY Consortium."'
+  image: ''
+  description: ''
+  authors: Chou SH, Beghi E, Helbok R, Moro E, Sampson J, Altamirano V, Mainali S,
+    Bassetti C, Suarez JI, McNett M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33974053
+    display: 'JAMA Netw Open 2021 May 3; 4 (5) :e2112131 doi: 10.1001/jamanetworkopen.2021.12131.
+      PMID:33974053 ; PMCID:PMC8114143 '
+  highlight: 0
+- title: '"Electroencephalographic Abnormalities are Common in COVID-19 and are Associated
+    with Outcomes."'
+  image: ''
+  description: ''
+  authors: Lin L, Al-Faraj A, Ayub N, Bravo P, Das S, Ferlini L, Karakis I, Lee JW,
+    Mukerji SS, Newey CR, Pathmanathan J, Abdennadher M, Casassa C, Gaspard N, Goldenholz
+    DM, Gilmore EJ, Jing J, Kim JA, Kimchi EY, Ladha HS, Tobochnik S, Zafar S, Hirsch
+    LJ, Westover MB, Shafi MM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33704826
+    display: 'Ann Neurol 2021 May; 89 (5) :872-883 doi: 10.1002/ana.26060. Epub 2021
+      Mar 24. PMID:33704826 ; PMCID:PMC8104061 '
+  highlight: 0
+- title: '"Prolonged Intubation in Patients With Prior Cerebrovascular Disease and
+    COVID-19."'
+  image: ''
+  description: ''
+  authors: Mukerji SS, Das S, Alabsi H, Brenner LN, Jain A, Magdamo C, Collens SI,
+    Ye E, Keller K, Boutros CL, Leone MJ, Newhouse A, Foy B, Li MD, Lang M, Anahtar
+    MN, Shao YP, Ge W, Sun H, Triant VA, Kalpathy-Cramer J, Higgins J, Rosand J, Robbins
+    GK, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33897598
+    display: 'Front Neurol 2021; 12 :642912 doi: 10.3389/fneur.2021.642912. eCollection
+      2021. PMID:33897598 ; PMCID:PMC8062773 '
+  highlight: 0
+- title: '"Susceptibility-weighted imaging reveals cerebral microvascular injury in
+    severe COVID-19."'
+  image: ''
+  description: ''
+  authors: Conklin J, Frosch MP, Mukerji SS, Rapalino O, Maher MD, Schaefer PW, Lev
+    MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin
+    E, Shaw B, Lemieux JE, Sabeti PC, Branda JA, Brown EN, Westover MB, Huang SY,
+    Edlow BL.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33497950
+    display: 'J Neurol Sci 2021 Feb 15; 421 :117308 doi: 10.1016/j.jns.2021.117308.
+      Epub 2021 Jan 15. PMID:33497950 ; PMCID:PMC7832284 '
+  highlight: 0
+- title: '"Classification of the Disposition of Patients Hospitalized with COVID-19:
+    Reading Discharge Summaries Using Natural Language Processing."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Sun H, Jain A, Alabsi HS, Brenner LN, Ye E, Ge W, Collens
+    SI, Leone MJ, Das S, Robbins GK, Mukerji SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33449908
+    display: 'JMIR Med Inform 2021 Feb 10; 9 (2) :e25457 doi: 10.2196/25457. PMID:33449908
+      ; PMCID:PMC7879729 '
+  highlight: 0
+- title: '"CoVA: An Acuity Score for Outpatient Screening that Predicts Coronavirus
+    Disease 2019 Prognosis."'
+  image: ''
+  description: ''
+  authors: Sun H, Jain A, Leone MJ, Alabsi HS, Brenner LN, Ye E, Ge W, Shao YP, Boutros
+    CL, Wang R, Tesh RA, Magdamo C, Collens SI, Ganglberger W, Bassett IV, Meigs JB,
+    Kalpathy-Cramer J, Li MD, Chu JT, Dougan ML, Stratton LW, Rosand J, Fischl B,
+    Das S, Mukerji SS, Robbins GK, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33098643
+    display: 'J Infect Dis 2021 Jan 4; 223 (1) :38-46 doi: 10.1093/infdis/jiaa663.
+      PMID:33098643 ; PMCID:PMC7665643 '
+  highlight: 0
+- title: '"Cerebral Microvascular Injury in Severe COVID-19."'
+  image: ''
+  description: ''
+  authors: Conklin J, Frosch MP, Mukerji S, Rapalino O, Maher M, Schaefer PW, Lev
+    MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin
+    E, Shaw B, Lemieux J, Sabeti P, Branda JA, Brown EN, Westover MB, Huang SY, Edlow
+    BL.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32743599
+    display: 'medRxiv 2020 Jul 24; doi: 10.1101/2020.07.21.20159376. PMID:32743599
+      ; PMCID:PMC7386523 '
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients with Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32699855
+    display: 'medRxiv 2020 Jul 15; doi: 10.1101/2020.07.13.20152207. PMID:32699855
+      ; PMCID:PMC7373142 '
+  highlight: 0
+- title: '"COVID-19 Outpatient Screening: a Prediction Score for Adverse Events."'
+  image: ''
+  description: ''
+  authors: Sun H, Jain A, Leone MJ, Alabsi HS, Brenner L, Ye E, Ge W, Shao YP, Boutros
+    C, Wang R, Tesh R, Magdamo C, Collens SI, Ganglberger W, Bassett IV, Meigs JB,
+    Kalpathy-Cramer J, Li MD, Chu J, Dougan ML, Stratton L, Rosand J, Fischl B, Das
+    S, Mukerji S, Robbins GK, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32607523
+    display: 'medRxiv 2020 Jun 22; doi: 10.1101/2020.06.17.20134262. PMID:32607523
+      ; PMCID:PMC7325189 '
+  highlight: 0
+- title: '"Innate immune signaling in the olfactory epithelium reduces odorant receptor
+    levels: modeling transient smell loss in COVID-19 patients."'
+  image: ''
+  description: ''
+  authors: Rodriguez S, Cao L, Rickenbacher GT, Benz EG, Magdamo C, Ramirez Gomez
+    LA, Holbrook E, Dhilla Albers A, Gallagher R, Westover MB, Evans KE, Tatar D,
+    Mukerji S, Zafonte R, Boyer EW, Yu CR, Albers MW.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32587994
+    display: 'medRxiv 2020 Jun 16; doi: 10.1101/2020.06.14.20131128. PMID:32587994
+      ; PMCID:PMC7310652 '
+  highlight: 0

@@ -1,0 +1,369 @@
+- title: '"Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid
+    hemorrhage."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Kim JA, Elmer J, Zafar SF, Ghanta M, Moura Junior V, Patel A,
+    Rosenthal E, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36182752
+    display: 'Clin Neurophysiol 2022 Nov; 143 :97-106 doi: 10.1016/j.clinph.2022.08.023.
+      Epub 2022 Sep 11. PMID:36182752 ; PMCID:PMC9847346 '
+  highlight: 0
+- title: '"How Machine Learning is Powering Neuroimaging to Improve Brain Health."'
+  image: ''
+  description: ''
+  authors: Singh NM, Harrod JB, Subramanian S, Robinson M, Chang K, Cetin-Karayumak
+    S, Dalca AV, Eickhoff S, Fox M, Franke L, Golland P, Haehn D, Iglesias JE, O'Donnell
+    LJ, Ou Y, Rathi Y, Siddiqi SH, Sun H, Westover MB, Whitfield-Gabrieli S, Gollub
+    RL.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35347570
+    display: 'Neuroinformatics 2022 Oct; 20 (4) :943-964 doi: 10.1007/s12021-022-09572-9.
+      Epub 2022 Mar 28. PMID:35347570 ; PMCID:PMC9515245 '
+  highlight: 0
+- title: '"Artificial intelligence foundation for therapeutic science."'
+  image: ''
+  description: ''
+  authors: Huang K, Fu T, Gao W, Zhao Y, Roohani Y, Leskovec J, Coley CW, Xiao C,
+    Sun J, Zitnik M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36131149
+    display: 'Nat Chem Biol 2022 Oct; 18 (10) :1033-1036 doi: 10.1038/s41589-022-01131-2.
+      PMID:36131149 ; PMCID:PMC9529840 '
+  highlight: 0
+- title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
+    and Deep Neural Networks."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM,
+    Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34928786
+    display: 'IEEE Trans Biomed Eng 2022 Jun; 69 (6) :2094-2104 doi: 10.1109/TBME.2021.3136753.
+      Epub 2022 May 19. PMID:34928786 ; PMCID:PMC9119908 '
+  highlight: 0
+- title: '"Predicting Neurological Outcome From Electroencephalogram Dynamics in Comatose
+    Patients After Cardiac Arrest With Deep Learning."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Amorim E, Jing J, Wu O, Ghassemi M, Lee JW, Sivaraju A, Pang
+    T, Herman ST, Gaspard N, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer J, van
+    Putten MJAM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34962860
+    display: 'IEEE Trans Biomed Eng 2022 May; 69 (5) :1813-1825 doi: 10.1109/TBME.2021.3139007.
+      Epub 2022 Apr 21. PMID:34962860 ; PMCID:PMC9087641 '
+  highlight: 0
+- title: '"Accurate identification of EEG recordings with interictal epileptiform
+    discharges using a hybrid approach: Artificial intelligence supervised by human
+    experts."'
+  image: ''
+  description: ''
+  authors: "Kural MA, Jing J, F\xFCrbass F, Perko H, Qerama E, Johnsen B, Fuchs S,\
+    \ Westover MB, Beniczky S."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35184276
+    display: 'Epilepsia 2022 May; 63 (5) :1064-1073 doi: 10.1111/epi.17206. Epub 2022
+      Mar 7. PMID:35184276 ; PMCID:PMC9148170 '
+  highlight: 0
+- title: '"A machine learning approach to predict progression on active surveillance
+    for prostate cancer."'
+  image: ''
+  description: ''
+  authors: Nayan M, Salari K, Bozzo A, Ganglberger W, Lu G, Carvalho F, Gusev A, Schneider
+    A, Westover BM, Feldman AS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34465541
+    display: 'Urol Oncol 2022 Apr; 40 (4) :161.e1-161.e7 doi: 10.1016/j.urolonc.2021.08.007.
+      Epub 2021 Aug 29. PMID:34465541 ; PMCID:PMC8882704 '
+  highlight: 0
+- title: '"Time-Frequency Decomposition of Scalp Electroencephalograms Improves Deep
+    Learning-Based Epilepsy Diagnosis."'
+  image: ''
+  description: ''
+  authors: Thangavel P, Thomas J, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R,
+    Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover B, Dauwels
+    J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34278972
+    display: 'Int J Neural Syst 2021 Aug; 31 (8) :2150032 doi: 10.1142/S0129065721500325.
+      Epub 2021 Jul 16. PMID:34278972 ; PMCID:PMC9340811 '
+  highlight: 0
+- title: '"Automated Annotation of Epileptiform Burden and Its Association with Outcomes."'
+  image: ''
+  description: ''
+  authors: Zafar SF, Rosenthal ES, Jing J, Ge W, Tabaeizadeh M, Aboul Nour H, Shoukat
+    M, Sun H, Javed F, Kassa S, Edhi M, Bordbar E, Gallagher J, Moura V Jr, Ghanta
+    M, Shao YP, An S, Sun J, Cole AJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34231244
+    display: 'Ann Neurol 2021 Aug; 90 (2) :300-311 doi: 10.1002/ana.26161. Epub 2021
+      Jul 20. PMID:34231244 ; PMCID:PMC8516549 '
+  highlight: 0
+- title: '"Development and Prospective Validation of a Deep Learning Algorithm for
+    Predicting Need for Mechanical Ventilation."'
+  image: ''
+  description: ''
+  authors: Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North
+    CM, Mukerji SS, Robbins GK, Shao YP, Westover MB, Nemati S, Malhotra A.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33345948
+    display: 'Chest 2021 Jun; 159 (6) :2264-2273 doi: 10.1016/j.chest.2020.12.009.
+      Epub 2020 Dec 17. PMID:33345948 ; PMCID:PMC8027289 '
+  highlight: 0
+- title: '"Automated Adult Epilepsy Diagnostic Tool Based on Interictal Scalp Electroencephalogram
+    Characteristics: A Six-Center Study."'
+  image: ''
+  description: ''
+  authors: Thomas J, Thangavel P, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R,
+    Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover B, Dauwels
+    J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33438530
+    display: 'Int J Neural Syst 2021 May; 31 (5) :2050074 doi: 10.1142/S0129065720500744.
+      Epub 2021 Jan 12. PMID:33438530 ; PMCID:PMC9343226 '
+  highlight: 0
+- title: '"Expert-level automated sleep staging of long-term scalp electroencephalography
+    recordings using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, Westover
+    MB, Lam AD.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32478820
+    display: 'Sleep 2020 Nov 12; 43 (11) doi: 10.1093/sleep/zsaa112. PMID:32478820
+      ; PMCID:PMC7686563 '
+  highlight: 0
+- title: '"Automated Detection of Interictal Epileptiform Discharges from Scalp Electroencephalograms
+    by Convolutional Neural Networks."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jin J, Thangavel P, Bagheri E, Yuvaraj R, Dauwels J, Rathakrishnan
+    R, Halford JJ, Cash SS, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32812468
+    display: 'Int J Neural Syst 2020 Nov; 30 (11) :2050030 doi: 10.1142/S0129065720500306.
+      Epub 2020 Aug 19. PMID:32812468 ; PMCID:PMC7606586 '
+  highlight: 0
+- title: '"Improved tracking of sevoflurane anesthetic states with drug-specific machine
+    learning models."'
+  image: ''
+  description: ''
+  authors: Kashkooli K, Polk SL, Hahm EY, Murphy J, Ethridge BR, Gitlin J, Ibala R,
+    Mekonnen J, Pedemonte JC, Sun H, Westover MB, Barbieri R, Akeju O, Chamadia S.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32485685
+    display: 'J Neural Eng 2020 Aug 4; 17 (4) :046020 doi: 10.1088/1741-2552/ab98da.
+      PMID:32485685 ; PMCID:PMC7540939 '
+  highlight: 0
+- title: '"Sleep staging from electrocardiography and respiration with deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
+    Tesh RA, Akeju O, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31863111
+    display: 'Sleep 2020 Jul 13; 43 (7) doi: 10.1093/sleep/zsz306. PMID:31863111 ;
+      PMCID:PMC7355395 '
+  highlight: 0
+- title: '"Deep Learning for Interictal Epileptiform Spike Detection from scalp EEG
+    frequency sub bands."'
+  image: ''
+  description: ''
+  authors: Prasanth T, Thomas J, Yuvaraj R, Jing J, Cash SS, Chaudhari R, Leng TY,
+    Rathakrishnan R, Rohit S, Saini V, Westover BM, Dauwels J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33018805
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2020 Jul; 2020 :3703-3706 doi: 10.1109/EMBC44109.2020.9175644.
+      PMID:33018805 ; PMCID:PMC7545315 '
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: background and implications
+    for clinicians."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32065113
+    display: 'J Clin Sleep Med 2020 Apr 15; 16 (4) :609-618 doi: 10.5664/jcsm.8388.
+      PMID:32065113 ; PMCID:PMC7161463 '
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: an American Academy of Sleep
+    Medicine position statement."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB, Abbasi-Feinberg F, Aurora RN, Carden KA, Kirsch DB, Malhotra RK, Martin JL,
+    Olson EJ, Ramar K, Rosen CL, Rowley JA, Shelgikar AV.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32022674
+    display: 'J Clin Sleep Med 2020 Apr 15; 16 (4) :605-607 doi: 10.5664/jcsm.8288.
+      PMID:32022674 ; PMCID:PMC7161449 '
+  highlight: 0
+- title: '"Detection of mesial temporal lobe epileptiform discharges on intracranial
+    electrodes using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Jing J, Sun H, Jacobs CS, Pellerin KR, Westover MB, Cash
+    SS, Lam AD.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31760212
+    display: 'Clin Neurophysiol 2020 Jan; 131 (1) :133-141 doi: 10.1016/j.clinph.2019.09.031.
+      Epub 2019 Nov 11. PMID:31760212 ; PMCID:PMC6879011 '
+  highlight: 0
+- title: '"Development of Expert-Level Automated Detection of Epileptiform Discharges
+    During Electroencephalogram Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D,
+    Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J,
+    Lam A, Cole AJ, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31633740
+    display: 'JAMA Neurol 2020 Jan 1; 77 (1) :103-108 doi: 10.1001/jamaneurol.2019.3485.
+      PMID:31633740 ; PMCID:PMC6806668 '
+  highlight: 0
+- title: '"Quantitative EEG reactivity and machine learning for prognostication in
+    hypoxic-ischemic brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
+    Scirica BM, Lee JW, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31419742
+    display: 'Clin Neurophysiol 2019 Oct; 130 (10) :1908-1916 doi: 10.1016/j.clinph.2019.07.014.
+      Epub 2019 Jul 25. PMID:31419742 ; PMCID:PMC6751020 '
+  highlight: 0
+- title: '"A fast machine learning approach to facilitate the detection of interictal
+    epileptiform discharges in the scalp electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31310822
+    display: 'J Neurosci Methods 2019 Oct 1; 326 :108362 doi: 10.1016/j.jneumeth.2019.108362.
+      Epub 2019 Jul 13. PMID:31310822 ; PMCID:PMC6993930 '
+  highlight: 0
+- title: '"Automated tracking of level of consciousness and delirium in critical illness
+    using deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng
+    WL, Ge W, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31508499
+    display: 'NPJ Digit Med 2019; 2 :89 doi: 10.1038/s41746-019-0167-0. eCollection
+      2019. PMID:31508499 ; PMCID:PMC6733797 '
+  highlight: 0
+- title: '"Drug-Specific Models Improve the Performance of an EEG-based Automated
+    Brain-State Prediction System."'
+  image: ''
+  description: ''
+  authors: Kashkooli K, Polk SL, Chamadia S, Hahm E, Ethridge B, Gitlin J, Ibala R,
+    Mekonnen J, Pedemonte J, Murphy JM, Sun H, Westover MB, Akeju O.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31947172
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2019 Jul; 2019 :5808-5811 doi: 10.1109/EMBC.2019.8856935.
+      PMID:31947172 ; PMCID:PMC7077760 '
+  highlight: 0
+- title: '"Comparison of machine learning models for seizure prediction in hospitalized
+    patients."'
+  image: ''
+  description: ''
+  authors: Struck AF, Rodriguez-Ruiz AA, Osman G, Gilmore EJ, Haider HA, Dhakar MB,
+    Schrettner M, Lee JW, Gaspard N, Hirsch LJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31353866
+    display: 'Ann Clin Transl Neurol 2019 Jul; 6 (7) :1239-1247 doi: 10.1002/acn3.50817.
+      Epub 2019 Jun 27. PMID:31353866 ; PMCID:PMC6649418 '
+  highlight: 0
+- title: '"Predicting drug-resistant epilepsy - A machine learning approach based
+    on administrative claims data."'
+  image: ''
+  description: ''
+  authors: An S, Malhotra K, Dilley C, Han-Burgess E, Valdez JN, Robertson J, Clark
+    C, Westover MB, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30412924
+    display: 'Epilepsy Behav 2018 Dec; 89 :118-125 doi: 10.1016/j.yebeh.2018.10.013.
+      Epub 2018 Nov 7. PMID:30412924 ; PMCID:PMC6461470 '
+  highlight: 0
+- title: '"Real-Time, Automated Detection of Ventilator-Associated Events: Avoiding
+    Missed Detections, Misclassifications, and False Detections Due to Human Error."'
+  image: ''
+  description: ''
+  authors: Shenoy ES, Rosenthal ES, Shao YP, Biswal S, Ghanta M, Ryan EE, Suslak D,
+    Swanson N, Junior VM, Hooper DC, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29769151
+    display: 'Infect Control Hosp Epidemiol 2018 Jul; 39 (7) :826-833 doi: 10.1017/ice.2018.97.
+      Epub 2018 May 17. PMID:29769151 ; PMCID:PMC6776240 '
+  highlight: 0
+- title: '"Large-Scale Automated Sleep Staging."'
+  image: ''
+  description: ''
+  authors: Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29029305
+    display: 'Sleep 2017 Oct 1; 40 (10) doi: 10.1093/sleep/zsx139. PMID:29029305 ;
+      PMCID:PMC6251659 '
+  highlight: 0
+- title: '"Automated epileptiform spike detection via affinity propagation-based template
+    matching."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jing Jin, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29060543
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2017 Jul; 2017 :3057-3060 doi: 10.1109/EMBC.2017.8037502.
+      PMID:29060543 ; PMCID:PMC5835014 '
+  highlight: 0
+- title: '"Automated information extraction from free-text EEG reports."'
+  image: ''
+  description: ''
+  authors: Biswal S, Nip Z, Moura Junior V, Bianchi MT, Rosenthal ES, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26737856
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2015; 2015 :6804-7 doi: 10.1109/EMBC.2015.7319956.
+      PMID:26737856 ; PMCID:PMC4872711 '
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26738009
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2015; 2015 :7430-3 doi: 10.1109/EMBC.2015.7320109.
+      PMID:26738009 ; PMCID:PMC4876722 '
+  highlight: 0
+- title: '"Automated sleep apnea quantification based on respiratory movement."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Lipoma T, Darling C, Alameddine Y, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24936142
+    display: 'Int J Med Sci 2014; 11 (8) :796-802 doi: 10.7150/ijms.9303. eCollection
+      2014. PMID:24936142 ; PMCID:PMC4057486 '
+  highlight: 0
+- title: '"SpikeGUI: software for rapid interictal discharge annotation via template
+    matching and online machine learning."'
+  image: ''
+  description: ''
+  authors: Jing Jin, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25570976
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2014; 2014 :4435-8 doi: 10.1109/EMBC.2014.6944608.
+      PMID:25570976 ; PMCID:PMC4416962 '
+  highlight: 0
+- title: '"Automated surveillance for central line-associated bloodstream infection
+    in intensive care units."'
+  image: ''
+  description: ''
+  authors: Woeltje KF, Butler AM, Goris AJ, Tutlam NT, Doherty JA, Westover MB, Ferris
+    V, Bailey TC.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/18713052
+    display: 'Infect Control Hosp Epidemiol 2008 Sep; 29 (9) :842-6 doi: 10.1086/590261.
+      PMID:18713052 ; PMCID:PMC6788749 '
+  highlight: 0

@@ -1,0 +1,118 @@
+- title: '"Flexible realistic simulation of seizure occurrence recapitulating statistical
+    properties of seizure diaries."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36401798
+    display: 'Epilepsia 2023 Feb; 64 (2) :396-405 doi: 10.1111/epi.17471. Epub 2022
+      Dec 4. PMID:36401798 ; PMCID:PMC9905290 '
+  highlight: 0
+- title: '"EEG Functional Connectivity is a Weak Predictor of Causal Brain Interactions."'
+  image: ''
+  description: ''
+  authors: Vink JJT, Klooster DCW, Ozdemir RA, Westover MB, Pascual-Leone A, Shafi
+    MM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32090281
+    display: 'Brain Topogr 2020 Mar; 33 (2) :221-237 doi: 10.1007/s10548-020-00757-6.
+      Epub 2020 Feb 24. PMID:32090281 ; PMCID:PMC7191224 '
+  highlight: 0
+- title: '"The probability of seizures during continuous EEG monitoring in high-risk
+    neonates."'
+  image: ''
+  description: ''
+  authors: Worden LT, Chinappen DM, Stoyell SM, Gold J, Paixao L, Krishnamoorthy K,
+    Kramer MA, Westover MB, Chu CJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31745988
+    display: 'Epilepsia 2019 Dec; 60 (12) :2508-2518 doi: 10.1111/epi.16387. Epub
+      2019 Nov 19. PMID:31745988 ; PMCID:PMC7083278 '
+  highlight: 0
+- title: '"Rule of 100: a litmus test for informationless diagnostic tests."'
+  image: ''
+  description: ''
+  authors: Westover AM, Shapiro D, Westover MB, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29514996
+    display: 'Postgrad Med J 2018 Jun; 94 (1112) :364-366 doi: 10.1136/postgradmedj-2018-135555.
+      Epub 2018 Mar 7. PMID:29514996 ; PMCID:PMC6771257 '
+  highlight: 0
+- title: '"Association of an Electroencephalography-Based Risk Score With Seizure
+    Probability in Hospitalized Patients."'
+  image: ''
+  description: ''
+  authors: Struck AF, Ustun B, Ruiz AR, Lee JW, LaRoche SM, Hirsch LJ, Gilmore EJ,
+    Vlachy J, Haider HA, Rudin C, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29052706
+    display: 'JAMA Neurol 2017 Dec 1; 74 (12) :1419-1424 doi: 10.1001/jamaneurol.2017.2459.
+      PMID:29052706 ; PMCID:PMC5822188 '
+  highlight: 0
+- title: '"What it should mean for an algorithm to pass a statistical Turing test
+    for detection of epileptiform discharges."'
+  image: ''
+  description: ''
+  authors: Westover MB, Halford JJ, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28495216
+    display: 'Clin Neurophysiol 2017 Jul; 128 (7) :1406-1407 doi: 10.1016/j.clinph.2017.02.026.
+      Epub 2017 Mar 16. PMID:28495216 ; PMCID:PMC9359665 '
+  highlight: 0
+- title: '"Causal inference as an emerging statistical approach in neurology: an example
+    for epilepsy in the elderly."'
+  image: ''
+  description: ''
+  authors: Moura LM, Westover MB, Kwasnik D, Cole AJ, Hsu J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28115873
+    display: 'Clin Epidemiol 2017; 9 :9-18 doi: 10.2147/CLEP.S121023. eCollection
+      2017. PMID:28115873 ; PMCID:PMC5221551 '
+  highlight: 0
+- title: '"Decision Modeling in Sleep Apnea: The Critical Roles of Pretest Probability,
+    Cost of Untreated Obstructive Sleep Apnea, and Time Horizon."'
+  image: ''
+  description: ''
+  authors: Moro M, Westover MB, Kelly J, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26518699
+    display: 'J Clin Sleep Med 2016 Mar; 12 (3) :409-18 doi: 10.5664/jcsm.5596. PMID:26518699
+      ; PMCID:PMC4773629 '
+  highlight: 0
+- title: '"The probability of seizures during EEG monitoring in critically ill adults."'
+  image: ''
+  description: ''
+  authors: Westover MB, Shafi MM, Bianchi MT, Moura LM, O'Rourke D, Rosenthal ES,
+    Chu CJ, Donovan S, Hoch DB, Kilbride RD, Cole AJ, Cash SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25082090
+    display: 'Clin Neurophysiol 2015 Mar; 126 (3) :463-71 doi: 10.1016/j.clinph.2014.05.037.
+      Epub 2014 Jul 11. PMID:25082090 ; PMCID:PMC4289643 '
+  highlight: 0
+- title: '"Information theoretic quantification of diagnostic uncertainty."'
+  image: ''
+  description: ''
+  authors: Westover MB, Eiseman NA, Cash SS, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23304251
+    display: 'Open Med Inform J 2012; 6 :36-50 doi: 10.2174/1874431101206010036. Epub
+      2012 Dec 14. PMID:23304251 ; PMCID:PMC3537080 '
+  highlight: 0
+- title: '"Propagation of uncertainty in Bayesian diagnostic test interpretation."'
+  image: ''
+  description: ''
+  authors: Srinivasan P, Westover MB, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/22948322
+    display: 'South Med J 2012 Sep; 105 (9) :452-9 doi: 10.1097/SMJ.0b013e3182621a2c.
+      PMID:22948322 ; PMCID:PMC6785978 '
+  highlight: 0
+- title: '"Significance testing as perverse probabilistic reasoning."'
+  image: ''
+  description: ''
+  authors: Westover MB, Westover KD, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21356064
+    display: 'BMC Med 2011 Feb 28; 9 :20 doi: 10.1186/1741-7015-9-20. PMID:21356064
+      ; PMCID:PMC3058025 '
+  highlight: 0

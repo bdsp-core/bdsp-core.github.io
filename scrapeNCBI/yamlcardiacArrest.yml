@@ -1,0 +1,142 @@
+- title: '"Predicting Neurological Outcome From Electroencephalogram Dynamics in Comatose
+    Patients After Cardiac Arrest With Deep Learning."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Amorim E, Jing J, Wu O, Ghassemi M, Lee JW, Sivaraju A, Pang
+    T, Herman ST, Gaspard N, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer J, van
+    Putten MJAM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34962860
+    display: 'IEEE Trans Biomed Eng 2022 May; 69 (5) :1813-1825 doi: 10.1109/TBME.2021.3139007.
+      Epub 2022 Apr 21. PMID:34962860 ; PMCID:PMC9087641 '
+  highlight: 0
+- title: '"Severe cerebral edema in substance-related cardiac arrest patients."'
+  image: ''
+  description: ''
+  authors: Kulpanowski AM, Copen WA, Hancock BL, Rosenthal ES, Schoenfeld DA, Dodelson
+    JA, Edlow BL, Kimberly WT, Amorim E, Westover MB, Ning MM, Schaefer PW, Malhotra
+    R, Giacino JT, Greer DM, Wu O.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35149137
+    display: 'Resuscitation 2022 Apr; 173 :103-111 doi: 10.1016/j.resuscitation.2022.01.033.
+      Epub 2022 Feb 8. PMID:35149137 ; PMCID:PMC9282938 '
+  highlight: 0
+- title: '"Predicting neurological outcome in comatose patients after cardiac arrest
+    with multiscale deep neural networks."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Amorim E, Jing J, Ge W, Hong S, Wu O, Ghassemi M, Lee JW, Sivaraju
+    A, Pang T, Herman ST, Gaspard N, Ruijter BJ, Sun J, Tjepkema-Cloostermans MC,
+    Hofmeijer J, van Putten MJAM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34699925
+    display: 'Resuscitation 2021 Dec; 169 :86-94 doi: 10.1016/j.resuscitation.2021.10.034.
+      Epub 2021 Oct 24. PMID:34699925 ; PMCID:PMC8692444 '
+  highlight: 0
+- title: '"Cost-effectiveness analysis of multimodal prognostication in cardiac arrest
+    with EEG monitoring."'
+  image: ''
+  description: ''
+  authors: Amorim E, Mo SS, Palacios S, Ghassemi MM, Weng WH, Cash SS, Bianchi MT,
+    Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32661097
+    display: 'Neurology 2020 Aug 4; 95 (5) :e563-e575 doi: 10.1212/WNL.0000000000009916.
+      Epub 2020 Jul 13. PMID:32661097 ; PMCID:PMC7455344 '
+  highlight: 0
+- title: '"MRI-EEG correlation for outcome prediction in postanoxic myoclonus: A multicenter
+    study."'
+  image: ''
+  description: ''
+  authors: Beuchat I, Sivaraju A, Amorim E, Gilmore EJ, Dunet V, Rossetti AO, Westover
+    MB, Hsu L, Scirica BM, Silva D, Tang K, Lee JW.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32482841
+    display: 'Neurology 2020 Jul 28; 95 (4) :e335-e341 doi: 10.1212/WNL.0000000000009610.
+      Epub 2020 Jun 1. PMID:32482841 ; PMCID:PMC7455317 '
+  highlight: 0
+- title: '"Sensitivity of Continuous Electroencephalography to Detect Ictal Activity
+    After Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Elmer J, Coppler PJ, Solanki P, Westover MB, Struck AF, Baldwin ME, Kurz
+    MC, Callaway CW.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32343353
+    display: 'JAMA Netw Open 2020 Apr 1; 3 (4) :e203751 doi: 10.1001/jamanetworkopen.2020.3751.
+      PMID:32343353 ; PMCID:PMC7189220 '
+  highlight: 0
+- title: '"Quantitative EEG reactivity and machine learning for prognostication in
+    hypoxic-ischemic brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
+    Scirica BM, Lee JW, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31419742
+    display: 'Clin Neurophysiol 2019 Oct; 130 (10) :1908-1916 doi: 10.1016/j.clinph.2019.07.014.
+      Epub 2019 Jul 25. PMID:31419742 ; PMCID:PMC6751020 '
+  highlight: 0
+- title: '"Estimating the False Positive Rate of Absent Somatosensory Evoked Potentials
+    in Cardiac Arrest Prognostication."'
+  image: ''
+  description: ''
+  authors: Amorim E, Ghassemi MM, Lee JW, Greer DM, Kaplan PW, Cole AJ, Cash SS, Bianchi
+    MT, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30247243
+    display: 'Crit Care Med 2018 Dec; 46 (12) :e1213-e1221 doi: 10.1097/CCM.0000000000003436.
+      PMID:30247243 ; PMCID:PMC6424571 '
+  highlight: 0
+- title: '"EEG Reactivity Evaluation Practices for Adult and Pediatric Hypoxic-Ischemic
+    Coma Prognostication in North America."'
+  image: ''
+  description: ''
+  authors: Amorim E, Gilmore EJ, Abend NS, Hahn CD, Gaspard N, Herman ST, Hirsch LJ,
+    Lee JW, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30216207
+    display: 'J Clin Neurophysiol 2018 Nov; 35 (6) :510-514 doi: 10.1097/WNP.0000000000000517.
+      PMID:30216207 ; PMCID:PMC6424574 '
+  highlight: 0
+- title: '"Accuracy of Limited-Montage Electroencephalography in Monitoring Postanoxic
+    Comatose Patients."'
+  image: ''
+  description: ''
+  authors: Pati S, McClain L, Moura L, Fan Y, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28641453
+    display: 'Clin EEG Neurosci 2017 Nov; 48 (6) :422-427 doi: 10.1177/1550059417715389.
+      Epub 2017 Jun 22. PMID:28641453 ; PMCID:PMC5835011 '
+  highlight: 0
+- title: '"Continuous EEG monitoring enhances multimodal outcome prediction in hypoxic-ischemic
+    brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, Rittenberger JC, Zheng JJ, Westover MB, Baldwin ME, Callaway
+    CW, Popescu A.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27554945
+    display: 'Resuscitation 2016 Dec; 109 :121-126 doi: 10.1016/j.resuscitation.2016.08.012.
+      Epub 2016 Aug 21. PMID:27554945 ; PMCID:PMC5124407 '
+  highlight: 0
+- title: '"Quantification of EEG reactivity in comatose patients."'
+  image: ''
+  description: ''
+  authors: Hermans MC, Westover MB, van Putten MJAM, Hirsch LJ, Gaspard N.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26183757
+    display: 'Clin Neurophysiol 2016 Jan; 127 (1) :571-580 doi: 10.1016/j.clinph.2015.06.024.
+      Epub 2015 Jul 2. PMID:26183757 ; PMCID:PMC4885124 '
+  highlight: 0
+- title: '"An enhanced cerebral recovery index for coma prognostication following
+    cardiac arrest."'
+  image: ''
+  description: ''
+  authors: Ghassemi MM, Amorim E, Pati SB, Mark RG, Brown EN, Purdon PL, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26736317
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2015; 2015 :534-7 doi: 10.1109/EMBC.2015.7318417.
+      PMID:26736317 ; PMCID:PMC4870018 '
+  highlight: 0

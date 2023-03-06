@@ -1,0 +1,25 @@
+
+# Medical informatics
+yamlnon_neuro_informatics.yml
+yamlML_AI.yml
+yamlriskPrediction.yml
+yamlehrPhenotyping.yml
+yamlcovid.yml
+yamltimeSeries.yml
+
+# Probability, statistics, information, causal inference
+yamlprobStatsCausal.yml
+yamlinfoTheory.yml
+
+# Sedation and anesthesia
+yamlsedationAndAnesthesia.yml
+
+# Computational neuroscience
+yamlcompNeuro.yml
+
+# General Neurology
+yamlgenNeuro.yml
+
+# Heart rate variability
+yamlHRV_ECG.yml
+

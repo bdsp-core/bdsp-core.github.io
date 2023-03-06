@@ -1,0 +1,165 @@
+- title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
+    and Deep Neural Networks."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM,
+    Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34928786
+    display: 'IEEE Trans Biomed Eng 2022 Jun; 69 (6) :2094-2104 doi: 10.1109/TBME.2021.3136753.
+      Epub 2022 May 19. PMID:34928786 ; PMCID:PMC9119908 '
+  highlight: 0
+- title: '"Predicting neurological outcome in comatose patients after cardiac arrest
+    with multiscale deep neural networks."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Amorim E, Jing J, Ge W, Hong S, Wu O, Ghassemi M, Lee JW, Sivaraju
+    A, Pang T, Herman ST, Gaspard N, Ruijter BJ, Sun J, Tjepkema-Cloostermans MC,
+    Hofmeijer J, van Putten MJAM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34699925
+    display: 'Resuscitation 2021 Dec; 169 :86-94 doi: 10.1016/j.resuscitation.2021.10.034.
+      Epub 2021 Oct 24. PMID:34699925 ; PMCID:PMC8692444 '
+  highlight: 0
+- title: '"Cortical responses to noninvasive perturbations enable individual brain
+    fingerprinting."'
+  image: ''
+  description: ''
+  authors: Ozdemir RA, Tadayon E, Boucher P, Sun H, Momi D, Ganglberger W, Westover
+    MB, Pascual-Leone A, Santarnecchi E, Shafi MM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33588105
+    display: 'Brain Stimul 2021 Mar-Apr; 14 (2) :391-403 doi: 10.1016/j.brs.2021.02.005.
+      Epub 2021 Feb 12. PMID:33588105 ; PMCID:PMC8108003 '
+  highlight: 0
+- title: '"Automated Detection of Interictal Epileptiform Discharges from Scalp Electroencephalograms
+    by Convolutional Neural Networks."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jin J, Thangavel P, Bagheri E, Yuvaraj R, Dauwels J, Rathakrishnan
+    R, Halford JJ, Cash SS, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32812468
+    display: 'Int J Neural Syst 2020 Nov; 30 (11) :2050030 doi: 10.1142/S0129065720500306.
+      Epub 2020 Aug 19. PMID:32812468 ; PMCID:PMC7606586 '
+  highlight: 0
+- title: '"EEG Functional Connectivity is a Weak Predictor of Causal Brain Interactions."'
+  image: ''
+  description: ''
+  authors: Vink JJT, Klooster DCW, Ozdemir RA, Westover MB, Pascual-Leone A, Shafi
+    MM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32090281
+    display: 'Brain Topogr 2020 Mar; 33 (2) :221-237 doi: 10.1007/s10548-020-00757-6.
+      Epub 2020 Feb 24. PMID:32090281 ; PMCID:PMC7191224 '
+  highlight: 0
+- title: '"Detecting abnormal electroencephalograms using deep convolutional networks."'
+  image: ''
+  description: ''
+  authors: van Leeuwen KG, Sun H, Tabaeizadeh M, Struck AF, van Putten MJAM, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30481649
+    display: 'Clin Neurophysiol 2019 Jan; 130 (1) :77-84 doi: 10.1016/j.clinph.2018.10.012.
+      Epub 2018 Nov 17. PMID:30481649 ; PMCID:PMC6309707 '
+  highlight: 0
+- title: '"Expert-level sleep scoring with deep neural networks."'
+  image: ''
+  description: ''
+  authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30445569
+    display: 'J Am Med Inform Assoc 2018 Dec 1; 25 (12) :1643-1650 doi: 10.1093/jamia/ocy131.
+      PMID:30445569 ; PMCID:PMC6289549 '
+  highlight: 0
+- title: '"EEG CLassification Via Convolutional Neural Network-Based Interictal Epileptiform
+    Event Detection."'
+  image: ''
+  description: ''
+  authors: Thomas J, Comoretto L, Jin J, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30441062
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :3148-3151 doi: 10.1109/EMBC.2018.8512930.
+      PMID:30441062 ; PMCID:PMC6775768 '
+  highlight: 0
+- title: '"Brain Monitoring of Sedation in the Intensive Care Unit Using a Recurrent
+    Neural Network."'
+  image: ''
+  description: ''
+  authors: Sun H, Nagaraj SB, Akeju O, Purdon PL, Westover BM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30440304
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :1-4 doi: 10.1109/EMBC.2018.8513185.
+      PMID:30440304 ; PMCID:PMC6775766 '
+  highlight: 0
+- title: '"Default Mode Network Perfusion in Aneurysmal Subarachnoid Hemorrhage."'
+  image: ''
+  description: ''
+  authors: Nelson S, Edlow BL, Wu O, Rosenthal ES, Westover MB, Rordorf G.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26800697
+    display: 'Neurocrit Care 2016 Oct; 25 (2) :237-42 doi: 10.1007/s12028-016-0244-z.
+      PMID:26800697 ; PMCID:PMC4958026 '
+  highlight: 0
+- title: '"EPILEPTIFORM SPIKE DETECTION VIA CONVOLUTIONAL NEURAL NETWORKS."'
+  image: ''
+  description: ''
+  authors: Johansen AR, Jin J, Maszczyk T, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29527131
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2016 Mar; 2016 :754-758
+      doi: 10.1109/ICASSP.2016.7471776. Epub 2016 May 19. PMID:29527131 ; PMCID:PMC5842703 '
+  highlight: 0
+- title: '"Physiological consequences of abnormal connectivity in a developmental
+    epilepsy."'
+  image: ''
+  description: ''
+  authors: Shafi MM, Vernet M, Klooster D, Chu CJ, Boric K, Barnard ME, Romatoski
+    K, Westover MB, Christodoulou JA, Gabrieli JD, Whitfield-Gabrieli S, Pascual-Leone
+    A, Chang BS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25858773
+    display: 'Ann Neurol 2015 Mar; 77 (3) :487-503 doi: 10.1002/ana.24343. Epub 2015
+      Jan 29. PMID:25858773 ; PMCID:PMC4394240 '
+  highlight: 0
+- title: '"Stimulus information stored in lasting active and hidden network states
+    is destroyed by network bursts."'
+  image: ''
+  description: ''
+  authors: Dranias MR, Westover MB, Cash S, VanDongen AM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25755638
+    display: 'Front Integr Neurosci 2015; 9 :14 doi: 10.3389/fnint.2015.00014. eCollection
+      2015. PMID:25755638 ; PMCID:PMC4337383 '
+  highlight: 0
+- title: '"Exploration and modulation of brain network interactions with noninvasive
+    brain stimulation in combination with neuroimaging."'
+  image: ''
+  description: ''
+  authors: Shafi MM, Westover MB, Fox MD, Pascual-Leone A.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/22429242
+    display: 'Eur J Neurosci 2012 Mar; 35 (6) :805-25 doi: 10.1111/j.1460-9568.2012.08035.x.
+      PMID:22429242 ; PMCID:PMC3313459 '
+  highlight: 0
+- title: '"Emergence of stable functional networks in long-term human electroencephalography."'
+  image: ''
+  description: ''
+  authors: Chu CJ, Kramer MA, Pathmanathan J, Bianchi MT, Westover MB, Wizon L, Cash
+    SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/22357854
+    display: 'J Neurosci 2012 Feb 22; 32 (8) :2703-13 doi: 10.1523/JNEUROSCI.5669-11.2012.
+      PMID:22357854 ; PMCID:PMC3361717 '
+  highlight: 0
+- title: '"Characterizing brain cortical plasticity and network dynamics across the
+    age-span in health and disease with TMS-EEG and TMS-fMRI."'
+  image: ''
+  description: ''
+  authors: Pascual-Leone A, Freitas C, Oberman L, Horvath JC, Halko M, Eldaief M,
+    Bashir S, Vernet M, Shafi M, Westover B, Vahabzadeh-Hagh AM, Rotenberg A.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21842407
+    display: 'Brain Topogr 2011 Oct; 24 (3-4) :302-15 doi: 10.1007/s10548-011-0196-8.
+      Epub 2011 Aug 14. PMID:21842407 ; PMCID:PMC3374641 '
+  highlight: 0

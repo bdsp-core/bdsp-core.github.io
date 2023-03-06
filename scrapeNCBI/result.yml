@@ -1,3 +1,36 @@
+- title: '"The sleep and wake electroencephalogram over the lifespan."'
+  image: ''
+  description: ''
+  authors: Sun H, Ye E, Paixao L, Ganglberger W, Chu CJ, Zhang C, Rosand J, Mignot
+    E, Cash SS, Gozal D, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36739622
+    display: 'Neurobiol Aging 2023 Apr; 124 :60-70 doi: 10.1016/j.neurobiolaging.2023.01.006.
+      Epub 2023 Jan 19. PMID:36739622 ; PMCID:PMC9957961 '
+  highlight: 0
+- title: '"Quantitative epileptiform burden and electroencephalography background
+    features predict post-traumatic epilepsy."'
+  image: ''
+  description: ''
+  authors: Chen Y, Li S, Ge W, Jing J, Chen HY, Doherty D, Herman A, Kaleem S, Ding
+    K, Osman G, Swisher CB, Smith C, Maciel CB, Alkhachroum A, Lee JW, Dhakar MB,
+    Gilmore EJ, Sivaraju A, Hirsch LJ, Omay SB, Blumenfeld H, Sheth KN, Struck AF,
+    Edlow BL, Westover MB, Kim JA.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36241423
+    display: 'J Neurol Neurosurg Psychiatry 2023 Mar; 94 (3) :245-249 doi: 10.1136/jnnp-2022-329542.
+      Epub 2022 Oct 14. PMID:36241423 ; PMCID:PMC9931627 '
+  highlight: 0
+- title: '"Flexible realistic simulation of seizure occurrence recapitulating statistical
+    properties of seizure diaries."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36401798
+    display: 'Epilepsia 2023 Feb; 64 (2) :396-405 doi: 10.1111/epi.17471. Epub 2022
+      Dec 4. PMID:36401798 ; PMCID:PMC9905290 '
+  highlight: 0
 - title: '"Impact of the COVID-19 Pandemic on Continuous EEG Utilization."'
   image: ''
   description: ''
@@ -6,6 +39,27 @@
     url: https://pubmed.ncbi.nlm.nih.gov/33394823
     display: 'J Clin Neurophysiol 2022 Nov 1; 39 (7) :567-574 doi: 10.1097/WNP.0000000000000802.
       Epub 2020 Dec 22. PMID:33394823 ; PMCID:PMC8217411 '
+  highlight: 0
+- title: '"MOLER: Incorporate Molecule-Level Reward to Enhance Deep Generative Model
+    for Molecule Optimization."'
+  image: ''
+  description: ''
+  authors: Fu T, Xiao C, Glass LM, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36590707
+    display: 'IEEE Trans Knowl Data Eng 2022 Nov; 34 (11) :5459-5471 doi: 10.1109/tkde.2021.3052150.
+      Epub 2021 Jan 21. PMID:36590707 ; PMCID:PMC9802662 '
+  highlight: 0
+- title: '"Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid
+    hemorrhage."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Kim JA, Elmer J, Zafar SF, Ghanta M, Moura Junior V, Patel A,
+    Rosenthal E, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36182752
+    display: 'Clin Neurophysiol 2022 Nov; 143 :97-106 doi: 10.1016/j.clinph.2022.08.023.
+      Epub 2022 Sep 11. PMID:36182752 ; PMCID:PMC9847346 '
   highlight: 0
 - title: '"How Machine Learning is Powering Neuroimaging to Improve Brain Health."'
   image: ''
@@ -29,6 +83,42 @@
     display: 'Nat Chem Biol 2022 Oct; 18 (10) :1033-1036 doi: 10.1038/s41589-022-01131-2.
       PMID:36131149 ; PMCID:PMC9529840 '
   highlight: 0
+- title: '"A replicable, open-source, data integration method to support national
+    practice-based research & quality improvement systems."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Donahue MA, Hoch D, Cash S, Zafar S, Jacobs C, Hosford M,
+    Voinescu PE, Fureman B, Buchhalter J, McGraw CM, Westover MB, Moura LMVR.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35994859
+    display: 'Epilepsy Res 2022 Oct; 186 :107013 doi: 10.1016/j.eplepsyres.2022.107013.
+      Epub 2022 Aug 18. PMID:35994859 ; PMCID:PMC9810436 '
+  highlight: 0
+- title: '"Competency-based EEG education: a list of "must-know" EEG findings for
+    adult and child neurology residents."'
+  image: ''
+  description: ''
+  authors: Nascimento FA, Jing J, Strowd R, Sheikh IS, Weber D, Gavvala JR, Maheshwari
+    A, Tanner A, Ng M, Vinayan KP, Sinha SR, Yacubian EM, Rao VR, Perry MS, Fountain
+    NB, Karakis I, Wirrell E, Yuan F, Friedman D, Tankisi H, Rampp S, Fasano R, Wilmshurst
+    JM, O'Donovan C, Schomer D, Kaplan PW, Sperling MR, Benbadis S, Westover MB, Beniczky
+    S.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35904042
+    display: 'Epileptic Disord 2022 Oct 1; 24 (5) :979-982 doi: 10.1684/epd.2022.1476.
+      PMID:35904042 ; PMCID:PMC9812628 '
+  highlight: 0
+- title: '"EEG reading with or without clinical information - a real-world practice
+    study."'
+  image: ''
+  description: ''
+  authors: Nascimento FA, Jing J, Beniczky S, Olandoski M, Benbadis SR, Cole AJ, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36127207
+    display: 'Neurophysiol Clin 2022 Oct; 52 (5) :394-397 doi: 10.1016/j.neucli.2022.08.002.
+      Epub 2022 Sep 17. PMID:36127207 ; PMCID:PMC9815944 '
+  highlight: 0
 - title: '"High epileptiform discharge burden predicts delayed cerebral ischemia after
     subarachnoid hemorrhage."'
   image: ''
@@ -51,6 +141,19 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34409545
     display: 'Sleep Breath 2022 Sep; 26 (3) :1033-1044 doi: 10.1007/s11325-021-02465-2.
       Epub 2021 Aug 18. PMID:34409545 ; PMCID:PMC8854446 '
+  highlight: 0
+- title: '"High prevalence of sleep-disordered breathing in the intensive care unit
+    - a cross-sectional study."'
+  image: ''
+  description: ''
+  authors: Bucklin AA, Ganglberger W, Quadri SA, Tesh RA, Adra N, Da Silva Cardoso
+    M, Leone MJ, Krishnamurthy PV, Hemmige A, Rajan S, Panneerselvam E, Paixao L,
+    Higgins J, Ayub MA, Shao YP, Ye EM, Coughlin B, Sun H, Cash SS, Thompson BT, Akeju
+    O, Kuller D, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35971023
+    display: 'Sleep Breath 2022 Aug 16; doi: 10.1007/s11325-022-02698-9. [Epub ahead
+      of print] PMID:35971023 ; PMCID:PMC9931933 '
   highlight: 0
 - title: '"Hospital complications among older adults: Better processes could reduce
     the risk of delirium."'
@@ -83,7 +186,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/35794069
     display: 'Ann Surg 2022 Jul 6; doi: 10.1097/SLA.0000000000005487. [Epub ahead
-      of print] PMID:35794069 '
+      of print] PMID:35794069 ; PMCID:PMC9875943 '
   highlight: 0
 - title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
     and Deep Neural Networks."'
@@ -190,6 +293,15 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34510094
     display: 'J Clin Neurophysiol 2022 Mar 1; 39 (3) :176 doi: 10.1097/WNP.0000000000000741.
       PMID:34510094 ; PMCID:PMC8901547 '
+  highlight: 0
+- title: '"CHEER: Rich Model Helps Poor Model via Knowledge Infusion."'
+  image: ''
+  description: ''
+  authors: Xiao C, Hoang TN, Hong S, Ma T, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36712193
+    display: 'IEEE Trans Knowl Data Eng 2022 Feb; 34 (2) :531-543 doi: 10.1109/tkde.2020.2989405.
+      Epub 2020 Apr 22. PMID:36712193 ; PMCID:PMC9879310 '
   highlight: 0
 - title: '"Systematic Evaluation of Research Priorities in Critical Care Electroencephalography."'
   image: ''
@@ -1498,7 +1610,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/28843388
     display: 'Sleep Med 2017 Oct; 38 :160-161 doi: 10.1016/j.sleep.2017.07.017. Epub
-      2017 Aug 3. PMID:28843388 '
+      2017 Aug 3. PMID:28843388 ; PMCID:PMC9847345 '
   highlight: 0
 - title: '"Time-dependent risk of seizures in critically ill patients on continuous
     electroencephalogram."'
