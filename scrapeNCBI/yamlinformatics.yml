@@ -1,0 +1,56 @@
+- title: '"A machine learning approach to predict progression on active surveillance
+    for prostate cancer."'
+  image: ''
+  description: ''
+  authors: Nayan M, Salari K, Bozzo A, Ganglberger W, Lu G, Carvalho F, Gusev A, Schneider
+    A, Westover BM, Feldman AS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34465541
+    display: 'Urol Oncol 2022 Apr; 40 (4) :161.e1-161.e7 doi: 10.1016/j.urolonc.2021.08.007.
+      Epub 2021 Aug 29. PMID:34465541 ; PMCID:PMC8882704 '
+  highlight: 0
+- title: '"Prediction of operative mortality for patients undergoing cardiac surgical
+    procedures without established risk scores."'
+  image: ''
+  description: ''
+  authors: Ong CS, Reinertsen E, Sun H, Moonsamy P, Mohan N, Funamoto M, Kaneko T,
+    Shekar PS, Schena S, Lawton JS, D'Alessandro DA, Westover MB, Aguirre AD, Sundt
+    TM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34607725
+    display: 'J Thorac Cardiovasc Surg 2021 Sep 14; doi: 10.1016/j.jtcvs.2021.09.010.
+      [Epub ahead of print] PMID:34607725 ; PMCID:PMC8918430 '
+  highlight: 0
+- title: '"Early Prediction of Sepsis From Clinical Data: The PhysioNet/Computing
+    in Cardiology Challenge 2019."'
+  image: ''
+  description: ''
+  authors: Reyna MA, Josef CS, Jeter R, Shashikumar SP, Westover MB, Nemati S, Clifford
+    GD, Sharma A.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31939789
+    display: 'Crit Care Med 2020 Feb; 48 (2) :210-217 doi: 10.1097/CCM.0000000000004145.
+      PMID:31939789 ; PMCID:PMC6964870 '
+  highlight: 0
+- title: '"Real-Time, Automated Detection of Ventilator-Associated Events: Avoiding
+    Missed Detections, Misclassifications, and False Detections Due to Human Error."'
+  image: ''
+  description: ''
+  authors: Shenoy ES, Rosenthal ES, Shao YP, Biswal S, Ghanta M, Ryan EE, Suslak D,
+    Swanson N, Junior VM, Hooper DC, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29769151
+    display: 'Infect Control Hosp Epidemiol 2018 Jul; 39 (7) :826-833 doi: 10.1017/ice.2018.97.
+      Epub 2018 May 17. PMID:29769151 ; PMCID:PMC6776240 '
+  highlight: 0
+- title: '"Automated surveillance for central line-associated bloodstream infection
+    in intensive care units."'
+  image: ''
+  description: ''
+  authors: Woeltje KF, Butler AM, Goris AJ, Tutlam NT, Doherty JA, Westover MB, Ferris
+    V, Bailey TC.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/18713052
+    display: 'Infect Control Hosp Epidemiol 2008 Sep; 29 (9) :842-6 doi: 10.1086/590261.
+      PMID:18713052 ; PMCID:PMC6788749 '
+  highlight: 0

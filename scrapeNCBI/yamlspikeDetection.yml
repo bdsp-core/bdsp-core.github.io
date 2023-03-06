@@ -1,0 +1,244 @@
+- title: '"High epileptiform discharge burden predicts delayed cerebral ischemia after
+    subarachnoid hemorrhage."'
+  image: ''
+  description: ''
+  authors: Kim JA, Zheng WL, Elmer J, Jing J, Zafar SF, Ghanta M, Moura V Junior,
+    Gilmore EJ, Hirsch LJ, Patel A, Rosenthal E, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33812771
+    display: 'Clin Neurophysiol 2022 Sep; 141 :139-146 doi: 10.1016/j.clinph.2021.01.022.
+      Epub 2021 Mar 10. PMID:33812771 ; PMCID:PMC8429508 '
+  highlight: 0
+- title: '"Accurate identification of EEG recordings with interictal epileptiform
+    discharges using a hybrid approach: Artificial intelligence supervised by human
+    experts."'
+  image: ''
+  description: ''
+  authors: "Kural MA, Jing J, F\xFCrbass F, Perko H, Qerama E, Johnsen B, Fuchs S,\
+    \ Westover MB, Beniczky S."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35184276
+    display: 'Epilepsia 2022 May; 63 (5) :1064-1073 doi: 10.1111/epi.17206. Epub 2022
+      Mar 7. PMID:35184276 ; PMCID:PMC9148170 '
+  highlight: 0
+- title: '"Time-Frequency Decomposition of Scalp Electroencephalograms Improves Deep
+    Learning-Based Epilepsy Diagnosis."'
+  image: ''
+  description: ''
+  authors: Thangavel P, Thomas J, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R,
+    Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover B, Dauwels
+    J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34278972
+    display: 'Int J Neural Syst 2021 Aug; 31 (8) :2150032 doi: 10.1142/S0129065721500325.
+      Epub 2021 Jul 16. PMID:34278972 ; PMCID:PMC9340811 '
+  highlight: 0
+- title: '"Computational Evidence for a Competitive Thalamocortical Model of Spikes
+    and Spindle Activity in Rolandic Epilepsy."'
+  image: ''
+  description: ''
+  authors: Li Q, Westover MB, Zhang R, Chu CJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34220477
+    display: 'Front Comput Neurosci 2021; 15 :680549 doi: 10.3389/fncom.2021.680549.
+      eCollection 2021. PMID:34220477 ; PMCID:PMC8249809 '
+  highlight: 0
+- title: '"Automated Adult Epilepsy Diagnostic Tool Based on Interictal Scalp Electroencephalogram
+    Characteristics: A Six-Center Study."'
+  image: ''
+  description: ''
+  authors: Thomas J, Thangavel P, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R,
+    Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover B, Dauwels
+    J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33438530
+    display: 'Int J Neural Syst 2021 May; 31 (5) :2050074 doi: 10.1142/S0129065720500744.
+      Epub 2021 Jan 12. PMID:33438530 ; PMCID:PMC9343226 '
+  highlight: 0
+- title: '"Automated Detection of Interictal Epileptiform Discharges from Scalp Electroencephalograms
+    by Convolutional Neural Networks."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jin J, Thangavel P, Bagheri E, Yuvaraj R, Dauwels J, Rathakrishnan
+    R, Halford JJ, Cash SS, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32812468
+    display: 'Int J Neural Syst 2020 Nov; 30 (11) :2050030 doi: 10.1142/S0129065720500306.
+      Epub 2020 Aug 19. PMID:32812468 ; PMCID:PMC7606586 '
+  highlight: 0
+- title: '"Persistent abnormalities in Rolandic thalamocortical white matter circuits
+    in childhood epilepsy with centrotemporal spikes."'
+  image: ''
+  description: ''
+  authors: Thorn EL, Ostrowski LM, Chinappen DM, Jing J, Westover MB, Stufflebeam
+    SM, Kramer MA, Chu CJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32944938
+    display: 'Epilepsia 2020 Nov; 61 (11) :2500-2508 doi: 10.1111/epi.16681. Epub
+      2020 Sep 18. PMID:32944938 ; PMCID:PMC7722074 '
+  highlight: 0
+- title: '"Deep Learning for Interictal Epileptiform Spike Detection from scalp EEG
+    frequency sub bands."'
+  image: ''
+  description: ''
+  authors: Prasanth T, Thomas J, Yuvaraj R, Jing J, Cash SS, Chaudhari R, Leng TY,
+    Rathakrishnan R, Rohit S, Saini V, Westover BM, Dauwels J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33018805
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2020 Jul; 2020 :3703-3706 doi: 10.1109/EMBC44109.2020.9175644.
+      PMID:33018805 ; PMCID:PMC7545315 '
+  highlight: 0
+- title: '"Detection of mesial temporal lobe epileptiform discharges on intracranial
+    electrodes using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Jing J, Sun H, Jacobs CS, Pellerin KR, Westover MB, Cash
+    SS, Lam AD.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31760212
+    display: 'Clin Neurophysiol 2020 Jan; 131 (1) :133-141 doi: 10.1016/j.clinph.2019.09.031.
+      Epub 2019 Nov 11. PMID:31760212 ; PMCID:PMC6879011 '
+  highlight: 0
+- title: '"Interrater Reliability of Experts in Identifying Interictal Epileptiform
+    Discharges in Electroencephalograms."'
+  image: ''
+  description: ''
+  authors: Jing J, Herlopian A, Karakis I, Ng M, Halford JJ, Lam A, Maus D, Chan F,
+    Dolatshahi M, Muniz CF, Chu C, Sacca V, Pathmanathan J, Ge W, Sun H, Dauwels J,
+    Cole AJ, Hoch DB, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31633742
+    display: 'JAMA Neurol 2020 Jan 1; 77 (1) :49-57 doi: 10.1001/jamaneurol.2019.3531.
+      PMID:31633742 ; PMCID:PMC6806666 '
+  highlight: 0
+- title: '"Development of Expert-Level Automated Detection of Epileptiform Discharges
+    During Electroencephalogram Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D,
+    Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J,
+    Lam A, Cole AJ, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31633740
+    display: 'JAMA Neurol 2020 Jan 1; 77 (1) :103-108 doi: 10.1001/jamaneurol.2019.3485.
+      PMID:31633740 ; PMCID:PMC6806668 '
+  highlight: 0
+- title: '"A fast machine learning approach to facilitate the detection of interictal
+    epileptiform discharges in the scalp electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31310822
+    display: 'J Neurosci Methods 2019 Oct 1; 326 :108362 doi: 10.1016/j.jneumeth.2019.108362.
+      Epub 2019 Jul 13. PMID:31310822 ; PMCID:PMC6993930 '
+  highlight: 0
+- title: '"CLASSIFIER CASCADE TO AID IN DETECTION OF EPILEPTIFORM TRANSIENTS IN INTERICTAL
+    EEG."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31582912
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2018 Apr; 2018 :970-974
+      doi: 10.1109/ICASSP.2018.8461992. Epub 2018 Sep 13. PMID:31582912 ; PMCID:PMC6775762 '
+  highlight: 0
+- title: '"Interictal Epileptiform Discharge Detection in EEG in Different Practice
+    Settings."'
+  image: ''
+  description: ''
+  authors: Halford JJ, Westover MB, LaRoche SM, Macken MP, Kutluay E, Edwards JC,
+    Bonilha L, Kalamangalam GP, Ding K, Hopp JL, Arain A, Dawson RA, Martz GU, Wolf
+    BJ, Waters CG, Dean BC.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30028830
+    display: 'J Clin Neurophysiol 2018 Sep; 35 (5) :375-380 doi: 10.1097/WNP.0000000000000492.
+      PMID:30028830 ; PMCID:PMC6126936 '
+  highlight: 0
+- title: '"EEG CLassification Via Convolutional Neural Network-Based Interictal Epileptiform
+    Event Detection."'
+  image: ''
+  description: ''
+  authors: Thomas J, Comoretto L, Jin J, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30441062
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :3148-3151 doi: 10.1109/EMBC.2018.8512930.
+      PMID:30441062 ; PMCID:PMC6775768 '
+  highlight: 0
+- title: '"Interictal epileptiform discharge characteristics underlying expert interrater
+    agreement."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Dauwels J, Dean BC, Waters CG, Westover MB, Halford JJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28837905
+    display: 'Clin Neurophysiol 2017 Oct; 128 (10) :1994-2005 doi: 10.1016/j.clinph.2017.06.252.
+      Epub 2017 Jul 18. PMID:28837905 ; PMCID:PMC5842710 '
+  highlight: 0
+- title: '"Automated epileptiform spike detection via affinity propagation-based template
+    matching."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jing Jin, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29060543
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2017 Jul; 2017 :3057-3060 doi: 10.1109/EMBC.2017.8037502.
+      PMID:29060543 ; PMCID:PMC5835014 '
+  highlight: 0
+- title: '"What it should mean for an algorithm to pass a statistical Turing test
+    for detection of epileptiform discharges."'
+  image: ''
+  description: ''
+  authors: Westover MB, Halford JJ, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28495216
+    display: 'Clin Neurophysiol 2017 Jul; 128 (7) :1406-1407 doi: 10.1016/j.clinph.2017.02.026.
+      Epub 2017 Mar 16. PMID:28495216 ; PMCID:PMC9359665 '
+  highlight: 0
+- title: '"Rapid annotation of interictal epileptiform discharges via template matching
+    under Dynamic Time Warping."'
+  image: ''
+  description: ''
+  authors: Jing J, Dauwels J, Rakthanmanon T, Keogh E, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26944098
+    display: 'J Neurosci Methods 2016 Dec 1; 274 :179-190 doi: 10.1016/j.jneumeth.2016.02.025.
+      Epub 2016 Mar 2. PMID:26944098 ; PMCID:PMC5519352 '
+  highlight: 0
+- title: '"EPILEPTIFORM SPIKE DETECTION VIA CONVOLUTIONAL NEURAL NETWORKS."'
+  image: ''
+  description: ''
+  authors: Johansen AR, Jin J, Maszczyk T, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29527131
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2016 Mar; 2016 :754-758
+      doi: 10.1109/ICASSP.2016.7471776. Epub 2016 May 19. PMID:29527131 ; PMCID:PMC5842703 '
+  highlight: 0
+- title: '"CLUSTERING OF INTERICTAL SPIKES BY DYNAMIC TIME WARPING AND AFFINITY PROPAGATION."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jin J, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29527130
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2016 Mar; 2016 :749-753
+      doi: 10.1109/ICASSP.2016.7471775. Epub 2016 May 19. PMID:29527130 ; PMCID:PMC5842698 '
+  highlight: 0
+- title: '"FAST AND EFFICIENT REJECTION OF BACKGROUND WAVEFORMS IN INTERICTAL EEG."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29507536
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2016 Mar; 2016 :744-748
+      doi: 10.1109/ICASSP.2016.7471774. Epub 2016 May 19. PMID:29507536 ; PMCID:PMC5835012 '
+  highlight: 0
+- title: '"SpikeGUI: software for rapid interictal discharge annotation via template
+    matching and online machine learning."'
+  image: ''
+  description: ''
+  authors: Jing Jin, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25570976
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2014; 2014 :4435-8 doi: 10.1109/EMBC.2014.6944608.
+      PMID:25570976 ; PMCID:PMC4416962 '
+  highlight: 0

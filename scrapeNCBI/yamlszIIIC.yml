@@ -1,0 +1,53 @@
+- title: '"Deep active learning for Interictal Ictal Injury Continuum EEG patterns."'
+  image: ''
+  description: ''
+  authors: Ge W, Jing J, An S, Herlopian A, Ng M, Struck AF, Appavu B, Johnson EL,
+    Osman G, Haider HA, Karakis I, Kim JA, Halford JJ, Dhakar MB, Sarkis RA, Swisher
+    CB, Schmitt S, Lee JW, Tabaeizadeh M, Rodriguez A, Gaspard N, Gilmore E, Herman
+    ST, Kaplan PW, Pathmanathan J, Hong S, Rosenthal ES, Zafar S, Sun J, Brandon Westover
+    M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33131680
+    display: 'J Neurosci Methods 2021 Mar 1; 351 :108966 doi: 10.1016/j.jneumeth.2020.108966.
+      Epub 2020 Oct 22. PMID:33131680 ; PMCID:PMC8135050 '
+  highlight: 0
+- title: '"Rapid annotation of seizures and interictal-ictal-injury continuum EEG
+    patterns."'
+  image: ''
+  description: ''
+  authors: Jing J, d'Angremont E, Ebrahim S, Tabaeizadeh M, Ng M, Herlopian A, Dauwels
+    J, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33099261
+    display: 'J Neurosci Methods 2021 Jan 1; 347 :108956 doi: 10.1016/j.jneumeth.2020.108956.
+      Epub 2020 Oct 21. PMID:33099261 ; PMCID:PMC7744406 '
+  highlight: 0
+- title: '"A New Neural Mass Model Driven Method and Its Application in Early Epileptic
+    Seizure Detection."'
+  image: ''
+  description: ''
+  authors: Song JL, Li Q, Zhang B, Westover MB, Zhang R.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31804924
+    display: 'IEEE Trans Biomed Eng 2020 Aug; 67 (8) :2194-2205 doi: 10.1109/TBME.2019.2957392.
+      Epub 2019 Dec 3. PMID:31804924 ; PMCID:PMC9371613 '
+  highlight: 0
+- title: '"Seizure tracking of epileptic EEGs using a model-driven approach."'
+  image: ''
+  description: ''
+  authors: Song JL, Li Q, Pan M, Zhang B, Westover MB, Zhang R.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31121573
+    display: 'J Neural Eng 2020 Jan 6; 17 (1) :016024 doi: 10.1088/1741-2552/ab2409.
+      PMID:31121573 ; PMCID:PMC6874715 '
+  highlight: 0
+- title: '"Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns."'
+  image: ''
+  description: ''
+  authors: "Jing J, d\u2019Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim\
+    \ S, Dauwels J, Westover MB."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30441116
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :3394-3397 doi: 10.1109/EMBC.2018.8513059.
+      PMID:30441116 ; PMCID:PMC6776236 '
+  highlight: 0

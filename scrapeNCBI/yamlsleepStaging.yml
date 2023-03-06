@@ -1,0 +1,81 @@
+- title: '"Expert-level automated sleep staging of long-term scalp electroencephalography
+    recordings using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, Westover
+    MB, Lam AD.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32478820
+    display: 'Sleep 2020 Nov 12; 43 (11) doi: 10.1093/sleep/zsaa112. PMID:32478820
+      ; PMCID:PMC7686563 '
+  highlight: 0
+- title: '"Sleep staging from electrocardiography and respiration with deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
+    Tesh RA, Akeju O, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31863111
+    display: 'Sleep 2020 Jul 13; 43 (7) doi: 10.1093/sleep/zsz306. PMID:31863111 ;
+      PMCID:PMC7355395 '
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: background and implications
+    for clinicians."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32065113
+    display: 'J Clin Sleep Med 2020 Apr 15; 16 (4) :609-618 doi: 10.5664/jcsm.8388.
+      PMID:32065113 ; PMCID:PMC7161463 '
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: an American Academy of Sleep
+    Medicine position statement."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB, Abbasi-Feinberg F, Aurora RN, Carden KA, Kirsch DB, Malhotra RK, Martin JL,
+    Olson EJ, Ramar K, Rosen CL, Rowley JA, Shelgikar AV.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32022674
+    display: 'J Clin Sleep Med 2020 Apr 15; 16 (4) :605-607 doi: 10.5664/jcsm.8288.
+      PMID:32022674 ; PMCID:PMC7161449 '
+  highlight: 0
+- title: '"Expert-level sleep scoring with deep neural networks."'
+  image: ''
+  description: ''
+  authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30445569
+    display: 'J Am Med Inform Assoc 2018 Dec 1; 25 (12) :1643-1650 doi: 10.1093/jamia/ocy131.
+      PMID:30445569 ; PMCID:PMC6289549 '
+  highlight: 0
+- title: '"Large-Scale Automated Sleep Staging."'
+  image: ''
+  description: ''
+  authors: Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29029305
+    display: 'Sleep 2017 Oct 1; 40 (10) doi: 10.1093/sleep/zsx139. PMID:29029305 ;
+      PMCID:PMC6251659 '
+  highlight: 0
+- title: '"Data-driven modeling of sleep states from EEG."'
+  image: ''
+  description: ''
+  authors: Van Esbroeck A, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23367073
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2012; 2012 :5090-3 doi: 10.1109/EMBC.2012.6347138.
+      PMID:23367073 ; PMCID:PMC6788787 '
+  highlight: 0
+- title: '"Power law versus exponential state transition dynamics: application to
+    sleep-wake architecture."'
+  image: ''
+  description: ''
+  authors: Chu-Shore J, Westover MB, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21151998
+    display: 'PLoS One 2010 Dec 2; 5 (12) :e14204 doi: 10.1371/journal.pone.0014204.
+      PMID:21151998 ; PMCID:PMC2996311 '
+  highlight: 0

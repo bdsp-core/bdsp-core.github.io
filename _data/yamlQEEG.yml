@@ -1,0 +1,82 @@
+- title: '"A Primer on EEG Spectrograms."'
+  image: ''
+  description: ''
+  authors: Ng MC, Jing J, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34510095
+    display: 'J Clin Neurophysiol 2022 Mar 1; 39 (3) :177-183 doi: 10.1097/WNP.0000000000000736.
+      PMID:34510095 ; PMCID:PMC8901534 '
+  highlight: 0
+- title: '"The Utility of Quantitative EEG in Detecting Delayed Cerebral Ischemia
+    After Aneurysmal Subarachnoid Hemorrhage."'
+  image: ''
+  description: ''
+  authors: Baang HY, Chen HY, Herman AL, Gilmore EJ, Hirsch LJ, Sheth KN, Petersen
+    NH, Zafar SF, Rosenthal ES, Westover MB, Kim JA.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34510093
+    display: 'J Clin Neurophysiol 2022 Mar 1; 39 (3) :207-215 doi: 10.1097/WNP.0000000000000754.
+      PMID:34510093 ; PMCID:PMC8901442 '
+  highlight: 0
+- title: '"Decoding the Spectrogram Rainbow."'
+  image: ''
+  description: ''
+  authors: Ng MC, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34510094
+    display: 'J Clin Neurophysiol 2022 Mar 1; 39 (3) :176 doi: 10.1097/WNP.0000000000000741.
+      PMID:34510094 ; PMCID:PMC8901547 '
+  highlight: 0
+- title: '"Quantitative EEG reactivity and machine learning for prognostication in
+    hypoxic-ischemic brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
+    Scirica BM, Lee JW, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31419742
+    display: 'Clin Neurophysiol 2019 Oct; 130 (10) :1908-1916 doi: 10.1016/j.clinph.2019.07.014.
+      Epub 2019 Jul 25. PMID:31419742 ; PMCID:PMC6751020 '
+  highlight: 0
+- title: '"Performance of Spectrogram-Based Seizure Identification of Adult EEGs by
+    Critical Care Nurses and Neurophysiologists."'
+  image: ''
+  description: ''
+  authors: Amorim E, Williamson CA, Moura LMVR, Shafi MM, Gaspard N, Rosenthal ES,
+    Guanci MM, Rajajee V, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27930420
+    display: 'J Clin Neurophysiol 2017 Jul; 34 (4) :359-364 doi: 10.1097/WNP.0000000000000368.
+      PMID:27930420 ; PMCID:PMC5482787 '
+  highlight: 0
+- title: '"Sensitivity of quantitative EEG for seizure identification in the intensive
+    care unit."'
+  image: ''
+  description: ''
+  authors: Haider HA, Esteller R, Hahn CD, Westover MB, Halford JJ, Lee JW, Shafi
+    MM, Gaspard N, Herman ST, Gerard EE, Hirsch LJ, Ehrenberg JA, LaRoche SM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27466474
+    display: 'Neurology 2016 Aug 30; 87 (9) :935-44 doi: 10.1212/WNL.0000000000003034.
+      Epub 2016 Jul 27. PMID:27466474 ; PMCID:PMC5035158 '
+  highlight: 0
+- title: '"Spectrogram screening of adult EEGs is sensitive and efficient."'
+  image: ''
+  description: ''
+  authors: Moura LM, Shafi MM, Ng M, Pati S, Cash SS, Cole AJ, Hoch DB, Rosenthal
+    ES, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24857926
+    display: 'Neurology 2014 Jul 1; 83 (1) :56-64 doi: 10.1212/WNL.0000000000000537.
+      Epub 2014 May 23. PMID:24857926 ; PMCID:PMC4114174 '
+  highlight: 0
+- title: '"Sensitivity of compressed spectral arrays for detecting seizures in acutely
+    ill adults."'
+  image: ''
+  description: ''
+  authors: Williamson CA, Wahlster S, Shafi MM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24052456
+    display: 'Neurocrit Care 2014 Feb; 20 (1) :32-9 doi: 10.1007/s12028-013-9912-4.
+      PMID:24052456 ; PMCID:PMC6794096 '
+  highlight: 0

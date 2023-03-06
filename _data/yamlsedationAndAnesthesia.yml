@@ -1,0 +1,131 @@
+- title: '"Improved tracking of sevoflurane anesthetic states with drug-specific machine
+    learning models."'
+  image: ''
+  description: ''
+  authors: Kashkooli K, Polk SL, Hahm EY, Murphy J, Ethridge BR, Gitlin J, Ibala R,
+    Mekonnen J, Pedemonte JC, Sun H, Westover MB, Barbieri R, Akeju O, Chamadia S.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32485685
+    display: 'J Neural Eng 2020 Aug 4; 17 (4) :046020 doi: 10.1088/1741-2552/ab98da.
+      PMID:32485685 ; PMCID:PMC7540939 '
+  highlight: 0
+- title: '"Adaptive Sedation Monitoring From EEG in ICU Patients With Online Learning."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Sun H, Akeju O, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31545708
+    display: 'IEEE Trans Biomed Eng 2020 Jun; 67 (6) :1696-1706 doi: 10.1109/TBME.2019.2943062.
+      Epub 2019 Sep 23. PMID:31545708 ; PMCID:PMC7085963 '
+  highlight: 0
+- title: '"Electroencephalogram Based Detection of Deep Sedation in ICU Patients Using
+    Atomic Decomposition."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, McClain LM, Boyle EJ, Zhou DW, Ramaswamy SM, Biswal S, Akeju
+    O, Purdon PL, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29993386
+    display: 'IEEE Trans Biomed Eng 2018 Dec; 65 (12) :2684-2691 doi: 10.1109/TBME.2018.2813265.
+      Epub 2018 Mar 7. PMID:29993386 ; PMCID:PMC6424570 '
+  highlight: 0
+- title: '"Brain Monitoring of Sedation in the Intensive Care Unit Using a Recurrent
+    Neural Network."'
+  image: ''
+  description: ''
+  authors: Sun H, Nagaraj SB, Akeju O, Purdon PL, Westover BM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30440304
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :1-4 doi: 10.1109/EMBC.2018.8513185.
+      PMID:30440304 ; PMCID:PMC6775766 '
+  highlight: 0
+- title: '"Minimizing ICU Neurological Dysfunction with Dexmedetomidine-induced Sleep
+    (MINDDS): protocol for a randomised, double-blind, parallel-arm, placebo-controlled
+    trial."'
+  image: ''
+  description: ''
+  authors: Shelton KT, Qu J, Bilotta F, Brown EN, Cudemus G, D'Alessandro DA, Deng
+    H, DiBiasio A, Gitlin JA, Hahm EY, Hobbs LE, Houle TT, Ibala R, Loggia ML, Pavone
+    KJ, Shaefi S, Tolis G, Westover MB, Akeju O.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29678977
+    display: 'BMJ Open 2018 Apr 20; 8 (4) :e020316 doi: 10.1136/bmjopen-2017-020316.
+      PMID:29678977 ; PMCID:PMC5914725 '
+  highlight: 0
+- title: '"Patient-Specific Classification of ICU Sedation Levels From Heart Rate
+    Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Biswal S, Boyle EJ, Zhou DW, McClain LM, Bajwa EK, Quraishi
+    SA, Akeju O, Barbieri R, Purdon PL, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28441231
+    display: 'Crit Care Med 2017 Jul; 45 (7) :e683-e690 doi: 10.1097/CCM.0000000000002364.
+      PMID:28441231 ; PMCID:PMC5474145 '
+  highlight: 0
+- title: '"Automatic Classification of Sedation Levels in ICU Patients Using Heart
+    Rate Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, McClain LM, Zhou DW, Biswal S, Rosenthal ES, Purdon PL, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27035240
+    display: 'Crit Care Med 2016 Sep; 44 (9) :e782-9 doi: 10.1097/CCM.0000000000001708.
+      PMID:27035240 ; PMCID:PMC4987179 '
+  highlight: 0
+- title: '"Heart rate variability as a biomarker for sedation depth estimation in
+    ICU patients."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Ramaswamy SM, Biswal S, Boyle EJ, Zhou DW, Mcclain LM, Rosenthal
+    ES, Purdon PL, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28269712
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2016 Aug; 2016 :6397-6400 doi: 10.1109/EMBC.2016.7592192.
+      PMID:28269712 ; PMCID:PMC5478422 '
+  highlight: 0
+- title: '"Age-dependency of sevoflurane-induced electroencephalogram dynamics in
+    children."'
+  image: ''
+  description: ''
+  authors: Akeju O, Pavone KJ, Thum JA, Firth PG, Westover MB, Puglia M, Shank ES,
+    Brown EN, Purdon PL.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26174303
+    display: 'Br J Anaesth 2015 Jul; 115 Suppl 1 :i66-i76 doi: 10.1093/bja/aev114.
+      PMID:26174303 ; PMCID:PMC4501917 '
+  highlight: 0
+- title: '"Propofol and sevoflurane induce distinct burst suppression patterns in
+    rats."'
+  image: ''
+  description: ''
+  authors: Kenny JD, Westover MB, Ching S, Brown EN, Solt K.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25565990
+    display: 'Front Syst Neurosci 2014; 8 :237 doi: 10.3389/fnsys.2014.00237. eCollection
+      2014. PMID:25565990 ; PMCID:PMC4270179 '
+  highlight: 0
+- title: '"Effects of sevoflurane and propofol on frontal electroencephalogram power
+    and coherence."'
+  image: ''
+  description: ''
+  authors: Akeju O, Westover MB, Pavone KJ, Sampson AL, Hartnack KE, Brown EN, Purdon
+    PL.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25233374
+    display: 'Anesthesiology 2014 Nov; 121 (5) :990-8 doi: 10.1097/ALN.0000000000000436.
+      PMID:25233374 ; PMCID:PMC4206606 '
+  highlight: 0
+- title: '"A comparison of propofol- and dexmedetomidine-induced electroencephalogram
+    dynamics using spectral and coherence analysis."'
+  image: ''
+  description: ''
+  authors: Akeju O, Pavone KJ, Westover MB, Vazquez R, Prerau MJ, Harrell PG, Hartnack
+    KE, Rhee J, Sampson AL, Habeeb K, Gao L, Pierce ET, Walsh JL, Brown EN, Purdon
+    PL.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25187999
+    display: 'Anesthesiology 2014 Nov; 121 (5) :978-89 doi: 10.1097/ALN.0000000000000419.
+      PMID:25187999 ; PMCID:PMC4304638 '
+  highlight: 0

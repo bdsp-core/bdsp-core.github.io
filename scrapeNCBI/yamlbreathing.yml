@@ -1,0 +1,123 @@
+- title: '"Sleep apnea and respiratory anomaly detection from a wearable band and
+    oxygen saturation."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Bucklin AA, Tesh RA, Da Silva Cardoso M, Sun H, Leone MJ,
+    Paixao L, Panneerselvam E, Ye EM, Thompson BT, Akeju O, Kuller D, Thomas RJ, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34409545
+    display: 'Sleep Breath 2022 Sep; 26 (3) :1033-1044 doi: 10.1007/s11325-021-02465-2.
+      Epub 2021 Aug 18. PMID:34409545 ; PMCID:PMC8854446 '
+  highlight: 0
+- title: '"High prevalence of sleep-disordered breathing in the intensive care unit
+    - a cross-sectional study."'
+  image: ''
+  description: ''
+  authors: Bucklin AA, Ganglberger W, Quadri SA, Tesh RA, Adra N, Da Silva Cardoso
+    M, Leone MJ, Krishnamurthy PV, Hemmige A, Rajan S, Panneerselvam E, Paixao L,
+    Higgins J, Ayub MA, Shao YP, Ye EM, Coughlin B, Sun H, Cash SS, Thompson BT, Akeju
+    O, Kuller D, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35971023
+    display: 'Sleep Breath 2022 Aug 16; doi: 10.1007/s11325-022-02698-9. [Epub ahead
+      of print] PMID:35971023 ; PMCID:PMC9931933 '
+  highlight: 0
+- title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
+    and Deep Neural Networks."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM,
+    Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34928786
+    display: 'IEEE Trans Biomed Eng 2022 Jun; 69 (6) :2094-2104 doi: 10.1109/TBME.2021.3136753.
+      Epub 2022 May 19. PMID:34928786 ; PMCID:PMC9119908 '
+  highlight: 0
+- title: '"Algorithm for automatic detection of self-similarity and prediction of
+    residual central respiratory events during continuous positive airway pressure."'
+  image: ''
+  description: ''
+  authors: Oppersma E, Ganglberger W, Sun H, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33057718
+    display: 'Sleep 2021 Apr 9; 44 (4) doi: 10.1093/sleep/zsaa215. PMID:33057718 ;
+      PMCID:PMC8631077 '
+  highlight: 0
+- title: '"A cost-effectiveness analysis of nasal surgery to increase continuous positive
+    airway pressure adherence in sleep apnea patients with nasal obstruction."'
+  image: ''
+  description: ''
+  authors: Kempfle JS, BuSaba NY, Dobrowski JM, Westover MB, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27653626
+    display: 'Laryngoscope 2017 Apr; 127 (4) :977-983 doi: 10.1002/lary.26257. Epub
+      2016 Sep 22. PMID:27653626 ; PMCID:PMC5483184 '
+  highlight: 0
+- title: '"Decision Modeling in Sleep Apnea: The Critical Roles of Pretest Probability,
+    Cost of Untreated Obstructive Sleep Apnea, and Time Horizon."'
+  image: ''
+  description: ''
+  authors: Moro M, Westover MB, Kelly J, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26518699
+    display: 'J Clin Sleep Med 2016 Mar; 12 (3) :409-18 doi: 10.5664/jcsm.5596. PMID:26518699
+      ; PMCID:PMC4773629 '
+  highlight: 0
+- title: '"Clinical Prediction Models for Sleep Apnea: The Importance of Medical History
+    over Symptoms."'
+  image: ''
+  description: ''
+  authors: Ustun B, Westover MB, Rudin C, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26350602
+    display: 'J Clin Sleep Med 2016 Feb; 12 (2) :161-8 doi: 10.5664/jcsm.5476. PMID:26350602
+      ; PMCID:PMC4751423 '
+  highlight: 0
+- title: '"Applications of a Capacitor-Based Respiratory Position Sensing Device:
+    Implications for Radiation Therapy."'
+  image: ''
+  description: ''
+  authors: Y W, Mb W, C S, G S, Mt B, Kd W.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31934681
+    display: 'Austin J Med Oncol 2014; 1 (2) Epub 2014 Oct 24. PMID:31934681 ; PMCID:PMC6956860 '
+  highlight: 0
+- title: '"The challenge of undiagnosed sleep apnea in low-risk populations: a decision
+    analysis."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Hershman S, Bahadoran M, Ferguson M, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25102549
+    display: 'Mil Med 2014 Aug; 179 (8 Suppl) :47-54 doi: 10.7205/MILMED-D-13-00483.
+      PMID:25102549 ; PMCID:PMC6788752 '
+  highlight: 0
+- title: '"Automated sleep apnea quantification based on respiratory movement."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Lipoma T, Darling C, Alameddine Y, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24936142
+    display: 'Int J Med Sci 2014; 11 (8) :796-802 doi: 10.7150/ijms.9303. eCollection
+      2014. PMID:24936142 ; PMCID:PMC4057486 '
+  highlight: 0
+- title: '"The impact of body posture and sleep stages on sleep apnea severity in
+    adults."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Ellenbogen JM, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23243399
+    display: 'J Clin Sleep Med 2012 Dec 15; 8 (6) :655-66A doi: 10.5664/jcsm.2258.
+      PMID:23243399 ; PMCID:PMC3501662 '
+  highlight: 0
+- title: '"Classification algorithms for predicting sleepiness and sleep apnea severity."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Mietus JE, Thomas RJ, Bianchi MT.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21752133
+    display: 'J Sleep Res 2012 Feb; 21 (1) :101-12 doi: 10.1111/j.1365-2869.2011.00935.x.
+      Epub 2011 Jul 14. PMID:21752133 ; PMCID:PMC3698244 '
+  highlight: 0

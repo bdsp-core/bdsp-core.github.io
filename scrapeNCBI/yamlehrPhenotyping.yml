@@ -1,0 +1,31 @@
+- title: '"A replicable, open-source, data integration method to support national
+    practice-based research & quality improvement systems."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Donahue MA, Hoch D, Cash S, Zafar S, Jacobs C, Hosford M,
+    Voinescu PE, Fureman B, Buchhalter J, McGraw CM, Westover MB, Moura LMVR.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35994859
+    display: 'Epilepsy Res 2022 Oct; 186 :107013 doi: 10.1016/j.eplepsyres.2022.107013.
+      Epub 2022 Aug 18. PMID:35994859 ; PMCID:PMC9810436 '
+  highlight: 0
+- title: '"Classification of the Disposition of Patients Hospitalized with COVID-19:
+    Reading Discharge Summaries Using Natural Language Processing."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Sun H, Jain A, Alabsi HS, Brenner LN, Ye E, Ge W, Collens
+    SI, Leone MJ, Das S, Robbins GK, Mukerji SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33449908
+    display: 'JMIR Med Inform 2021 Feb 10; 9 (2) :e25457 doi: 10.2196/25457. PMID:33449908
+      ; PMCID:PMC7879729 '
+  highlight: 0
+- title: '"Automated information extraction from free-text EEG reports."'
+  image: ''
+  description: ''
+  authors: Biswal S, Nip Z, Moura Junior V, Bianchi MT, Rosenthal ES, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26737856
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2015; 2015 :6804-7 doi: 10.1109/EMBC.2015.7319956.
+      PMID:26737856 ; PMCID:PMC4872711 '
+  highlight: 0

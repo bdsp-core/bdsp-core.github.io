@@ -1,0 +1,599 @@
+- title: '"Flexible realistic simulation of seizure occurrence recapitulating statistical
+    properties of seizure diaries."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36401798
+    display: 'Epilepsia 2023 Feb; 64 (2) :396-405 doi: 10.1111/epi.17471. Epub 2022
+      Dec 4. PMID:36401798 ; PMCID:PMC9905290 '
+  highlight: 0
+- title: '"Accurate identification of EEG recordings with interictal epileptiform
+    discharges using a hybrid approach: Artificial intelligence supervised by human
+    experts."'
+  image: ''
+  description: ''
+  authors: "Kural MA, Jing J, F\xFCrbass F, Perko H, Qerama E, Johnsen B, Fuchs S,\
+    \ Westover MB, Beniczky S."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35184276
+    display: 'Epilepsia 2022 May; 63 (5) :1064-1073 doi: 10.1111/epi.17206. Epub 2022
+      Mar 7. PMID:35184276 ; PMCID:PMC9148170 '
+  highlight: 0
+- title: '"Quantifying seizure termination patterns reveals limited pathways to seizure
+    end."'
+  image: ''
+  description: ''
+  authors: Salami P, Borzello M, Kramer MA, Westover MB, Cash SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35104646
+    display: 'Neurobiol Dis 2022 Apr; 165 :105645 doi: 10.1016/j.nbd.2022.105645.
+      Epub 2022 Jan 29. PMID:35104646 ; PMCID:PMC8860887 '
+  highlight: 0
+- title: '"Do Triphasic Waves and Nonconvulsive Status Epilepticus Arise From Similar
+    Mechanisms? A Computational Model."'
+  image: ''
+  description: ''
+  authors: Ligtenstein S, Song J, Jin J, Sun H, Paixao L, Zafar S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34155185
+    display: 'J Clin Neurophysiol 2021 Sep 1; 38 (5) :366-375 doi: 10.1097/WNP.0000000000000719.
+      PMID:34155185 ; PMCID:PMC8429048 '
+  highlight: 0
+- title: '"Responsive neurostimulation for focal motor status epilepticus."'
+  image: ''
+  description: ''
+  authors: Yang JC, Harid NM, Nascimento FA, Kokkinos V, Shaughnessy A, Lam AD, Westover
+    MB, Leslie-Mazwi TM, Hochberg LR, Rosenthal ES, Cole AJ, Richardson RM, Cash SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33955717
+    display: 'Ann Clin Transl Neurol 2021 Jun; 8 (6) :1353-1361 doi: 10.1002/acn3.51318.
+      Epub 2021 May 6. PMID:33955717 ; PMCID:PMC8164849 '
+  highlight: 0
+- title: '"Automated Adult Epilepsy Diagnostic Tool Based on Interictal Scalp Electroencephalogram
+    Characteristics: A Six-Center Study."'
+  image: ''
+  description: ''
+  authors: Thomas J, Thangavel P, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R,
+    Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover B, Dauwels
+    J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33438530
+    display: 'Int J Neural Syst 2021 May; 31 (5) :2050074 doi: 10.1142/S0129065720500744.
+      Epub 2021 Jan 12. PMID:33438530 ; PMCID:PMC9343226 '
+  highlight: 0
+- title: '"Deep active learning for Interictal Ictal Injury Continuum EEG patterns."'
+  image: ''
+  description: ''
+  authors: Ge W, Jing J, An S, Herlopian A, Ng M, Struck AF, Appavu B, Johnson EL,
+    Osman G, Haider HA, Karakis I, Kim JA, Halford JJ, Dhakar MB, Sarkis RA, Swisher
+    CB, Schmitt S, Lee JW, Tabaeizadeh M, Rodriguez A, Gaspard N, Gilmore E, Herman
+    ST, Kaplan PW, Pathmanathan J, Hong S, Rosenthal ES, Zafar S, Sun J, Brandon Westover
+    M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33131680
+    display: 'J Neurosci Methods 2021 Mar 1; 351 :108966 doi: 10.1016/j.jneumeth.2020.108966.
+      Epub 2020 Oct 22. PMID:33131680 ; PMCID:PMC8135050 '
+  highlight: 0
+- title: '"DDESVSFS: A simple, rapid and comprehensive screening tool for the Differential
+    Diagnosis of Epileptic Seizures VS Functional Seizures."'
+  image: ''
+  description: ''
+  authors: Janocko NJ, Jing J, Fan Z, Teagarden DL, Villarreal HK, Morton ML, Groover
+    O, Loring DW, Drane DL, Westover MB, Karakis I.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33517166
+    display: 'Epilepsy Res 2021 Mar; 171 :106563 doi: 10.1016/j.eplepsyres.2021.106563.
+      Epub 2021 Jan 21. PMID:33517166 ; PMCID:PMC8092190 '
+  highlight: 0
+- title: '"Rapid annotation of seizures and interictal-ictal-injury continuum EEG
+    patterns."'
+  image: ''
+  description: ''
+  authors: Jing J, d'Angremont E, Ebrahim S, Tabaeizadeh M, Ng M, Herlopian A, Dauwels
+    J, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33099261
+    display: 'J Neurosci Methods 2021 Jan 1; 347 :108956 doi: 10.1016/j.jneumeth.2020.108956.
+      Epub 2020 Oct 21. PMID:33099261 ; PMCID:PMC7744406 '
+  highlight: 0
+- title: '"Automated Detection of Interictal Epileptiform Discharges from Scalp Electroencephalograms
+    by Convolutional Neural Networks."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jin J, Thangavel P, Bagheri E, Yuvaraj R, Dauwels J, Rathakrishnan
+    R, Halford JJ, Cash SS, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32812468
+    display: 'Int J Neural Syst 2020 Nov; 30 (11) :2050030 doi: 10.1142/S0129065720500306.
+      Epub 2020 Aug 19. PMID:32812468 ; PMCID:PMC7606586 '
+  highlight: 0
+- title: '"Association of epileptiform abnormalities and seizures in Alzheimer disease."'
+  image: ''
+  description: ''
+  authors: Lam AD, Sarkis RA, Pellerin KR, Jing J, Dworetzky BA, Hoch DB, Jacobs CS,
+    Lee JW, Weisholtz DS, Zepeda R, Westover MB, Cole AJ, Cash SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32764101
+    display: 'Neurology 2020 Oct 20; 95 (16) :e2259-e2270 doi: 10.1212/WNL.0000000000010612.
+      Epub 2020 Aug 6. PMID:32764101 ; PMCID:PMC7713786 '
+  highlight: 0
+- title: '"A Theoretical Paradigm for Evaluating Risk-Benefit of Status Epilepticus
+    Treatment."'
+  image: ''
+  description: ''
+  authors: Amorim E, McGraw CM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32890059
+    display: 'J Clin Neurophysiol 2020 Sep; 37 (5) :385-392 doi: 10.1097/WNP.0000000000000753.
+      PMID:32890059 ; PMCID:PMC7516305 '
+  highlight: 0
+- title: '"Development and Validation of Forecasting Next Reported Seizure Using e-Diaries."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Goldenholz SR, Romero J, Moss R, Sun H, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32567720
+    display: 'Ann Neurol 2020 Sep; 88 (3) :588-595 doi: 10.1002/ana.25812. Epub 2020
+      Jul 9. PMID:32567720 ; PMCID:PMC7720795 '
+  highlight: 0
+- title: '"A New Neural Mass Model Driven Method and Its Application in Early Epileptic
+    Seizure Detection."'
+  image: ''
+  description: ''
+  authors: Song JL, Li Q, Zhang B, Westover MB, Zhang R.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31804924
+    display: 'IEEE Trans Biomed Eng 2020 Aug; 67 (8) :2194-2205 doi: 10.1109/TBME.2019.2957392.
+      Epub 2019 Dec 3. PMID:31804924 ; PMCID:PMC9371613 '
+  highlight: 0
+- title: '"Detecting Seizures and Epileptiform Abnormalities in Acute Brain Injury."'
+  image: ''
+  description: ''
+  authors: Singla S, Garcia GE, Rovenolt GE, Soto AL, Gilmore EJ, Hirsch LJ, Blumenfeld
+    H, Sheth KN, Omay SB, Struck AF, Westover MB, Kim JA.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32715371
+    display: 'Curr Neurol Neurosci Rep 2020 Jul 27; 20 (9) :42 doi: 10.1007/s11910-020-01060-4.
+      PMID:32715371 ; PMCID:PMC9353690 '
+  highlight: 0
+- title: '"Deep Learning for Interictal Epileptiform Spike Detection from scalp EEG
+    frequency sub bands."'
+  image: ''
+  description: ''
+  authors: Prasanth T, Thomas J, Yuvaraj R, Jing J, Cash SS, Chaudhari R, Leng TY,
+    Rathakrishnan R, Rohit S, Saini V, Westover BM, Dauwels J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33018805
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2020 Jul; 2020 :3703-3706 doi: 10.1109/EMBC44109.2020.9175644.
+      PMID:33018805 ; PMCID:PMC7545315 '
+  highlight: 0
+- title: '"Sensitivity of Continuous Electroencephalography to Detect Ictal Activity
+    After Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Elmer J, Coppler PJ, Solanki P, Westover MB, Struck AF, Baldwin ME, Kurz
+    MC, Callaway CW.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32343353
+    display: 'JAMA Netw Open 2020 Apr 1; 3 (4) :e203751 doi: 10.1001/jamanetworkopen.2020.3751.
+      PMID:32343353 ; PMCID:PMC7189220 '
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32268366
+    display: 'Brain 2020 Apr 1; 143 (4) :1143-1157 doi: 10.1093/brain/awaa069. PMID:32268366
+      ; PMCID:PMC7174057 '
+  highlight: 0
+- title: '"Assessment of the Validity of the 2HELPS2B Score for Inpatient Seizure
+    Risk Prediction."'
+  image: ''
+  description: ''
+  authors: "Struck AF, Tabaeizadeh M, Schmitt SE, Ruiz AR, Swisher CB, Subramaniam\
+    \ T, Hernandez C, Kaleem S, Haider HA, Ciss\xE9 AF, Dhakar MB, Hirsch LJ, Rosenthal\
+    \ ES, Zafar SF, Gaspard N, Westover MB."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31930362
+    display: 'JAMA Neurol 2020 Apr 1; 77 (4) :500-507 doi: 10.1001/jamaneurol.2019.4656.
+      PMID:31930362 ; PMCID:PMC6990873 '
+  highlight: 0
+- title: '"Seizure tracking of epileptic EEGs using a model-driven approach."'
+  image: ''
+  description: ''
+  authors: Song JL, Li Q, Pan M, Zhang B, Westover MB, Zhang R.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31121573
+    display: 'J Neural Eng 2020 Jan 6; 17 (1) :016024 doi: 10.1088/1741-2552/ab2409.
+      PMID:31121573 ; PMCID:PMC6874715 '
+  highlight: 0
+- title: '"Interrater Reliability of Experts in Identifying Interictal Epileptiform
+    Discharges in Electroencephalograms."'
+  image: ''
+  description: ''
+  authors: Jing J, Herlopian A, Karakis I, Ng M, Halford JJ, Lam A, Maus D, Chan F,
+    Dolatshahi M, Muniz CF, Chu C, Sacca V, Pathmanathan J, Ge W, Sun H, Dauwels J,
+    Cole AJ, Hoch DB, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31633742
+    display: 'JAMA Neurol 2020 Jan 1; 77 (1) :49-57 doi: 10.1001/jamaneurol.2019.3531.
+      PMID:31633742 ; PMCID:PMC6806666 '
+  highlight: 0
+- title: '"The probability of seizures during continuous EEG monitoring in high-risk
+    neonates."'
+  image: ''
+  description: ''
+  authors: Worden LT, Chinappen DM, Stoyell SM, Gold J, Paixao L, Krishnamoorthy K,
+    Kramer MA, Westover MB, Chu CJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31745988
+    display: 'Epilepsia 2019 Dec; 60 (12) :2508-2518 doi: 10.1111/epi.16387. Epub
+      2019 Nov 19. PMID:31745988 ; PMCID:PMC7083278 '
+  highlight: 0
+- title: '"A fast machine learning approach to facilitate the detection of interictal
+    epileptiform discharges in the scalp electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31310822
+    display: 'J Neurosci Methods 2019 Oct 1; 326 :108362 doi: 10.1016/j.jneumeth.2019.108362.
+      Epub 2019 Jul 13. PMID:31310822 ; PMCID:PMC6993930 '
+  highlight: 0
+- title: '"Comparison of machine learning models for seizure prediction in hospitalized
+    patients."'
+  image: ''
+  description: ''
+  authors: Struck AF, Rodriguez-Ruiz AA, Osman G, Gilmore EJ, Haider HA, Dhakar MB,
+    Schrettner M, Lee JW, Gaspard N, Hirsch LJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31353866
+    display: 'Ann Clin Transl Neurol 2019 Jul; 6 (7) :1239-1247 doi: 10.1002/acn3.50817.
+      Epub 2019 Jun 27. PMID:31353866 ; PMCID:PMC6649418 '
+  highlight: 0
+- title: '"The EEG Ictal-Interictal Continuum-A Metabolic Roar But a Whimper of a
+    Functional Outcome."'
+  image: ''
+  description: ''
+  authors: Lee JW.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31198061
+    display: 'Epilepsy Curr 2019 Jul-Aug; 19 (4) :234-236 doi: 10.1177/1535759719855968.
+      Epub 2019 Jun 14. PMID:31198061 ; PMCID:PMC6891843 '
+  highlight: 0
+- title: '"Bilateral independent periodic discharges are associated with electrographic
+    seizures and poor outcome: A case-control study."'
+  image: ''
+  description: ''
+  authors: Osman G, Rahangdale R, Britton JW, Gilmore EJ, Haider HA, Hantus S, Herlopian
+    A, Hocker SE, Woo Lee J, Legros B, Mendoza M, Punia V, Rampal N, Szaflarski JP,
+    Wallace AD, Westover MB, Hirsch LJ, Gaspard N.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30227348
+    display: 'Clin Neurophysiol 2018 Nov; 129 (11) :2284-2289 doi: 10.1016/j.clinph.2018.07.025.
+      Epub 2018 Aug 29. PMID:30227348 ; PMCID:PMC6785981 '
+  highlight: 0
+- title: '"Variability in pharmacologically-induced coma for treatment of refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V Junior, Purdon PL, Brown EN, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30379935
+    display: 'PLoS One 2018; 13 (10) :e0205789 doi: 10.1371/journal.pone.0205789.
+      eCollection 2018. PMID:30379935 ; PMCID:PMC6209214 '
+  highlight: 0
+- title: '"Antiepileptic drug treatment after an unprovoked first seizure: A decision
+    analysis."'
+  image: ''
+  description: ''
+  authors: Bao EL, Chao LY, Ni P, Moura LMVR, Cole AJ, Cash SS, Hoch DB, Bianchi MT,
+    Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30209239
+    display: 'Neurology 2018 Oct 9; 91 (15) :e1429-e1439 doi: 10.1212/WNL.0000000000006319.
+      Epub 2018 Sep 12. PMID:30209239 ; PMCID:PMC6177278 '
+  highlight: 0
+- title: '"CLASSIFIER CASCADE TO AID IN DETECTION OF EPILEPTIFORM TRANSIENTS IN INTERICTAL
+    EEG."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31582912
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2018 Apr; 2018 :970-974
+      doi: 10.1109/ICASSP.2018.8461992. Epub 2018 Sep 13. PMID:31582912 ; PMCID:PMC6775762 '
+  highlight: 0
+- title: '"Interictal Epileptiform Discharge Detection in EEG in Different Practice
+    Settings."'
+  image: ''
+  description: ''
+  authors: Halford JJ, Westover MB, LaRoche SM, Macken MP, Kutluay E, Edwards JC,
+    Bonilha L, Kalamangalam GP, Ding K, Hopp JL, Arain A, Dawson RA, Martz GU, Wolf
+    BJ, Waters CG, Dean BC.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30028830
+    display: 'J Clin Neurophysiol 2018 Sep; 35 (5) :375-380 doi: 10.1097/WNP.0000000000000492.
+      PMID:30028830 ; PMCID:PMC6126936 '
+  highlight: 0
+- title: '"EEG CLassification Via Convolutional Neural Network-Based Interictal Epileptiform
+    Event Detection."'
+  image: ''
+  description: ''
+  authors: Thomas J, Comoretto L, Jin J, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30441062
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :3148-3151 doi: 10.1109/EMBC.2018.8512930.
+      PMID:30441062 ; PMCID:PMC6775768 '
+  highlight: 0
+- title: '"Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns."'
+  image: ''
+  description: ''
+  authors: "Jing J, d\u2019Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim\
+    \ S, Dauwels J, Westover MB."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30441116
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :3394-3397 doi: 10.1109/EMBC.2018.8513059.
+      PMID:30441116 ; PMCID:PMC6776236 '
+  highlight: 0
+- title: '"Randomized trial of lacosamide versus fosphenytoin for nonconvulsive seizures."'
+  image: ''
+  description: ''
+  authors: Husain AM, Lee JW, Kolls BJ, Hirsch LJ, Halford JJ, Gupta PK, Minazad Y,
+    Jones JM, LaRoche SM, Herman ST, Swisher CB, Sinha SR, Palade A, Dombrowski KE,
+    Gallentine WB, Hahn CD, Gerard EE, Bhapkar M, Lokhnygina Y, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29733464
+    display: 'Ann Neurol 2018 Jun; 83 (6) :1174-1185 doi: 10.1002/ana.25249. PMID:29733464
+      ; PMCID:PMC6785201 '
+  highlight: 0
+- title: '"Association of an Electroencephalography-Based Risk Score With Seizure
+    Probability in Hospitalized Patients."'
+  image: ''
+  description: ''
+  authors: Struck AF, Ustun B, Ruiz AR, Lee JW, LaRoche SM, Hirsch LJ, Gilmore EJ,
+    Vlachy J, Haider HA, Rudin C, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29052706
+    display: 'JAMA Neurol 2017 Dec 1; 74 (12) :1419-1424 doi: 10.1001/jamaneurol.2017.2459.
+      PMID:29052706 ; PMCID:PMC5822188 '
+  highlight: 0
+- title: '"Interictal epileptiform discharge characteristics underlying expert interrater
+    agreement."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Dauwels J, Dean BC, Waters CG, Westover MB, Halford JJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28837905
+    display: 'Clin Neurophysiol 2017 Oct; 128 (10) :1994-2005 doi: 10.1016/j.clinph.2017.06.252.
+      Epub 2017 Jul 18. PMID:28837905 ; PMCID:PMC5842710 '
+  highlight: 0
+- title: '"Time-dependent risk of seizures in critically ill patients on continuous
+    electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Struck AF, Osman G, Rampal N, Biswal S, Legros B, Hirsch LJ, Westover MB,
+    Gaspard N.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28681492
+    display: 'Ann Neurol 2017 Aug; 82 (2) :177-185 doi: 10.1002/ana.24985. Epub 2017
+      Jul 19. PMID:28681492 ; PMCID:PMC5842678 '
+  highlight: 0
+- title: '"Performance of Spectrogram-Based Seizure Identification of Adult EEGs by
+    Critical Care Nurses and Neurophysiologists."'
+  image: ''
+  description: ''
+  authors: Amorim E, Williamson CA, Moura LMVR, Shafi MM, Gaspard N, Rosenthal ES,
+    Guanci MM, Rajajee V, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27930420
+    display: 'J Clin Neurophysiol 2017 Jul; 34 (4) :359-364 doi: 10.1097/WNP.0000000000000368.
+      PMID:27930420 ; PMCID:PMC5482787 '
+  highlight: 0
+- title: '"Rapid annotation of interictal epileptiform discharges via template matching
+    under Dynamic Time Warping."'
+  image: ''
+  description: ''
+  authors: Jing J, Dauwels J, Rakthanmanon T, Keogh E, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26944098
+    display: 'J Neurosci Methods 2016 Dec 1; 274 :179-190 doi: 10.1016/j.jneumeth.2016.02.025.
+      Epub 2016 Mar 2. PMID:26944098 ; PMCID:PMC5519352 '
+  highlight: 0
+- title: '"Therapeutic coma for status epilepticus: Differing practices in a prospective
+    multicenter study."'
+  image: ''
+  description: ''
+  authors: Alvarez V, Lee JW, Westover MB, Drislane FW, Novy J, Faouzi M, Marchi NA,
+    Dworetzky BA, Rossetti AO.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27664985
+    display: 'Neurology 2016 Oct 18; 87 (16) :1650-1659 doi: 10.1212/WNL.0000000000003224.
+      Epub 2016 Sep 24. PMID:27664985 ; PMCID:PMC5085074 '
+  highlight: 0
+- title: '"Sensitivity of quantitative EEG for seizure identification in the intensive
+    care unit."'
+  image: ''
+  description: ''
+  authors: Haider HA, Esteller R, Hahn CD, Westover MB, Halford JJ, Lee JW, Shafi
+    MM, Gaspard N, Herman ST, Gerard EE, Hirsch LJ, Ehrenberg JA, LaRoche SM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27466474
+    display: 'Neurology 2016 Aug 30; 87 (9) :935-44 doi: 10.1212/WNL.0000000000003034.
+      Epub 2016 Jul 27. PMID:27466474 ; PMCID:PMC5035158 '
+  highlight: 0
+- title: '"Metabolic Correlates of the Ictal-Interictal Continuum: FDG-PET During
+    Continuous EEG."'
+  image: ''
+  description: ''
+  authors: Struck AF, Westover MB, Hall LT, Deck GM, Cole AJ, Rosenthal ES.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27169855
+    display: 'Neurocrit Care 2016 Jun; 24 (3) :324-31 doi: 10.1007/s12028-016-0245-y.
+      PMID:27169855 ; PMCID:PMC5478419 '
+  highlight: 0
+- title: '"CLUSTERING OF INTERICTAL SPIKES BY DYNAMIC TIME WARPING AND AFFINITY PROPAGATION."'
+  image: ''
+  description: ''
+  authors: Thomas J, Jin J, Dauwels J, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29527130
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2016 Mar; 2016 :749-753
+      doi: 10.1109/ICASSP.2016.7471775. Epub 2016 May 19. PMID:29527130 ; PMCID:PMC5842698 '
+  highlight: 0
+- title: '"FAST AND EFFICIENT REJECTION OF BACKGROUND WAVEFORMS IN INTERICTAL EEG."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29507536
+    display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2016 Mar; 2016 :744-748
+      doi: 10.1109/ICASSP.2016.7471774. Epub 2016 May 19. PMID:29507536 ; PMCID:PMC5835012 '
+  highlight: 0
+- title: '"New-onset refractory status epilepticus: Etiology, clinical features, and
+    outcome."'
+  image: ''
+  description: ''
+  authors: Gaspard N, Foreman BP, Alvarez V, Cabrera Kang C, Probasco JC, Jongeling
+    AC, Meyers E, Espinera A, Haas KF, Schmitt SE, Gerard EE, Gofton T, Kaplan PW,
+    Lee JW, Legros B, Szaflarski JP, Westover BM, LaRoche SM, Hirsch LJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26296517
+    display: 'Neurology 2015 Nov 3; 85 (18) :1604-13 doi: 10.1212/WNL.0000000000001940.
+      Epub 2015 Aug 21. PMID:26296517 ; PMCID:PMC4642147 '
+  highlight: 0
+- title: '"The number of seizures needed in the EMU."'
+  image: ''
+  description: ''
+  authors: Struck AF, Cole AJ, Cash SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26222350
+    display: 'Epilepsia 2015 Nov; 56 (11) :1753-9 doi: 10.1111/epi.13090. Epub 2015
+      Jul 27. PMID:26222350 ; PMCID:PMC4877132 '
+  highlight: 0
+- title: '"Practice variability and efficacy of clonazepam, lorazepam, and midazolam
+    in status epilepticus: A multicenter comparison."'
+  image: ''
+  description: ''
+  authors: Alvarez V, Lee JW, Drislane FW, Westover MB, Novy J, Dworetzky BA, Rossetti
+    AO.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26140660
+    display: 'Epilepsia 2015 Aug; 56 (8) :1275-85 doi: 10.1111/epi.13056. Epub 2015
+      Jul 3. PMID:26140660 ; PMCID:PMC4877129 '
+  highlight: 0
+- title: '"Characteristics and role in outcome prediction of continuous EEG after
+    status epilepticus: A prospective observational cohort."'
+  image: ''
+  description: ''
+  authors: Alvarez V, Drislane FW, Westover MB, Dworetzky BA, Lee JW.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25953195
+    display: 'Epilepsia 2015 Jun; 56 (6) :933-41 doi: 10.1111/epi.12996. Epub 2015
+      May 7. PMID:25953195 ; PMCID:PMC4878827 '
+  highlight: 0
+- title: '"The probability of seizures during EEG monitoring in critically ill adults."'
+  image: ''
+  description: ''
+  authors: Westover MB, Shafi MM, Bianchi MT, Moura LM, O'Rourke D, Rosenthal ES,
+    Chu CJ, Donovan S, Hoch DB, Kilbride RD, Cole AJ, Cash SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25082090
+    display: 'Clin Neurophysiol 2015 Mar; 126 (3) :463-71 doi: 10.1016/j.clinph.2014.05.037.
+      Epub 2014 Jul 11. PMID:25082090 ; PMCID:PMC4289643 '
+  highlight: 0
+- title: '"High risk for seizures following subarachnoid hemorrhage regardless of
+    referral bias."'
+  image: ''
+  description: ''
+  authors: O'Connor KL, Westover MB, Phillips MT, Iftimia NA, Buckley DA, Ogilvy CS,
+    Shafi MM, Rosenthal ES.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24723663
+    display: 'Neurocrit Care 2014 Dec; 21 (3) :476-82 doi: 10.1007/s12028-014-9974-y.
+      PMID:24723663 ; PMCID:PMC4878846 '
+  highlight: 0
+- title: '"Evaluation of a clinical tool for early etiology identification in status
+    epilepticus."'
+  image: ''
+  description: ''
+  authors: Alvarez V, Westover MB, Drislane FW, Dworetzky BA, Curley D, Lee JW, Rossetti
+    AO.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25385281
+    display: 'Epilepsia 2014 Dec; 55 (12) :2059-2068 doi: 10.1111/epi.12852. Epub
+      2014 Nov 10. PMID:25385281 ; PMCID:PMC4870016 '
+  highlight: 0
+- title: '"Treating seizures in Creutzfeldt-Jakob disease."'
+  image: ''
+  description: ''
+  authors: Ng MC, Westover MB, Cole AJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25667875
+    display: 'Epilepsy Behav Case Rep 2014; 2 :75-9 doi: 10.1016/j.ebcr.2014.01.004.
+      eCollection 2014. PMID:25667875 ; PMCID:PMC4308028 '
+  highlight: 0
+- title: '"Sensitivity of compressed spectral arrays for detecting seizures in acutely
+    ill adults."'
+  image: ''
+  description: ''
+  authors: Williamson CA, Wahlster S, Shafi MM, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24052456
+    display: 'Neurocrit Care 2014 Feb; 20 (1) :32-9 doi: 10.1007/s12028-013-9912-4.
+      PMID:24052456 ; PMCID:PMC6794096 '
+  highlight: 0
+- title: '"SpikeGUI: software for rapid interictal discharge annotation via template
+    matching and online machine learning."'
+  image: ''
+  description: ''
+  authors: Jing Jin, Dauwels J, Cash S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25570976
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2014; 2014 :4435-8 doi: 10.1109/EMBC.2014.6944608.
+      PMID:25570976 ; PMCID:PMC4416962 '
+  highlight: 0
+- title: '"Calculating the risk benefit equation for aggressive treatment of non-convulsive
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Ferguson M, Bianchi MT, Sutter R, Rosenthal ES, Cash SS, Kaplan PW, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23065689
+    display: 'Neurocrit Care 2013 Apr; 18 (2) :216-27 doi: 10.1007/s12028-012-9785-y.
+      PMID:23065689 ; PMCID:PMC3767472 '
+  highlight: 0
+- title: '"Inferring seizure frequency from brief EEG recordings."'
+  image: ''
+  description: ''
+  authors: Westover MB, Bianchi MT, Shafi M, Hoch DB, Cole AJ, Chiappa K, Cash SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23545768
+    display: 'J Clin Neurophysiol 2013 Apr; 30 (2) :174-7 doi: 10.1097/WNP.0b013e3182767c35.
+      PMID:23545768 ; PMCID:PMC3616271 '
+  highlight: 0
+- title: '"Absence of early epileptiform abnormalities predicts lack of seizures on
+    continuous EEG."'
+  image: ''
+  description: ''
+  authors: Shafi MM, Westover MB, Cole AJ, Kilbride RD, Hoch DB, Cash SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23054233
+    display: 'Neurology 2012 Oct 23; 79 (17) :1796-801 doi: 10.1212/WNL.0b013e3182703fbc.
+      Epub 2012 Oct 10. PMID:23054233 ; PMCID:PMC3475619 '
+  highlight: 0
+- title: '"Revising the "Rule of Three" for inferring seizure freedom."'
+  image: ''
+  description: ''
+  authors: Westover MB, Cormier J, Bianchi MT, Shafi M, Kilbride R, Cole AJ, Cash
+    SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/22191711
+    display: 'Epilepsia 2012 Feb; 53 (2) :368-76 doi: 10.1111/j.1528-1167.2011.03355.x.
+      Epub 2011 Dec 22. PMID:22191711 ; PMCID:PMC3267849 '
+  highlight: 0

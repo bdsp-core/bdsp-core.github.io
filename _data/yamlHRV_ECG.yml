@@ -1,0 +1,55 @@
+- title: '"Automatic Detection of General Anesthetic-States using ECG-Derived Autonomic
+    Nervous System Features."'
+  image: ''
+  description: ''
+  authors: Polk SL, Kashkooli K, Nagaraj SB, Chamadia S, Murphy JM, Sun H, Westover
+    MB, Barbieri R, Akeju O.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31946297
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2019 Jul; 2019 :2019-2022 doi: 10.1109/EMBC.2019.8857704.
+      PMID:31946297 ; PMCID:PMC7077759 '
+  highlight: 0
+- title: '"ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit."'
+  image: ''
+  description: ''
+  authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28210934
+    display: 'J Clin Monit Comput 2018 Feb; 32 (1) :53-61 doi: 10.1007/s10877-017-9999-9.
+      Epub 2017 Feb 16. PMID:28210934 ; PMCID:PMC5559344 '
+  highlight: 0
+- title: '"Patient-Specific Classification of ICU Sedation Levels From Heart Rate
+    Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Biswal S, Boyle EJ, Zhou DW, McClain LM, Bajwa EK, Quraishi
+    SA, Akeju O, Barbieri R, Purdon PL, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28441231
+    display: 'Crit Care Med 2017 Jul; 45 (7) :e683-e690 doi: 10.1097/CCM.0000000000002364.
+      PMID:28441231 ; PMCID:PMC5474145 '
+  highlight: 0
+- title: '"Automatic Classification of Sedation Levels in ICU Patients Using Heart
+    Rate Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, McClain LM, Zhou DW, Biswal S, Rosenthal ES, Purdon PL, Westover
+    MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27035240
+    display: 'Crit Care Med 2016 Sep; 44 (9) :e782-9 doi: 10.1097/CCM.0000000000001708.
+      PMID:27035240 ; PMCID:PMC4987179 '
+  highlight: 0
+- title: '"Heart rate variability as a biomarker for sedation depth estimation in
+    ICU patients."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Ramaswamy SM, Biswal S, Boyle EJ, Zhou DW, Mcclain LM, Rosenthal
+    ES, Purdon PL, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28269712
+    display: 'Annu Int Conf IEEE Eng Med Biol Soc 2016 Aug; 2016 :6397-6400 doi: 10.1109/EMBC.2016.7592192.
+      PMID:28269712 ; PMCID:PMC5478422 '
+  highlight: 0
