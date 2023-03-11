@@ -79,6 +79,15 @@ blockquote strong em {
 >  
 > **-- _Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
 
+> In my long experience I have learned what are the five most important characteristics of a good colleague, and I shall tell you them.
+1.	He or she must tell you when you're wrong. When you've risen above the associate professor level most people are convinced that you think yourself infallible period of course they're right, but it's annoying that they tell everybody else when you're wrong and won't tell you….
+2.	The ideal colleague must tell you you're wrong without actually stopping you doing the experiment you're just planning. With some colleagues things stopped dead when the idea is killed; With others the argument and discussion is such fun that the experiment gets forgotten….
+3.	The ideal colleague must constantly convert a theoretical argument into an experimental prediction: ‘You say X is so, therefore Y should happen.’ This is the most basic step in all of science, but it's a rare ability to constantly make that step; most of us either waste our time basking in the brilliant sunshine of theory, or just love fiddling with the equipment. Come to think of it there's a third category: those who spend all their time writing grant applications.
+4.	The ideal colleague must have read all the literature you cannot be bothered to read, must understand the historical development of the subject accurately and dispassionately, and whenever necessary must exaggerate the importance of your own role in it.
+5.	Any colleague of any sort has to tidy up the lab after you've made a mess of it.  
+>  
+> **-- _Horace Barlow, preface of Vision: Coding and Efficiency. (1990)_**
+
 >. And further, by these, my son, be admonished: of making many books there is no end; and much astudy is a weariness of the flesh.  
 >. 
 > **--_Ecclesiastes 12:12_**
@@ -154,7 +163,21 @@ blockquote strong em {
 ### Meaning
 > “Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”  
 >  
-> **-―_Richard P. Feynman, 1918-1988_**
+> **-- _Richard P. Feynman, 1918-1988_**  
+
+> Tomorrow, and tomorrow, and tomorrow,  
+> Creeps in the petty pace from day to day,  
+> To the last syllable of recorded time;  
+And all our yesterdays have lighted fools  
+The way to dusty death. Out, out, brief candle,  
+Life’s but a walking shadow, a poor player  
+That struts and frets his hour upon the stage,  
+And then is heard no more. It is a tale  
+Told by an idiot, full of sound and fury  
+Signifying nothing.  
+>  
+> **-- _Shakespeare’s Macbeth, after Macbeth hears of his wife’s suicide, 1623_**  
+
 [Back to Top](#  )
 
 ### Beauty
@@ -246,6 +269,21 @@ blockquote strong em {
 1971_**
 
 [Back to Top](#  )
+
+### Nihilism
+> Have you not heard of that madman who lit a lantern in the bright morning hours, ran to the market place, and cried incessantly: "I seek God! I seek God!" -- As many of those who did not believe in God were standing around just then, he provoked much laughter. Has he got lost? asked one. Did he lose his way like a child? asked another. Or is he hiding? Is he afraid of us? Has he gone on a voyage? emigrated? -- Thus they yelled and laughed.
+The madman jumped into their midst and pierced them with his eyes. "Whither is God?" he cried; "I will tell you. We have killed him -- you and I. All of us are his murderers. But how did we do this? How could we drink up the sea? Who gave us the sponge to wipe away the entire horizon? What were we doing when we unchained this earth from its sun? Whither is it moving now? Whither are we moving? Away from all suns? Are we not plunging continually? Backward, sideward, forward, in all directions? Is there still any up or down? Are we not straying, as through an infinite nothing? Do we not feel the breath of empty space? Has it not become colder? Is not night continually closing in on us? Do we not need to light lanterns in the morning? Do we hear nothing as yet of the noise of the gravediggers who are burying God? Do we smell nothing as yet of the divine decomposition? Gods, too, decompose. God is dead. God remains dead. And we have killed him.  
+>  
+> "How shall we comfort ourselves, the murderers of all murderers? What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves? What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it? There has never been a greater deed; and whoever is born after us -- for the sake of this deed he will belong to a higher history than all history hitherto."  
+>  
+> Here the madman fell silent and looked again at his listeners; and they, too, were silent and stared at him in astonishment. At last he threw his lantern on the ground, and it broke into pieces and went out. "I have come too early," he said then; "my time is not yet. This tremendous event is still on its way, still wandering; it has not yet reached the ears of men. Lightning and thunder require time; the light of the stars requires time; deeds, though done, still require time to be seen and heard. This deed is still more distant from them than most distant stars -- and yet they have done it themselves.  
+>  
+> It has been related further that on the same day the madman forced his way into several churches and there struck up his requiem aeternam deo. Led out and called to account, he is said always to have replied nothing but: "What after all are these churches now if they are not the tombs and sepulchers of God?"  
+>  
+> **--_Friedrich Nietzsche, The Gay Science (1882, 1887) para. 125; Walter Kaufmann ed. (New York: Vintage, 1974), pp.181-82_**
+
+[Back to Top](#  )
+
 
 
 ### Good and Evil  
