@@ -178,6 +178,10 @@ Signifying nothing.
 >  
 > **-- _Shakespeare’s Macbeth, after Macbeth hears of his wife’s suicide, 1623_**  
 
+> William Stoner entered the University of Missouri as a freshman in the year 1910, at the age of nineteen. Eight years later, during the height of World War I, he received his Doctor of Philosophy degree and accepted an instructorship at the same University, where he taught until his death in 1956. He did not rise above the rank of assistant professor, and few students remembered him with any sharpness after they had taken his courses. When he died his colleagues made a memorial contribution of a medieval manuscript to the University library. This manuscript may still be found in the Rare Books Collection, bearing the inscription: "Presented to the Library of the University of Missouri, in memory of William Stoner, Department of English. By his colleagues." An occasional student who comes upon the name may wonder idly who William Stoner was, but he seldom pursues his curiosity beyond a casual question. Stoner's colleagues, who held him in no particular esteem when he was alive, speak of him rarely now; to the older ones, his name is a reminder of the end that awaits them all, and to the younger ones it is merely a sound which evokes no sense of the past and no identity with which they can associate themselves or their careers.
+>    
+> **-- _John Williams, in "Stoner", 1965_**
+
 [Back to Top](#  )
 
 ### Beauty
@@ -187,11 +191,12 @@ Signifying nothing.
 
 > “A poet once said, 'The whole universe is in a glass of wine.' We will probably never know in what sense he meant it, for poets do not write to be understood. But it is true that if we look at a glass of wine closely enough we see the entire universe. There are the things of physics: the twisting liquid which evaporates depending on the wind and weather, the reflection in the glass; and our imagination adds atoms. The glass is a distillation of the earth's rocks, and in its composition we see the secrets of the universe's age, and the evolution of stars. What strange array of chemicals are in the wine? How did they come to be? There are the ferments, the enzymes, the substrates, and the products. There in wine is found the great generalization; all life is fermentation. Nobody can discover the chemistry of wine without discovering, as did Louis Pasteur, the cause of much disease. How vivid is the claret, pressing its existence into the consciousness that watches it! If our small minds, for some convenience, divide this glass of wine, this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it! So let us put it all back together, not forgetting ultimately what it is for. Let it give us one more final pleasure; drink it and forget it all!”  
 >  
-> **-―_Richard P. Feynman, 1918-1988_**
+> **-- _Richard P. Feynman, 1918-1988_**
 
 >  “Poets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?”  
 >    
-> **-―_Richard Feynman, 1918-1988_**
+> **-- _Richard Feynman, 1918-1988_**
+
 
 
 [Back to Top](#  )
@@ -212,33 +217,33 @@ Signifying nothing.
 
 > Those who can make you believe absurdities, can make you commit atrocities.  
 > 
-> **—-_Voltaire, 1694-1778_**
+> **-- _Voltaire, 1694-1778_**
 
 > There is nothing so absurd that it has not been said by some philosopher.  
 > 
-> **—-_Cicero, 106-43 BC_**
+> **-- _Cicero, 106-43 BC_**
 
 > Death is there as irrefutable proof of the absurdity of life.  
 > 
-> **—-_André Malraux, 1901-1976_**
+> **-- _André Malraux, 1901-1976_**
 
 > At any street corner the feeling of absurdity can strike any man in the face.  
 > 
 > This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.
 > 
-> **-—_Albert Camus, 1913-1960_**
+> **-- _Albert Camus, 1913-1960_**
 
 > Take away paradox from the thinker and you have a professor.  
 > 
-> **—-_Søren Kierkegaard, 1813-1855_**
+> **-- _Søren Kierkegaard, 1813-1855_**
 
 > To me, absurdity is the only reality.  
 > 
-> **—-_Frank Zappa, 1940-1993_**
+> **-- _Frank Zappa, 1940-1993_**
 
 > From the sublime to the ridiculous is but a step.  
 > 
-> **—-_Napoleon, 1769-1821_**
+> **-- _Napoleon, 1769-1821_**
 
 > Where am I, or what? From what causes do I derive my existence, and to what condition shall I return? ... I am confounded with all these questions, and begin to fancy myself in the most deplorable condition imaginable, environed with the deepest darkness, and utterly deprived of the use of every member and faculty.  
 >  
@@ -250,8 +255,7 @@ Signifying nothing.
 >  
 > What we say to convey the absurdity of our lives often has to do with space or time: we are tiny specks in the infinite vastness of the universe; our lives are mere instants even on a geological time scale, let alone a cosmic one; we will all be dead any minute. But of course none of these evident facts can be what makes life absurd, if it is absurd. For suppose we lived forever; would not a life that is absurd if it lasts seventy years be infinitely absurd if it lasted through eternity? And if our lives are absurd given our present size, why would they be any less absurd if we filled the universe (either because we were larger or because the universe was smaller)? Reflection on our minuteness and brevity appears to be intimately connected with the sense that life is meaningless; but it is not clear what the connection is...  
 >   
-> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
-1971_**
+> **-- _The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
 
 > We cannot live human lives without energy and attention, nor without making choices which show that we take some things more seriously than others. Yet we have always available a point of view outside the particular form of our lives, from which the seriousness appears gratuitous. These two inescapable viewpoints collide in us, and that is what makes life absurd. It is absurd because we ignore the doubts that we know cannot be settled, continuing to live with nearly undiminished seriousness in spite of them.  
 >   
