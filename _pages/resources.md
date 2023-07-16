@@ -25,6 +25,10 @@ Periodically (typically every 3-6 months) members of the lab draft "objectives a
 A list of manuscripts that are planned or in progress, and anticipated authorship lists is [here](https://docs.google.com/document/d/1ALCjtQEkfHNqaJcqN3eXTDuMcfxWDMLHhREN-Mk2WgY/edit?usp=sharing). Request access by emailing Brandon.  
 [Back to Top](#cdac-lab-resources)
 
+### BDSP AWS EC2 onboarding documentation
+Instructions for setting up an AWS EC2 instance are [here](https://docs.google.com/document/d/10DrvLWUytFCEzCgkCt2NEwIXW8i06fHnATS3o7xMqaI/edit?usp=sharing). Request an account by emailing Junior Moura.  
+[Back to Top](#cdac-lab-resources)
+
 ### Checklists for writing papers  
 [STROBE checklist](https://www.strobe-statement.org/checklists/) - Strengthening The Reporting of Observational studies in Epidemiology  
 [CLAIM checklist]({{ site.baseurl }}/downloads/CLAIM.docx) and [paper]({{ site.baseurl }}/downloads/CLAIM.pdf) - Checklist for Artificial Intelligence in Medical Imaging  
