@@ -39,7 +39,8 @@ Instructions for setting up an AWS EC2 instance are [here](https://docs.google.c
 [Back to Top](#cdac-lab-resources)
 
 ### EEG Report writing templates 
-[Seizure Monitoring (default)]({{ site.baseurl }}/downloads/ICU-EEG-SeizureMonitoring.docx)  
-[Coma after cardiac arrest]({{ site.baseurl }}/downloads/ICU-EEG-ComaCardiacArrest.docx)  
-[SAH]({{ site.baseurl }}/downloads/ICU-EEG-SAH.docx)  
+[Seizure Monitoring (default)]({{site.baseurl}}/downloads/ICU-EEG-SeizureMonitoring.docx)  
+[Coma after cardiac arrest]({{site.baseurl}}/downloads/ICU-EEG-ComaCardiacArrest.docx)  
+[SAH]({{site.baseurl}}/downloads/ICU-EEG-SAH.docx)  
+[2HELPS2B: Recommended duration of EEG monitoring]({{site.baseurl}}/downloads/ICU-EEG-2helps2b-RecommendedDuration_of_EEG Monitoring.pdf)  
 [Back to Top](#cdac-lab-resources)
