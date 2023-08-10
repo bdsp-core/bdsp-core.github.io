@@ -16,7 +16,6 @@ This page includes links to resources for lab members.
 
 **Last revised:  2023-01-05**
 
-
 ### Lab OKRs
 Periodically (typically every 3-6 months) members of the lab draft "objectives and key results". The lab PI also writes a set of OKRs for the lab. You can read about OKRs [here](https://www.whatmatters.com/). The lab OKRs are accessible to lab members [here](https://docs.google.com/document/d/19vgN_tTgaFeOmKnAcrsweqkeMgkukY79_1giEsRPn_w/edit?usp=sharing). Request access by emailing Brandon.  
 [Back to Top](#  )  
@@ -37,4 +36,10 @@ Instructions for setting up an AWS EC2 instance are [here](https://docs.google.c
 [TRIPOD+ paper]({{ site.baseurl }}/downloads/Development_and_Reporting_of_Prediction_Models_CCM_2020.pdf) Guidance for reporting validation studies of predictive models (**highly recommended**)    
 [CONSORT checklist]({{ site.baseurl }}/downloads/consort-2010-checklist.doc)  - CONsolidated Standards Of Reporting Trials  
 [CONSORT diagram template]({{ site.baseurl }}/downloads/CONSORT 2010 Flow Diagram.doc) - flow diagram for study inclusion / exclusion  
+[Back to Top](#cdac-lab-resources)
+
+### EEG Report writing templates 
+[Seizure Monitoring (default)]({{ site.baseurl }}/downloads/ICU-EEG-SeizureMonitoring.docx)  
+[Coma after cardiac arrest]({{ site.baseurl }}/downloads/ICU-EEG-ComaCardiacArrest.docx)  
+[SAH]({{ site.baseurl }}/downloads/ICU-EEG-SAH.docx)  
 [Back to Top](#cdac-lab-resources)
