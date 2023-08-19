@@ -387,6 +387,16 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 > 
 > **--_Eugene Ionesco_**
 
+> “And, indeed, this is the odd thing that is continually happening: there are continually turning up in life moral and rational persons, sages and lovers of humanity who make it their object to live all their lives as morally and rationally as possible, to be, so to speak, a light to their neighbours simply in order to show them that it is possible to live morally and rationally in this world. And yet we all know that those very people sooner or later have been false to themselves, playing some queer trick, often a most unseemly one. 
+> 
+> Now I ask you: what can be expected of man since he is a being endowed with strange qualities? Shower upon him every earthly blessing, drown him in a sea of happiness, so that nothing but bubbles of bliss can be seen on the surface; give him economic prosperity, such that he should have nothing else to do but sleep, eat cakes and busy himself with the continuation of his species, and even then out of sheer ingratitude, sheer spite, man would play you some nasty trick. He would even risk his cakes and would deliberately desire the most fatal rubbish, the most uneconomical absurdity, simply to introduce into all this positive good sense his fatal fantastic element. 
+> 
+> It is just his fantastic dreams, his vulgar folly that he will desire to retain, simply in order to prove to himself--as though that were so necessary-- that men still are men and not the keys of a piano, which the laws of nature threaten to control so completely that soon one will be able to desire nothing but by the calendar. 
+> 
+> And that is not all: even if man really were nothing but a piano-key, even if this were proved to him by natural science and mathematics, even then he would not become reasonable, but would purposely do something perverse out of simple ingratitude, simply to gain his point. And if he does not find means he will contrive destruction and chaos, will contrive sufferings of all sorts, only to gain his point!”
+> 
+> **--_Fyodor Dostoevsky, Notes from the Underground_**
+
 [Back to Top](#  )
 
 
