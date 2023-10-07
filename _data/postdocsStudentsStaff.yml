@@ -22,14 +22,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Ruoqi Wei, MD, PhD
-  photo: ruoqi.jpeg
-  info: Postdoctoral fellow
-  email: rwei@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-
 - name: Wan Yee Kong, MD, MSc
   photo: wanYeeKong.png
   info: Epilepsy fellow
@@ -70,23 +62,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Jayme Banks, BA
-  photo: jayme.jpeg
-  info: Research coordinator
-  email: jbanks4@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-
-- name: Anika Zahoor, MD
-  photo: anikaZahoor.jpeg
-  info: Research Fellow
-  email: azahoor@mgh.harvard.edu
-  number_educ: 3
-  education1: Harvard Medical School
-  education2: Massachusetts General Hospital
-  education3: Beth Israel Deaconess Medical Center
-
 - name: Kaileigh Gallagher, BSc
   photo: kaileigh.jpg
   info: Research coordinator
@@ -95,13 +70,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Evi Dirks, BSc
-  photo: eviDirks.jpeg
-  info: Masters student
-  email: e.h.m.dirks@student.utwente.nl
-  number_educ: 1
-  education1: University of Twente
-
 - name: Mike Westmeijer
   photo: mike_westmeijer.jpeg
   info: Medical student
@@ -109,10 +77,50 @@
   number_educ: 1
   education1: University Medical Center Utrecht
 
-- name: Leanne Lebrialla
-  photo: leannLebrilla.png
+- name: Sean Tengonciang
+  photo: seanTengonciang.jpeg
   info: Administrative Assistant
-  email: llebrill@bidmc.harvard.edu
+  email: stengonc@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
+
+- name: Rebecca Milde
+  photo: rebeccaMilde.jpeg
+  info: Data Scientist
+  email: rmilde@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+
+- name: Moritz Alkofer
+  photo: moritzAlkofer.jpeg
+  info: Masters Student
+  email: malkofer@bidmc.harvard.edu
+  number_educ: 1
+  education1: Technische Universität Berlin
+
+- name: Zade Akras
+  photo: Zade-Akras.jpeg
+  info: Harvard HST Student
+  email: zakras@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Harvard-MIT HST Program
+
+- name: Callison Alcott, MD, PhD
+  photo: Zade-Akras.jpeg
+  info: Child Neurology Resident
+  email: callisonAlcott.jpeg
+  number_educ: 2
+  education1: Child Neurology Resident
+  education2: Harvard Medical School
+
+- name: Jun Li
+  photo: stickFig.png
+  info: Undergraduate studen in Computer Science
+  email: jli47@bidmc.harvard.edu
+  number_educ: 2
+  education1: Peking University, Institute of Health Data Science 
+  education2: Harvard Medical School
+

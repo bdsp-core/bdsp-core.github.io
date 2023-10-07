@@ -1,0 +1,88 @@
+- name: <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin, PhD<a/>
+  photo: CynthiaNov2021.jpeg
+  info: Earl D. McLean, Jr. Professor of Computer Science, Electrical and Computer Engineering, Statistical Science, Mathematics, and Biostatistics & Bioinformatics. PI.
+  email: cynthia.rudin@gmail.com
+  number_educ: 2
+  education1: Duke University
+  education2: Interpretable Machine Learning Lab
+
+- name: <a href="https://volfovsky.github.io/about/">Alex Volfovsky, PhD<a/>
+  photo: Alex_Volfovsky_photo.jpeg
+  info: Associate Professor
+  email: rthomas1@bidmc.harvard.edu
+  number_educ: 2
+  education1: Duke University, Department of Statistical Science
+  education2: Almost Matching Exactly Lab
+
+- name: <a href="https://www.linkedin.com/in/aaron-struck-b2807a89/">Aaron Struck, MD</a>
+  photo: aaronStruck.jpeg
+  info: Assistant Professor, University of Wisconsin
+  email: 
+  number_educ: 2
+  education1: University of Wisconsin, Department of Neurology
+  education2: Director of University of Wisconsin Comprehensive Epilepsy Program and EEG Lab
+
+- name: <a href="https://alab.ucsf.edu/people/ed-amorim-md">Eddy Amorim, MD</a>
+  photo: eddy.jpeg
+  info: Assistant Professor of Neurology
+  email: hsun3@bidmc.harvard.edu
+  number_educ: 2
+  education1: University of California, San Francisco
+  education2: San Francisco General Hospital
+
+- name: <a href="https://www.massgeneral.org/neurology/research/mukerji-lab-team">Shibani Mukerji, MD, PhD</a>
+  photo: shibani.jpeg
+  info: Assistant Professor of Neurology
+  email: smukerji@partners.org
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+
+- name: <a href="https://www.massgeneral.org/doctors/20086/sahar-zafar">Sahar Zafar, MD<a/>
+  photo: sahar.jpeg
+  info: Assistant Professor of Neurology
+  email: hsun3@bidmc.harvard.edu
+  number_educ: 3
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+  education3: McCance Center for Brain Health
+
+- name: <a href="https://www.mignotlab.com/">Emmanuel Mignot, MD, PhD<a/>
+  photo: EmmanuelMignot.jpeg
+  info: Craig Reynolds Professor of Sleep Medicine
+  email: mignot@stanford.edu
+  number_educ: 1
+  education1: Stanford University School of Medicine
+
+- name: <a href="http://gdclifford.info/gari">Gari Clifford, PhD<a/>
+  photo: gari_square.jpeg
+  info: Emory University School of Medicine
+  number_educ: 2
+  education1: Chair & Professor, Department of Biomedical Informatics, Emory University School of Medicine
+  education2: Professor, Department of Biomedical Engineering, Georgia Institute of Technology
+
+- name: <a href="https://medicine.yale.edu/lab/kim/">Jennifer Kim, MD, PhD</a>
+  photo: jennKim.jpeg
+  info: Assistant Professor of Neurology
+  email: jennifer.a.kim@yale.edu
+  number_educ: 1
+  education1: Yale School of Medicine
+
+- name: <a href="https://anesthesiology.duke.edu/profile/miles-berger">Miles Berger, MD, PhD</a>
+  photo: milesBerger.jpeg
+  info: Associate Professor of Anesthesiology
+  number_educ: 1
+  education1: Duke University School of Medicine
+
+- name: <a href="https://researchers.mgh.harvard.edu/profile/1750673/Martin-(Can)-Zhang">Martin (Can) Zhang, MD, PhD</a>
+  photo: martinZhang.jpeg
+  info: Associate Professor of Neurology
+  number_educ: 1
+  education1: Massachusetts General Hospital
+
+- name: <a href="https://kimchilab.org/">Eyal Kimchi, MD, PhD</a>
+  photo: eyalKimchi.jpeg
+  info: Assistant Professor, Northwestern School of Medicine
+  number_educ: 1
+  education1: Northwestern University, Feinberg School of Medicine
+
