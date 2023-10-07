@@ -117,10 +117,16 @@
   education2: Harvard Medical School
 
 - name: Jun Li
-  photo: stickFig.png
+  photo: JunLi_photo.jpg
   info: Undergraduate studen in Computer Science
   email: jli47@bidmc.harvard.edu
   number_educ: 2
   education1: Peking University, Institute of Health Data Science 
   education2: Harvard Medical School
 
+- name: Arjun Singh, MD
+  photo: arjunSingh.jpg
+  info: Research Fellow
+  number_educ: 2
+  education1: Massachusetts General Hospital
+  education2: Harvard Medical School
