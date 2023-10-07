@@ -555,3 +555,33 @@
   info: Medical Student
   number_educ: 1
   education1: In lab 2021-2022
+
+- name: <a href="">Leia Jekel</a>
+  photo: leiaJekel.jpeg
+  info: Student at George Washington U.
+  number_educ: 1
+  education1: In lab 2023
+
+- name: Ruoqi Wei, MD, PhD
+  photo: ruoqi.jpeg
+  info: Research Faculty at University of Florida
+  number_educ: 1
+  education1: In lab 2021-2023
+
+- name: Jayme Banks, BA
+  photo: jayme.jpeg
+  info: Research coordinator
+  number_educ: 1
+  education1: In lab 2021-2023
+
+- name: Anika Zahoor, MD
+  photo: anikaZahoor.jpeg
+  info: Research Fellow
+  number_educ: 1
+  education1: In lab 2022-2023
+
+- name: Evi Dirks, BSc
+  photo: eviDirks.jpeg
+  info: Masters student
+  number_educ: 1
+  education1: In lab 2023

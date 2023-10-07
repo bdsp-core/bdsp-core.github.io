@@ -1,3 +1,21 @@
+- date: 6 October 2023
+  headline: "Kalyan and Jay's [paper showing automated spindle detection is better](https://pubmed.ncbi.nlm.nih.gov/37803266/) than sigma power is out!"
+
+- date: 9 September 2023
+  headline: "The [Harvard-Emory ECG Database](https://bdsp.io/content/heedb/1.0/) is published on BDSP"
+
+- date: 29 August 2023
+  headline: "Eddy and Weilong's epic [paper about how the EEG evolves following cardiac arrest](https://pubmed.ncbi.nlm.nih.gov/37414565/) is published in Neurology."
+
+- date: 28 August 2023
+  headline: "Eddy and the Physionet Challenge team published a [description of the I-CARE dataset](https://pubmed.ncbi.nlm.nih.gov/37693458/)"
+
+- date: 6 August 2023
+  headline: "Christine's work on [physiological grading of ICANS neurotoxicity](https://pubmed.ncbi.nlm.nih.gov/37545104/) for patients receiving CAR-T therapy is out!"
+
+- date: 1 August 2023
+  headline: "Fabio, Jaden & JJ's [paper](https://pubmed.ncbi.nlm.nih.gov/37681118/) on learning EEG through competition is out!"
+
 - date: 21 July 2023 
   headline: "[Neurology Today did a piece](https://journals.lww.com/neurotodayonline/pages/articleviewer.aspx?year=2023&issue=07200&article=00001&type=Fulltext&utm_source=twitter&utm_medium=organic%20social) on our recent [paper in Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00088-2/fulltext)"
 
@@ -12,6 +30,9 @@
 
 - date: 5 May 2023
   headline: "[SPaRCNet repository](https://bdsp.io/content/bdsp-sparcnet/1.1/) published on [bdsp.io](bdsp.io)!"
+
+- date: 5 May 2023
+  headline: "Patrick and Sahar's work relating [epileptiform activity in toxic metabolic encephalopathy](https://pubmed.ncbi.nlm.nih.gov/37168691/) to neurologic outcomes is published."
 
 - date: 1 May 2023
   headline: "[ML contest launched!](https://www.eventbrite.com/e/harmful-brain-activity-classification-contest-tickets-598785823517). Compete with other teams to develop neural networks that classify patterns of harmful brain activity. Top prize $10K!"
