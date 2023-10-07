@@ -86,3 +86,23 @@
   number_educ: 1
   education1: Northwestern University, Feinberg School of Medicine
 
+- name: <a href="https://lamlab.mgh.harvard.edu/">Alice Lam, MD, PhD</a>
+  photo: aliceLam.jpeg
+  info: Associate Professor
+  number_educ: 2
+  education1: Massachusetts General Hospital
+  education2: Harvard Medical School
+
+- name: <a href="http://www.tmslab.org/aboutus-faculty-shafi.php">Mo Shafi, MD, PhD</a>
+  photo: moShafi.png
+  info: Associate Professor
+  number_educ: 2
+  education1: Beth Israel Deaconess Medical Center
+  education2: Harvard Medical School
+
+- name: <a href="https://scholarworks.korea.ac.kr/kumedicine/researcher-profile?ep=561">Chol Shin, MD, PhD</a>
+  photo: cholShin.png
+  info: Professor of Medicine
+  number_educ: 2
+  education1: Ansan Hospital, Seoul, Korea
+  education2: Department of Pulmonary, Allergy, and Critical Care Medicine
