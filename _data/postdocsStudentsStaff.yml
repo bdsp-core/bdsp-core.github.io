@@ -70,12 +70,13 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Mike Westmeijer
-  photo: mike_westmeijer.jpeg
-  info: Medical student
-  email: mwestmeijer@mgh.harvard.edu
-  number_educ: 1
-  education1: University Medical Center Utrecht
+- name: Sakshi Chougule, BSc
+  photo: sakshi.jpeg
+  info: Research coordinator
+  email: schougul@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
 - name: Sean Tengonciang
   photo: seanTengonciang.jpeg
@@ -137,24 +138,12 @@
   number_educ: 1
   education1: Brigham Young University
 
-- name: Lydia Petersen
-  photo: lydiaPetersen.jpeg
-  info: Undergraduate - NAX project
-  number_educ: 1
-  education1: Brigham Young University
-
 - name: Elija Davis
   photo: elijahDavis.jpeg
   info: Undergraduate - NAX project
   number_educ: 1
   education1: Brigham Young University
   
-- name: Kiwi (Yiwen) Xiong
-  photo: kiwi.jpeg
-  info: Undergraduate - NAX project
-  number_educ: 1
-  education1: Boston College
-
 - name: Samvrit (Sam) Rao
   photo: samvritstem.jpeg
   info: Highschool Student - NAX project

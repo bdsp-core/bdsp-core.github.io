@@ -585,3 +585,21 @@
   info: Masters student
   number_educ: 1
   education1: In lab 2023
+
+- name: Mike Westmeijer
+  photo: mike_westmeijer.jpeg
+  info: Medical student
+  number_educ: 1
+  education1: In lab 2021-2023
+
+- name: Kiwi (Yiwen) Xiong
+  photo: kiwi.jpeg
+  info: Undergraduate at Boston College
+  number_educ: 1
+  education1: In lab 2023
+
+- name: Lydia Petersen
+  photo: lydiaPetersen.jpeg
+  info: Undergraduate at BYU - NAX project
+  number_educ: 1
+  education1: In lab 2023
