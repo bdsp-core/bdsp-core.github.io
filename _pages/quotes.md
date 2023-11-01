@@ -158,6 +158,113 @@ blockquote strong em {
 >  
 > **-- _Aleksandr Solzhenitsyn, "Godlessness: the First Step to the Gulag", Templeton Address, 1983_**
 
+> "Yes, indeed there are. Well, I will keep you in front of me. You will feel the wind, but not too much. I shall only want one arm to take care of you; the other will be quite enough to sink the ship."
+> 
+> "Oh, dear North Wind! how can you talk so?"
+> 
+> "My dear boy, I never talk; I always mean what I say."
+> 
+> "Then you do mean to sink the ship with the other hand?"
+> 
+> "Yes."
+> 
+> "It's not like you."
+> 
+> "How do you know that?"
+> 
+> "Quite easily. Here you are taking care of a poor little boy with one arm, and there you are sinking a ship with the other. It can't be like you."
+> 
+> "Ah! but which is me? I can't be two mes, you know."
+> 
+> "No. Nobody can be two mes."
+> 
+> "Well, which me is me?"
+> 
+> "Now I must think. There looks to be two."
+> 
+> "Yes. That's the very point.--You can't be knowing the thing you don't know, can you?"
+> 
+> "No."
+> 
+> "Which me do you know?"
+> 
+> "The kindest, goodest, best me in the world," answered Diamond, clinging to North Wind.
+> 
+> "Why am I good to you?"
+> 
+> "I don't know."
+> 
+> "Have you ever done anything for me?"
+> 
+> "No."
+> 
+> "Then I must be good to you because I choose to be good to you."
+> 
+> "Yes."
+> 
+> "Why should I choose?"
+> 
+> "Because--because--because you like."
+> 
+> "Why should I like to be good to you?"
+> 
+> "I don't know, except it be because it's good to be good to me."
+> 
+> "That's just it; I am good to you because I like to be good."
+> 
+> "Then why shouldn't you be good to other people as well as to me?"
+> 
+> "That's just what I don't know. Why shouldn't I?"
+> 
+> "I don't know either. Then why shouldn't you?"
+> 
+> "Because I am."
+> 
+> "There it is again," said Diamond. "I don't see that you are. It looks quite the other thing."
+> 
+> "Well, but listen to me, Diamond. You know the one me, you say, and that is good."
+> 
+> "Yes."
+> 
+> "Do you know the other me as well?"
+> 
+> "No. I can't. I shouldn't like to."
+> 
+> "There it is. You don't know the other me. You are sure of one of them?"
+> 
+> "Yes."
+> 
+> "And you are sure there can't be two mes?"
+> 
+> "Yes."
+> 
+> "Then the me you don't know must be the same as the me you do know,-- else there would be two mes?"
+> 
+> "Yes."
+> 
+> "Then the other me you don't know must be as kind as the me you do know?"
+> 
+> "Yes."
+> 
+> "Besides, I tell you that it is so, only it doesn't look like it. That I confess freely. Have you anything more to object?"
+> 
+> "No, no, dear North Wind; I am quite satisfied."
+> 
+> "Then I will tell you something you might object. You might say that the me you know is like the other me, and that I am cruel all through."
+> 
+> "I know that can't be, because you are so kind."
+> 
+> "But that kindness might be only a pretence for the sake of being more cruel afterwards."
+> 
+> Diamond clung to her tighter than ever, crying--
+> 
+> "No, no, dear North Wind; I can't believe that. I don't believe it. I won't believe it. That would kill me. I love you, and you must love me, else how did I come to love you? How could you know how to put on such a beautiful face if you did not love me and the rest? No. You may sink as many ships as you like, and I won't say another word. I can't say I shall like to see it, you know."
+> 
+> "That's quite another thing," said North Wind; and as she spoke she gave one spring from the roof of the hay-loft, and rushed up into the clouds, with Diamond on her left arm close to her heart. And as if the clouds knew she had come, they burst into a fresh jubilation of thunderous light... 
+> 
+> **-- _George MacDonald, At the Back of the North Wind_**  
+
+
 [Back to Top](#  )
 
 ### Meaning
@@ -396,6 +503,29 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 > And that is not all: even if man really were nothing but a piano-key, even if this were proved to him by natural science and mathematics, even then he would not become reasonable, but would purposely do something perverse out of simple ingratitude, simply to gain his point. And if he does not find means he will contrive destruction and chaos, will contrive sufferings of all sorts, only to gain his point!”
 > 
 > **--_Fyodor Dostoevsky, Notes from the Underground_**
+
+> "Oh! thank you," said Diamond. "I shall be sorry to leave you, North Wind, but I would rather not see the ship go down. And I'm afraid the poor people will cry, and I should hear them. Oh, dear!"
+>
+> "There are a good many passengers on board; and to tell the truth, Diamond, I don't care about your hearing the cry you speak of. I am afraid you would not get it out of your little head again for a long time."
+>
+> "But how can you bear it then, North Wind? For I am sure you are kind. I shall never doubt that again."
+>
+> "I will tell you how I am able to bear it, Diamond: I am always hearing, through every noise, through all the noise I am making myself even, the sound of a far-off song. I do not exactly know where it is, or what it means; and I don't hear much of it, only the odour of its music, as it were, flitting across the great billows of the ocean outside this air in which I make such a storm; but what I do hear is quite enough to make me able to bear the cry from the drowning ship. So it would you if you could hear it."
+> 
+> "No, it wouldn't," returned Diamond, stoutly. "For they wouldn't hear the music of the far-away song; and if they did, it wouldn't do them any good. You see you and I are not going to be drowned, and so we might enjoy it."
+> 
+> "But you have never heard the psalm, and you don't know what it is like. Somehow, I can't say how, it tells me that all is right; that it is coming to swallow up all cries."
+> 
+> "But that won't do them any good---the people, I mean," persisted Diamond.
+> 
+> "It must. It must," said North Wind, hurriedly. "It wouldn't be the song it seems to be if it did not swallow up all their fear and pain too, and set them singing it themselves with the rest. I am sure it will. And do you know, ever since I knew I had hair, that is, ever since it began to go out and away, that song has been coming nearer and nearer. Only I must say it was some thousand years before I heard it."
+> 
+> "But how can you say it was coming nearer when you did not hear it?" asked doubting little Diamond.
+> 
+> "Since I began to hear it, I know it is growing louder, therefore I judge it was coming nearer and nearer until I did hear it first. I'm not so very old, you know---a few thousand years only---and I was quite a baby when I heard the noise first, but I knew it must come from the voices of people ever so much older and wiser than I was. I can't sing at all, except now and then, and I can never tell what my song is going to be; I only know what it is after I have sung it."
+> 
+> **--_George MacDonald, At the Back of the North Wind_**
+
 
 [Back to Top](#  )
 
