@@ -473,7 +473,9 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 > 
 > **--_Eustace Scrubb in C. S. Lewis, The Voyage of the Dawn Treader_** 
 
-
+> No; I’m not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.
+> 
+> **--_North Wind, speaking to Little Diamond, in "At the Back of the North Wind" by George MacDonald_** 
 
 [Back to Top](#  )
 
