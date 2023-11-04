@@ -475,7 +475,7 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 
 > No; I’m not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.
 > 
-> **--_North Wind, speaking to Little Diamond, in "At the Back of the North Wind" by George MacDonald_** 
+> **--_North Wind, speaking to Little Diamond in "At the Back of the North Wind" by George MacDonald_** 
 
 [Back to Top](#  )
 
@@ -587,7 +587,7 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 
 > “Physics isn't the most important thing. Love is.”  
 >  
-> **-―_Richard P. Feynman_**
+> **--_Richard P. Feynman_**
 
 [Back to Top](#  )
 
@@ -595,7 +595,7 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 ### Anger
 > Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.  
 >  
-> **-_Psalm 37:8_**
+> **--_Psalm 37:8_**
 
 
 > A soft answer turneth away wrath: but grievous words stir up anger.  
@@ -608,7 +608,7 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 
 >  Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath.  
 >  
-> *--_James 1:19, KJV_**
+> **--_James 1:19, KJV_**
 
 > He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.    
 >  
@@ -636,7 +636,7 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 
 > Fathers, do not provoke your children, lest they become discouraged.  
 >  
-> **--_> Colossians 3:21, KJV_**
+> **--_Colossians 3:21, KJV_**
 
 > Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.  
 >  
@@ -661,12 +661,7 @@ The madman jumped into their midst and pierced them with his eyes. "Whither is G
 [Back to Top](#  )
 
 ### Passion
-> I would rather be ashes than dust!
-I would rather that my spark should burn out in a brilliant blaze than it should be stifled by dry-rot.
-I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet.
-The function of man is to live, not to exist.
-I shall not waste my days in trying to prolong them.
-I shall use my time.
+> I would rather be ashes than dust! I would rather that my spark should burn out in a brilliant blaze than it should be stifled by dry-rot. I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet. The function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time.
 >  
 > **--_Jack London, London's literary executor, Irving Shepard, quoting a Jack London Credo in an introduction to a 1956 collection of London stories._**
 
