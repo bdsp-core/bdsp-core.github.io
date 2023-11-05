@@ -56,71 +56,71 @@ blockquote strong em {
 > "Hold your peace, senor," said Sancho; "faith, if I take to asking questions and answering, I'll go on from this till to-morrow morning. Nay! to ask foolish things and answer nonsense I needn't go looking for help from my neighbors."  
 "Thou hast said more than thou art aware of, Sancho," said Don Quixote; "for there are some who weary themselves out in learning and proving things that, after they are known and proved, are not worth a farthing to the understanding or memory."  
 >  
-> -- **_Miguel de Cervantes, The Ingenious Gentleman Don Quixote of La Mancha. 1615_**
+> **--_Miguel de Cervantes, The Ingenious Gentleman Don Quixote of La Mancha. 1615_**
 
 > There is a principle which is a bar against all information, which is proof against all arguments and which cannot fail to keep a man in everlasting ignorance - that principle is contempt prior to investigation.  
 >  
-> -- **_Herbert Spencer, Apr 27 1820-1903._**
+> **--_Herbert Spencer, Apr 27 1820-1903._**
 
-> "Everyone engaged in research must have had the experience of working with feverish and prolonged intensity to write a paper which no one else will read or to solve a problem which no one else thinks important and which will bring no conceivable reward -- which may only confirm a general opinion that the researcher is wasting his time on irrelevancies."  
+> Everyone engaged in research must have had the experience of working with feverish and prolonged intensity to write a paper which no one else will read or to solve a problem which no one else thinks important and which will bring no conceivable reward -- which may only confirm a general opinion that the researcher is wasting his time on irrelevancies.  
 >  
-> -- **_Noam Chomsky, A Review of B. F. Skinner's Verbal Behavior, Language, 35, No. 1 (1959), 26-58_**
+> **--_Noam Chomsky, A Review of B. F. Skinner's Verbal Behavior, Language, 35, No. 1 (1959), 26-58_**
 
-> "Get your facts first, and then you can distort them as much as you please."
-> "Few things are harder to put up with than a good example."  
+> Get your facts first, and then you can distort them as much as you please.
+> Few things are harder to put up with than a good example.  
 >  
-> -- **_Mark Twain, 1835-1910_**
+> **--_Mark Twain, 1835-1910_**
 
-> "For every problem, there is one solution which is simple, neat, and wrong."  
+> For every problem, there is one solution which is simple, neat, and wrong.  
 >  
-> **-- _H. L. Mencken, 1880-1956_**  
+> **--_H. L. Mencken, 1880-1956_**  
 
 > The academic politician is interested in victory. He has the moral code of Machiavelli, but, because he is too impatient to submit to the instruction of history, he has not the old master’s shrewd sense of human limitations and contradictions. He makes the worst of rulers: he is neither a lover of truth, nor a practical man of the world, nor an habitual examiner of his all-too-human and persistent failings.  
 >  
-> **-- _Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
+> **--_Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
 
 > In my long experience I have learned what are the five most important characteristics of a good colleague, and I shall tell you them.
-1.	He or she must tell you when you're wrong. When you've risen above the associate professor level most people are convinced that you think yourself infallible. Of course they're right, but it's annoying that they tell everybody else when you're wrong and won't tell you….
-2.	The ideal colleague must tell you you're wrong without actually stopping you doing the experiment you're just planning. With some colleagues things stop dead when the idea is killed; With others the argument and discussion is such fun that the experiment gets forgotten….
-3.	The ideal colleague must constantly convert a theoretical argument into an experimental prediction: ‘You say X is so, therefore Y should happen.’ This is the most basic step in all of science, but it's a rare ability to constantly make that step; most of us either waste our time basking in the brilliant sunshine of theory, or just love fiddling with the equipment. Come to think of it there's a third category: those who spend all their time writing grant applications.
-4.	The ideal colleague must have read all the literature you cannot be bothered to read, must understand the historical development of the subject accurately and dispassionately, and whenever necessary must exaggerate the importance of your own role in it.
-5.	Any colleague of any sort has to tidy up the lab after you've made a mess of it.  
+> 1.	He or she must tell you when you're wrong. When you've risen above the associate professor level most people are convinced that you think yourself infallible. Of course they're right, but it's annoying that they tell everybody else when you're wrong and won't tell you….
+> 2.	The ideal colleague must tell you you're wrong without actually stopping you doing the experiment you're just planning. With some colleagues things stop dead when the idea is killed; With others the argument and discussion is such fun that the experiment gets forgotten….
+> 3.	The ideal colleague must constantly convert a theoretical argument into an experimental prediction: ‘You say X is so, therefore Y should happen.’ This is the most basic step in all of science, but it's a rare ability to constantly make that step; most of us either waste our time basking in the brilliant sunshine of theory, or just love fiddling with the equipment. Come to think of it there's a third category: those who spend all their time writing grant applications.
+> 4.	The ideal colleague must have read all the literature you cannot be bothered to read, must understand the historical development of the subject accurately and dispassionately, and whenever necessary must exaggerate the importance of your own role in it.
+> 5.	Any colleague of any sort has to tidy up the lab after you've made a mess of it.  
 >  
-> **-- _Horace Barlow, preface of Vision: Coding and Efficiency. (1990)_**
+> **--_Horace Barlow, preface of Vision: Coding and Efficiency. (1990)_**
 
 >. And further, by these, my son, be admonished: of making many books there is no end; and much astudy is a weariness of the flesh.  
->. 
+>   
 > **--_Ecclesiastes 12:12_**
 
 [Back to Top](#  )
 
 
 ### Computation
-> "Where a calculator like the ENIAC today is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps weigh only 1 1/2 tons."  
+> Where a calculator like the ENIAC today is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps weigh only 1 1/2 tons.  
 >  
-> **-- _Popular Mechanics, March 1949, p. 258_**
+> **--_Popular Mechanics, March 1949, p. 258_**
 
 [Back to Top](#  )
 
 ### Creativity
-> "I don't know where my ideas come from. I will admit, however, that one key ingredient is caffeine. I get a couple cups of coffee into me and weird things just start to happen."  
+> I don't know where my ideas come from. I will admit, however, that one key ingredient is caffeine. I get a couple cups of coffee into me and weird things just start to happen.  
 >  
-> **-- _Gary Larson, The Prehistory of The Far Side_**
+> **--_Gary Larson, The Prehistory of The Far Side_**
 
-> "Sometimes ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It's a mysterious process, but I hope I never find out exactly how it works."  
+> Sometimes ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It's a mysterious process, but I hope I never find out exactly how it works.  
 >  
-> **-- _J. K. Rowling_**
+> **--_J. K. Rowling_**
 
-> “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”  
+> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.  
 >  
-> --**_Richard Feynmann_**
+> **--_Richard Feynmann_**
 
 [Back to Top](#  )
 
 ### Culture
 > What is the worst thing about living near an open sewer? It is not that you sicken at the stench of it every time you leave your front door. It is that the noisome vapors are so pervasive, and you have lived with them so long, you no longer notice it. What is the worst thing about living in the rubble of a civilization? It is not that you shed a tear for the noble churches and courts and town halls you once knew, as you recall years filled with religious services, parades, block parties, and all the bumptious folderol of an ordinary civic life. It is that you do not even suspect that such things existed.  
 >  
-> **-- _Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
+> **--_Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
 
 > No society has been able to abolish human sadness, no political system can deliver us from the pain of living, from our fear of death, our thirst for the absolute. It is the human condition that directs the social condition, not vice versa.  
 > 
@@ -129,14 +129,13 @@ blockquote strong em {
 
 > If you are a really serious student, you will be in science, or finance, or politics—you will be in the business of money or power. Everything is about ourselves. We don’t want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, “Here, let me teach you about Milton,” the author of the greatest poem in the English language. The students reply, “No, let us teach you about us.” Dear Narcissus, there is a great and beautiful world beyond that pool.  
 >  
-> **-- _Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
+> **--_Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
 
 > The world says: "You have needs -- satisfy them. You have as much right as the rich and the mighty. Don't hesitate to satisfy your needs; indeed, expand your needs and demand more." This is the worldly doctrine of today. And they believe that this is freedom. The result for the rich is isolation and suicide, for the poor, envy and murder.  
 >  
 > **―-_Fyodor Dostoyevsky, The Brothers Karamazov_**
 
 [Back to Top](#  )
-
 
 
 ### Faith
@@ -148,7 +147,7 @@ blockquote strong em {
 >  
 > Now faith, in the sense in which I am here using the word, is the art of holding onto things your reason has once accepted, in spite of your changing moods. For moods will change, whatever view your reason takes. I know that by experience. Now that I am a Christian, I do have moods in which the whole thing looks very improbable; but when I was an atheist, I had moods in which Christianity looked terribly probable. This rebellion of your moods against your real self is going to come anyway. That is why faith is such a necessary virtue; unless you teach your moods “where they get off” you can never be either a sound Christian or even a sound atheist, but just a creature dithering to and fro, with its beliefs really dependent on the weather and the state of its digestion. Consequently one must train the habit of faith.  
 >  
-> **-- _C.S. Lewis, Mere Christianity, 1952._**
+> **--_C.S. Lewis, Mere Christianity, 1952._**
 
 > More than half a century ago, while I was still a child, I recall hearing a number of older people offer the following explanation for the great disasters that had befallen Russia: “Men have forgotten God; that’s why all this has happened.”  
 >  
@@ -156,7 +155,7 @@ blockquote strong em {
 >  
 > What is more, the events of the Russian Revolution can only be understood now, at the end of the century, against the background of what has since occurred in the rest of the world. What emerges here is a process of universal significance. And if I were called upon to identify briefly the principal trait of the entire 20th century, here too, I would be unable to find anything more precise and pithy than to repeat once again: “Men have forgotten God.” The failings of human consciousness, deprived of its divine dimension, have been a determining factor in all the major crimes of this century. The first of these was World War I, and much of our present predicament can be traced back to it. It was a war (the memory of which seems to be fading) when Europe, bursting with health and abundance, fell into a rage of self-mutilation which could not but sap its strength for a century or more, and perhaps forever. The only possible explanation for this war is a mental eclipse among the leaders of Europe due to their lost awareness of a Supreme Power above them. Only a godless embitterment could have moved ostensibly Christian states to employ poison gas, a weapon so obviously beyond the limits of humanity.  
 >  
-> **-- _Aleksandr Solzhenitsyn, "Godlessness: the First Step to the Gulag", Templeton Address, 1983_**
+> **--_Aleksandr Solzhenitsyn, "Godlessness: the First Step to the Gulag", Templeton Address, 1983_**
 
 > "Yes, indeed there are. Well, I will keep you in front of me. You will feel the wind, but not too much. I shall only want one arm to take care of you; the other will be quite enough to sink the ship."
 > 
@@ -262,7 +261,7 @@ blockquote strong em {
 > 
 > "That's quite another thing," said North Wind; and as she spoke she gave one spring from the roof of the hay-loft, and rushed up into the clouds, with Diamond on her left arm close to her heart. And as if the clouds knew she had come, they burst into a fresh jubilation of thunderous light... 
 > 
-> **-- _George MacDonald, At the Back of the North Wind_**  
+> **--_George MacDonald, At the Back of the North Wind_**  
 
 
 [Back to Top](#  )
@@ -270,7 +269,7 @@ blockquote strong em {
 ### Meaning
 > “Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”  
 >  
-> **-- _Richard P. Feynman, 1918-1988_**  
+> **--_Richard P. Feynman, 1918-1988_**  
 
 > Tomorrow, and tomorrow, and tomorrow,  
 > Creeps in the petty pace from day to day,  
@@ -283,11 +282,11 @@ And then is heard no more. It is a tale
 Told by an idiot, full of sound and fury  
 Signifying nothing.  
 >  
-> **-- _Shakespeare’s Macbeth, after Macbeth hears of his wife’s suicide, 1623_**  
+> **--_Shakespeare’s Macbeth, after Macbeth hears of his wife’s suicide, 1623_**  
 
 > William Stoner entered the University of Missouri as a freshman in the year 1910, at the age of nineteen. Eight years later, during the height of World War I, he received his Doctor of Philosophy degree and accepted an instructorship at the same University, where he taught until his death in 1956. He did not rise above the rank of assistant professor, and few students remembered him with any sharpness after they had taken his courses. When he died his colleagues made a memorial contribution of a medieval manuscript to the University library. This manuscript may still be found in the Rare Books Collection, bearing the inscription: "Presented to the Library of the University of Missouri, in memory of William Stoner, Department of English. By his colleagues." An occasional student who comes upon the name may wonder idly who William Stoner was, but he seldom pursues his curiosity beyond a casual question. Stoner's colleagues, who held him in no particular esteem when he was alive, speak of him rarely now; to the older ones, his name is a reminder of the end that awaits them all, and to the younger ones it is merely a sound which evokes no sense of the past and no identity with which they can associate themselves or their careers.
 >    
-> **-- _John Williams, in "Stoner", 1965_**
+> **--_John Williams, in "Stoner", 1965_**
 
 [Back to Top](#  )
 
@@ -298,11 +297,11 @@ Signifying nothing.
 
 > “A poet once said, 'The whole universe is in a glass of wine.' We will probably never know in what sense he meant it, for poets do not write to be understood. But it is true that if we look at a glass of wine closely enough we see the entire universe. There are the things of physics: the twisting liquid which evaporates depending on the wind and weather, the reflection in the glass; and our imagination adds atoms. The glass is a distillation of the earth's rocks, and in its composition we see the secrets of the universe's age, and the evolution of stars. What strange array of chemicals are in the wine? How did they come to be? There are the ferments, the enzymes, the substrates, and the products. There in wine is found the great generalization; all life is fermentation. Nobody can discover the chemistry of wine without discovering, as did Louis Pasteur, the cause of much disease. How vivid is the claret, pressing its existence into the consciousness that watches it! If our small minds, for some convenience, divide this glass of wine, this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it! So let us put it all back together, not forgetting ultimately what it is for. Let it give us one more final pleasure; drink it and forget it all!”  
 >  
-> **-- _Richard P. Feynman, 1918-1988_**
+> **--_Richard P. Feynman, 1918-1988_**
 
 >  “Poets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?”  
 >    
-> **-- _Richard Feynman, 1918-1988_**
+> **--_Richard Feynman, 1918-1988_**
 
 
 
@@ -324,33 +323,33 @@ Signifying nothing.
 
 > Those who can make you believe absurdities, can make you commit atrocities.  
 > 
-> **-- _Voltaire, 1694-1778_**
+> **--_Voltaire, 1694-1778_**
 
 > There is nothing so absurd that it has not been said by some philosopher.  
 > 
-> **-- _Cicero, 106-43 BC_**
+> **--_Cicero, 106-43 BC_**
 
 > Death is there as irrefutable proof of the absurdity of life.  
 > 
-> **-- _André Malraux, 1901-1976_**
+> **--_André Malraux, 1901-1976_**
 
 > At any street corner the feeling of absurdity can strike any man in the face.  
 > 
 > This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.
 > 
-> **-- _Albert Camus, 1913-1960_**
+> **--_Albert Camus, 1913-1960_**
 
 > Take away paradox from the thinker and you have a professor.  
 > 
-> **-- _Søren Kierkegaard, 1813-1855_**
+> **--_Søren Kierkegaard, 1813-1855_**
 
 > To me, absurdity is the only reality.  
 > 
-> **-- _Frank Zappa, 1940-1993_**
+> **--_Frank Zappa, 1940-1993_**
 
 > From the sublime to the ridiculous is but a step.  
 > 
-> **-- _Napoleon, 1769-1821_**
+> **--_Napoleon, 1769-1821_**
 
 > Where am I, or what? From what causes do I derive my existence, and to what condition shall I return? ... I am confounded with all these questions, and begin to fancy myself in the most deplorable condition imaginable, environed with the deepest darkness, and utterly deprived of the use of every member and faculty.  
 >  
@@ -362,22 +361,19 @@ Signifying nothing.
 >  
 > What we say to convey the absurdity of our lives often has to do with space or time: we are tiny specks in the infinite vastness of the universe; our lives are mere instants even on a geological time scale, let alone a cosmic one; we will all be dead any minute. But of course none of these evident facts can be what makes life absurd, if it is absurd. For suppose we lived forever; would not a life that is absurd if it lasts seventy years be infinitely absurd if it lasted through eternity? And if our lives are absurd given our present size, why would they be any less absurd if we filled the universe (either because we were larger or because the universe was smaller)? Reflection on our minuteness and brevity appears to be intimately connected with the sense that life is meaningless; but it is not clear what the connection is...  
 >   
-> **-- _The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
+> **--_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
 
 > We cannot live human lives without energy and attention, nor without making choices which show that we take some things more seriously than others. Yet we have always available a point of view outside the particular form of our lives, from which the seriousness appears gratuitous. These two inescapable viewpoints collide in us, and that is what makes life absurd. It is absurd because we ignore the doubts that we know cannot be settled, continuing to live with nearly undiminished seriousness in spite of them.  
 >   
-> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
-1971_**
+> **--_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
 
 > In ordinary life a situation is absurd when it includes a conspicuous discrepancy between pretension or aspiration and reality: someone gives a complicated speech in support of a motion that has already been passed; a notorious criminal is made president of a major philanthropic foundation; you declare your love over the telephone to a recorded announcement; as you are being knighted, your pants fall down.  
 >   
-> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
-1971_**
+> **--_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
 
 > If a sense of the absurd is a way of perceiving our true situation (even though the situation is not absurd until the perception arises), then what reason can we have to resent or escape it? Like the capacity for epistemological skepticism, it results from the ability to understand our human limitations. It need not be a matter for agony unless we make it so. Nor need it evoke a defiant contempt of fate that allows us to feel brave or proud. Such dramatics, even if carried on in private, betray a failure to appreciate the cosmic unimportance of the situation. If sub specie aeternitatis there is no reason to believe that anything matters, then that doesn't matter either, and we can approach our absurd lives with irony instead of heroism or despair.  
 >   
-> **-_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29,
-1971_**
+> **--_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
 
 [Back to Top](#  )
 
