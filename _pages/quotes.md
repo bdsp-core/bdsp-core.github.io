@@ -50,6 +50,7 @@ blockquote strong em {
 [Uncertainty | ](#uncertainty)
 [Probability | ](#probability)
 [Probability and Statistics jokes | ](#probability-and-statistics-jokes)
+[Conscience | ](#conscience)
 
 [Back to Brandon's page](/brandon/)
 
@@ -552,7 +553,7 @@ blockquote strong em {
 > Suppose that you want to teach the 'cat' concept to a very young child. Do you explain that a cat is a relatively small, primarily carnivorous mammal with retractible claws, a distinctive sonic output, etc.? I'll bet not. You probably show the kid a lot of different cats, saying 'kitty' each time, until it gets the idea. To put it more generally, generalizations are best made by abstraction from experience.  
 > **--_R. P. Boas, From: "C"an we make mathematics inelligible?", American Mathematical Monthly 88 (1981), pp. 727-731_**
 
-> Mathematics as we know it and as it has come to shape modern science could never have come into being without some disregard for the dangers of the infinite. >  
+> Mathematics as we know it and as it has come to shape modern science could never have come into being without some disregard for the dangers of the infinite.  
 > **--_David Bressoud, A radical approach to real analysis, MAA, 2007, p. 22_**
 
 > "Abstraction consists essentially in the creation and utilization of ambiguity." "Logic moves in one direction, the direction of clarity, coherence and structure. Ambiguity moves in the other direction, that of fluidity, openness, and release. Mathematics moves back and forth between these two poles. [...] It is the interaction between these different aspects that gives mathematics its power."  
@@ -707,6 +708,15 @@ blockquote strong em {
 
 > "There is something in statistics that makes it very similar to astrology."  
 > **--_Gian-Carlo Rota_**
+
+[Back to Top](#  )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Conscience
+> There is a spectacle grander than the sea, and that is the sky; there is a spectacle grander than the sky, and it is the interior of the soul. To write the poem of the human conscience, were the subject only one man, and he the lowest of men, would be to resolve all epic poems into one supreme and final epic. Conscience is the chaos of chimeras, envies, and attempts, the furnace of dreams, the lurking-place of ideas we are ashamed of; it is the pandemonium of sophistry, the battlefield of the passions. At certain hours look through the livid face of a reflecting man, look into his soul, peer into the darkness. Beneath the external silence, combats of giants are going on there, such as we read of in Homer; melees of dragons and hydras and clouds of phantoms, such as we find in Milton; and visionary spirals, as in Dante. A sombre thing is the infinitude which every man bears within him, and by which he desperately measures the volitions of his brain and the actions of his life.  
+> **--_Victor Hugo, 1802-1885, Les Miserables_**
 
 [Back to Top](#  )
 
