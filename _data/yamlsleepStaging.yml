@@ -1,3 +1,25 @@
+- title: '"Exploiting labels from multiple experts in automated sleep scoring."'
+  image: ''
+  description: ''
+  authors: Nasiri S, Ganglberger W, Sun H, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36795078
+    display: 'Sleep 2023 May 10; 46 (5) doi: 10.1093/sleep/zsad034. PMID:36795078
+      ; PMCID:PMC10171620 '
+  highlight: 0
+- title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
+    An exploratory cross-sectional study using deep neural networks."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N,
+    Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins
+    J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
+    Kuller D, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36926545
+    display: 'Front Netw Physiol 2023; 3 :1120390 doi: 10.3389/fnetp.2023.1120390.
+      eCollection 2023. PMID:36926545 ; PMCID:PMC10013021 '
+  highlight: 0
 - title: '"Expert-level automated sleep staging of long-term scalp electroencephalography
     recordings using deep learning."'
   image: ''

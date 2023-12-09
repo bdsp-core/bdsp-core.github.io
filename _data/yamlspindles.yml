@@ -1,3 +1,26 @@
+- title: '"An examination of sleep spindle metrics in the Sleep Heart Health Study:
+    superiority of automated spindle detection over total sigma power in assessing
+    age-related spindle decline."'
+  image: ''
+  description: ''
+  authors: Palepu K, Sadeghi K, Kleinschmidt DF, Donoghue J, Chapman S, Arslan AR,
+    Westover MB, Cash SS, Pathmanathan J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37803266
+    display: 'BMC Neurol 2023 Oct 6; 23 (1) :359 doi: 10.1186/s12883-023-03376-3.
+      PMID:37803266 ; PMCID:PMC10557170 '
+  highlight: 0
+- title: '"Optimal spindle detection parameters for predicting cognitive performance."'
+  image: ''
+  description: ''
+  authors: "Adra N, Sun H, Ganglberger W, Ye EM, D\xFCmmer LW, Tesh RA, Westmeijer\
+    \ M, Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas\
+    \ RJ, Westover MB."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34984446
+    display: 'Sleep 2022 Apr 11; 45 (4) doi: 10.1093/sleep/zsac001. PMID:34984446
+      ; PMCID:PMC8996023 '
+  highlight: 0
 - title: '"Computational Evidence for a Competitive Thalamocortical Model of Spikes
     and Spindle Activity in Rolandic Epilepsy."'
   image: ''

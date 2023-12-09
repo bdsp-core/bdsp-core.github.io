@@ -1,3 +1,23 @@
+- title: '"Spike height improves prediction of future seizure risk."'
+  image: ''
+  description: ''
+  authors: Chinappen DM, Xiao G, Jing J, Spencer ER, Eden UT, Kramer MA, Westover
+    MB, Chu CJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37002980
+    display: 'Clin Neurophysiol 2023 Jun; 150 :49-55 doi: 10.1016/j.clinph.2023.02.180.
+      Epub 2023 Mar 21. PMID:37002980 ; PMCID:PMC10192090 '
+  highlight: 0
+- title: '"Epilepsy diagnosis using a clinical decision tool and artificially intelligent
+    electroencephalography."'
+  image: ''
+  description: ''
+  authors: McInnis RP, Ayub MA, Jing J, Halford JJ, Mateen FJ, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36871319
+    display: 'Epilepsy Behav 2023 Apr; 141 :109135 doi: 10.1016/j.yebeh.2023.109135.
+      Epub 2023 Mar 3. PMID:36871319 ; PMCID:PMC10082472 '
+  highlight: 0
 - title: '"High epileptiform discharge burden predicts delayed cerebral ischemia after
     subarachnoid hemorrhage."'
   image: ''
@@ -8,6 +28,17 @@
     url: https://pubmed.ncbi.nlm.nih.gov/33812771
     display: 'Clin Neurophysiol 2022 Sep; 141 :139-146 doi: 10.1016/j.clinph.2021.01.022.
       Epub 2021 Mar 10. PMID:33812771 ; PMCID:PMC8429508 '
+  highlight: 0
+- title: '"Measuring expertise in identifying interictal epileptiform discharges."'
+  image: ''
+  description: ''
+  authors: Harid NM, Jing J, Hogan J, Nascimento FA, Ouyang A, Zheng WL, Ge W, Zafar
+    SF, Kim JA, Alice DL, Herlopian A, Maus D, Karakis I, Ng M, Hong S, Yu Z, Kaplan
+    PW, Cash S, Shafi M, Martz G, Halford JJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35770748
+    display: 'Epileptic Disord 2022 Jun 1; 24 (3) :496-506 doi: 10.1684/epd.2021.1409.
+      PMID:35770748 ; PMCID:PMC9340812 '
   highlight: 0
 - title: '"Accurate identification of EEG recordings with interictal epileptiform
     discharges using a hybrid approach: Artificial intelligence supervised by human

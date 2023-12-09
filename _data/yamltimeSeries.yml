@@ -1,1 +1,30 @@
-[]
+- title: '"Addressing Big Data Time Series: Mining Trillions of Time Series Subsequences
+    Under Dynamic Time Warping."'
+  image: ''
+  description: ''
+  authors: Rakthanmanon T, Campana B, Mueen A, Batista G, Westover B, Zhu Q, Zakaria
+    J, Keogh E.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31607834
+    display: 'ACM Trans Knowl Discov Data 2013 Sep; 7 (3) PMID:31607834 ; PMCID:PMC6790126 '
+  highlight: 0
+- title: '"Searching and Mining Trillions of Time Series Subsequences under Dynamic
+    Time Warping."'
+  image: ''
+  description: ''
+  authors: Rakthanmanon T, Campana B, Mueen A, Batista G, Westover B, Zhu Q, Zakaria
+    J, Keogh E.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31660254
+    display: 'KDD 2012 Aug; 2012 :262-270 doi: 10.1145/2339530.2339576. PMID:31660254
+      ; PMCID:PMC6816304 '
+  highlight: 0
+- title: '"Exact Discovery of Time Series Motifs."'
+  image: ''
+  description: ''
+  authors: Mueen A, Keogh E, Zhu Q, Cash S, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31656693
+    display: 'Proc SIAM Int Conf Data Min 2009; 2009 :473-484 doi: 10.1137/1.9781611972795.41.
+      PMID:31656693 ; PMCID:PMC6814436 '
+  highlight: 0
