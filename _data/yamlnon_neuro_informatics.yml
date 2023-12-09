@@ -1,3 +1,15 @@
+- title: '"Prediction of operative mortality for patients undergoing cardiac surgical
+    procedures without established risk scores."'
+  image: ''
+  description: ''
+  authors: Ong CS, Reinertsen E, Sun H, Moonsamy P, Mohan N, Funamoto M, Kaneko T,
+    Shekar PS, Schena S, Lawton JS, D'Alessandro DA, Westover MB, Aguirre AD, Sundt
+    TM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34607725
+    display: 'J Thorac Cardiovasc Surg 2023 Apr; 165 (4) :1449-1459.e15 doi: 10.1016/j.jtcvs.2021.09.010.
+      Epub 2021 Sep 14. PMID:34607725 ; PMCID:PMC8918430 '
+  highlight: 0
 - title: '"A machine learning approach to predict progression on active surveillance
     for prostate cancer."'
   image: ''
@@ -8,18 +20,6 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34465541
     display: 'Urol Oncol 2022 Apr; 40 (4) :161.e1-161.e7 doi: 10.1016/j.urolonc.2021.08.007.
       Epub 2021 Aug 29. PMID:34465541 ; PMCID:PMC8882704 '
-  highlight: 0
-- title: '"Prediction of operative mortality for patients undergoing cardiac surgical
-    procedures without established risk scores."'
-  image: ''
-  description: ''
-  authors: Ong CS, Reinertsen E, Sun H, Moonsamy P, Mohan N, Funamoto M, Kaneko T,
-    Shekar PS, Schena S, Lawton JS, D'Alessandro DA, Westover MB, Aguirre AD, Sundt
-    TM.
-  link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34607725
-    display: 'J Thorac Cardiovasc Surg 2021 Sep 14; doi: 10.1016/j.jtcvs.2021.09.010.
-      [Epub ahead of print] PMID:34607725 ; PMCID:PMC8918430 '
   highlight: 0
 - title: '"Early Prediction of Sepsis From Clinical Data: The PhysioNet/Computing
     in Cardiology Challenge 2019."'

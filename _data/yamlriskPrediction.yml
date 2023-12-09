@@ -1,3 +1,90 @@
+- title: '"An examination of sleep spindle metrics in the Sleep Heart Health Study:
+    superiority of automated spindle detection over total sigma power in assessing
+    age-related spindle decline."'
+  image: ''
+  description: ''
+  authors: Palepu K, Sadeghi K, Kleinschmidt DF, Donoghue J, Chapman S, Arslan AR,
+    Westover MB, Cash SS, Pathmanathan J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37803266
+    display: 'BMC Neurol 2023 Oct 6; 23 (1) :359 doi: 10.1186/s12883-023-03376-3.
+      PMID:37803266 ; PMCID:PMC10557170 '
+  highlight: 0
+- title: '"Automated detection of immune effector cell-associated neurotoxicity syndrome
+    via quantitative EEG."'
+  image: ''
+  description: ''
+  authors: Eckhardt CA, Sun H, Malik P, Quadri S, Santana Firme M, Jones DK, van Sleuwen
+    M, Jain A, Fan Z, Jing J, Ge W, Danish HH, Jacobson CA, Rubin DB, Kimchi EY, Cash
+    SS, Frigault MJ, Lee JW, Dietrich J, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37545104
+    display: 'Ann Clin Transl Neurol 2023 Oct; 10 (10) :1776-1789 doi: 10.1002/acn3.51866.
+      Epub 2023 Aug 6. PMID:37545104 ; PMCID:PMC10578889 '
+  highlight: 0
+- title: '"Cognitive concerns are a risk factor for mortality in people with HIV and
+    coronavirus disease 2019."'
+  image: ''
+  description: ''
+  authors: Wilcox DR, Rudmann EA, Ye E, Noori A, Magdamo C, Jain A, Alabsi H, Foy
+    B, Triant VA, Robbins GK, Westover MB, Das S, Mukerji SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37195278
+    display: 'AIDS 2023 Aug 1; 37 (10) :1565-1571 doi: 10.1097/QAD.0000000000003595.
+      Epub 2023 May 9. PMID:37195278 ; PMCID:PMC10355333 '
+  highlight: 0
+- title: '"Identification of patients with epilepsy using automated electronic health
+    records phenotyping."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Cardall A, Jing J, Ge W, Moura LMVR, Jacobs C, McGraw C, Zafar
+    SF, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36934317
+    display: 'Epilepsia 2023 Jun; 64 (6) :1472-1481 doi: 10.1111/epi.17589. Epub 2023
+      Apr 4. PMID:36934317 ; PMCID:PMC10239346 '
+  highlight: 0
+- title: '"Spike height improves prediction of future seizure risk."'
+  image: ''
+  description: ''
+  authors: Chinappen DM, Xiao G, Jing J, Spencer ER, Eden UT, Kramer MA, Westover
+    MB, Chu CJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37002980
+    display: 'Clin Neurophysiol 2023 Jun; 150 :49-55 doi: 10.1016/j.clinph.2023.02.180.
+      Epub 2023 Mar 21. PMID:37002980 ; PMCID:PMC10192090 '
+  highlight: 0
+- title: '"Exploiting labels from multiple experts in automated sleep scoring."'
+  image: ''
+  description: ''
+  authors: Nasiri S, Ganglberger W, Sun H, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36795078
+    display: 'Sleep 2023 May 10; 46 (5) doi: 10.1093/sleep/zsad034. PMID:36795078
+      ; PMCID:PMC10171620 '
+  highlight: 0
+- title: '"Prediction of operative mortality for patients undergoing cardiac surgical
+    procedures without established risk scores."'
+  image: ''
+  description: ''
+  authors: Ong CS, Reinertsen E, Sun H, Moonsamy P, Mohan N, Funamoto M, Kaneko T,
+    Shekar PS, Schena S, Lawton JS, D'Alessandro DA, Westover MB, Aguirre AD, Sundt
+    TM.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34607725
+    display: 'J Thorac Cardiovasc Surg 2023 Apr; 165 (4) :1449-1459.e15 doi: 10.1016/j.jtcvs.2021.09.010.
+      Epub 2021 Sep 14. PMID:34607725 ; PMCID:PMC8918430 '
+  highlight: 0
+- title: '"Improving automated diagnosis of epilepsy from EEGs beyond IEDs."'
+  image: ''
+  description: ''
+  authors: Thangavel P, Thomas J, Sinha N, Peh WY, Yuvaraj R, Cash SS, Chaudhari R,
+    Karia S, Jing J, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover
+    B, Dauwels J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36270485
+    display: 'J Neural Eng 2022 Nov 24; 19 (6) doi: 10.1088/1741-2552/ac9c93. PMID:36270485 '
+  highlight: 0
 - title: '"Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid
     hemorrhage."'
   image: ''
@@ -19,6 +106,15 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34247525
     display: 'Health Serv Manage Res 2022 Aug; 35 (3) :154-163 doi: 10.1177/09514848211028707.
       Epub 2021 Jul 11. PMID:34247525 ; PMCID:PMC8748518 '
+  highlight: 0
+- title: '"SCRIB: Set-Classifier with Class-Specific Risk Bounds for Blackbox Models."'
+  image: ''
+  description: ''
+  authors: Lin Z, Glass L, Brandon Westover M, Xiao C, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37144139
+    display: 'Proc AAAI Conf Artif Intell 2022 Jun 30; 36 (7) :7497-7505 doi: 10.1609/aaai.v36i7.20714.
+      PMID:37144139 ; PMCID:PMC10155818 '
   highlight: 0
 - title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
     and Deep Neural Networks."'
@@ -42,17 +138,16 @@
     display: 'Urol Oncol 2022 Apr; 40 (4) :161.e1-161.e7 doi: 10.1016/j.urolonc.2021.08.007.
       Epub 2021 Aug 29. PMID:34465541 ; PMCID:PMC8882704 '
   highlight: 0
-- title: '"Prediction of operative mortality for patients undergoing cardiac surgical
-    procedures without established risk scores."'
+- title: '"Cancer Risk in Patients With and Relatives of Serrated Polyposis Syndrome
+    and Sporadic Sessile Serrated Lesions."'
   image: ''
   description: ''
-  authors: Ong CS, Reinertsen E, Sun H, Moonsamy P, Mohan N, Funamoto M, Kaneko T,
-    Shekar PS, Schena S, Lawton JS, D'Alessandro DA, Westover MB, Aguirre AD, Sundt
-    TM.
+  authors: Kanth P, Yu Z, Keener MB, Koptiuch C, Kohlmann WK, Neklason DW, Westover
+    M, Curtin K.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34607725
-    display: 'J Thorac Cardiovasc Surg 2021 Sep 14; doi: 10.1016/j.jtcvs.2021.09.010.
-      [Epub ahead of print] PMID:34607725 ; PMCID:PMC8918430 '
+    url: https://pubmed.ncbi.nlm.nih.gov/34889311
+    display: 'Am J Gastroenterol 2022 Feb 1; 117 (2) :336-342 doi: 10.14309/ajg.0000000000001572.
+      PMID:34889311 '
   highlight: 0
 - title: '"Automated Annotation of Epileptiform Burden and Its Association with Outcomes."'
   image: ''
@@ -304,7 +399,8 @@
   authors: Sinha N, Dauwels J, Kaiser M, Cash SS, Westover MB, Wang Y, Taylor PN.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/28334902
-    display: 'Brain 2017 May 1; 140 (5) :e31 doi: 10.1093/brain/awx068. PMID:28334902 '
+    display: 'Brain 2017 May 1; 140 (5) :e31 doi: 10.1093/brain/awx068. PMID:28334902
+      ; PMCID:PMC10448005 '
   highlight: 0
 - title: '"Selection of first-line therapy in multiple sclerosis using risk-benefit
     decision analysis."'
@@ -438,6 +534,15 @@
     url: https://pubmed.ncbi.nlm.nih.gov/22295240
     display: 'Int J Breast Cancer 2011; 2011 :973245 doi: 10.4061/2011/973245. Epub
       2011 Aug 10. PMID:22295240 ; PMCID:PMC3262582 '
+  highlight: 0
+- title: '"Analysis of SPARCL trial data for reduction of future stroke risk in older
+    stroke patients with recent stroke or TIA."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/19746523
+    display: 'Neurology 2009 Sep 8; 73 (10) :817-8; author reply 818 PMID:19746523 '
   highlight: 0
 - title: '"Automated surveillance for central line-associated bloodstream infection
     in intensive care units."'

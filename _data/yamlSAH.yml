@@ -20,6 +20,17 @@
     display: 'Clin Neurophysiol 2022 Sep; 141 :139-146 doi: 10.1016/j.clinph.2021.01.022.
       Epub 2021 Mar 10. PMID:33812771 ; PMCID:PMC8429508 '
   highlight: 0
+- title: '"Antiseizure Medication Treatment and Outcomes in Patients with Subarachnoid
+    Hemorrhage Undergoing Continuous EEG Monitoring."'
+  image: ''
+  description: ''
+  authors: Zafar SF, Rosenthal ES, Postma EN, Sanches P, Ayub MA, Rajan S, Kim JA,
+    Rubin DB, Lee H, Patel AB, Hsu J, Patorno E, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34843082
+    display: 'Neurocrit Care 2022 Jun; 36 (3) :857-867 doi: 10.1007/s12028-021-01387-x.
+      Epub 2021 Nov 29. PMID:34843082 ; PMCID:PMC9117405 '
+  highlight: 0
 - title: '"The Utility of Quantitative EEG in Detecting Delayed Cerebral Ischemia
     After Aneurysmal Subarachnoid Hemorrhage."'
   image: ''
@@ -30,6 +41,17 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34510093
     display: 'J Clin Neurophysiol 2022 Mar 1; 39 (3) :207-215 doi: 10.1097/WNP.0000000000000754.
       PMID:34510093 ; PMCID:PMC8901442 '
+  highlight: 0
+- title: '"Combining Transcranial Doppler and EEG Data to Predict Delayed Cerebral
+    Ischemia After Subarachnoid Hemorrhage."'
+  image: ''
+  description: ''
+  authors: Chen HY, Elmer J, Zafar SF, Ghanta M, Moura Junior V, Rosenthal ES, Gilmore
+    EJ, Hirsch LJ, Zaveri HP, Sheth KN, Petersen NH, Westover MB, Kim JA.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34845057
+    display: 'Neurology 2022 Feb 1; 98 (5) :e459-e469 doi: 10.1212/WNL.0000000000013126.
+      Epub 2021 Nov 29. PMID:34845057 ; PMCID:PMC8826465 '
   highlight: 0
 - title: '"Electroencephalography, Hospital Complications, and Longitudinal Outcomes
     After Subarachnoid Hemorrhage."'

@@ -1,3 +1,66 @@
+- title: '"Brain health scores to predict neurological outcomes from electronic health
+    records."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Sun H, Chemali Z, Mukerji SS, M V R Moura L, Zafar SF, Sonni
+    A, Biffi A, Rosand J, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37890202
+    display: 'Int J Med Inform 2023 Dec; 180 :105270 doi: 10.1016/j.ijmedinf.2023.105270.
+      Epub 2023 Oct 24. PMID:37890202 '
+  highlight: 0
+- title: '"Improving Neurology Clinical Care With Natural Language Processing Tools."'
+  image: ''
+  description: ''
+  authors: Ge W, Rice HJ, Sheikh IS, Westover MB, Weathers AL, Jones LK, Moura L.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37816638
+    display: 'Neurology 2023 Nov 27; 101 (22) :1010-1018 doi: 10.1212/WNL.0000000000207853.
+      PMID:37816638 '
+  highlight: 0
+- title: '"Identifying inpatient hospitalizations with continuous electroencephalogram
+    monitoring from administrative data."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Westover MB, Zafar SF.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37950245
+    display: 'BMC Health Serv Res 2023 Nov 10; 23 (1) :1234 doi: 10.1186/s12913-023-10262-8.
+      PMID:37950245 ; PMCID:PMC10636942 '
+  highlight: 0
+- title: '"Identification of patients with epilepsy using automated electronic health
+    records phenotyping."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Cardall A, Jing J, Ge W, Moura LMVR, Jacobs C, McGraw C, Zafar
+    SF, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36934317
+    display: 'Epilepsia 2023 Jun; 64 (6) :1472-1481 doi: 10.1111/epi.17589. Epub 2023
+      Apr 4. PMID:36934317 ; PMCID:PMC10239346 '
+  highlight: 0
+- title: '"Identifying inpatient hospitalizations with continuous electroencephalogram
+    monitoring from administrative data."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Westover MB, Zafar SF.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37214908
+    display: 'Res Sq 2023 May 8; doi: 10.21203/rs.3.rs-2882806/v1. PMID:37214908 ;
+      PMCID:PMC10197757 '
+  highlight: 0
+- title: '"Classification of neurologic outcomes from medical notes using natural
+    language processing."'
+  image: ''
+  description: ''
+  authors: Fernandes MB, Valizadeh N, Alabsi HS, Quadri SA, Tesh RA, Bucklin AA, Sun
+    H, Jain A, Brenner LN, Ye E, Ge W, Collens SI, Lin S, Das S, Robbins GK, Zafar
+    SF, Mukerji SS, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36865787
+    display: 'Expert Syst Appl 2023 Mar 15; 214 doi: 10.1016/j.eswa.2022.119171. Epub
+      2022 Nov 6. PMID:36865787 ; PMCID:PMC9974159 '
+  highlight: 0
 - title: '"A replicable, open-source, data integration method to support national
     practice-based research & quality improvement systems."'
   image: ''
@@ -9,6 +72,18 @@
     display: 'Epilepsy Res 2022 Oct; 186 :107013 doi: 10.1016/j.eplepsyres.2022.107013.
       Epub 2022 Aug 18. PMID:35994859 ; PMCID:PMC9810436 '
   highlight: 0
+- title: '"Identifying Patients With Delirium Based on Unstructured Clinical Notes:
+    Observational Study."'
+  image: ''
+  description: ''
+  authors: Ge W, Alabsi H, Jain A, Ye E, Sun H, Fernandes M, Magdamo C, Tesh RA, Collens
+    SI, Newhouse A, Mvr Moura L, Zafar S, Hsu J, Akeju O, Robbins GK, Mukerji SS,
+    Das S, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35749214
+    display: 'JMIR Form Res 2022 Jun 24; 6 (6) :e33834 doi: 10.2196/33834. PMID:35749214
+      ; PMCID:PMC9270709 '
+  highlight: 0
 - title: '"Classification of the Disposition of Patients Hospitalized with COVID-19:
     Reading Discharge Summaries Using Natural Language Processing."'
   image: ''
@@ -19,6 +94,17 @@
     url: https://pubmed.ncbi.nlm.nih.gov/33449908
     display: 'JMIR Med Inform 2021 Feb 10; 9 (2) :e25457 doi: 10.2196/25457. PMID:33449908
       ; PMCID:PMC7879729 '
+  highlight: 0
+- title: '"Predicting drug-resistant epilepsy - A machine learning approach based
+    on administrative claims data."'
+  image: ''
+  description: ''
+  authors: An S, Malhotra K, Dilley C, Han-Burgess E, Valdez JN, Robertson J, Clark
+    C, Westover MB, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30412924
+    display: 'Epilepsy Behav 2018 Dec; 89 :118-125 doi: 10.1016/j.yebeh.2018.10.013.
+      Epub 2018 Nov 7. PMID:30412924 ; PMCID:PMC6461470 '
   highlight: 0
 - title: '"Automated information extraction from free-text EEG reports."'
   image: ''

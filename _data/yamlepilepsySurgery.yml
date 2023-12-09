@@ -1,3 +1,13 @@
+- title: '"Commentary on "Predicting seizure freedom after epilepsy surgery, a challenge
+    in clinical practice"."'
+  image: ''
+  description: ''
+  authors: Goldenholz D, Sun H, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31375412
+    display: 'Epilepsy Behav 2019 Oct; 99 :106408 doi: 10.1016/j.yebeh.2019.07.009.
+      Epub 2019 Jul 30. PMID:31375412 '
+  highlight: 0
 - title: '"Reply: Computer models to inform epilepsy surgery strategies: prediction
     of postoperative outcome."'
   image: ''
@@ -5,5 +15,6 @@
   authors: Sinha N, Dauwels J, Kaiser M, Cash SS, Westover MB, Wang Y, Taylor PN.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/28334902
-    display: 'Brain 2017 May 1; 140 (5) :e31 doi: 10.1093/brain/awx068. PMID:28334902 '
+    display: 'Brain 2017 May 1; 140 (5) :e31 doi: 10.1093/brain/awx068. PMID:28334902
+      ; PMCID:PMC10448005 '
   highlight: 0

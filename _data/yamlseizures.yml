@@ -1,3 +1,67 @@
+- title: '"How Many Patients Do You Need? Investigating Trial Designs for Anti-Seizure
+    Treatment in Acute Brain Injury Patients."'
+  image: ''
+  description: ''
+  authors: Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, Westover
+    MB, Zafar SF.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37662339
+    display: 'medRxiv 2023 Aug 22; doi: 10.1101/2023.08.21.23294339. PMID:37662339
+      ; PMCID:PMC10473786 '
+  highlight: 0
+- title: '"Association of Early Seizure Prophylaxis With Posttraumatic Seizures and
+    Mortality: A Meta-analysis With Evidence Quality Assessment."'
+  image: ''
+  description: ''
+  authors: Coelho LMG, Blacker D, Hsu J, Newhouse JP, Westover MB, Zafar SF, Moura
+    LMVR.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37066107
+    display: 'Neurol Clin Pract 2023 Jun; 13 (3) :e200145 doi: 10.1212/CPJ.0000000000200145.
+      Epub 2023 Mar 30. PMID:37066107 ; PMCID:PMC10101717 '
+  highlight: 0
+- title: '"Spike height improves prediction of future seizure risk."'
+  image: ''
+  description: ''
+  authors: Chinappen DM, Xiao G, Jing J, Spencer ER, Eden UT, Kramer MA, Westover
+    MB, Chu CJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37002980
+    display: 'Clin Neurophysiol 2023 Jun; 150 :49-55 doi: 10.1016/j.clinph.2023.02.180.
+      Epub 2023 Mar 21. PMID:37002980 ; PMCID:PMC10192090 '
+  highlight: 0
+- title: '"Interrater Reliability of Expert Electroencephalographers Identifying Seizures
+    and Rhythmic and Periodic Patterns in EEGs."'
+  image: ''
+  description: ''
+  authors: Jing J, Ge W, Struck AF, Fernandes MB, Hong S, An S, Fatima S, Herlopian
+    A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan
+    PW, Dhakar MB, Jayagopal LA, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim
+    JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh
+    M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan
+    J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal
+    ES, Zafar SF, Sun J, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36460472
+    display: 'Neurology 2023 Apr 25; 100 (17) :e1737-e1749 doi: 10.1212/WNL.0000000000201670.
+      Epub 2022 Dec 2. PMID:36460472 ; PMCID:PMC10136018 '
+  highlight: 0
+- title: '"Development of Expert-Level Classification of Seizures and Rhythmic and
+    Periodic Patterns During EEG Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Ge W, Hong S, Fernandes MB, Lin Z, Yang C, An S, Struck AF, Herlopian
+    A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan
+    PW, Dhakar MB, Arcot Jayagopal L, Sheikh Z, Taraschenko O, Schmitt S, Haider HA,
+    Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh
+    M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan
+    J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal
+    ES, Zafar SF, Sun J, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36878708
+    display: 'Neurology 2023 Apr 25; 100 (17) :e1750-e1762 doi: 10.1212/WNL.0000000000207127.
+      Epub 2023 Mar 6. PMID:36878708 ; PMCID:PMC10136013 '
+  highlight: 0
 - title: '"Flexible realistic simulation of seizure occurrence recapitulating statistical
     properties of seizure diaries."'
   image: ''
@@ -7,6 +71,49 @@
     url: https://pubmed.ncbi.nlm.nih.gov/36401798
     display: 'Epilepsia 2023 Feb; 64 (2) :396-405 doi: 10.1111/epi.17471. Epub 2022
       Dec 4. PMID:36401798 ; PMCID:PMC9905290 '
+  highlight: 0
+- title: '"Implications of stimulus-induced, rhythmic, periodic, or ictal discharges
+    (SIRPIDs) in hospitalized patients."'
+  image: ''
+  description: ''
+  authors: Martinez P, Sheikh I, Westover MB, Zafar SF.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36756343
+    display: 'Front Neurol 2022; 13 :1062330 doi: 10.3389/fneur.2022.1062330. eCollection
+      2022. PMID:36756343 ; PMCID:PMC9899805 '
+  highlight: 0
+- title: '"Anti-seizure medication treatment and outcomes in acute ischemic stroke
+    patients undergoing continuous EEG monitoring."'
+  image: ''
+  description: ''
+  authors: Sanches PR, Tabaeizadeh M, Moura LMVR, Rosenthal ES, Caboclo LO, Hsu J,
+    Patorno E, Westover MB, Zafar SF.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35713732
+    display: 'Neurol Sci 2022 Sep; 43 (9) :5441-5449 doi: 10.1007/s10072-022-06183-9.
+      Epub 2022 Jun 17. PMID:35713732 '
+  highlight: 0
+- title: '"Measuring expertise in identifying interictal epileptiform discharges."'
+  image: ''
+  description: ''
+  authors: Harid NM, Jing J, Hogan J, Nascimento FA, Ouyang A, Zheng WL, Ge W, Zafar
+    SF, Kim JA, Alice DL, Herlopian A, Maus D, Karakis I, Ng M, Hong S, Yu Z, Kaplan
+    PW, Cash S, Shafi M, Martz G, Halford JJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35770748
+    display: 'Epileptic Disord 2022 Jun 1; 24 (3) :496-506 doi: 10.1684/epd.2021.1409.
+      PMID:35770748 ; PMCID:PMC9340812 '
+  highlight: 0
+- title: '"Antiseizure Medication Treatment and Outcomes in Patients with Subarachnoid
+    Hemorrhage Undergoing Continuous EEG Monitoring."'
+  image: ''
+  description: ''
+  authors: Zafar SF, Rosenthal ES, Postma EN, Sanches P, Ayub MA, Rajan S, Kim JA,
+    Rubin DB, Lee H, Patel AB, Hsu J, Patorno E, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34843082
+    display: 'Neurocrit Care 2022 Jun; 36 (3) :857-867 doi: 10.1007/s12028-021-01387-x.
+      Epub 2021 Nov 29. PMID:34843082 ; PMCID:PMC9117405 '
   highlight: 0
 - title: '"Accurate identification of EEG recordings with interictal epileptiform
     discharges using a hybrid approach: Artificial intelligence supervised by human
@@ -30,6 +137,16 @@
     display: 'Neurobiol Dis 2022 Apr; 165 :105645 doi: 10.1016/j.nbd.2022.105645.
       Epub 2022 Jan 29. PMID:35104646 ; PMCID:PMC8860887 '
   highlight: 0
+- title: '"Using electronic health data to explore effectiveness of ICU EEG and anti-seizure
+    treatment."'
+  image: ''
+  description: ''
+  authors: Amerineni R, Sun H, Lee H, Hsu J, Patorno E, Westover MB, Zafar SF.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34802196
+    display: 'Ann Clin Transl Neurol 2021 Dec; 8 (12) :2270-2279 doi: 10.1002/acn3.51478.
+      Epub 2021 Nov 21. PMID:34802196 ; PMCID:PMC8670316 '
+  highlight: 0
 - title: '"Do Triphasic Waves and Nonconvulsive Status Epilepticus Arise From Similar
     Mechanisms? A Computational Model."'
   image: ''
@@ -39,6 +156,16 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34155185
     display: 'J Clin Neurophysiol 2021 Sep 1; 38 (5) :366-375 doi: 10.1097/WNP.0000000000000719.
       PMID:34155185 ; PMCID:PMC8429048 '
+  highlight: 0
+- title: '"Seizure Prophylaxis After Spontaneous Intracerebral Hemorrhage."'
+  image: ''
+  description: ''
+  authors: Jones FJS, Sanches PR, Smith JR, Zafar SF, Blacker D, Hsu J, Schwamm LH,
+    Newhouse JP, Westover MB, Moura LMVR.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34309642
+    display: 'JAMA Neurol 2021 Sep 1; 78 (9) :1128-1136 doi: 10.1001/jamaneurol.2021.2249.
+      PMID:34309642 ; PMCID:PMC8314179 '
   highlight: 0
 - title: '"Responsive neurostimulation for focal motor status epilepticus."'
   image: ''
@@ -243,6 +370,16 @@
     url: https://pubmed.ncbi.nlm.nih.gov/31310822
     display: 'J Neurosci Methods 2019 Oct 1; 326 :108362 doi: 10.1016/j.jneumeth.2019.108362.
       Epub 2019 Jul 13. PMID:31310822 ; PMCID:PMC6993930 '
+  highlight: 0
+- title: '"Commentary on "Predicting seizure freedom after epilepsy surgery, a challenge
+    in clinical practice"."'
+  image: ''
+  description: ''
+  authors: Goldenholz D, Sun H, Westover B.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31375412
+    display: 'Epilepsy Behav 2019 Oct; 99 :106408 doi: 10.1016/j.yebeh.2019.07.009.
+      Epub 2019 Jul 30. PMID:31375412 '
   highlight: 0
 - title: '"Comparison of machine learning models for seizure prediction in hospitalized
     patients."'

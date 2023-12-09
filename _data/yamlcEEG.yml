@@ -1,3 +1,12 @@
+- title: '"Systematic Evaluation of Research Priorities in Critical Care Electroencephalography."'
+  image: ''
+  description: ''
+  authors: Sheikh Z, Selioutski O, Taraschenko O, Gilmore EJ, Westover MB, Cohen AB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35066530
+    display: 'J Clin Neurophysiol 2023 Jul 1; 40 (5) :426-433 doi: 10.1097/WNP.0000000000000916.
+      Epub 2022 Jan 20. PMID:35066530 ; PMCID:PMC9296700 '
+  highlight: 0
 - title: '"High incidence of epileptiform activity in adults undergoing extracorporeal
     membrane oxygenation."'
   image: ''
@@ -9,14 +18,15 @@
     display: 'Clin Neurophysiol 2022 Aug; 140 :4-11 doi: 10.1016/j.clinph.2022.04.018.
       Epub 2022 May 6. PMID:35691268 ; PMCID:PMC9340813 '
   highlight: 0
-- title: '"Systematic Evaluation of Research Priorities in Critical Care Electroencephalography."'
+- title: '"Using electronic health data to explore effectiveness of ICU EEG and anti-seizure
+    treatment."'
   image: ''
   description: ''
-  authors: Sheikh Z, Selioutski O, Taraschenko O, Gilmore EJ, Westover MB, Cohen AB.
+  authors: Amerineni R, Sun H, Lee H, Hsu J, Patorno E, Westover MB, Zafar SF.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35066530
-    display: 'J Clin Neurophysiol 2022 Jan 20; doi: 10.1097/WNP.0000000000000916.
-      [Epub ahead of print] PMID:35066530 ; PMCID:PMC9296700 '
+    url: https://pubmed.ncbi.nlm.nih.gov/34802196
+    display: 'Ann Clin Transl Neurol 2021 Dec; 8 (12) :2270-2279 doi: 10.1002/acn3.51478.
+      Epub 2021 Nov 21. PMID:34802196 ; PMCID:PMC8670316 '
   highlight: 0
 - title: '"Assessment of a Study of Continuous vs Repeat-Spot Electroencephalography
     in Patients With Critical Illness."'

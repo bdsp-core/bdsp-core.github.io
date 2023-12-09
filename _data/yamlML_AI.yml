@@ -1,3 +1,76 @@
+- title: '"An examination of sleep spindle metrics in the Sleep Heart Health Study:
+    superiority of automated spindle detection over total sigma power in assessing
+    age-related spindle decline."'
+  image: ''
+  description: ''
+  authors: Palepu K, Sadeghi K, Kleinschmidt DF, Donoghue J, Chapman S, Arslan AR,
+    Westover MB, Cash SS, Pathmanathan J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37803266
+    display: 'BMC Neurol 2023 Oct 6; 23 (1) :359 doi: 10.1186/s12883-023-03376-3.
+      PMID:37803266 ; PMCID:PMC10557170 '
+  highlight: 0
+- title: '"Automated detection of immune effector cell-associated neurotoxicity syndrome
+    via quantitative EEG."'
+  image: ''
+  description: ''
+  authors: Eckhardt CA, Sun H, Malik P, Quadri S, Santana Firme M, Jones DK, van Sleuwen
+    M, Jain A, Fan Z, Jing J, Ge W, Danish HH, Jacobson CA, Rubin DB, Kimchi EY, Cash
+    SS, Frigault MJ, Lee JW, Dietrich J, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37545104
+    display: 'Ann Clin Transl Neurol 2023 Oct; 10 (10) :1776-1789 doi: 10.1002/acn3.51866.
+      Epub 2023 Aug 6. PMID:37545104 ; PMCID:PMC10578889 '
+  highlight: 0
+- title: '"Identification of patients with epilepsy using automated electronic health
+    records phenotyping."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Cardall A, Jing J, Ge W, Moura LMVR, Jacobs C, McGraw C, Zafar
+    SF, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36934317
+    display: 'Epilepsia 2023 Jun; 64 (6) :1472-1481 doi: 10.1111/epi.17589. Epub 2023
+      Apr 4. PMID:36934317 ; PMCID:PMC10239346 '
+  highlight: 0
+- title: '"Exploiting labels from multiple experts in automated sleep scoring."'
+  image: ''
+  description: ''
+  authors: Nasiri S, Ganglberger W, Sun H, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36795078
+    display: 'Sleep 2023 May 10; 46 (5) doi: 10.1093/sleep/zsad034. PMID:36795078
+      ; PMCID:PMC10171620 '
+  highlight: 0
+- title: '"Epilepsy diagnosis using a clinical decision tool and artificially intelligent
+    electroencephalography."'
+  image: ''
+  description: ''
+  authors: McInnis RP, Ayub MA, Jing J, Halford JJ, Mateen FJ, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36871319
+    display: 'Epilepsy Behav 2023 Apr; 141 :109135 doi: 10.1016/j.yebeh.2023.109135.
+      Epub 2023 Mar 3. PMID:36871319 ; PMCID:PMC10082472 '
+  highlight: 0
+- title: '"Sample Size Analysis for Machine Learning Clinical Validation Studies."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Sun H, Ganglberger W, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36979665
+    display: 'Biomedicines 2023 Feb 23; 11 (3) doi: 10.3390/biomedicines11030685.
+      PMID:36979665 ; PMCID:PMC10045793 '
+  highlight: 0
+- title: '"Improving automated diagnosis of epilepsy from EEGs beyond IEDs."'
+  image: ''
+  description: ''
+  authors: Thangavel P, Thomas J, Sinha N, Peh WY, Yuvaraj R, Cash SS, Chaudhari R,
+    Karia S, Jing J, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover
+    B, Dauwels J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36270485
+    display: 'J Neural Eng 2022 Nov 24; 19 (6) doi: 10.1088/1741-2552/ac9c93. PMID:36270485 '
+  highlight: 0
 - title: '"Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid
     hemorrhage."'
   image: ''
@@ -123,6 +196,19 @@
     display: 'Int J Neural Syst 2021 May; 31 (5) :2050074 doi: 10.1142/S0129065720500744.
       Epub 2021 Jan 12. PMID:33438530 ; PMCID:PMC9343226 '
   highlight: 0
+- title: '"Deep active learning for Interictal Ictal Injury Continuum EEG patterns."'
+  image: ''
+  description: ''
+  authors: Ge W, Jing J, An S, Herlopian A, Ng M, Struck AF, Appavu B, Johnson EL,
+    Osman G, Haider HA, Karakis I, Kim JA, Halford JJ, Dhakar MB, Sarkis RA, Swisher
+    CB, Schmitt S, Lee JW, Tabaeizadeh M, Rodriguez A, Gaspard N, Gilmore E, Herman
+    ST, Kaplan PW, Pathmanathan J, Hong S, Rosenthal ES, Zafar S, Sun J, Brandon Westover
+    M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33131680
+    display: 'J Neurosci Methods 2021 Mar 1; 351 :108966 doi: 10.1016/j.jneumeth.2020.108966.
+      Epub 2020 Oct 22. PMID:33131680 ; PMCID:PMC8135050 '
+  highlight: 0
 - title: '"Expert-level automated sleep staging of long-term scalp electroencephalography
     recordings using deep learning."'
   image: ''
@@ -176,6 +262,35 @@
     url: https://pubmed.ncbi.nlm.nih.gov/33018805
     display: 'Annu Int Conf IEEE Eng Med Biol Soc 2020 Jul; 2020 :3703-3706 doi: 10.1109/EMBC44109.2020.9175644.
       PMID:33018805 ; PMCID:PMC7545315 '
+  highlight: 0
+- title: '"Development and Prospective Validation of a Transparent Deep Learning Algorithm
+    for Predicting Need for Mechanical Ventilation."'
+  image: ''
+  description: ''
+  authors: Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North
+    CM, Mukerji S, Robbins G, Shao YP, Malhotra A, Westover B, Nemati S.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32577682
+    display: 'medRxiv 2020 Jun 3; doi: 10.1101/2020.05.30.20118109. PMID:32577682
+      ; PMCID:PMC7302288 '
+  highlight: 0
+- title: '"Adaptive Sedation Monitoring From EEG in ICU Patients With Online Learning."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Sun H, Akeju O, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31545708
+    display: 'IEEE Trans Biomed Eng 2020 Jun; 67 (6) :1696-1706 doi: 10.1109/TBME.2019.2943062.
+      Epub 2019 Sep 23. PMID:31545708 ; PMCID:PMC7085963 '
+  highlight: 0
+- title: '"Physiology as a Lingua Franca for Clinical Machine Learning."'
+  image: ''
+  description: ''
+  authors: Sarma GP, Reinertsen E.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33205094
+    display: 'Patterns (N Y) 2020 May 8; 1 (2) :100017 doi: 10.1016/j.patter.2020.100017.
+      eCollection 2020 May 8. PMID:33205094 ; PMCID:PMC7660423 '
   highlight: 0
 - title: '"Artificial intelligence in sleep medicine: background and implications
     for clinicians."'
@@ -336,6 +451,15 @@
     url: https://pubmed.ncbi.nlm.nih.gov/26738009
     display: 'Annu Int Conf IEEE Eng Med Biol Soc 2015; 2015 :7430-3 doi: 10.1109/EMBC.2015.7320109.
       PMID:26738009 ; PMCID:PMC4876722 '
+  highlight: 0
+- title: '"Sparse extreme learning machine for classification."'
+  image: ''
+  description: ''
+  authors: Bai Z, Huang GB, Wang D, Wang H, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25222727
+    display: 'IEEE Trans Cybern 2014 Oct; 44 (10) :1858-70 doi: 10.1109/TCYB.2014.2298235.
+      PMID:25222727 ; PMCID:PMC4883115 '
   highlight: 0
 - title: '"Automated sleep apnea quantification based on respiratory movement."'
   image: ''

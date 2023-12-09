@@ -1,3 +1,24 @@
+- title: '"Brain health scores to predict neurological outcomes from electronic health
+    records."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Sun H, Chemali Z, Mukerji SS, M V R Moura L, Zafar SF, Sonni
+    A, Biffi A, Rosand J, Brandon Westover M.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37890202
+    display: 'Int J Med Inform 2023 Dec; 180 :105270 doi: 10.1016/j.ijmedinf.2023.105270.
+      Epub 2023 Oct 24. PMID:37890202 '
+  highlight: 0
+- title: '"Estimating the number of cases of dementia that might be prevented by preventing
+    delirium."'
+  image: ''
+  description: ''
+  authors: Rathmell CS, Akeju O, Inouye SK, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37031027
+    display: 'Br J Anaesth 2023 Jun; 130 (6) :e477-e478 doi: 10.1016/j.bja.2023.03.001.
+      Epub 2023 Apr 6. PMID:37031027 ; PMCID:PMC10329187 '
+  highlight: 0
 - title: '"The sleep and wake electroencephalogram over the lifespan."'
   image: ''
   description: ''
@@ -7,6 +28,16 @@
     url: https://pubmed.ncbi.nlm.nih.gov/36739622
     display: 'Neurobiol Aging 2023 Apr; 124 :60-70 doi: 10.1016/j.neurobiolaging.2023.01.006.
       Epub 2023 Jan 19. PMID:36739622 ; PMCID:PMC9957961 '
+  highlight: 0
+- title: '"Dementia detection from brain activity during sleep."'
+  image: ''
+  description: ''
+  authors: Ye EM, Sun H, Krishnamurthy PV, Adra N, Ganglberger W, Thomas RJ, Lam AD,
+    Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36448766
+    display: 'Sleep 2023 Mar 9; 46 (3) doi: 10.1093/sleep/zsac286. PMID:36448766 ;
+      PMCID:PMC9995788 '
   highlight: 0
 - title: '"How Machine Learning is Powering Neuroimaging to Improve Brain Health."'
   image: ''
@@ -19,6 +50,17 @@
     url: https://pubmed.ncbi.nlm.nih.gov/35347570
     display: 'Neuroinformatics 2022 Oct; 20 (4) :943-964 doi: 10.1007/s12021-022-09572-9.
       Epub 2022 Mar 28. PMID:35347570 ; PMCID:PMC9515245 '
+  highlight: 0
+- title: '"Optimal spindle detection parameters for predicting cognitive performance."'
+  image: ''
+  description: ''
+  authors: "Adra N, Sun H, Ganglberger W, Ye EM, D\xFCmmer LW, Tesh RA, Westmeijer\
+    \ M, Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas\
+    \ RJ, Westover MB."
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34984446
+    display: 'Sleep 2022 Apr 11; 45 (4) doi: 10.1093/sleep/zsac001. PMID:34984446
+      ; PMCID:PMC8996023 '
   highlight: 0
 - title: '"HIV increases sleep-based brain age despite antiretroviral therapy."'
   image: ''

@@ -1,3 +1,14 @@
+- title: '"Cognitive concerns are a risk factor for mortality in people with HIV and
+    coronavirus disease 2019."'
+  image: ''
+  description: ''
+  authors: Wilcox DR, Rudmann EA, Ye E, Noori A, Magdamo C, Jain A, Alabsi H, Foy
+    B, Triant VA, Robbins GK, Westover MB, Das S, Mukerji SS.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37195278
+    display: 'AIDS 2023 Aug 1; 37 (10) :1565-1571 doi: 10.1097/QAD.0000000000003595.
+      Epub 2023 May 9. PMID:37195278 ; PMCID:PMC10355333 '
+  highlight: 0
 - title: '"Impact of the COVID-19 Pandemic on Continuous EEG Utilization."'
   image: ''
   description: ''
@@ -6,6 +17,19 @@
     url: https://pubmed.ncbi.nlm.nih.gov/33394823
     display: 'J Clin Neurophysiol 2022 Nov 1; 39 (7) :567-574 doi: 10.1097/WNP.0000000000000802.
       Epub 2020 Dec 22. PMID:33394823 ; PMCID:PMC8217411 '
+  highlight: 0
+- title: '"Prolonged Unconsciousness is Common in COVID-19 and Associated with Hypoxemia."'
+  image: ''
+  description: ''
+  authors: Waldrop G, Safavynia SA, Barra ME, Agarwal S, Berlin DA, Boehme AK, Brodie
+    D, Choi JM, Doyle K, Fins JJ, Ganglberger W, Hoffman K, Mittel AM, Roh D, Mukerji
+    SS, Der Nigoghossian C, Park S, Schenck EJ, Salazar-Schicchi J, Shen Q, Sholle
+    E, Velazquez AG, Walline MC, Westover MB, Brown EN, Victor J, Edlow BL, Schiff
+    ND, Claassen J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35254675
+    display: 'Ann Neurol 2022 Jun; 91 (6) :740-755 doi: 10.1002/ana.26342. Epub 2022
+      Apr 21. PMID:35254675 ; PMCID:PMC9082460 '
   highlight: 0
 - title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
     Patients With Coronavirus SARS-CoV-2."'
@@ -65,6 +89,17 @@
     url: https://pubmed.ncbi.nlm.nih.gov/33897598
     display: 'Front Neurol 2021; 12 :642912 doi: 10.3389/fneur.2021.642912. eCollection
       2021. PMID:33897598 ; PMCID:PMC8062773 '
+  highlight: 0
+- title: '"Clinical, Imaging, and Lab Correlates of Severe COVID-19 Leukoencephalopathy."'
+  image: ''
+  description: ''
+  authors: Rapalino O, Pourvaziri A, Maher M, Jaramillo-Cardoso A, Edlow BL, Conklin
+    J, Huang S, Westover B, Romero JM, Halpern E, Gupta R, Pomerantz S, Schaefer P,
+    Gonzalez RG, Mukerji SS, Lev MH.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33414226
+    display: 'AJNR Am J Neuroradiol 2021 Apr; 42 (4) :632-638 doi: 10.3174/ajnr.A6966.
+      Epub 2021 Jan 7. PMID:33414226 ; PMCID:PMC8040983 '
   highlight: 0
 - title: '"Susceptibility-weighted imaging reveals cerebral microvascular injury in
     severe COVID-19."'
@@ -142,11 +177,22 @@
     levels: modeling transient smell loss in COVID-19 patients."'
   image: ''
   description: ''
-  authors: Rodriguez S, Cao L, Rickenbacher GT, Benz EG, Magdamo C, Ramirez Gomez
-    LA, Holbrook E, Dhilla Albers A, Gallagher R, Westover MB, Evans KE, Tatar D,
-    Mukerji S, Zafonte R, Boyer EW, Yu CR, Albers MW.
+  authors: Rodriguez S, Cao L, Rickenbacher GT, Benz EG, Magdamo C, Gomez LR, Holbrook
+    EH, Albers AD, Gallagher R, Westover MB, Evans KE, Tatar DJ, Mukerji S, Zafonte
+    R, Boyer EW, Yu CR, Albers MW.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/32587994
     display: 'medRxiv 2020 Jun 16; doi: 10.1101/2020.06.14.20131128. PMID:32587994
       ; PMCID:PMC7310652 '
+  highlight: 0
+- title: '"Development and Prospective Validation of a Transparent Deep Learning Algorithm
+    for Predicting Need for Mechanical Ventilation."'
+  image: ''
+  description: ''
+  authors: Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North
+    CM, Mukerji S, Robbins G, Shao YP, Malhotra A, Westover B, Nemati S.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32577682
+    display: 'medRxiv 2020 Jun 3; doi: 10.1101/2020.05.30.20118109. PMID:32577682
+      ; PMCID:PMC7302288 '
   highlight: 0

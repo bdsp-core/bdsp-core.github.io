@@ -1,3 +1,29 @@
+- title: '"High prevalence of sleep-disordered breathing in the intensive care unit
+    - a cross-sectional study."'
+  image: ''
+  description: ''
+  authors: Bucklin AA, Ganglberger W, Quadri SA, Tesh RA, Adra N, Da Silva Cardoso
+    M, Leone MJ, Krishnamurthy PV, Hemmige A, Rajan S, Panneerselvam E, Paixao L,
+    Higgins J, Ayub MA, Shao YP, Ye EM, Coughlin B, Sun H, Cash SS, Thompson BT, Akeju
+    O, Kuller D, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35971023
+    display: 'Sleep Breath 2023 Jun; 27 (3) :1013-1026 doi: 10.1007/s11325-022-02698-9.
+      Epub 2022 Aug 16. PMID:35971023 ; PMCID:PMC9931933 '
+  highlight: 0
+- title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
+    An exploratory cross-sectional study using deep neural networks."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N,
+    Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins
+    J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
+    Kuller D, Thomas RJ, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36926545
+    display: 'Front Netw Physiol 2023; 3 :1120390 doi: 10.3389/fnetp.2023.1120390.
+      eCollection 2023. PMID:36926545 ; PMCID:PMC10013021 '
+  highlight: 0
 - title: '"Sleep apnea and respiratory anomaly detection from a wearable band and
     oxygen saturation."'
   image: ''
@@ -9,19 +35,6 @@
     url: https://pubmed.ncbi.nlm.nih.gov/34409545
     display: 'Sleep Breath 2022 Sep; 26 (3) :1033-1044 doi: 10.1007/s11325-021-02465-2.
       Epub 2021 Aug 18. PMID:34409545 ; PMCID:PMC8854446 '
-  highlight: 0
-- title: '"High prevalence of sleep-disordered breathing in the intensive care unit
-    - a cross-sectional study."'
-  image: ''
-  description: ''
-  authors: Bucklin AA, Ganglberger W, Quadri SA, Tesh RA, Adra N, Da Silva Cardoso
-    M, Leone MJ, Krishnamurthy PV, Hemmige A, Rajan S, Panneerselvam E, Paixao L,
-    Higgins J, Ayub MA, Shao YP, Ye EM, Coughlin B, Sun H, Cash SS, Thompson BT, Akeju
-    O, Kuller D, Thomas RJ, Westover MB.
-  link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35971023
-    display: 'Sleep Breath 2022 Aug 16; doi: 10.1007/s11325-022-02698-9. [Epub ahead
-      of print] PMID:35971023 ; PMCID:PMC9931933 '
   highlight: 0
 - title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
     and Deep Neural Networks."'
