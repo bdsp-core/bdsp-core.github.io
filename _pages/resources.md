@@ -12,6 +12,8 @@ This page includes links to resources for lab members.
 [OKRs | ](#lab-okrs)
 [Expectations | ](#expectations)
 [Papers in Progress | ](#papers-in-progress)
+[AWS onboarding | ](#bdsp-aws-ec2-onboarding-documentation)
+[Snowflake | ](#snowflake)
 [Checklists for writing papers](#checklists-for-paper-writing)
 
 **Last revised:  2023-01-05**
@@ -26,6 +28,10 @@ A list of manuscripts that are planned or in progress, and anticipated authorshi
 
 ### BDSP AWS EC2 onboarding documentation
 Instructions for setting up an AWS EC2 instance are [here](https://docs.google.com/document/d/10DrvLWUytFCEzCgkCt2NEwIXW8i06fHnATS3o7xMqaI/edit?usp=sharing). Request an account by emailing Junior Moura.  
+[Back to Top](#cdac-lab-resources)
+
+### Snowflake instructions
+Instructions for using [Snowflake]({{ site.baseurl }}/downloads/SnowflakeDataHub_User_Guide_V1.2.pdf). Request an account by emailing Junior Moura. BIDMC internal use only.  
 [Back to Top](#cdac-lab-resources)
 
 ### Checklists for writing papers  
