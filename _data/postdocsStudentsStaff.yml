@@ -78,14 +78,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Sean Tengonciang
-  photo: seanTengonciang.jpeg
-  info: Administrative Assistant
-  email: stengonc@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-
 - name: Rebecca Milde
   photo: rebeccaMilde.jpeg
   info: Data Scientist
@@ -161,4 +153,10 @@
   info: Research coordinator
   number_educ: 1
   education1: Brigham Young University
+
+- name: Laura Krumm
+  photo: LauraKrumm.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: Charité - Universitätsmedizin Berlin
 
