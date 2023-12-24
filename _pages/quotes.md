@@ -51,6 +51,7 @@ blockquote strong em {
 [Probability | ](#probability)
 [Probability and Statistics jokes | ](#probability-and-statistics-jokes)
 [Conscience | ](#conscience)
+[Systems | ](#systems)
 
 [Back to Brandon's page](/brandon/)
 
@@ -150,6 +151,9 @@ blockquote strong em {
 
 > William Stoner entered the University of Missouri as a freshman in the year 1910, at the age of nineteen. Eight years later, during the height of World War I, he received his Doctor of Philosophy degree and accepted an instructorship at the same University, where he taught until his death in 1956. He did not rise above the rank of assistant professor, and few students remembered him with any sharpness after they had taken his courses. When he died his colleagues made a memorial contribution of a medieval manuscript to the University library. This manuscript may still be found in the Rare Books Collection, bearing the inscription: "Presented to the Library of the University of Missouri, in memory of William Stoner, Department of English. By his colleagues." An occasional student who comes upon the name may wonder idly who William Stoner was, but he seldom pursues his curiosity beyond a casual question. Stoner's colleagues, who held him in no particular esteem when he was alive, speak of him rarely now; to the older ones, his name is a reminder of the end that awaits them all, and to the younger ones it is merely a sound which evokes no sense of the past and no identity with which they can associate themselves or their careers.  
 > **--_John Williams, in "Stoner", 1965_**
+
+> This is the problem. Maps get taken for territories and ERROR results. You lose track of what's body and what's just head. And the more time you spend sdtuck in your head, ignoring the world, hungry for transcendence and distraction, the more superficial your life becomes. And the more superficial your life becomes, the more undead you feel. After a while, "everything becomes an outline of the thing. Objects become schemata. The worlds becomes a map of the world"  
+> **--_Adam S. Miller, 2016, in The Gospel According to David Foster Wallace; quote at end is from DFW, Infinite Jest_**
 
 [Back to Top](#  )
 
@@ -717,6 +721,15 @@ blockquote strong em {
 ### Conscience
 > There is a spectacle grander than the sea, and that is the sky; there is a spectacle grander than the sky, and it is the interior of the soul. To write the poem of the human conscience, were the subject only one man, and he the lowest of men, would be to resolve all epic poems into one supreme and final epic. Conscience is the chaos of chimeras, envies, and attempts, the furnace of dreams, the lurking-place of ideas we are ashamed of; it is the pandemonium of sophistry, the battlefield of the passions. At certain hours look through the livid face of a reflecting man, look into his soul, peer into the darkness. Beneath the external silence, combats of giants are going on there, such as we read of in Homer; melees of dragons and hydras and clouds of phantoms, such as we find in Milton; and visionary spirals, as in Dante. A sombre thing is the infinitude which every man bears within him, and by which he desperately measures the volitions of his brain and the actions of his life.  
 > **--_Victor Hugo, 1802-1885, Les Miserables_**
+
+[Back to Top](#  )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Systems
+> A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system  
+> **--_John Gall (1975) - Gall's law in  Systemantics: How Systems Really Work and How They Fail (p. 71)_**
 
 [Back to Top](#  )
 
