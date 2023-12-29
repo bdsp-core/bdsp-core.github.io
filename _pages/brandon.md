@@ -17,7 +17,8 @@ Office: BIDMC, 444 Kirstein, 330 Brookline Ave, Boston, MA 02215, USA
 [Bio | ](#bio)
 [CV | ]({{ site.baseurl }}/downloads/1-Westover_HMS_CV-2023-01-06.pdf)
 [Research funding | ](#research-funding)
-[Quote collection](/quotes/)
+[Quote collection | ](/quotes/)
+[Blog](/encrypted-blog/)
 
 ### Affiliations
 [BIDMC Neurology Department](https://www.bidmc.org/centers-and-departments/neurology/)  
