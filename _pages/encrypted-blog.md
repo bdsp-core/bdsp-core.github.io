@@ -13,20 +13,13 @@ permalink: /encrypted-blog-alek/
   padding: 20px;
 }
 
-#blogtoc li {
-    color: blue; /* Link-like blue color */
-    text-decoration: underline; /* Underline like a link */
-    cursor: pointer; /* Pointer cursor like a link */
-}
-
-#blogtoc li:hover {
-    color: darkblue;
-}
-
 #toc {
   position: fixed;
   width: 200px;
-  height: 400px;
+  max-height: 50vh; /* or any specific height you prefer */
+  overflow-y: auto; /* this enables scrolling */
+  background-color: #000000; /* Black background */
+  color: #ffffff; /* White text */
 }
 
 
@@ -35,12 +28,11 @@ div {
 }
 
 #blogtoc li {
-    color: blue; /* Link-like blue color */
-    text-decoration: underline; /* Underline like a link */
+    color: ghostwhite; /* Link-like blue color */
     cursor: pointer; /* Pointer cursor like a link */
 }
 #blogtoc li:hover {
-    color: darkblue;
+    color: red;
 }
 
 #toc {
