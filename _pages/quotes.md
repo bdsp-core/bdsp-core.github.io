@@ -7,181 +7,51 @@ permalink: /quotes/
 ---
 
 <style>
-/* this is kind of a hack, but I think it's a workable solution */
+/* this is kind of a hack */
 blockquote {
-    padding: 5px 20px;
-    margin: 0 0 20px;
-    font-size: 16px;
-    border-left: 5px solid #eee;
-    #background-color: red;
+ padding: 5px 20px;
+ margin: 0 0 20px;
+font-size: 16px;
+ border-left: 5px solid #eee;
 }
 blockquote strong em {
-  color: #7F8C8D;
+ color: #7F8C8D;
 }
 </style>
 
 # Table of Contents
+[Absurdity | ](#absurdity)
 [Academics | ](#academics)
+[Anger | ](#anger)
+[Beauty | ](#beauty)
 [Computation | ](#computation)
+[Conscience | ](#conscience)
 [Creativity | ](#creativity)
 [Culture | ](#culture)
 [Faith | ](#faith)
-[Meaning | ](#meaning)
-[Beauty | ](#beauty)
-[Happiness | ](#happiness)
-[Absurdity | ](#absurdity)
-[Nihilism | ](#nihilism)
 [Good and Evil | ](#good-and-evil)
-[Suffering | ](#suffering)
-[Love | ](#love)
-[Anger | ](#anger)
-[Passion | ](#passion)
-[Planning | ](#planning)
-[Psychology | ](#psychology)
-[Science | ](#science)
-[Teaching | ](#teaching)
-[Technology | ](#technology)
+[Happiness | ](#happiness)
 [Logic | ](#logic)
-[Moderation | ](#moderation)
+[Longing | ](#longing)
+[Love | ](#love)
 [Math | ](#math)
 [Math Jokes | ](#math-jokes)
-[Philosophy | ](#philosophy)
+[Meaning | ](#meaning)
+[Moderation | ](#moderation)
+[Nihilism | ](#nihilism)
+[Passion | ](#passion)
 [Philosophical jokes | ](#philosophical-jokes)
-[Uncertainty | ](#uncertainty)
+[Philosophy | ](#philosophy)
+[Planning | ](#planning)
 [Probability | ](#probability)
 [Probability and Statistics jokes | ](#probability-and-statistics-jokes)
-[Conscience | ](#conscience)
+[Psychology | ](#psychology)
+[Science | ](#science)
+[Suffering | ](#suffering)
 [Systems | ](#systems)
-[Longing | ](#longing)
-
-[Back to Brandon's page](/brandon/)
-
-### Academics
-> "Hold your peace, senor," said Sancho; "faith, if I take to asking questions and answering, I'll go on from this till to-morrow morning. Nay! to ask foolish things and answer nonsense I needn't go looking for help from my neighbors."   "Thou hast said more than thou art aware of, Sancho," said Don Quixote; "for there are some who weary themselves out in learning and proving things that, after they are known and proved, are not worth a farthing to the understanding or memory."  
-> **--_Miguel de Cervantes, The Ingenious Gentleman Don Quixote of La Mancha. 1615_**
-
-> There is a principle which is a bar against all information, which is proof against all arguments and which cannot fail to keep a man in everlasting ignorance - that principle is contempt prior to investigation.  
-> **--_Herbert Spencer, Apr 27 1820-1903._**
-
-> Everyone engaged in research must have had the experience of working with feverish and prolonged intensity to write a paper which no one else will read or to solve a problem which no one else thinks important and which will bring no conceivable reward -- which may only confirm a general opinion that the researcher is wasting his time on irrelevancies.  
-> **--_Noam Chomsky, A Review of B. F. Skinner's Verbal Behavior, Language, 35, No. 1 (1959), 26-58_**
-
-> Get your facts first, and then you can distort them as much as you please. Few things are harder to put up with than a good example.  
-> **--_Mark Twain, 1835-1910_**
-
-> For every problem, there is one solution which is simple, neat, and wrong.  
-> **--_H. L. Mencken, 1880-1956_**
-
-> The academic politician is interested in victory. He has the moral code of Machiavelli, but, because he is too impatient to submit to the instruction of history, he has not the old masterâs shrewd sense of human limitations and contradictions. He makes the worst of rulers: he is neither a lover of truth, nor a practical man of the world, nor an habitual examiner of his all-too-human and persistent failings.  
-> **--_Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
-
-> In my long experience I have learned what are the five most important characteristics of a good colleague, and I shall tell you them. 1.	He or she must tell you when you're wrong. When you've risen above the associate professor level most people are convinced that you think yourself infallible. Of course they're right, but it's annoying that they tell everybody else when you're wrong and won't tell youâ¦. 2.	The ideal colleague must tell you you're wrong without actually stopping you doing the experiment you're just planning. With some colleagues things stop dead when the idea is killed; With others the argument and discussion is such fun that the experiment gets forgottenâ¦. 3.	The ideal colleague must constantly convert a theoretical argument into an experimental prediction: âYou say X is so, therefore Y should happen.â This is the most basic step in all of science, but it's a rare ability to constantly make that step; most of us either waste our time basking in the brilliant sunshine of theory, or just love fiddling with the equipment. Come to think of it there's a third category: those who spend all their time writing grant applications. 4.	The ideal colleague must have read all the literature you cannot be bothered to read, must understand the historical development of the subject accurately and dispassionately, and whenever necessary must exaggerate the importance of your own role in it.   > 5.	Any colleague of any sort has to tidy up the lab after you've made a mess of it.  
-> **--_Horace Barlow, preface of Vision: Coding and Efficiency. (1990)_**
-
-> And further, by these, my son, be admonished: of making many books there is no end; and much astudy is a weariness of the flesh.  
-> **--_Ecclesiastes 12:12_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Computation
-> Where a calculator like the ENIAC today is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps weigh only 1 1/2 tons.  
-> **--_Popular Mechanics, March 1949, p. 258_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Creativity
-> I don't know where my ideas come from. I will admit, however, that one key ingredient is caffeine. I get a couple cups of coffee into me and weird things just start to happen.  
-> **--_Gary Larson, The Prehistory of The Far Side_**
-
-> Sometimes ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It's a mysterious process, but I hope I never find out exactly how it works.  
-> **--_J. K. Rowling_**
-
-> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.  
-> **--_Richard Feynmann_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Culture
-> What is the worst thing about living near an open sewer? It is not that you sicken at the stench of it every time you leave your front door. It is that the noisome vapors are so pervasive, and you have lived with them so long, you no longer notice it. What is the worst thing about living in the rubble of a civilization? It is not that you shed a tear for the noble churches and courts and town halls you once knew, as you recall years filled with religious services, parades, block parties, and all the bumptious folderol of an ordinary civic life. It is that you do not even suspect that such things existed.  
-> **--_Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
-
-> No society has been able to abolish human sadness, no political system can deliver us from the pain of living, from our fear of death, our thirst for the absolute. It is the human condition that directs the social condition, not vice versa.  
-> **--_Eugene Ionesco_**
-
-> If you are a really serious student, you will be in science, or finance, or politicsâyou will be in the business of money or power. Everything is about ourselves. We donât want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, âHere, let me teach you about Milton,â the author of the greatest poem in the English language. The students reply, âNo, let us teach you about us.â Dear Narcissus, there is a great and beautiful world beyond that pool.  
-> **--_Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
-
-> The world says: "You have needs -- satisfy them. You have as much right as the rich and the mighty. Don't hesitate to satisfy your needs; indeed, expand your needs and demand more." This is the worldly doctrine of today. And they believe that this is freedom. The result for the rich is isolation and suicide, for the poor, envy and murder.  
-> **--_Fyodor Dostoyevsky, The Brothers Karamazov_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Faith
-> Roughly speaking, the word faith seems to be used by Christians in two senses or on two levels, and I will take them in turn. In the first sense it means simply beliefâaccepting or regarding as true the doctrines of Christianity. That is fairly simple. But what does puzzle peopleâat least it used to puzzle meâis the fact that Christians regard faith in this sense as a virtue. I used to ask how on Earth it can be a virtueâwhat is there moral or immoral about believing or not believing a set of statements? Obviously, I used to say, a sane man accepts or rejects any statement, not because he wants or does not want to, but because the evidence seems to him good or bad. If he were mistaken about the goodness or badness of the evidence, that would not mean he was a bad man, but only that he was not very clever. And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid.     Well, I think I still take that view. But what I did not see thenâand a good many people do not see stillâwas this. I was assuming that if the human mind once accepts a thing as true it will automatically go on regarding it as true, until some real reason for reconsidering it turns up. In fact, I was assuming that the human mind is completely ruled by reason. But that is not so. For example, my reason is perfectly convinced by good evidence that anesthetics do not smother me and that properly trained surgeons do not start operating until I am unconscious. But that does not alter the fact that when they have me down on the table and clap their horrible mask over my face, a mere childish panic begins inside me. I start thinking I am going to choke, and I am afraid they will start cutting me up before I am properly under. In other words, I lose my faith in anesthetics. It is not reason that is taking away my faith; on the contrary, my faith is based on reason. It is my imagination and emotions. The battle is between faith and reason on one side and emotion and imagination on the otherâ¦..   Now just the same thing happens about Christianity. I am not asking anyone to accept Christianity if his best reasoning tells him that the weight of evidence is against it. That is not the point at which faith comes in. But supposing a manâs reason once decides that the weight of the evidence is for it. I can tell that man what is going to happen to him in the next few weeks. There will come a moment when there is bad news, or he is in trouble, or is living among a lot of other people who do not believe it, and all at once his emotions will rise up and carry out a sort of blitz on his belief. Or else there will come a moment when he wants a woman, or wants to tell a lie, or feels very pleased with himself, or sees a chance of making a little money in some way that is not perfectly fair; some moment, in fact, at which it would be very convenient if Christianity were not true. And once again his wishes and desires will carry out a blitz. I am not talking of moments at which any real new reasons against Christianity turn up. Those have to be faced and that is a different matter. I am talking about moments where a mere mood rises up against it.   Now faith, in the sense in which I am here using the word, is the art of holding onto things your reason has once accepted, in spite of your changing moods. For moods will change, whatever view your reason takes. I know that by experience. Now that I am a Christian, I do have moods in which the whole thing looks very improbable; but when I was an atheist, I had moods in which Christianity looked terribly probable. This rebellion of your moods against your real self is going to come anyway. That is why faith is such a necessary virtue; unless you teach your moods âwhere they get offâ you can never be either a sound Christian or even a sound atheist, but just a creature dithering to and fro, with its beliefs really dependent on the weather and the state of its digestion. Consequently one must train the habit of faith.  
-> **--_C.S. Lewis, Mere Christianity, 1952._**
-
-> More than half a century ago, while I was still a child, I recall hearing a number of older people offer the following explanation for the great disasters that had befallen Russia: âMen have forgotten God; thatâs why all this has happened.â     Since then I have spent well-nigh 50 years working on the history of our Revolution; in the process I have read hundreds of books, collected hundreds of personal testimonies, and have already contributed eight volumes of my own toward the effort of clearing away the rubble left by that upheaval. But if I were asked today to formulate as concisely as possible the main cause of the ruinous Revolution that swallowed up some 60 million of our people, I could not put it more accurately than to repeat: âMen have forgotten God; thatâs why all this has happened.â     What is more, the events of the Russian Revolution can only be understood now, at the end of the century, against the background of what has since occurred in the rest of the world. What emerges here is a process of universal significance. And if I were called upon to identify briefly the principal trait of the entire 20th century, here too, I would be unable to find anything more precise and pithy than to repeat once again: âMen have forgotten God.â The failings of human consciousness, deprived of its divine dimension, have been a determining factor in all the major crimes of this century. The first of these was World War I, and much of our present predicament can be traced back to it. It was a war (the memory of which seems to be fading) when Europe, bursting with health and abundance, fell into a rage of self-mutilation which could not but sap its strength for a century or more, and perhaps forever. The only possible explanation for this war is a mental eclipse among the leaders of Europe due to their lost awareness of a Supreme Power above them. Only a godless embitterment could have moved ostensibly Christian states to employ poison gas, a weapon so obviously beyond the limits of humanity.  
-> **--_Aleksandr Solzhenitsyn, "Godlessness: the First Step to the Gulag", Templeton Address, 1983_**
-
-> "Yes, indeed there are. Well, I will keep you in front of me. You will feel the wind, but not too much. I shall only want one arm to take care of you; the other will be quite enough to sink the ship."  "Oh, dear North Wind! how can you talk so?"  "My dear boy, I never talk; I always mean what I say."  "Then you do mean to sink the ship with the other hand?"  "Yes."  "It's not like you."  "How do you know that?"  "Quite easily. Here you are taking care of a poor little boy with one arm, and there you are sinking a ship with the other. It can't be like you."  "Ah! but which is me? I can't be two mes, you know."  "No. Nobody can be two mes."  "Well, which me is me?"  "Now I must think. There looks to be two."  "Yes. That's the very point.--You can't be knowing the thing you don't know, can you?"  "No."  "Which me do you know?"  "The kindest, goodest, best me in the world," answered Diamond, clinging to North Wind.  "Why am I good to you?"  "I don't know."  "Have you ever done anything for me?"  "No."  "Then I must be good to you because I choose to be good to you."  "Yes."  "Why should I choose?"  "Because--because--because you like."  "Why should I like to be good to you?"  "I don't know, except it be because it's good to be good to me."  "That's just it; I am good to you because I like to be good."  "Then why shouldn't you be good to other people as well as to me?"  "That's just what I don't know. Why shouldn't I?"  "I don't know either. Then why shouldn't you?"  "Because I am."  "There it is again," said Diamond. "I don't see that you are. It looks quite the other thing."  "Well, but listen to me, Diamond. You know the one me, you say, and that is good."  "Yes."  "Do you know the other me as well?"  "No. I can't. I shouldn't like to."  "There it is. You don't know the other me. You are sure of one of them?"  "Yes."  "And you are sure there can't be two mes?"  "Yes."  "Then the me you don't know must be the same as the me you do know,-- else there would be two mes?"  "Yes."  "Then the other me you don't know must be as kind as the me you do know?"  "Yes."  "Besides, I tell you that it is so, only it doesn't look like it. That I confess freely. Have you anything more to object?"  "No, no, dear North Wind; I am quite satisfied."  "Then I will tell you something you might object. You might say that the me you know is like the other me, and that I am cruel all through."  "I know that can't be, because you are so kind."  "But that kindness might be only a pretence for the sake of being more cruel afterwards."  Diamond clung to her tighter than ever, crying--  "No, no, dear North Wind; I can't believe that. I don't believe it. I won't believe it. That would kill me. I love you, and you must love me, else how did I come to love you? How could you know how to put on such a beautiful face if you did not love me and the rest? No. You may sink as many ships as you like, and I won't say another word. I can't say I shall like to see it, you know."  "That's quite another thing," said North Wind; and as she spoke she gave one spring from the roof of the hay-loft, and rushed up into the clouds, with Diamond on her left arm close to her heart. And as if the clouds knew she had come, they burst into a fresh jubilation of thunderous light...  
-> **--_George MacDonald, At the Back of the North Wind_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Meaning
-> âNobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.â  
-> **--_Richard P. Feynman, 1918-1988_**
-
-> Tomorrow, and tomorrow, and tomorrow,   Creeps in the petty pace from day to day,   To the last syllable of recorded time;   And all our yesterdays have lighted fools   The way to dusty death. Out, out, brief candle,   Lifeâs but a walking shadow, a poor player   That struts and frets his hour upon the stage,   And then is heard no more. It is a tale   Told by an idiot, full of sound and fury   Signifying nothing.  
-> **--_Shakespeareâs Macbeth, after Macbeth hears of his wifeâs suicide, 1623_**
-
-> William Stoner entered the University of Missouri as a freshman in the year 1910, at the age of nineteen. Eight years later, during the height of World War I, he received his Doctor of Philosophy degree and accepted an instructorship at the same University, where he taught until his death in 1956. He did not rise above the rank of assistant professor, and few students remembered him with any sharpness after they had taken his courses. When he died his colleagues made a memorial contribution of a medieval manuscript to the University library. This manuscript may still be found in the Rare Books Collection, bearing the inscription: "Presented to the Library of the University of Missouri, in memory of William Stoner, Department of English. By his colleagues." An occasional student who comes upon the name may wonder idly who William Stoner was, but he seldom pursues his curiosity beyond a casual question. Stoner's colleagues, who held him in no particular esteem when he was alive, speak of him rarely now; to the older ones, his name is a reminder of the end that awaits them all, and to the younger ones it is merely a sound which evokes no sense of the past and no identity with which they can associate themselves or their careers.  
-> **--_John Williams, in "Stoner", 1965_**
-
-> This is the problem. Maps get taken for territories and ERROR results. You lose track of what's body and what's just head. And the more time you spend sdtuck in your head, ignoring the world, hungry for transcendence and distraction, the more superficial your life becomes. And the more superficial your life becomes, the more undead you feel. After a while, "everything becomes an outline of the thing. Objects become schemata. The worlds becomes a map of the world"  
-> **--_Adam S. Miller, 2016, in The Gospel According to David Foster Wallace; quote at end is from DFW, Infinite Jest_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Beauty
-> âI have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.â  
-> **--_Richard P. Feynman, The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman_**
-
-> âA poet once said, 'The whole universe is in a glass of wine.' We will probably never know in what sense he meant it, for poets do not write to be understood. But it is true that if we look at a glass of wine closely enough we see the entire universe. There are the things of physics: the twisting liquid which evaporates depending on the wind and weather, the reflection in the glass; and our imagination adds atoms. The glass is a distillation of the earth's rocks, and in its composition we see the secrets of the universe's age, and the evolution of stars. What strange array of chemicals are in the wine? How did they come to be? There are the ferments, the enzymes, the substrates, and the products. There in wine is found the great generalization; all life is fermentation. Nobody can discover the chemistry of wine without discovering, as did Louis Pasteur, the cause of much disease. How vivid is the claret, pressing its existence into the consciousness that watches it! If our small minds, for some convenience, divide this glass of wine, this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it! So let us put it all back together, not forgetting ultimately what it is for. Let it give us one more final pleasure; drink it and forget it all!â  
-> **--_Richard P. Feynman, 1918-1988_**
-
-> âPoets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?â  
-> **--_Richard Feynman, 1918-1988_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Happiness
-> The true secret of happiness lies in taking a genuine interest in all the details of daily life.  
-> **--_William Morris_**
-
-[Back to Top](#  )
-
+[Teaching | ](#teaching)
+[Technology | ](#technology)
+[Uncertainty | ](#uncertainty)
 
 [Back to Brandon's page](/brandon/)
 
@@ -225,16 +95,175 @@ blockquote strong em {
 > If a sense of the absurd is a way of perceiving our true situation (even though the situation is not absurd until the perception arises), then what reason can we have to resent or escape it? Like the capacity for epistemological skepticism, it results from the ability to understand our human limitations. It need not be a matter for agony unless we make it so. Nor need it evoke a defiant contempt of fate that allows us to feel brave or proud. Such dramatics, even if carried on in private, betray a failure to appreciate the cosmic unimportance of the situation. If sub specie aeternitatis there is no reason to believe that anything matters, then that doesn't matter either, and we can approach our absurd lives with irony instead of heroism or despair.  
 > **--_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
-### Nihilism
-> Have you not heard of that madman who lit a lantern in the bright morning hours, ran to the market place, and cried incessantly: "I seek God! I seek God!" -- As many of those who did not believe in God were standing around just then, he provoked much laughter. Has he got lost? asked one. Did he lose his way like a child? asked another. Or is he hiding? Is he afraid of us? Has he gone on a voyage? emigrated? -- Thus they yelled and laughed. The madman jumped into their midst and pierced them with his eyes. "Whither is God?" he cried; "I will tell you. We have killed him -- you and I. All of us are his murderers. But how did we do this? How could we drink up the sea? Who gave us the sponge to wipe away the entire horizon? What were we doing when we unchained this earth from its sun? Whither is it moving now? Whither are we moving? Away from all suns? Are we not plunging continually? Backward, sideward, forward, in all directions? Is there still any up or down? Are we not straying, as through an infinite nothing? Do we not feel the breath of empty space? Has it not become colder? Is not night continually closing in on us? Do we not need to light lanterns in the morning? Do we hear nothing as yet of the noise of the gravediggers who are burying God? Do we smell nothing as yet of the divine decomposition? Gods, too, decompose. God is dead. God remains dead. And we have killed him.     "How shall we comfort ourselves, the murderers of all murderers? What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves? What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it? There has never been a greater deed; and whoever is born after us -- for the sake of this deed he will belong to a higher history than all history hitherto."     Here the madman fell silent and looked again at his listeners; and they, too, were silent and stared at him in astonishment. At last he threw his lantern on the ground, and it broke into pieces and went out. "I have come too early," he said then; "my time is not yet. This tremendous event is still on its way, still wandering; it has not yet reached the ears of men. Lightning and thunder require time; the light of the stars requires time; deeds, though done, still require time to be seen and heard. This deed is still more distant from them than most distant stars -- and yet they have done it themselves.     It has been related further that on the same day the madman forced his way into several churches and there struck up his requiem aeternam deo. Led out and called to account, he is said always to have replied nothing but: "What after all are these churches now if they are not the tombs and sepulchers of God?"  
-> **--_Friedrich Nietzsche, The Gay Science (1882, 1887) para. 125; Walter Kaufmann ed. (New York: Vintage, 1974), pp.181-82_**
+### Academics
+> "Hold your peace, senor," said Sancho; "faith, if I take to asking questions and answering, I'll go on from this till to-morrow morning. Nay! to ask foolish things and answer nonsense I needn't go looking for help from my neighbors."   "Thou hast said more than thou art aware of, Sancho," said Don Quixote; "for there are some who weary themselves out in learning and proving things that, after they are known and proved, are not worth a farthing to the understanding or memory."  
+> **--_Miguel de Cervantes, The Ingenious Gentleman Don Quixote of La Mancha. 1615_**
 
-[Back to Top](#  )
+> There is a principle which is a bar against all information, which is proof against all arguments and which cannot fail to keep a man in everlasting ignorance - that principle is contempt prior to investigation.  
+> **--_Herbert Spencer, Apr 27 1820-1903._**
+
+> Everyone engaged in research must have had the experience of working with feverish and prolonged intensity to write a paper which no one else will read or to solve a problem which no one else thinks important and which will bring no conceivable reward -- which may only confirm a general opinion that the researcher is wasting his time on irrelevancies.  
+> **--_Noam Chomsky, A Review of B. F. Skinner's Verbal Behavior, Language, 35, No. 1 (1959), 26-58_**
+
+> Get your facts first, and then you can distort them as much as you please. Few things are harder to put up with than a good example.  
+> **--_Mark Twain, 1835-1910_**
+
+> For every problem, there is one solution which is simple, neat, and wrong.  
+> **--_H. L. Mencken, 1880-1956_**
+
+> The academic politician is interested in victory. He has the moral code of Machiavelli, but, because he is too impatient to submit to the instruction of history, he has not the old masterâs shrewd sense of human limitations and contradictions. He makes the worst of rulers: he is neither a lover of truth, nor a practical man of the world, nor an habitual examiner of his all-too-human and persistent failings.  
+> **--_Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
+
+> In my long experience I have learned what are the five most important characteristics of a good colleague, and I shall tell you them. 1.	He or she must tell you when you're wrong. When you've risen above the associate professor level most people are convinced that you think yourself infallible. Of course they're right, but it's annoying that they tell everybody else when you're wrong and won't tell youâ¦. 2.	The ideal colleague must tell you you're wrong without actually stopping you doing the experiment you're just planning. With some colleagues things stop dead when the idea is killed; With others the argument and discussion is such fun that the experiment gets forgottenâ¦. 3.	The ideal colleague must constantly convert a theoretical argument into an experimental prediction: âYou say X is so, therefore Y should happen.â This is the most basic step in all of science, but it's a rare ability to constantly make that step; most of us either waste our time basking in the brilliant sunshine of theory, or just love fiddling with the equipment. Come to think of it there's a third category: those who spend all their time writing grant applications. 4.	The ideal colleague must have read all the literature you cannot be bothered to read, must understand the historical development of the subject accurately and dispassionately, and whenever necessary must exaggerate the importance of your own role in it.   > 5.	Any colleague of any sort has to tidy up the lab after you've made a mess of it.  
+> **--_Horace Barlow, preface of Vision: Coding and Efficiency. (1990)_**
+
+> And further, by these, my son, be admonished: of making many books there is no end; and much astudy is a weariness of the flesh.  
+> **--_Ecclesiastes 12:12_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Anger
+> Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.  
+> **--_Psalm 37:8_**
+
+> A soft answer turneth away wrath: but grievous words stir up anger.  
+> **--_Proverbs 15:1, KJV_**
+
+> A fool uttereth all his mind: but a wise man keepeth it in till afterwards.  
+> **--_Proverbs 29:11, KJV_**
+
+> Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath.  
+> **--_James 1:19, KJV_**
+
+> He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.  
+> **--_Proverbs 16:32, KJV_**
+
+> He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.  
+> **--_Proverbs 14:29, KJV_**
+
+> Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.   **-_Ecclesiastes 7:9, KJV_**  The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.  
+> **--_Proverbs 17:14, KJV_**
+
+> Be not overcome of evil, but overcome evil with good.  
+> **--_Romans 12:21, KJV_**
+
+> Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment: But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire. Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee; Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.  
+> **--_Matthew 5:21-24, KJV_**
+
+> Fathers, do not provoke your children, lest they become discouraged.  
+> **--_Colossians 3:21, KJV_**
+
+> Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.  
+> **--_Ephesians 4:29, KJV_**
+
+> Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.  
+> **--_Matthew 7:12, KJV_**
+
+> And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.  
+> **--_Matthew 7:3-5, KJV_**
+
+> If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest.  
+> **--_Proverbs 29:9, KJV_**
+
+> Be angry and do not sin; do not let the sun go down on your anger.  
+> **--_Ephesians 4:26 ESV_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Beauty
+> âI have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.â  
+> **--_Richard P. Feynman, The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman_**
+
+> âA poet once said, 'The whole universe is in a glass of wine.' We will probably never know in what sense he meant it, for poets do not write to be understood. But it is true that if we look at a glass of wine closely enough we see the entire universe. There are the things of physics: the twisting liquid which evaporates depending on the wind and weather, the reflection in the glass; and our imagination adds atoms. The glass is a distillation of the earth's rocks, and in its composition we see the secrets of the universe's age, and the evolution of stars. What strange array of chemicals are in the wine? How did they come to be? There are the ferments, the enzymes, the substrates, and the products. There in wine is found the great generalization; all life is fermentation. Nobody can discover the chemistry of wine without discovering, as did Louis Pasteur, the cause of much disease. How vivid is the claret, pressing its existence into the consciousness that watches it! If our small minds, for some convenience, divide this glass of wine, this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it! So let us put it all back together, not forgetting ultimately what it is for. Let it give us one more final pleasure; drink it and forget it all!â  
+> **--_Richard P. Feynman, 1918-1988_**
+
+> âPoets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?â  
+> **--_Richard Feynman, 1918-1988_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Computation
+> Where a calculator like the ENIAC today is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps weigh only 1 1/2 tons.  
+> **--_Popular Mechanics, March 1949, p. 258_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Conscience
+> There is a spectacle grander than the sea, and that is the sky; there is a spectacle grander than the sky, and it is the interior of the soul. To write the poem of the human conscience, were the subject only one man, and he the lowest of men, would be to resolve all epic poems into one supreme and final epic. Conscience is the chaos of chimeras, envies, and attempts, the furnace of dreams, the lurking-place of ideas we are ashamed of; it is the pandemonium of sophistry, the battlefield of the passions. At certain hours look through the livid face of a reflecting man, look into his soul, peer into the darkness. Beneath the external silence, combats of giants are going on there, such as we read of in Homer; melees of dragons and hydras and clouds of phantoms, such as we find in Milton; and visionary spirals, as in Dante. A sombre thing is the infinitude which every man bears within him, and by which he desperately measures the volitions of his brain and the actions of his life.  
+> **--_Victor Hugo, 1802-1885, Les Miserables_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Creativity
+> I don't know where my ideas come from. I will admit, however, that one key ingredient is caffeine. I get a couple cups of coffee into me and weird things just start to happen.  
+> **--_Gary Larson, The Prehistory of The Far Side_**
+
+> Sometimes ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It's a mysterious process, but I hope I never find out exactly how it works.  
+> **--_J. K. Rowling_**
+
+> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.  
+> **--_Richard Feynmann_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Culture
+> What is the worst thing about living near an open sewer? It is not that you sicken at the stench of it every time you leave your front door. It is that the noisome vapors are so pervasive, and you have lived with them so long, you no longer notice it. What is the worst thing about living in the rubble of a civilization? It is not that you shed a tear for the noble churches and courts and town halls you once knew, as you recall years filled with religious services, parades, block parties, and all the bumptious folderol of an ordinary civic life. It is that you do not even suspect that such things existed.  
+> **--_Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
+
+> No society has been able to abolish human sadness, no political system can deliver us from the pain of living, from our fear of death, our thirst for the absolute. It is the human condition that directs the social condition, not vice versa.  
+> **--_Eugene Ionesco_**
+
+> If you are a really serious student, you will be in science, or finance, or politicsâyou will be in the business of money or power. Everything is about ourselves. We donât want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, âHere, let me teach you about Milton,â the author of the greatest poem in the English language. The students reply, âNo, let us teach you about us.â Dear Narcissus, there is a great and beautiful world beyond that pool.  
+> **--_Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
+
+> The world says: "You have needs -- satisfy them. You have as much right as the rich and the mighty. Don't hesitate to satisfy your needs; indeed, expand your needs and demand more." This is the worldly doctrine of today. And they believe that this is freedom. The result for the rich is isolation and suicide, for the poor, envy and murder.  
+> **--_Fyodor Dostoyevsky, The Brothers Karamazov_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Faith
+> Roughly speaking, the word faith seems to be used by Christians in two senses or on two levels, and I will take them in turn. In the first sense it means simply beliefâ accepting or regarding as true the doctrines of Christianity. That is fairly simple. But what does puzzle peopleâ at least it used to puzzle meâ is the fact that Christians regard faith in this sense as a virtue. I used to ask how on Earth it can be a virtueâ what is there moral or immoral about believing or not believing a set of statements? Obviously, I used to say, a sane man accepts or rejects any statement, not because he wants or does not want to, but because the evidence seems to him good or bad. If he were mistaken about the goodness or badness of the evidence, that would not mean he was a bad man, but only that he was not very clever. And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid. Well, I think I still take that view. But what I did not see then -- and a good many people do not see still -- was this. I was assuming that if the human mind once accepts a thing as true it will automatically go on regarding it as true, until some real reason for reconsidering it turns up. In fact, I was assuming that the human mind is completely ruled by reason. But that is not so. For example, my reason is perfectly convinced by good evidence that anesthetics do not smother me and that properly trained surgeons do not start operating until I am unconscious. But that does not alter the fact that when they have me down on the table and clap their horrible mask over my face, a mere childish panic begins inside me. I start thinking I am going to choke, and I am afraid they will start cutting me up before I am properly under. In other words, I lose my faith in anesthetics. It is not reason that is taking away my faith; on the contrary, my faith is based on reason. It is my imagination and emotions. The battle is between faith and reason on one side and emotion and imagination on the other.   Now just the same thing happens about Christianity. I am not asking anyone to accept Christianity if his best reasoning tells him that the weight of evidence is against it. That is not the point at which faith comes in. But supposing a man's reason once decides that the weight of the evidence is for it. I can tell that man what is going to happen to him in the next few weeks. There will come a moment when there is bad news, or he is in trouble, or is living among a lot of other people who do not believe it, and all at once his emotions will rise up and carry out a sort of blitz on his belief. Or else there will come a moment when he wants a woman, or wants to tell a lie, or feels very pleased with himself, or sees a chance of making a little money in some way that is not perfectly fair; some moment, in fact, at which it would be very convenient if Christianity were not true. And once again his wishes and desires will carry out a blitz. I am not talking of moments at which any real new reasons against Christianity turn up. Those have to be faced and that is a different matter. I am talking about moments where a mere mood rises up against it.   Now faith, in the sense in which I am here using the word, is the art of holding onto things your reason has once accepted, in spite of your changing moods. For moods will change, whatever view your reason takes. I know that by experience. Now that I am a Christian, I do have moods in which the whole thing looks very improbable; but when I was an atheist, I had moods in which Christianity looked terribly probable. This rebellion of your moods against your real self is going to come anyway. That is why faith is such a necessary virtue; unless you teach your moods 'where they get off', you can never be either a sound Christian or even a sound atheist, but just a creature dithering to and fro, with its beliefs really dependent on the weather and the state of its digestion. Consequently one must train the habit of faith.  
+> **--_C.S. Lewis, Mere Christianity, 1952._**
+
+> Over a half century ago, while I was still a child, I recall hearing a number of old people offer the following explanation for the great disasters that had befallen Russia: "Men have forgotten God; that's why all this has happened." Since then I have spent well-nigh 50 years working on the history of our revolution; in the process I have read hundreds of books, collected hundreds of personal testimonies, and have already contributed eight volumes of my own toward the effort of clearing away the rubble left by that upheaval. But if I were asked today to formulate as concisely as possible the main cause of the ruinous revolution that swallowed up some 60 million of our people, I could not put it more accurately than to repeat: "Men have forgotten God; that's why all this has happened." What is more, the events of the Russian Revolution can only be understood now, at the end of the century, against the background of what has since occurred in the rest of the world. What emerges here is a process of universal significance. And if I were called upon to identify briefly the principal trait of the entire 20th century, here too, I would be unable to find anything more precise and pithy than to repeat once again: "Men have forgotten God." The failings of human consciousness, deprived of its divine dimension, have been a determining factor in all the major crimes of this century. The first of these was World War I, and much of our present predicament can be traced back to it. It was a war the memory of which seems to be fading) when Europe, bursting with health and abundance, fell into a rage of self-mutilation which could not but sap its strength for a century or more, and perhaps forever. The only possible explanation for this war is a mental eclipse among the leaders of Europe due to their lost awareness of a Supreme Power above them. Only a godless embitterment could have moved ostensibly Christian states to employ poison gas, a weapon so obviously beyond the limits of humanity.  
+> **--_Aleksandr Solzhenitsyn, "Godlessness: the First Step to the Gulag", Templeton Address, 1983_**
+
+> Stand still. In a moment I will blow. But first, remember, remember, remember the signs. Say them to yourself when you wake in the morning and when you lie down at night, and when you wake in the middle of the night. And whatever strange things may happen to you, let nothing turn your mind from following the signs. And secondly, I give you a warning. Here on the mountain I have spoken to you clearly: I will not often do so down in Narnia. Here on the mountain, the air is clear and your mind is clear; as you drop down into Narnia, the air will thicken. Take great care that it does not confuse your mind. And the signs which you have learned here will not look at all as you expect them to look, when you meet them there. That is why it is so important to know them by heart, and pay no attention to appearances. Remember the signs and believe the signs. Nothing else matters.  
+> **--_Aslan to Jill Pole, The Silver Chair, C.S. Lewis_**
+
+> "Are you still sure of those signs, Pole? What's the one we ought to be after, now?" "Oh, come on! Bother the signs," said Pole. "Something about someone mentioning Aslan's name, I think. But I'm jolly well not going to give a recitation here."... This annoyance added to the misery of being very cold and tired, made her say, "Bother the signs." She didn't perhaps quite mean it..."Harfang!" exclaimed Scrubb. "That's all very well," said Puddleglum. "But what I was saying was--" "Oh, shut up," said Jill crossly. "We haven't a moment to lose. Don't you remember what the Lady said about their locking up so early? We must get there in time, we must, we must. We'll die if we're shut out on a night like this." "Well, it isn't exactly a night, not yet," began Puddleglum; but the two children both said, "Come on," and began stumbling forward on the slippery tableland as quickly as their legs would carry them. The Marsh-wiggle followed them: still talking, but now that they were forcing their way into the wind again, they could not have heard him even if they had wanted to. And they didn't want. They were thinking of baths and beds and hot drinks; and the idea of coming to Harfang too late and being shut out was almost unbearable.  
+> **--_The Silver Chair, C.S. Lewis_**
+
+> "Yes, indeed there are. Well, I will keep you in front of me. You will feel the wind, but not too much. I shall only want one arm to take care of you; the other will be quite enough to sink the ship."  "Oh, dear North Wind! how can you talk so?"  "My dear boy, I never talk; I always mean what I say."  "Then you do mean to sink the ship with the other hand?"  "Yes."  "It's not like you."  "How do you know that?"  "Quite easily. Here you are taking care of a poor little boy with one arm, and there you are sinking a ship with the other. It can't be like you."  "Ah! but which is me? I can't be two mes, you know."  "No. Nobody can be two mes."  "Well, which me is me?"  "Now I must think. There looks to be two."  "Yes. That's the very point.--You can't be knowing the thing you don't know, can you?"  "No."  "Which me do you know?"  "The kindest, goodest, best me in the world," answered Diamond, clinging to North Wind.  "Why am I good to you?"  "I don't know."  "Have you ever done anything for me?"  "No."  "Then I must be good to you because I choose to be good to you."  "Yes."  "Why should I choose?"  "Because--because--because you like."  "Why should I like to be good to you?"  "I don't know, except it be because it's good to be good to me."  "That's just it; I am good to you because I like to be good."  "Then why shouldn't you be good to other people as well as to me?"  "That's just what I don't know. Why shouldn't I?"  "I don't know either. Then why shouldn't you?"  "Because I am."  "There it is again," said Diamond. "I don't see that you are. It looks quite the other thing."  "Well, but listen to me, Diamond. You know the one me, you say, and that is good."  "Yes."  "Do you know the other me as well?"  "No. I can't. I shouldn't like to."  "There it is. You don't know the other me. You are sure of one of them?"  "Yes."  "And you are sure there can't be two mes?"  "Yes."  "Then the me you don't know must be the same as the me you do know,-- else there would be two mes?"  "Yes."  "Then the other me you don't know must be as kind as the me you do know?"  "Yes."  "Besides, I tell you that it is so, only it doesn't look like it. That I confess freely. Have you anything more to object?"  "No, no, dear North Wind; I am quite satisfied."  "Then I will tell you something you might object. You might say that the me you know is like the other me, and that I am cruel all through."  "I know that can't be, because you are so kind."  "But that kindness might be only a pretence for the sake of being more cruel afterwards."  Diamond clung to her tighter than ever, crying--  "No, no, dear North Wind; I can't believe that. I don't believe it. I won't believe it. That would kill me. I love you, and you must love me, else how did I come to love you? How could you know how to put on such a beautiful face if you did not love me and the rest? No. You may sink as many ships as you like, and I won't say another word. I can't say I shall like to see it, you know."  "That's quite another thing," said North Wind; and as she spoke she gave one spring from the roof of the hay-loft, and rushed up into the clouds, with Diamond on her left arm close to her heart. And as if the clouds knew she had come, they burst into a fresh jubilation of thunderous light...  
+> **--_George MacDonald, At the Back of the North Wind_**
+
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -291,226 +320,16 @@ blockquote strong em {
 > No; Iâm not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.  
 > **--_North Wind, speaking to Little Diamond in "At the Back of the North Wind" by George MacDonald_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
-### Suffering
-> What is hell? I maintain that it is the suffering of being unable to love.  
-> **--_Fyodor Dostoevsky, The Brothers Karamazov_**
-
-> The soul is healed by being with children.  
-> **--_Fyodor Dostoevsky_**
-
-> Man is sometimes extraordinarily, passionately, in love with suffering.  
-> **--_Fyodor Dostoevsky_**
-
-> There is no religion in which everyday life is not considered a prison; there is no philosophy or ideology that does not think that we live in alienation.  
-> **--_Eugene Ionesco_**
-
-> âAnd, indeed, this is the odd thing that is continually happening: there are continually turning up in life moral and rational persons, sages and lovers of humanity who make it their object to live all their lives as morally and rationally as possible, to be, so to speak, a light to their neighbours simply in order to show them that it is possible to live morally and rationally in this world. And yet we all know that those very people sooner or later have been false to themselves, playing some queer trick, often a most unseemly one.   Now I ask you: what can be expected of man since he is a being endowed with strange qualities? Shower upon him every earthly blessing, drown him in a sea of happiness, so that nothing but bubbles of bliss can be seen on the surface; give him economic prosperity, such that he should have nothing else to do but sleep, eat cakes and busy himself with the continuation of his species, and even then out of sheer ingratitude, sheer spite, man would play you some nasty trick. He would even risk his cakes and would deliberately desire the most fatal rubbish, the most uneconomical absurdity, simply to introduce into all this positive good sense his fatal fantastic element.   It is just his fantastic dreams, his vulgar folly that he will desire to retain, simply in order to prove to himself--as though that were so necessary-- that men still are men and not the keys of a piano, which the laws of nature threaten to control so completely that soon one will be able to desire nothing but by the calendar.   And that is not all: even if man really were nothing but a piano-key, even if this were proved to him by natural science and mathematics, even then he would not become reasonable, but would purposely do something perverse out of simple ingratitude, simply to gain his point. And if he does not find means he will contrive destruction and chaos, will contrive sufferings of all sorts, only to gain his point!â  
-> **--_Fyodor Dostoevsky, Notes from the Underground_**
-
-> "Oh! thank you," said Diamond. "I shall be sorry to leave you, North Wind, but I would rather not see the ship go down. And I'm afraid the poor people will cry, and I should hear them. Oh, dear!" "There are a good many passengers on board; and to tell the truth, Diamond, I don't care about your hearing the cry you speak of. I am afraid you would not get it out of your little head again for a long time." "But how can you bear it then, North Wind? For I am sure you are kind. I shall never doubt that again." "I will tell you how I am able to bear it, Diamond: I am always hearing, through every noise, through all the noise I am making myself even, the sound of a far-off song. I do not exactly know where it is, or what it means; and I don't hear much of it, only the odour of its music, as it were, flitting across the great billows of the ocean outside this air in which I make such a storm; but what I do hear is quite enough to make me able to bear the cry from the drowning ship. So it would you if you could hear it."  "No, it wouldn't," returned Diamond, stoutly. "For they wouldn't hear the music of the far-away song; and if they did, it wouldn't do them any good. You see you and I are not going to be drowned, and so we might enjoy it."  "But you have never heard the psalm, and you don't know what it is like. Somehow, I can't say how, it tells me that all is right; that it is coming to swallow up all cries."  "But that won't do them any good---the people, I mean," persisted Diamond.  "It must. It must," said North Wind, hurriedly. "It wouldn't be the song it seems to be if it did not swallow up all their fear and pain too, and set them singing it themselves with the rest. I am sure it will. And do you know, ever since I knew I had hair, that is, ever since it began to go out and away, that song has been coming nearer and nearer. Only I must say it was some thousand years before I heard it."  "But how can you say it was coming nearer when you did not hear it?" asked doubting little Diamond.  "Since I began to hear it, I know it is growing louder, therefore I judge it was coming nearer and nearer until I did hear it first. I'm not so very old, you know---a few thousand years only---and I was quite a baby when I heard the noise first, but I knew it must come from the voices of people ever so much older and wiser than I was. I can't sing at all, except now and then, and I can never tell what my song is going to be; I only know what it is after I have sung it."  
-> **--_George MacDonald, At the Back of the North Wind_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Love
-> A sudden impulse seemed to come into his [Alyosha's] soul. With a serious and earnest expression he looked from one to another of the bright, pleasant faces of Ilushaâs schoolfellows, and suddenly said to them:     âBoys, I should like to say one word to you, here at this place.â      The boys stood round him and at once bent attentive and expectant eyes upon him.    âBoys, we shall soon part. I shall be for some time with my two brothers, of whom one is going to Siberia and the other is lying at deathâs door. But soon I shall leave this town, perhaps for a long time, so we shall part. Let us make a compact here, at Ilushaâs stone, that we will never forget Ilusha and one another. And whatever happens to us later in life, if we donât meet for twenty years afterwards, let us always remember how we buried the poor boy at whom we once threw stones, do you remember, by the bridge? and afterwards we all grew so fond of him. He was a fine boy, a kindhearted, brave boy, he felt for his fatherâs honor and resented the cruel insult to him and stood up for him. And so in the first place, we will remember him, boys, all our lives. And even if we are occupied with most important things, if we attain to honor or fall into great misfortuneâstill let us remember how good it was once here, when we were all together, united by a good and kind feeling which made us, for the time we were loving that poor boy, better perhaps than we are. My little dovesâlet me call you so, for you are very like them, those pretty blue birds, at this minute as I look at your good dear faces. My dear children, perhaps you wonât understand what I am saying to you, because I often speak very unintelligibly, but youâll remember it all the same and will agree with my words some time. You must know that there is nothing higher and stronger and more wholesome and good for life in the future than some good memory, especially a memory of childhood, of home. People talk to you a great deal about your education, but some good, sacred memory, preserved from childhood, is perhaps the best education. If a man carries many such memories with him into life, he is safe to the end of his days, and if one has only one good memory left in oneâs heart, even that may sometime be the means of saving us. Perhaps we may even grow wicked later on, may be unable to refrain from a bad action, may laugh at menâs tears and at those people who say as Kolya did just now, âI want to suffer for all men,â and may even jeer spitefully at such people. But however bad we may becomeâwhich God forbidâyet, when we recall how we buried Ilusha, how we loved him in his last days, and how we have been talking like friends all together, at this stone, the cruelest and most mocking of usâif we do become soâwill not dare to laugh inwardly at having been kind and good at this moment! Whatâs more, perhaps, that one memory may keep him from great evil and he will reflect and say, âYes, I was good and brave and honest then!â Let him laugh to himself, thatâs no matter, a man often laughs at whatâs good and kind. Thatâs only from thoughtlessness. But I assure you, boys, that as he laughs he will say at once in his heart, âNo, I do wrong to laugh, for thatâs not a thing to laugh at.ââ  âThat will be so, I understand you, Karamazov!â cried Kolya, with flashing eyes.  The boys were excited and they, too, wanted to say something, but they restrained themselves, looking with intentness and emotion at the speaker.  âI say this in case we become bad,â Alyosha went on, âbut thereâs no reason why we should become bad, is there, boys? Let us be, first and above all, kind, then honest and then let us never forget each other! I say that again. I give you my word for my part that Iâll never forget one of you. Every face looking at me now I shall remember even for thirty years. Just now Kolya said to Kartashov that we did not care to know whether he exists or not. But I cannot forget that Kartashov exists and that he is not blushing now as he did when he discovered the founders of Troy, but is looking at me with his jolly, kind, dear little eyes. Boys, my dear boys, let us all be generous and brave like Ilusha, clever, brave and generous like Kolya (though he will be ever so much cleverer when he is grown up), and let us all be as modest, as clever and sweet as Kartashov. But why am I talking about those two? You are all dear to me, boys, from this day forth, I have a place in my heart for you all, and I beg you to keep a place in your hearts for me! Well, and who has united us in this kind, good feeling which we shall remember and intend to remember all our lives? Who, if not Ilusha, the good boy, the dear boy, precious to us forever! Let us never forget him. May his memory live forever in our hearts from this time forth!â  âYes, yes, forever, forever!â the boys cried in their ringing voices, with softened faces.  âLet us remember his face and his clothes and his poor little boots, his coffin and his unhappy, sinful father, and how boldly he stood up for him alone against the whole school.â  âWe will remember, we will remember,â cried the boys. âHe was brave, he was good!â  âAh, how I loved him!â exclaimed Kolya.  âAh, children, ah, dear friends, donât be afraid of life! How good life is when one does something good and just!â  âYes, yes,â the boys repeated enthusiastically.  âKaramazov, we love you!â a voice, probably Kartashovâs, cried impulsively.  âWe love you, we love you!â they all caught it up. There were tears in the eyes of many of them.  âHurrah for Karamazov!â Kolya shouted ecstatically.  âAnd may the dead boyâs memory live forever!â Alyosha added again with feeling.  âFor ever!â the boys chimed in again.  âKaramazov,â cried Kolya, âcan it be true whatâs taught us in religion, that we shall all rise again from the dead and shall live and see each other again, all, Ilusha too?â  âCertainly we shall all rise again, certainly we shall see each other and shall tell each other with joy and gladness all that has happened!â Alyosha answered, half laughing, half enthusiastic.  âAh, how splendid it will be!â broke from Kolya.  âWell, now we will finish talking and go to his funeral dinner. Donât be put out at our eating pancakesâitâs a very old custom and thereâs something nice in that!â laughed Alyosha. âWell, let us go! And now we go hand in hand.â  âAnd always so, all our lives hand in hand! Hurrah for Karamazov!â Kolya cried once more rapturously, and once more the boys took up his exclamation: âHurrah for Karamazov!â  
-> **--_Dostoyevsky, The Brothers Karamozov, Ilushaâs Funeral. The Speech at the Stone_**
-
-> âThe highest forms of understanding we can achieve are laughter and human compassion.â  
-> **--_Richard P. Feynman_**
-
-> âPhysics isn't the most important thing. Love is.â  
-> **--_Richard P. Feynman_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Anger
-> Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.  
-> **--_Psalm 37:8_**
-
-> A soft answer turneth away wrath: but grievous words stir up anger.  
-> **--_Proverbs 15:1, KJV_**
-
-> A fool uttereth all his mind: but a wise man keepeth it in till afterwards.  
-> **--_Proverbs 29:11, KJV_**
-
-> Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath.  
-> **--_James 1:19, KJV_**
-
-> He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.  
-> **--_Proverbs 16:32, KJV_**
-
-> He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.  
-> **--_Proverbs 14:29, KJV_**
-
-> Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.   **-_Ecclesiastes 7:9, KJV_**  The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.  
-> **--_Proverbs 17:14, KJV_**
-
-> Be not overcome of evil, but overcome evil with good.  
-> **--_Romans 12:21, KJV_**
-
-> Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment: But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire. Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee; Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.  
-> **--_Matthew 5:21-24, KJV_**
-
-> Fathers, do not provoke your children, lest they become discouraged.  
-> **--_Colossians 3:21, KJV_**
-
-> Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.  
-> **--_Ephesians 4:29, KJV_**
-
-> Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.  
-> **--_Matthew 7:12, KJV_**
-
-> And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.  
-> **--_Matthew 7:3-5, KJV_**
-
-> If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest.  
-> **--_Proverbs 29:9, KJV_**
-
-> Be angry and do not sin; do not let the sun go down on your anger.  
-> **--_Ephesians 4:26 ESV_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Passion
-> I would rather be ashes than dust! I would rather that my spark should burn out in a brilliant blaze than it should be stifled by dry-rot. I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet. The function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time.  
-> **--_Jack London, London's literary executor, Irving Shepard, quoting a Jack London Credo in an introduction to a 1956 collection of London stories._**
-
-> You can only be truly accomplished at something you love. Don't make money the goal. Instead, pursue the things you love doing, and do them so well that people can't take their eyes off you. All the other tangible rewards will come as a result.  
-> **--_Maya Angleou_**
-
-> "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines, sail away from the safe harbour, catch the trade winds in your sails. Explore. Dream. Discover."  
-> **--_Mark Twain, 1835-1910_**
-
-> âFall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.â  
-> **--_Richard P. Feynman_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Planning
-> He who every morning plans the transaction of the day and follows out that plan, carries a thread that will guide him through the maze of the most busy life. But where no plan is laid, where the disposal of time is surrendered merely to the chance of incidence, chaos will soon reign.  
-> **--_Victor Hugo_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Psychology
-> "The world is continuous, but the mind is discrete."  
-> **--_David Mumford, ICM 2002 plenary talk, Aug. 21, 2002_**
-
-> Don't let us forget that the causes of human actions are usually immeasurably more complex and varied than our subsequent explanations of them.  
-> **--_Fyodor Dostoevsky, The Idiot_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Science
-> "The most beautiful experience is the mysterious. It is the source of true art and science."   "Everything should be made as simple as possible, but not simpler."   "Pure mathematics is, in its way, the poetry of logical ideas."   "Not everything that can be counted counts, and not everything that counts can be counted."   "Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater."   "I never think of the future--it comes soon enough."   "Imagination is more important than knowledge."   "It's not that I'm so smart. It's just that I spent more time on problems."  
-> **--_Albert Einstein, 1879-1955_**
-
-> "I have not failed. I've just found 10,000 ways that won't work."  
-> **--_Thomas Alva Edison, 1847-1931_**
-
-> "In theory, there is no difference between theory and practice. But, in practice, there is.  
-> **--_Jan L.A. van de Snepscheut_**
-
-> "One cannot understand... the universality of laws of nature, the relationship of things, without an understanding of mathematics. There is no other way to do it."  
-> **--_Richard P. Feynman_**
-
-> "When I am working on a problem I never think about beauty. I only think about how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong." "Everything you've learned in school as 'obvious' becomes less and less obvious as you begin to study the universe. For example, there are no solids in the universe. There's not even a suggestion of a solid. There are no absolute continuums. There are no surfaces. There are no straight lines."  
-> **--_Buckminster Fuller, 1895-1983_**
-
-> "Philosophy is written in this grand book--I mean the universe--which stands continually open to our gaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures, without which it is humanly impossible to understand a single word of it."  
-> **--_Galileo Galilei, Il Saggiatore, 1623_**
-
-> "Ubi materia, ibi geometria."   "Geometry is the archetype of the beauty of the world."  
-> **--_Johannes Kepler, 1571-1630_**
-
-> "Science is what we understand well enough to explain to a computer, Art is all the rest."  
-> **--_Donald E. Knuth, Foreword to A=B by Petkovsek, Wilf and Zeilberger_**
-
-> "Sometimes a good idea comes to you when you are not looking for it. Through an improbable combination of coincidence, naivete and lucky mistakes ..."  
-> **--_Kary Mullis, The Unusual Origin of the Polymerase Chain Reaction, Sci. Amer., April 1990, p. 445_**
-
-> "In mathematics you don't understand things. You just get used to them." "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."  
-> **--_John von Neumann, 1903-1957_**
-
-> "Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things." "I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."  
-> **--_Isaac Newton, 1643-1727_**
-
-> "Thought is only a flash between two long nights, but this flash is everything." "Science is facts; just as houses are made of stones, so is science made of facts; but a pile of stones is not a house and a collection of facts is not necessarily science.  
-> **--_Jules Henri Poincare, 1854-1912_**
-
-> "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."  
-> **--_Arthur Schopenhauer, 1788-1860_**
-
-> The first principle is that you must not fool yourself and you are the easiest person to fool.  
-> **--_Richard P. Feynman, 1918-1988_**
-
-> I learned very early the difference between knowing the name of something and knowing something.  
-> **--_Richard P. Feynman, 1918-1988_**
-
-> All possible knowledge, then, depends on the validity of reasoning. If the feeling of certainty which we express by words like must be and therefore and since is a real perception of how things outside our own minds really ÔmustÕ be, well and good. But if this certainty is merely a feeling in our own minds and not a genuine insight into realities beyond them Ñ if it merely represents the way our minds happen to work Ñ then we can have no knowledge. Unless human reasoning is valid no science can be true. It follows that no account of the universe can be true unless that account leaves it possible for our thinking to be a real insight. A theory which explained everything else in the whole universe but which made it impossible to believe that our thinking was valid, would be utterly out of court. For that theory would itself have been reached by thinking, and if thinking is not valid that theory would, of course, be itself demolished. It would have destroyed its own credentials. It would be an argument which proved that no argument was sound Ñ a proof that there are no such things as proofs Ñ which is nonsense.  
-> **--_CS Lewis, "On the Incompatibility of Reason, Science, and Materialism"_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Teaching
-> "Spoon feeding, in the long run teaches us nothing but the shape of the spoon."  
-> **--_E. M. Forster_**
-
-> "One of the big misapprehensions about mathematics that we perpetrate in our classrooms is that the teacher always seems to know the answer to any problem that is discussed. This gives students the idea that there is a book somewhere with all the right answers to all of the interesting questions, and that teachers know those answers. And if one could get hold of the book, one would have everything settled. That's so unlike the true nature of mathematics."  
-> **--_Leon Henkin_**
-
-> "Education is the most powerful weapon which you can use to change the world."  
-> **--_Nelson Mandela_**
-
-> "We are usually convinced more easily by reasons we have found ourselves than by those which occured to others."  
-> **--_Blaise Pascal_**
-
-> "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." >"Grown-ups never understand anything for themselves, and it is tiresome for children to be always and forever explaining things to them."  
-> **--_Antoine de Saint-Exupery_**
-
-> "We've taught you that the earth is round, That red and white make pink, And something else that matters more -- We've taught you how to think."  
-> **--_Dr. Seuss, Hooray for Diffendoofer Day_**
-
-> âI don't know what's the matter with people: they don't learn by understanding, they learn by some other way â by rote or something. Their knowledge is so fragile!â  
-> **--_Richard Feynman, 1918-1988_**
-
-[Back to Top](#  )
-
-
-[Back to Brandon's page](/brandon/)
-
-### Technology
-> "For a list of all the ways technology has failed to improve the quality of life, please press three."  
-> **--_Alice Kahn_**
-
-[Back to Top](#  )
+### Happiness
+> The true secret of happiness lies in taking a genuine interest in all the details of daily life.  
+> **--_William Morris_**
+
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -531,16 +350,37 @@ blockquote strong em {
 > "Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth."  
 > **--_Blaise Pascal_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
-### Moderation
-> Moderation does not mean truth is always found equidistant between two extreme positions, nor does it mean that bold and at times even radical steps are not necessary to advance moral ends. Moderation takes into account what is needed at any given moment ... there are general characteristics we associate with moderation, including prudence, the humility to recognize limits (including our own), the willingness to balance competing principles and an aversion to fanaticism. Moderation accepts the complexity of life in this world and distrusts utopian visions and simple solutions. The way to think about moderation is as a disposition, not as an ideology. Its antithesis is not conviction but intemperance.  
-> **--_Peter Wehner, NYT. Dec. 17, 2016_**
+### Longing
+> This every soul seeketh and for the sake of this doth all her actions, having an inkling that it is; but what it is she cannot sufficiently discern, and she knoweth not her way, and concerning this she hath no constant assurance as she hath of other things.  
+> **--_Plato, The Republic, Book VI_**
 
-[Back to Top](#  )
+> Whose souls, albeit in a cloudy memory, yet seek back their good, but, like drunk men, know not the road home.  
+> **--_Boethius_**
+
+> Somewhat it seeketh, and what that is directly it knoweth not, yet very intentive desire thereof doth so incite it, that all other known delights and pleasures are laid aside, they give place to the search of this but only suspected desire. If the soul of man did serve only to give him being in this life, then things appertaining unto this life would content him, as we see they do other creatures; which creatures enjoying what they live by seek no further, but in this contentation do shew a kind of acknowledgment that there is no higher good which doth any way telling unto them. With us it is otherwise. For although the beauties, riches, honors, sciences, virtues, and perfection of all men living, were in the present possession of one; yet somewhat beyond and above all this there would still be sought and earnestly thirsted for. So that Nature even in the life doth plainly claim and call for a more divine perfection than either of these two that have been mentioned.  
+> **--_Hooker on Sehnsucht_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Love
+> A sudden impulse seemed to come into his [Alyosha's] soul. With a serious and earnest expression he looked from one to another of the bright, pleasant faces of Ilushaâs schoolfellows, and suddenly said to them:     âBoys, I should like to say one word to you, here at this place.â      The boys stood round him and at once bent attentive and expectant eyes upon him.    âBoys, we shall soon part. I shall be for some time with my two brothers, of whom one is going to Siberia and the other is lying at deathâs door. But soon I shall leave this town, perhaps for a long time, so we shall part. Let us make a compact here, at Ilushaâs stone, that we will never forget Ilusha and one another. And whatever happens to us later in life, if we donât meet for twenty years afterwards, let us always remember how we buried the poor boy at whom we once threw stones, do you remember, by the bridge? and afterwards we all grew so fond of him. He was a fine boy, a kindhearted, brave boy, he felt for his fatherâs honor and resented the cruel insult to him and stood up for him. And so in the first place, we will remember him, boys, all our lives. And even if we are occupied with most important things, if we attain to honor or fall into great misfortuneâstill let us remember how good it was once here, when we were all together, united by a good and kind feeling which made us, for the time we were loving that poor boy, better perhaps than we are. My little dovesâlet me call you so, for you are very like them, those pretty blue birds, at this minute as I look at your good dear faces. My dear children, perhaps you wonât understand what I am saying to you, because I often speak very unintelligibly, but youâll remember it all the same and will agree with my words some time. You must know that there is nothing higher and stronger and more wholesome and good for life in the future than some good memory, especially a memory of childhood, of home. People talk to you a great deal about your education, but some good, sacred memory, preserved from childhood, is perhaps the best education. If a man carries many such memories with him into life, he is safe to the end of his days, and if one has only one good memory left in oneâs heart, even that may sometime be the means of saving us. Perhaps we may even grow wicked later on, may be unable to refrain from a bad action, may laugh at menâs tears and at those people who say as Kolya did just now, âI want to suffer for all men,â and may even jeer spitefully at such people. But however bad we may becomeâwhich God forbidâyet, when we recall how we buried Ilusha, how we loved him in his last days, and how we have been talking like friends all together, at this stone, the cruelest and most mocking of usâif we do become soâwill not dare to laugh inwardly at having been kind and good at this moment! Whatâs more, perhaps, that one memory may keep him from great evil and he will reflect and say, âYes, I was good and brave and honest then!â Let him laugh to himself, thatâs no matter, a man often laughs at whatâs good and kind. Thatâs only from thoughtlessness. But I assure you, boys, that as he laughs he will say at once in his heart, âNo, I do wrong to laugh, for thatâs not a thing to laugh at.ââ  âThat will be so, I understand you, Karamazov!â cried Kolya, with flashing eyes.  The boys were excited and they, too, wanted to say something, but they restrained themselves, looking with intentness and emotion at the speaker.  âI say this in case we become bad,â Alyosha went on, âbut thereâs no reason why we should become bad, is there, boys? Let us be, first and above all, kind, then honest and then let us never forget each other! I say that again. I give you my word for my part that Iâll never forget one of you. Every face looking at me now I shall remember even for thirty years. Just now Kolya said to Kartashov that we did not care to know whether he exists or not. But I cannot forget that Kartashov exists and that he is not blushing now as he did when he discovered the founders of Troy, but is looking at me with his jolly, kind, dear little eyes. Boys, my dear boys, let us all be generous and brave like Ilusha, clever, brave and generous like Kolya (though he will be ever so much cleverer when he is grown up), and let us all be as modest, as clever and sweet as Kartashov. But why am I talking about those two? You are all dear to me, boys, from this day forth, I have a place in my heart for you all, and I beg you to keep a place in your hearts for me! Well, and who has united us in this kind, good feeling which we shall remember and intend to remember all our lives? Who, if not Ilusha, the good boy, the dear boy, precious to us forever! Let us never forget him. May his memory live forever in our hearts from this time forth!â  âYes, yes, forever, forever!â the boys cried in their ringing voices, with softened faces.  âLet us remember his face and his clothes and his poor little boots, his coffin and his unhappy, sinful father, and how boldly he stood up for him alone against the whole school.â  âWe will remember, we will remember,â cried the boys. âHe was brave, he was good!â  âAh, how I loved him!â exclaimed Kolya.  âAh, children, ah, dear friends, donât be afraid of life! How good life is when one does something good and just!â  âYes, yes,â the boys repeated enthusiastically.  âKaramazov, we love you!â a voice, probably Kartashovâs, cried impulsively.  âWe love you, we love you!â they all caught it up. There were tears in the eyes of many of them.  âHurrah for Karamazov!â Kolya shouted ecstatically.  âAnd may the dead boyâs memory live forever!â Alyosha added again with feeling.  âFor ever!â the boys chimed in again.  âKaramazov,â cried Kolya, âcan it be true whatâs taught us in religion, that we shall all rise again from the dead and shall live and see each other again, all, Ilusha too?â  âCertainly we shall all rise again, certainly we shall see each other and shall tell each other with joy and gladness all that has happened!â Alyosha answered, half laughing, half enthusiastic.  âAh, how splendid it will be!â broke from Kolya.  âWell, now we will finish talking and go to his funeral dinner. Donât be put out at our eating pancakesâitâs a very old custom and thereâs something nice in that!â laughed Alyosha. âWell, let us go! And now we go hand in hand.â  âAnd always so, all our lives hand in hand! Hurrah for Karamazov!â Kolya cried once more rapturously, and once more the boys took up his exclamation: âHurrah for Karamazov!â  
+> **--_Dostoyevsky, The Brothers Karamozov, Ilushaâs Funeral. The Speech at the Stone_**
+
+> âThe highest forms of understanding we can achieve are laughter and human compassion.â  
+> **--_Richard P. Feynman_**
+
+> âPhysics isn't the most important thing. Love is.â  
+> **--_Richard P. Feynman_**
+
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -627,7 +467,7 @@ blockquote strong em {
 > "To speak freely of mathematics, I find it the highest exercise of the spirit; but at the same time I know that it is so useless that I make little distinction between a man who is only a mathematician and a common artisan. Also, I call it the most beautiful profession in the world; but it is only a profession."  
 > **--_Blaise Pascal_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -654,16 +494,61 @@ blockquote strong em {
 > "The hardest thing being with a mathematician is that they always have problems."  
 > **--_Tendai Chitewere_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
-### Philosophy
-> "Order is not sufficient. What is required, is something much more complex. It is order entering upon novelty; so that the massiveness of order does not degenerate into mere repetition; and so that the novelty is always reflected upon a background of system."  
-> **--_Alfred North Whitehead, 1861-1947_**
+### Meaning
+> âNobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.â  
+> **--_Richard P. Feynman, 1918-1988_**
 
-[Back to Top](#  )
+> Tomorrow, and tomorrow, and tomorrow,   Creeps in the petty pace from day to day,   To the last syllable of recorded time;   And all our yesterdays have lighted fools   The way to dusty death. Out, out, brief candle,   Lifeâs but a walking shadow, a poor player   That struts and frets his hour upon the stage,   And then is heard no more. It is a tale   Told by an idiot, full of sound and fury   Signifying nothing.  
+> **--_Shakespeareâs Macbeth, after Macbeth hears of his wifeâs suicide, 1623_**
+
+> William Stoner entered the University of Missouri as a freshman in the year 1910, at the age of nineteen. Eight years later, during the height of World War I, he received his Doctor of Philosophy degree and accepted an instructorship at the same University, where he taught until his death in 1956. He did not rise above the rank of assistant professor, and few students remembered him with any sharpness after they had taken his courses. When he died his colleagues made a memorial contribution of a medieval manuscript to the University library. This manuscript may still be found in the Rare Books Collection, bearing the inscription: "Presented to the Library of the University of Missouri, in memory of William Stoner, Department of English. By his colleagues." An occasional student who comes upon the name may wonder idly who William Stoner was, but he seldom pursues his curiosity beyond a casual question. Stoner's colleagues, who held him in no particular esteem when he was alive, speak of him rarely now; to the older ones, his name is a reminder of the end that awaits them all, and to the younger ones it is merely a sound which evokes no sense of the past and no identity with which they can associate themselves or their careers.  
+> **--_John Williams, in "Stoner", 1965_**
+
+> This is the problem. Maps get taken for territories and ERROR results. You lose track of what's body and what's just head. And the more time you spend sdtuck in your head, ignoring the world, hungry for transcendence and distraction, the more superficial your life becomes. And the more superficial your life becomes, the more undead you feel. After a while, "everything becomes an outline of the thing. Objects become schemata. The worlds becomes a map of the world"  
+> **--_Adam S. Miller, 2016, in The Gospel According to David Foster Wallace; quote at end is from DFW, Infinite Jest_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Moderation
+> Moderation does not mean truth is always found equidistant between two extreme positions, nor does it mean that bold and at times even radical steps are not necessary to advance moral ends. Moderation takes into account what is needed at any given moment ... there are general characteristics we associate with moderation, including prudence, the humility to recognize limits (including our own), the willingness to balance competing principles and an aversion to fanaticism. Moderation accepts the complexity of life in this world and distrusts utopian visions and simple solutions. The way to think about moderation is as a disposition, not as an ideology. Its antithesis is not conviction but intemperance.  
+> **--_Peter Wehner, NYT. Dec. 17, 2016_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Nihilism
+> Have you not heard of that madman who lit a lantern in the bright morning hours, ran to the market place, and cried incessantly: "I seek God! I seek God!" -- As many of those who did not believe in God were standing around just then, he provoked much laughter. Has he got lost? asked one. Did he lose his way like a child? asked another. Or is he hiding? Is he afraid of us? Has he gone on a voyage? emigrated? -- Thus they yelled and laughed. The madman jumped into their midst and pierced them with his eyes. "Whither is God?" he cried; "I will tell you. We have killed him -- you and I. All of us are his murderers. But how did we do this? How could we drink up the sea? Who gave us the sponge to wipe away the entire horizon? What were we doing when we unchained this earth from its sun? Whither is it moving now? Whither are we moving? Away from all suns? Are we not plunging continually? Backward, sideward, forward, in all directions? Is there still any up or down? Are we not straying, as through an infinite nothing? Do we not feel the breath of empty space? Has it not become colder? Is not night continually closing in on us? Do we not need to light lanterns in the morning? Do we hear nothing as yet of the noise of the gravediggers who are burying God? Do we smell nothing as yet of the divine decomposition? Gods, too, decompose. God is dead. God remains dead. And we have killed him.     "How shall we comfort ourselves, the murderers of all murderers? What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves? What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it? There has never been a greater deed; and whoever is born after us -- for the sake of this deed he will belong to a higher history than all history hitherto."     Here the madman fell silent and looked again at his listeners; and they, too, were silent and stared at him in astonishment. At last he threw his lantern on the ground, and it broke into pieces and went out. "I have come too early," he said then; "my time is not yet. This tremendous event is still on its way, still wandering; it has not yet reached the ears of men. Lightning and thunder require time; the light of the stars requires time; deeds, though done, still require time to be seen and heard. This deed is still more distant from them than most distant stars -- and yet they have done it themselves.     It has been related further that on the same day the madman forced his way into several churches and there struck up his requiem aeternam deo. Led out and called to account, he is said always to have replied nothing but: "What after all are these churches now if they are not the tombs and sepulchers of God?"  
+> **--_Friedrich Nietzsche, The Gay Science (1882, 1887) para. 125; Walter Kaufmann ed. (New York: Vintage, 1974), pp.181-82_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Passion
+> I would rather be ashes than dust! I would rather that my spark should burn out in a brilliant blaze than it should be stifled by dry-rot. I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet. The function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time.  
+> **--_Jack London, London's literary executor, Irving Shepard, quoting a Jack London Credo in an introduction to a 1956 collection of London stories._**
+
+> You can only be truly accomplished at something you love. Don't make money the goal. Instead, pursue the things you love doing, and do them so well that people can't take their eyes off you. All the other tangible rewards will come as a result.  
+> **--_Maya Angleou_**
+
+> "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines, sail away from the safe harbour, catch the trade winds in your sails. Explore. Dream. Discover."  
+> **--_Mark Twain, 1835-1910_**
+
+> âFall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.â  
+> **--_Richard P. Feynman_**
+
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -678,19 +563,25 @@ blockquote strong em {
 > God is dead. Marx is dead. And I donât feel so well myself.  
 > **--_Eugene Ionesco, 1912-1994_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
-### Uncertainty
-> âI think it's much more interesting to live not knowing than to have answers which might be wrong. I have approximate answers and possible beliefs and different degrees of uncertainty about different things, but I am not absolutely sure of anything and there are many things I don't know anything about, such as whether it means anything to ask why we're here. I don't have to know an answer. I don't feel frightened not knowing things, by being lost in a mysterious universe without any purpose, which is the way it really is as far as I can tell.â     âI would rather have questions that can't be answered than answers that can't be questioned.â     âI think it's much more interesting to live not knowing than to have answers which might be wrong.â     âIf you thought that science was certain - well, that is just an error on your part.â  
-> **--_Richard P. Feynman, 1918-1988_**
+### Philosophy
+> "Order is not sufficient. What is required, is something much more complex. It is order entering upon novelty; so that the massiveness of order does not degenerate into mere repetition; and so that the novelty is always reflected upon a background of system."  
+> **--_Alfred North Whitehead, 1861-1947_**
 
-> I can live with doubt and uncertainty and not knowing. I think it is much more interesting to live not knowing than to have answers that might be wrong. If we will only allow that, as we progress, we remain unsure, we will leave opportunities for alternatives. We will not become enthusiastic for the fact, the knowledge, the absolute truth of the day, but remain always uncertain â¦ In order to make progress, one must leave the door to the unknown ajar.â  
-> **--_Richard P. Feynman, 1918-1988_**
+[Back to Top](# )
 
-[Back to Top](#  )
+
+[Back to Brandon's page](/brandon/)
+
+### Planning
+> He who every morning plans the transaction of the day and follows out that plan, carries a thread that will guide him through the maze of the most busy life. But where no plan is laid, where the disposal of time is surrendered merely to the chance of incidence, chaos will soon reign.  
+> **--_Victor Hugo_**
+
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -702,7 +593,7 @@ blockquote strong em {
 > "It is not certain that everything is uncertain."  
 > **--_Blaise Pascal_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -717,16 +608,97 @@ blockquote strong em {
 > "There is something in statistics that makes it very similar to astrology."  
 > **--_Gian-Carlo Rota_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
-### Conscience
-> There is a spectacle grander than the sea, and that is the sky; there is a spectacle grander than the sky, and it is the interior of the soul. To write the poem of the human conscience, were the subject only one man, and he the lowest of men, would be to resolve all epic poems into one supreme and final epic. Conscience is the chaos of chimeras, envies, and attempts, the furnace of dreams, the lurking-place of ideas we are ashamed of; it is the pandemonium of sophistry, the battlefield of the passions. At certain hours look through the livid face of a reflecting man, look into his soul, peer into the darkness. Beneath the external silence, combats of giants are going on there, such as we read of in Homer; melees of dragons and hydras and clouds of phantoms, such as we find in Milton; and visionary spirals, as in Dante. A sombre thing is the infinitude which every man bears within him, and by which he desperately measures the volitions of his brain and the actions of his life.  
-> **--_Victor Hugo, 1802-1885, Les Miserables_**
+### Psychology
+> "The world is continuous, but the mind is discrete."  
+> **--_David Mumford, ICM 2002 plenary talk, Aug. 21, 2002_**
 
-[Back to Top](#  )
+> Don't let us forget that the causes of human actions are usually immeasurably more complex and varied than our subsequent explanations of them.  
+> **--_Fyodor Dostoevsky, The Idiot_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Science
+> "The most beautiful experience is the mysterious. It is the source of true art and science."   "Everything should be made as simple as possible, but not simpler."   "Pure mathematics is, in its way, the poetry of logical ideas."   "Not everything that can be counted counts, and not everything that counts can be counted."   "Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater."   "I never think of the future--it comes soon enough."   "Imagination is more important than knowledge."   "It's not that I'm so smart. It's just that I spent more time on problems."  
+> **--_Albert Einstein, 1879-1955_**
+
+> "I have not failed. I've just found 10,000 ways that won't work."  
+> **--_Thomas Alva Edison, 1847-1931_**
+
+> "In theory, there is no difference between theory and practice. But, in practice, there is.  
+> **--_Jan L.A. van de Snepscheut_**
+
+> "One cannot understand... the universality of laws of nature, the relationship of things, without an understanding of mathematics. There is no other way to do it."  
+> **--_Richard P. Feynman_**
+
+> "When I am working on a problem I never think about beauty. I only think about how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong." "Everything you've learned in school as 'obvious' becomes less and less obvious as you begin to study the universe. For example, there are no solids in the universe. There's not even a suggestion of a solid. There are no absolute continuums. There are no surfaces. There are no straight lines."  
+> **--_Buckminster Fuller, 1895-1983_**
+
+> "Philosophy is written in this grand book--I mean the universe--which stands continually open to our gaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures, without which it is humanly impossible to understand a single word of it."  
+> **--_Galileo Galilei, Il Saggiatore, 1623_**
+
+> "Ubi materia, ibi geometria."   "Geometry is the archetype of the beauty of the world."  
+> **--_Johannes Kepler, 1571-1630_**
+
+> "Science is what we understand well enough to explain to a computer, Art is all the rest."  
+> **--_Donald E. Knuth, Foreword to A=B by Petkovsek, Wilf and Zeilberger_**
+
+> "Sometimes a good idea comes to you when you are not looking for it. Through an improbable combination of coincidence, naivete and lucky mistakes ..."  
+> **--_Kary Mullis, The Unusual Origin of the Polymerase Chain Reaction, Sci. Amer., April 1990, p. 445_**
+
+> "In mathematics you don't understand things. You just get used to them." "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."  
+> **--_John von Neumann, 1903-1957_**
+
+> "Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things." "I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."  
+> **--_Isaac Newton, 1643-1727_**
+
+> "Thought is only a flash between two long nights, but this flash is everything." "Science is facts; just as houses are made of stones, so is science made of facts; but a pile of stones is not a house and a collection of facts is not necessarily science.  
+> **--_Jules Henri Poincare, 1854-1912_**
+
+> "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."  
+> **--_Arthur Schopenhauer, 1788-1860_**
+
+> The first principle is that you must not fool yourself and you are the easiest person to fool.  
+> **--_Richard P. Feynman, 1918-1988_**
+
+> I learned very early the difference between knowing the name of something and knowing something.  
+> **--_Richard P. Feynman, 1918-1988_**
+
+> All possible knowledge, then, depends on the validity of reasoning. If the feeling of certainty which we express by words like must be and therefore and since is a real perception of how things outside our own minds really Ômust' be, well and good. But if this certainty is merely a feeling in our own minds and not a genuine insight into realities beyond them - if it merely represents the way our minds happen to work - then we can have no knowledge. Unless human reasoning is valid no science can be true. It follows that no account of the universe can be true unless that account leaves it possible for our thinking to be a real insight. A theory which explained everything else in the whole universe but which made it impossible to believe that our thinking was valid, would be utterly out of court. For that theory would itself have been reached by thinking, and if thinking is not valid that theory would, of course, be itself demolished. It would have destroyed its own credentials. It would be an argument which proved that no argument was sound - a proof that there are no such things as proofs - which is nonsense.  
+> **--_CS Lewis, "On the Incompatibility of Reason, Science, and Materialism"_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Suffering
+> What is hell? I maintain that it is the suffering of being unable to love.  
+> **--_Fyodor Dostoevsky, The Brothers Karamazov_**
+
+> The soul is healed by being with children.  
+> **--_Fyodor Dostoevsky_**
+
+> Man is sometimes extraordinarily, passionately, in love with suffering.  
+> **--_Fyodor Dostoevsky_**
+
+> There is no religion in which everyday life is not considered a prison; there is no philosophy or ideology that does not think that we live in alienation.  
+> **--_Eugene Ionesco_**
+
+> âAnd, indeed, this is the odd thing that is continually happening: there are continually turning up in life moral and rational persons, sages and lovers of humanity who make it their object to live all their lives as morally and rationally as possible, to be, so to speak, a light to their neighbours simply in order to show them that it is possible to live morally and rationally in this world. And yet we all know that those very people sooner or later have been false to themselves, playing some queer trick, often a most unseemly one.   Now I ask you: what can be expected of man since he is a being endowed with strange qualities? Shower upon him every earthly blessing, drown him in a sea of happiness, so that nothing but bubbles of bliss can be seen on the surface; give him economic prosperity, such that he should have nothing else to do but sleep, eat cakes and busy himself with the continuation of his species, and even then out of sheer ingratitude, sheer spite, man would play you some nasty trick. He would even risk his cakes and would deliberately desire the most fatal rubbish, the most uneconomical absurdity, simply to introduce into all this positive good sense his fatal fantastic element.   It is just his fantastic dreams, his vulgar folly that he will desire to retain, simply in order to prove to himself--as though that were so necessary-- that men still are men and not the keys of a piano, which the laws of nature threaten to control so completely that soon one will be able to desire nothing but by the calendar.   And that is not all: even if man really were nothing but a piano-key, even if this were proved to him by natural science and mathematics, even then he would not become reasonable, but would purposely do something perverse out of simple ingratitude, simply to gain his point. And if he does not find means he will contrive destruction and chaos, will contrive sufferings of all sorts, only to gain his point!â  
+> **--_Fyodor Dostoevsky, Notes from the Underground_**
+
+> "Oh! thank you," said Diamond. "I shall be sorry to leave you, North Wind, but I would rather not see the ship go down. And I'm afraid the poor people will cry, and I should hear them. Oh, dear!" "There are a good many passengers on board; and to tell the truth, Diamond, I don't care about your hearing the cry you speak of. I am afraid you would not get it out of your little head again for a long time." "But how can you bear it then, North Wind? For I am sure you are kind. I shall never doubt that again." "I will tell you how I am able to bear it, Diamond: I am always hearing, through every noise, through all the noise I am making myself even, the sound of a far-off song. I do not exactly know where it is, or what it means; and I don't hear much of it, only the odour of its music, as it were, flitting across the great billows of the ocean outside this air in which I make such a storm; but what I do hear is quite enough to make me able to bear the cry from the drowning ship. So it would you if you could hear it."  "No, it wouldn't," returned Diamond, stoutly. "For they wouldn't hear the music of the far-away song; and if they did, it wouldn't do them any good. You see you and I are not going to be drowned, and so we might enjoy it."  "But you have never heard the psalm, and you don't know what it is like. Somehow, I can't say how, it tells me that all is right; that it is coming to swallow up all cries."  "But that won't do them any good---the people, I mean," persisted Diamond.  "It must. It must," said North Wind, hurriedly. "It wouldn't be the song it seems to be if it did not swallow up all their fear and pain too, and set them singing it themselves with the rest. I am sure it will. And do you know, ever since I knew I had hair, that is, ever since it began to go out and away, that song has been coming nearer and nearer. Only I must say it was some thousand years before I heard it."  "But how can you say it was coming nearer when you did not hear it?" asked doubting little Diamond.  "Since I began to hear it, I know it is growing louder, therefore I judge it was coming nearer and nearer until I did hear it first. I'm not so very old, you know---a few thousand years only---and I was quite a baby when I heard the noise first, but I knew it must come from the voices of people ever so much older and wiser than I was. I can't sing at all, except now and then, and I can never tell what my song is going to be; I only know what it is after I have sung it."  
+> **--_George MacDonald, At the Back of the North Wind_**
+
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
@@ -735,20 +707,53 @@ blockquote strong em {
 > A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system  
 > **--_John Gall (1975) - Gall's law in  Systemantics: How Systems Really Work and How They Fail (p. 71)_**
 
-[Back to Top](#  )
+[Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
-### Longing
-> This every soul seeketh and for the sake of this doth all her actions, having an inkling that it is; but what it is she cannot sufficiently discern, and she knoweth not her way, and concerning this she hath no constant assurance as she hath of other things.  
-> **--_Plato, The Republic, Book VI_**
+### Teaching
+> "Spoon feeding, in the long run teaches us nothing but the shape of the spoon."  
+> **--_E. M. Forster_**
 
-> Whose souls, albeit in a cloudy memory, yet seek back their good, but, like drunk men, know not the road home.  
-> **--_Boethius_**
+> "One of the big misapprehensions about mathematics that we perpetrate in our classrooms is that the teacher always seems to know the answer to any problem that is discussed. This gives students the idea that there is a book somewhere with all the right answers to all of the interesting questions, and that teachers know those answers. And if one could get hold of the book, one would have everything settled. That's so unlike the true nature of mathematics."  
+> **--_Leon Henkin_**
 
-> Somewhat it seeketh, and what that is directly it knoweth not, yet very intentive desire thereof doth so incite it, that all other known delights and pleasures are laid aside, they give place to the search of this but only suspected desire. If the soul of man did serve only to give him being in this life, then things appertaining unto this life would content him, as we see they do other creatures; which creatures enjoying what they live by seek no further, but in this contentation do shew a kind of acknowledgment that there is no higher good which doth any way telling unto them. With us it is otherwise. For although the beauties, riches, honors, sciences, virtues, and perfection of all men living, were in the present possession of one; yet somewhat beyond and above all this there would still be sought and earnestly thirsted for. So that Nature even in the life doth plainly claim and call for a more divine perfection than either of these two that have been mentioned.  
-> **--_Hooker on Sehnsucht_**
+> "Education is the most powerful weapon which you can use to change the world."  
+> **--_Nelson Mandela_**
 
-[Back to Top](#  )
+> "We are usually convinced more easily by reasons we have found ourselves than by those which occured to others."  
+> **--_Blaise Pascal_**
+
+> "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." >"Grown-ups never understand anything for themselves, and it is tiresome for children to be always and forever explaining things to them."  
+> **--_Antoine de Saint-Exupery_**
+
+> "We've taught you that the earth is round, That red and white make pink, And something else that matters more -- We've taught you how to think."  
+> **--_Dr. Seuss, Hooray for Diffendoofer Day_**
+
+> âI don't know what's the matter with people: they don't learn by understanding, they learn by some other way â by rote or something. Their knowledge is so fragile!â  
+> **--_Richard Feynman, 1918-1988_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Technology
+> "For a list of all the ways technology has failed to improve the quality of life, please press three."  
+> **--_Alice Kahn_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+### Uncertainty
+> âI think it's much more interesting to live not knowing than to have answers which might be wrong. I have approximate answers and possible beliefs and different degrees of uncertainty about different things, but I am not absolutely sure of anything and there are many things I don't know anything about, such as whether it means anything to ask why we're here. I don't have to know an answer. I don't feel frightened not knowing things, by being lost in a mysterious universe without any purpose, which is the way it really is as far as I can tell.â     âI would rather have questions that can't be answered than answers that can't be questioned.â     âI think it's much more interesting to live not knowing than to have answers which might be wrong.â     âIf you thought that science was certain - well, that is just an error on your part.â  
+> **--_Richard P. Feynman, 1918-1988_**
+
+> I can live with doubt and uncertainty and not knowing. I think it is much more interesting to live not knowing than to have answers that might be wrong. If we will only allow that, as we progress, we remain unsure, we will leave opportunities for alternatives. We will not become enthusiastic for the fact, the knowledge, the absolute truth of the day, but remain always uncertain â¦ In order to make progress, one must leave the door to the unknown ajar.â  
+> **--_Richard P. Feynman, 1918-1988_**
+
+[Back to Top](# )
 
