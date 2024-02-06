@@ -49,4 +49,5 @@ Instructions for using [Snowflake]({{ site.baseurl }}/downloads/SnowflakeDataHub
 [Coma after cardiac arrest]({{site.baseurl}}/downloads/ICU-EEG-ComaCardiacArrest.docx)  
 [SAH]({{site.baseurl}}/downloads/ICU-EEG-SAH.docx)  
 [2HELPS2B: Recommended duration of EEG monitoring]({{site.baseurl}}/downloads/ICU-EEG-2helps2b-RecommendedDuration_of_EEG Monitoring.pdf)  
+[Triphasic Waves - TOAST]({{site.baseurl}}/downloads/Triphasic-TOAST.docx)  
 [Back to Top](#cdac-lab-resources)
