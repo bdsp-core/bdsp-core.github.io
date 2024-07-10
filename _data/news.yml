@@ -1,3 +1,24 @@
+- date: 09 July 2024
+  headline: "[AWS article](https://aws.amazon.com/blogs/publicsector/brain-data-science-platform-increases-eeg-accessibility-with-open-data-and-research-enabled-by-aws/) about [BDSP!](bdsp.io)"
+
+- date: 12 June 2024
+  headline: "Harsh's and Sahar's paper published in ACTN: [Sample Size Calculations for Neuro-ICU Clinical Trials: Yikes.](https://pubmed.ncbi.nlm.nih.gov/38867375/)"
+
+- date: 23 May 2024
+  headline: "NEJM AI paper on [Interpretable ML for critical care EEG patterns](Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal Injury Continuum Using Interpretable Machine Learning)"
+
+- date: 09 May 2024
+  headline: "James' paper published in JNCN: [GPDs in Catatonia](https://pubmed.ncbi.nlm.nih.gov/38720623/)"
+
+- date: 26 April 2024
+  headline: "Fabio's and JJ's [pilot RCT on teaching IED recognition to neurology residents](https://pubmed.ncbi.nlm.nih.gov/38669007/)"
+
+- date: 08 April 2024
+  headline: "[Kaggle IIIC Classification Competition winners!](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/leaderboard)"
+
+- date: 17 Feb 2024
+  headline: "Daniel's paper [Minimum clinical utility standards for wearable seizure detectors: A simulation study](https://pubmed.ncbi.nlm.nih.gov/38366862/) published in Epilepsia"
+
 - date: 02 February 2024
   headline: "Ruoqi and Wolfgang's [paper about Sleep~Cognition~MRI](https://pubmed.ncbi.nlm.nih.gov/37950486/) is out in SLEEP: [paper](/downloads/11a-2024-wolfgang-ruoqi-eeg-mri.pdf), [supplement](/downloads/11b-2024-wolfgang-ruoqi-eeg-mri-supp.docx), [editorial](/downloads/11c-2024-wolfgang-ruoqi-eeg-mri-editorial.pdf)."
 

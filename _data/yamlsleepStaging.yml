@@ -1,3 +1,23 @@
+- title: '"Self-Supervised Electroencephalogram Representation Learning for Automatic
+    Sleep Staging: Model Development and Evaluation Study."'
+  image: ''
+  description: ''
+  authors: Yang C, Xiao C, Westover MB, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38090533
+    display: 'JMIR AI 2023 Jan-Dec; 2 (1) doi: 10.2196/46769. Epub 2023 Jul 26. PMID:38090533
+      ; PMCID:PMC10715804 '
+  highlight: 0
+- title: '"ProductGraphSleepNet: Sleep staging using product spatio-temporal graph
+    learning with attentive temporal aggregation."'
+  image: ''
+  description: ''
+  authors: Einizade A, Nasiri S, Sardouie SH, Clifford GD.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37245479
+    display: 'Neural Netw 2023 Jul; 164 :667-680 doi: 10.1016/j.neunet.2023.05.016.
+      Epub 2023 May 13. PMID:37245479 '
+  highlight: 0
 - title: '"Exploiting labels from multiple experts in automated sleep scoring."'
   image: ''
   description: ''
