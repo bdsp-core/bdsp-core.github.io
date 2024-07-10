@@ -1,3 +1,87 @@
+- title: '"Prospective validation of a seizure diary forecasting falls short."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Eccleston C, Moss R, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38606580
+    display: 'Epilepsia 2024 Jun; 65 (6) :1730-1736 doi: 10.1111/epi.17984. Epub 2024
+      Apr 12. PMID:38606580 ; PMCID:PMC11166505 '
+  highlight: 0
+- title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
+    Injury Continuum Using Interpretable Machine Learning."'
+  image: ''
+  description: ''
+  authors: Barnett AJ, Guo Z, Jing J, Ge W, Kaplan PW, Kong WY, Karakis I, Herlopian
+    A, Jayagopal LA, Taraschenko O, Selioutski O, Osman G, Goldenholz D, Rudin C,
+    Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38872809
+    display: 'NEJM AI 2024 Jun; 1 (6) doi: 10.1056/aioa2300331. Epub 2024 May 23.
+      PMID:38872809 ; PMCID:PMC11175595 '
+  highlight: 0
+- title: '"How accurate do self-reported seizures need to be for effective medication
+    management in epilepsy?."'
+  image: ''
+  description: ''
+  authors: Goldenholz D, Brinkmann BH, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38776216
+    display: 'Epilepsia 2024 May 22; doi: 10.1111/epi.18019. [Epub ahead of print]
+      PMID:38776216 '
+  highlight: 0
+- title: '"Generalized Periodic Discharges Associated With Catatonia and Delirium:
+    A Case Series."'
+  image: ''
+  description: ''
+  authors: Luccarelli J, Smith JR, Fricchione G, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38720623
+    display: 'J Neuropsychiatry Clin Neurosci 2024 May 9; :appineuropsych20230174
+      doi: 10.1176/appi.neuropsych.20230174. [Epub ahead of print] PMID:38720623 '
+  highlight: 0
+- title: '"A randomized controlled educational pilot trial of interictal epileptiform
+    discharge identification for neurology residents."'
+  image: ''
+  description: ''
+  authors: Nascimento FA, Jing J, Traner C, Kong WY, Olandoski M, Kapur S, Duhaime
+    E, Strowd R, Moeller J, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38669007
+    display: 'Epileptic Disord 2024 Apr 26; doi: 10.1002/epd2.20229. [Epub ahead of
+      print] PMID:38669007 '
+  highlight: 0
+- title: '"Minimum clinical utility standards for wearable seizure detectors: A simulation
+    study."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Karoly PJ, Viana PF, Nurse E, Loddenkemper T, Schulze-Bonhage
+    A, Vieluf S, Bruno E, Nasseri M, Richardson MP, Brinkmann BH, Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38366862
+    display: 'Epilepsia 2024 Apr; 65 (4) :1017-1028 doi: 10.1111/epi.17917. Epub 2024
+      Feb 17. PMID:38366862 ; PMCID:PMC11018505 '
+  highlight: 0
+- title: '"Linking brain structure, cognition, and sleep: insights from clinical data."'
+  image: ''
+  description: ''
+  authors: Wei R, Ganglberger W, Sun H, Hadar PN, Gollub RL, Pieper S, Billot B, Au
+    R, Eugenio Iglesias J, Cash SS, Kim S, Shin C, Westover MB, Joseph Thomas R.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37950486
+    display: 'Sleep 2024 Feb 8; 47 (2) doi: 10.1093/sleep/zsad294. PMID:37950486 ;
+      PMCID:PMC10851868 '
+  highlight: 0
+- title: '"Assessing Risk of Health Outcomes From Brain Activity in Sleep: A Retrospective
+    Cohort Study."'
+  image: ''
+  description: ''
+  authors: Sun H, Adra N, Ayub MA, Ganglberger W, Ye E, Fernandes M, Paixao L, Fan
+    Z, Gupta A, Ghanta M, Moura Junior VF, Rosand J, Westover MB, Thomas RJ.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38173542
+    display: 'Neurol Clin Pract 2024 Feb; 14 (1) :e200225 doi: 10.1212/CPJ.0000000000200225.
+      Epub 2023 Dec 8. PMID:38173542 ; PMCID:PMC10759032 '
+  highlight: 0
 - title: '"Increased task-relevant fMRI responsiveness in comatose cardiac arrest
     patients is associated with improved neurologic outcomes."'
   image: ''
@@ -9,7 +93,17 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37728641
     display: 'J Cereb Blood Flow Metab 2024 Jan; 44 (1) :50-65 doi: 10.1177/0271678X231197392.
-      Epub 2023 Sep 20. PMID:37728641 '
+      Epub 2023 Sep 20. PMID:37728641 ; PMCID:PMC10905635 '
+  highlight: 0
+- title: '"Passive and active markers of cortical excitability in epilepsy."'
+  image: ''
+  description: ''
+  authors: Ramantani G, Westover MB, Gliske S, Sarnthein J, Sarma S, Wang Y, Baud
+    MO, Stacey WC, Conrad EC.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36897228
+    display: 'Epilepsia 2023 Dec; 64 Suppl 3 (Suppl 3) :S25-S36 doi: 10.1111/epi.17578.
+      Epub 2023 Mar 22. PMID:36897228 ; PMCID:PMC10512778 '
   highlight: 0
 - title: '"Brain health scores to predict neurological outcomes from electronic health
     records."'
@@ -20,7 +114,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37890202
     display: 'Int J Med Inform 2023 Dec; 180 :105270 doi: 10.1016/j.ijmedinf.2023.105270.
-      Epub 2023 Oct 24. PMID:37890202 '
+      Epub 2023 Oct 24. PMID:37890202 ; PMCID:PMC10842359 '
   highlight: 0
 - title: '"The International Cardiac Arrest Research Consortium Electroencephalography
     Database."'
@@ -32,7 +126,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37855659
     display: 'Crit Care Med 2023 Dec 1; 51 (12) :1802-1811 doi: 10.1097/CCM.0000000000006074.
-      Epub 2023 Oct 19. PMID:37855659 '
+      Epub 2023 Oct 19. PMID:37855659 ; PMCID:PMC10841086 '
   highlight: 0
 - title: '"Improving Neurology Clinical Care With Natural Language Processing Tools."'
   image: ''
@@ -41,7 +135,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37816638
     display: 'Neurology 2023 Nov 27; 101 (22) :1010-1018 doi: 10.1212/WNL.0000000000207853.
-      PMID:37816638 '
+      PMID:37816638 ; PMCID:PMC10727205 '
   highlight: 0
 - title: '"Identifying inpatient hospitalizations with continuous electroencephalogram
     monitoring from administrative data."'
@@ -53,16 +147,6 @@
     display: 'BMC Health Serv Res 2023 Nov 10; 23 (1) :1234 doi: 10.1186/s12913-023-10262-8.
       PMID:37950245 ; PMCID:PMC10636942 '
   highlight: 0
-- title: '"Linking brain structure, cognition, and sleep: insights from clinical data."'
-  image: ''
-  description: ''
-  authors: Wei R, Ganglberger W, Sun H, Hadar P, Gollub RL, Pieper S, Billot B, Au
-    R, Iglesias JE, Cash SS, Kim S, Shin C, Westover MB, Thomas RJ.
-  link:
-    url: https://pubmed.ncbi.nlm.nih.gov/37950486
-    display: 'Sleep 2023 Nov 9; doi: 10.1093/sleep/zsad294. [Epub ahead of print]
-      PMID:37950486 '
-  highlight: 0
 - title: '"Real-World Continuous EEG Utilization and Outcomes in Hospitalized Patients
     With Acute Cerebrovascular Diseases."'
   image: ''
@@ -72,7 +156,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37938032
     display: 'J Clin Neurophysiol 2023 Oct 30; doi: 10.1097/WNP.0000000000001043.
-      [Epub ahead of print] PMID:37938032 '
+      [Epub ahead of print] PMID:37938032 ; PMCID:PMC11058112 '
   highlight: 0
 - title: '"An examination of sleep spindle metrics in the Sleep Heart Health Study:
     superiority of automated spindle detection over total sigma power in assessing
@@ -191,6 +275,16 @@
     display: 'AIDS 2023 Aug 1; 37 (10) :1565-1571 doi: 10.1097/QAD.0000000000003595.
       Epub 2023 May 9. PMID:37195278 ; PMCID:PMC10355333 '
   highlight: 0
+- title: '"Self-Supervised Electroencephalogram Representation Learning for Automatic
+    Sleep Staging: Model Development and Evaluation Study."'
+  image: ''
+  description: ''
+  authors: Yang C, Xiao C, Westover MB, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38090533
+    display: 'JMIR AI 2023 Jan-Dec; 2 (1) doi: 10.2196/46769. Epub 2023 Jul 26. PMID:38090533
+      ; PMCID:PMC10715804 '
+  highlight: 0
 - title: '"Decoding information about cognitive health from the brainwaves of sleep."'
   image: ''
   description: ''
@@ -221,6 +315,16 @@
     url: https://pubmed.ncbi.nlm.nih.gov/35066530
     display: 'J Clin Neurophysiol 2023 Jul 1; 40 (5) :426-433 doi: 10.1097/WNP.0000000000000916.
       Epub 2022 Jan 20. PMID:35066530 ; PMCID:PMC9296700 '
+  highlight: 0
+- title: '"ProductGraphSleepNet: Sleep staging using product spatio-temporal graph
+    learning with attentive temporal aggregation."'
+  image: ''
+  description: ''
+  authors: Einizade A, Nasiri S, Sardouie SH, Clifford GD.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37245479
+    display: 'Neural Netw 2023 Jul; 164 :667-680 doi: 10.1016/j.neunet.2023.05.016.
+      Epub 2023 May 13. PMID:37245479 '
   highlight: 0
 - title: '"Sound and light levels in intensive care units in a large urban hospital
     in the United States."'
@@ -416,16 +520,6 @@
     url: https://pubmed.ncbi.nlm.nih.gov/36865787
     display: 'Expert Syst Appl 2023 Mar 15; 214 doi: 10.1016/j.eswa.2022.119171. Epub
       2022 Nov 6. PMID:36865787 ; PMCID:PMC9974159 '
-  highlight: 0
-- title: '"Passive and active markers of cortical excitability in epilepsy."'
-  image: ''
-  description: ''
-  authors: Ramantani G, Westover MB, Gliske S, Sarnthein J, Sarma S, Wang Y, Baud
-    MO, Stacey WC, Conrad EC.
-  link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36897228
-    display: 'Epilepsia 2023 Mar 10; doi: 10.1111/epi.17578. [Epub ahead of print]
-      PMID:36897228 ; PMCID:PMC10512778 '
   highlight: 0
 - title: '"Dementia detection from brain activity during sleep."'
   image: ''
