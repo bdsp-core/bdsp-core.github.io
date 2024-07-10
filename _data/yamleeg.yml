@@ -1,3 +1,15 @@
+- title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
+    Injury Continuum Using Interpretable Machine Learning."'
+  image: ''
+  description: ''
+  authors: Barnett AJ, Guo Z, Jing J, Ge W, Kaplan PW, Kong WY, Karakis I, Herlopian
+    A, Jayagopal LA, Taraschenko O, Selioutski O, Osman G, Goldenholz D, Rudin C,
+    Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38872809
+    display: 'NEJM AI 2024 Jun; 1 (6) doi: 10.1056/aioa2300331. Epub 2024 May 23.
+      PMID:38872809 ; PMCID:PMC11175595 '
+  highlight: 0
 - title: '"The International Cardiac Arrest Research Consortium Electroencephalography
     Database."'
   image: ''
@@ -8,7 +20,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37855659
     display: 'Crit Care Med 2023 Dec 1; 51 (12) :1802-1811 doi: 10.1097/CCM.0000000000006074.
-      Epub 2023 Oct 19. PMID:37855659 '
+      Epub 2023 Oct 19. PMID:37855659 ; PMCID:PMC10841086 '
   highlight: 0
 - title: '"Identifying inpatient hospitalizations with continuous electroencephalogram
     monitoring from administrative data."'
@@ -29,7 +41,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37938032
     display: 'J Clin Neurophysiol 2023 Oct 30; doi: 10.1097/WNP.0000000000001043.
-      [Epub ahead of print] PMID:37938032 '
+      [Epub ahead of print] PMID:37938032 ; PMCID:PMC11058112 '
   highlight: 0
 - title: '"Automated detection of immune effector cell-associated neurotoxicity syndrome
     via quantitative EEG."'
@@ -54,6 +66,16 @@
     url: https://pubmed.ncbi.nlm.nih.gov/37693458
     display: 'medRxiv 2023 Aug 28; doi: 10.1101/2023.08.28.23294672. PMID:37693458
       ; PMCID:PMC10491275 '
+  highlight: 0
+- title: '"Self-Supervised Electroencephalogram Representation Learning for Automatic
+    Sleep Staging: Model Development and Evaluation Study."'
+  image: ''
+  description: ''
+  authors: Yang C, Xiao C, Westover MB, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38090533
+    display: 'JMIR AI 2023 Jan-Dec; 2 (1) doi: 10.2196/46769. Epub 2023 Jul 26. PMID:38090533
+      ; PMCID:PMC10715804 '
   highlight: 0
 - title: '"A Real-Time Neurophysiologic Stress Test for the Aging Brain: Novel Perioperative
     and ICU Applications of EEG in Older Surgical Patients."'

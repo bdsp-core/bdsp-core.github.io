@@ -7,7 +7,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37890202
     display: 'Int J Med Inform 2023 Dec; 180 :105270 doi: 10.1016/j.ijmedinf.2023.105270.
-      Epub 2023 Oct 24. PMID:37890202 '
+      Epub 2023 Oct 24. PMID:37890202 ; PMCID:PMC10842359 '
   highlight: 0
 - title: '"Improving Neurology Clinical Care With Natural Language Processing Tools."'
   image: ''
@@ -16,7 +16,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37816638
     display: 'Neurology 2023 Nov 27; 101 (22) :1010-1018 doi: 10.1212/WNL.0000000000207853.
-      PMID:37816638 '
+      PMID:37816638 ; PMCID:PMC10727205 '
   highlight: 0
 - title: '"Identifying inpatient hospitalizations with continuous electroencephalogram
     monitoring from administrative data."'

@@ -1,3 +1,15 @@
+- title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
+    Injury Continuum Using Interpretable Machine Learning."'
+  image: ''
+  description: ''
+  authors: Barnett AJ, Guo Z, Jing J, Ge W, Kaplan PW, Kong WY, Karakis I, Herlopian
+    A, Jayagopal LA, Taraschenko O, Selioutski O, Osman G, Goldenholz D, Rudin C,
+    Westover MB.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38872809
+    display: 'NEJM AI 2024 Jun; 1 (6) doi: 10.1056/aioa2300331. Epub 2024 May 23.
+      PMID:38872809 ; PMCID:PMC11175595 '
+  highlight: 0
 - title: '"An examination of sleep spindle metrics in the Sleep Heart Health Study:
     superiority of automated spindle detection over total sigma power in assessing
     age-related spindle decline."'
@@ -21,6 +33,26 @@
     url: https://pubmed.ncbi.nlm.nih.gov/37545104
     display: 'Ann Clin Transl Neurol 2023 Oct; 10 (10) :1776-1789 doi: 10.1002/acn3.51866.
       Epub 2023 Aug 6. PMID:37545104 ; PMCID:PMC10578889 '
+  highlight: 0
+- title: '"Self-Supervised Electroencephalogram Representation Learning for Automatic
+    Sleep Staging: Model Development and Evaluation Study."'
+  image: ''
+  description: ''
+  authors: Yang C, Xiao C, Westover MB, Sun J.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38090533
+    display: 'JMIR AI 2023 Jan-Dec; 2 (1) doi: 10.2196/46769. Epub 2023 Jul 26. PMID:38090533
+      ; PMCID:PMC10715804 '
+  highlight: 0
+- title: '"ProductGraphSleepNet: Sleep staging using product spatio-temporal graph
+    learning with attentive temporal aggregation."'
+  image: ''
+  description: ''
+  authors: Einizade A, Nasiri S, Sardouie SH, Clifford GD.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37245479
+    display: 'Neural Netw 2023 Jul; 164 :667-680 doi: 10.1016/j.neunet.2023.05.016.
+      Epub 2023 May 13. PMID:37245479 '
   highlight: 0
 - title: '"Identification of patients with epilepsy using automated electronic health
     records phenotyping."'
