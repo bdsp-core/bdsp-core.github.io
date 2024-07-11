@@ -17,6 +17,7 @@ Office: BIDMC, 444 Kirstein, 330 Brookline Ave, Boston, MA 02215, USA
 [Bio | ](#bio)
 [CV | ]({{ site.baseurl }}/downloads/1-Westover_HMS_CV-2023-01-06.pdf)
 [Research funding | ](#research-funding)
+[Disclosures | ](#disclosures)
 [Quote collection | ](/quotes/)
 [Blog-A | ](/encrypted-blog-alek/)
 [Blog-AGT](/encrypted-blog-agt/)
@@ -49,3 +50,6 @@ _CDAC research is funded by the following grants_:
 _Short version_: 
 Dr. Westover's laboratory is supported by grants from the NIH (R01NS102190, R01NS102574, R01NS107291, RF1AG064312, RF1NS120947, R01AG073410, R01HL161253, R01NS126282, R01AG073598) and NSF (2014431).   
 [Back to Top](#  )
+
+### Disclosures
+Disclosures / COI statement: Dr. Westover is a co-founder and holds equity in [Beacon Biosignals](https://beacon.bio/), and receives royalties for authoring Pocket Neurology from Wolters Kluwer and Atlas of Intensive Care Quantitative EEG by Demos Medical. 
