@@ -19,7 +19,7 @@ Office: BIDMC, 444 Kirstein, 330 Brookline Ave, Boston, MA 02215, USA
 [Research funding | ](#research-funding)
 [Disclosures | ](#disclosures)
 [Quote collection | ](/quotes/)
-[Blog-A | ](/encrypted-blog-alek/)
+[Blog-Alek | ](/encrypted-blog-alek/)
 [Blog-AGT](/encrypted-blog-agt/)
 
 ### Affiliations
