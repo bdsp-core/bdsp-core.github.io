@@ -57,4 +57,4 @@ Dr. Westover's laboratory is supported by grants from the NIH (R01AG073410, R01H
 [Back to Top](#  )
 
 ### Disclosures
-Disclosures / COI statement: Dr. Westover is a co-founder and holds equity in [Beacon Biosignals](https://beacon.bio/), and receives royalties for authoring Pocket Neurology from Wolters Kluwer and Atlas of Intensive Care Quantitative EEG by Demos Medical. 
+Disclosures / COI statement: Dr. Westover is a co-founder, serves as a scientific advisor and consultant to, and has a personal equity interest in [Beacon Biosignals](https://beacon.bio/). Dr. Westover is a scientific advisor and consultant to Beacon Biosignals. If you have concerns about Dr. Westover's relationship with Beacon Biosignals, you can contact a Co-Chair of the BIDMC Conflict of Interest Committee, BIDMC Department of Integrity and Compliance, or the BIDMC Speak Up Hotline. Dr. Westover receives royalties for authoring Pocket Neurology from Wolters Kluwer and Atlas of Intensive Care Quantitative EEG by Demos Medical. 
