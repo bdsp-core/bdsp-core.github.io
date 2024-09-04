@@ -102,9 +102,9 @@
   education2: Harvard-MIT HST Program
 
 - name: Callison Alcott, MD, PhD
-  photo: Zade-Akras.jpeg
+  photo: callisonAlcott.jpeg
   info: Child Neurology Resident
-  email: callisonAlcott.jpeg
+  email: callison.alcott@childrens.harvard.edu
   number_educ: 2
   education1: Child Neurology Resident
   education2: Harvard Medical School
@@ -160,3 +160,73 @@
   number_educ: 1
   education1: Charité - Universitätsmedizin Berlin
 
+ 
+- name: Ayan Mitra, PhD
+  photo: Mitra_Ayan_CDAC.png
+  info: Clinical Research Manager
+  email: amitra1@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+  
+- name: Krissie Endhoven
+  photo: Endhoven_Krissie_CDAC.jpg
+  info: Research Student Intern
+  number_educ: 1
+  education1: University of Twente
+  
+- name: Beth A. Lopour, PhD
+  photo: Lopour_Beth_CDACjpg.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: University of California, Irvine
+  
+- name: Daniel W. Shrey, MD
+  photo: Shrey_Daniel_CDAC.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: Children’s Hospital of Orange County
+  
+- name: Ayush Tripathi
+  photo: Tripathi_Ayush_CDAC.jpg
+  info: Postdoctoral Research Fellow
+  email: atripat1@bidmc.harvard.edu 
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+  
+- name: Samuel Waters, PhD
+  photo: Waters_Sam_CDAC.JPG
+  info: Postdoctoral Research Fellow
+  email: swaters@bidmc.harvard.edu 
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+  
+- name: Chenxi Sun, PhD
+  photo: Sun_Chenxi_CDAC.jpeg
+  info: Postdoctoral Research Fellow
+  email: csun8@bidmc.harvard.edu 
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+  
+- name: Charlotte Macshke, PhD
+  photo: Maschke_Charlotte_CDAC.jpg
+  info: Postdoctoral Research Fellow
+  email: cmaschke@bidmc.harvard.edu 
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+  
+- name: Sven Huiting 
+  photo: Huiting_Sven_CDAC.jpeg
+  info: Research Student Intern
+  number_educ: 1
+  education1: University of Twente
+  
+- name: Jauke Reinders 
+  photo: Reinders_Jauke_CDAC.jpeg
+  info: Research Student Intern
+  number_educ: 1
+  education1: University of Twente
