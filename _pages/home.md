@@ -80,11 +80,11 @@ The Clinical Data Animation Center (CDAC) brings medical data to life. Our resea
   </a>
 </div>
 
-We develop mathematical models to clarify risk-benefit tradeoffs in medical decision-making, predict neurologic outcomes in critical care settings; and automate tasks in medicine previously performed only by clinical experts.
+We develop mathematical models to clarify risk-benefit tradeoffs in medical decision-making, predict neurologic outcomes in critical care settings, and automate tasks in medicine previously performed only by clinical experts.
 
 Our research emphasizes working with clinical data from large and heterogenous patient cohorts to ensure that our models work in the real world. We and our collaborators are creating a Brain Data Science Platform (BDSP), a massive cloud-based repository of clinical neurology data and code for conducting research. 
 
-Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and the McCance Center for Brain Health.
+Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and AWS.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="height: 50px">

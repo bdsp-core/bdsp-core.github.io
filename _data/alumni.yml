@@ -609,3 +609,36 @@
   info: Administrative Assistant
   number_educ: 1
   education1: In lab 2023
+
+- name: Yalda Amidi, PhD
+  photo: yalda.png
+  info: Postdoctoral fellow
+  email: yamidi@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+
+- name: Rebecca Milde
+  photo: rebeccaMilde.jpeg
+  info: Data Scientist
+  email: rmilde@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+
+- name: Arjun Singh, MD
+  photo: arjunSingh.jpg
+  info: Research Fellow
+  number_educ: 2
+  education1: Massachusetts General Hospital
+  education2: Harvard Medical School
+
+- name: <a href="https://www.massgeneral.org/neurology/mccance-center/about/valdery-moura-junior">Valdery Moura Junior, PhD, MBA</a>  
+  photo: juniorMoura.jpeg      
+  info: Director of Data Science Technology    
+  email: vmoura@mgh.harvard.edu
+  number_educ: 4
+  education1: Harvard Medical School 
+  education2: Massachusetts General Hospital
+  education3: Beth Israel Deaconess Medical Center 
+  education4: Brain Data Science Platform (BDSP)
