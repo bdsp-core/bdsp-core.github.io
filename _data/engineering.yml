@@ -1,13 +1,3 @@
-- name: <a href="https://www.massgeneral.org/neurology/mccance-center/about/valdery-moura-junior">Valdery Moura Junior, PhD, MBA</a>  
-  photo: juniorMoura.jpeg      
-  info: Director of Data Science Technology    
-  email: vmoura@mgh.harvard.edu
-  number_educ: 4
-  education1: Harvard Medical School 
-  education2: Massachusetts General Hospital
-  education3: Beth Israel Deaconess Medical Center 
-  education4: McCance Center for Brain Health
-
 - name: Manohar Ghanta, MSc  
   photo: manohar.jpeg      
   info: Software Engineer    
@@ -16,7 +6,7 @@
   education1: Harvard Medical School 
   education2: Massachusetts General Hospital
   education3: Beth Israel Deaconess Medical Center 
-  education4: McCance Center for Brain Health
+  education4: Brain Data Science Platform (BDSP)
 
 - name: Aditya Gupta, MSc   
   photo: aditya.jpeg       
@@ -26,4 +16,12 @@
   education1: Harvard Medical School 
   education2: Massachusetts General Hospital
   education3: Beth Israel Deaconess Medical Center 
-  education4: McCance Center for Brain Health
+  education4: Brain Data Science Platform (BDSP)
+
+- name: <a href="https://www.linkedin.com/in/bruce-nearing-13895b168/">Bruce Nearing, PhD</a>
+  photo: bruceNearing.jpeg
+  info: Assistant Professor of Medicine, Software Engineer
+  number_educ: 3
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+  education3: Brain Data Science Platform (BDSP)

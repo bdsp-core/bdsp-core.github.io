@@ -14,14 +14,6 @@
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
 
-- name: Yalda Amidi, PhD
-  photo: yalda.png
-  info: Postdoctoral fellow
-  email: yamidi@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-
 - name: Wan Yee Kong, MD, MSc
   photo: wanYeeKong.png
   info: Epilepsy fellow
@@ -78,14 +70,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Rebecca Milde
-  photo: rebeccaMilde.jpeg
-  info: Data Scientist
-  email: rmilde@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-
 - name: Moritz Alkofer
   photo: moritzAlkofer.jpeg
   info: Masters Student
@@ -115,13 +99,6 @@
   email: jli47@bidmc.harvard.edu
   number_educ: 2
   education1: Peking University, Institute of Health Data Science 
-  education2: Harvard Medical School
-
-- name: Arjun Singh, MD
-  photo: arjunSingh.jpg
-  info: Research Fellow
-  number_educ: 2
-  education1: Massachusetts General Hospital
   education2: Harvard Medical School
 
 - name: Dan Sumsion
@@ -174,18 +151,6 @@
   info: Research Student Intern
   number_educ: 1
   education1: University of Twente
-  
-- name: Beth A. Lopour, PhD
-  photo: Lopour_Beth_CDACjpg.jpg
-  info: Visiting scholar
-  number_educ: 1
-  education1: University of California, Irvine
-  
-- name: Daniel W. Shrey, MD
-  photo: Shrey_Daniel_CDAC.jpg
-  info: Visiting scholar
-  number_educ: 1
-  education1: Children’s Hospital of Orange County
   
 - name: Ayush Tripathi
   photo: Tripathi_Ayush_CDAC.jpg

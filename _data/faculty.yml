@@ -2,10 +2,9 @@
   photo: mbw_gretchenPic_2022_12_17.jpeg
   info: Emily Fisher Landau Professor of Neurology. PI.
   email: mwestove@bidmc.harvard.edu
-  number_educ: 3
+  number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  education3: McCance Center for Brain Health
 
 - name: <a href="https://www.researchgate.net/scientific-contributions/Robert-J-Thomas-10104712">Robert J. Thomas, MD<a/>
   photo: RobertThomas2.jpg
@@ -19,29 +18,32 @@
   photo: jin-jing.png
   info: Instructor in Neurology
   email: jjing@bidmc.harvard.edu
-  number_educ: 3
+  number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  education3: McCance Center for Brain Health
-
 
 - name: <a href="https://hockey86.github.io/">Haoqi Sun (孙毫棋), PhD</a>
   photo: haoqi.jpeg
-  info: Instructor in Neurology
+  info: Assistant Professor of Neurology
   email: hsun3@bidmc.harvard.edu
-  number_educ: 3
+  number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  education3: McCance Center for Brain Health
+
+- name: <a href="https://www.linkedin.com/in/bruce-nearing-13895b168/">Bruce Nearing, PhD</a>
+  photo: bruceNearing.jpeg
+  info: Assistant Professor of Medicine
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 
 - name: <a href="https://www.massgeneral.org/doctors/20086/sahar-zafar">Sahar Zafar, MD<a/>
   photo: sahar.jpeg
   info: Assistant Professor of Neurology
   email: hsun3@bidmc.harvard.edu
-  number_educ: 3
+  number_educ: 2
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
-  education3: McCance Center for Brain Health
 
 - name: <a href="https://alab.ucsf.edu/people/ed-amorim-md">Eddy Amorim, MD</a>
   photo: eddy.jpeg
@@ -65,15 +67,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
-- name: <a href="https://researchers.mgh.harvard.edu/profile/24913253/Samaneh-Nasiri">Samaneh Nasiri, PhD<a/>
-  photo: samaneh.jpeg
-  info: Instructor in Neurology
-  email: hsun3@bidmc.harvard.edu
-  number_educ: 3
-  education1: Harvard Medical School
-  education2: Massachusetts General Hospital
-  education3: McCance Center for Brain Health
 
 - name: Kendrick Shaw, MD, PhD
   photo: kendrick.jpeg
@@ -99,3 +92,16 @@
   education1: Barnes-Jewish Hospital
   education2: St. Louis Children's Hospital
   education3: Washington University School of Medicine
+
+- name: Beth A. Lopour, PhD
+  photo: Lopour_Beth_CDACjpg.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: University of California, Irvine
+  
+- name: Daniel W. Shrey, MD
+  photo: Shrey_Daniel_CDAC.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: Children’s Hospital of Orange County
+  
