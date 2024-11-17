@@ -152,7 +152,7 @@
   number_educ: 1
   education1: University of Twente
   
-- name: Ayush Tripathi
+- name: Ayush Tripathi, PhD
   photo: Tripathi_Ayush_CDAC.jpg
   info: Postdoctoral Research Fellow
   email: atripat1@bidmc.harvard.edu 
@@ -195,3 +195,21 @@
   info: Research Student Intern
   number_educ: 1
   education1: University of Twente
+
+- name: Shadi Sartipi, PhD
+  photo: shadi.jpeg
+  info: Postdoctoral Research Fellow
+  email: ssartipi@mgh.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+
+- name: Alexandra Tautan, PhD
+  photo: alexandraTautan.jpeg
+  info: Postdoctoral Research Fellow
+  email: atautan@mgh.harvard.edu
+  number_educ: 3
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+  education3: Beth Israel Deaconess Medical Center
+
