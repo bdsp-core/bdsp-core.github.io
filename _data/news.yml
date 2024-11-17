@@ -1,8 +1,17 @@
+- date: 13 Nov 2024
+  headline: "[New dataset: Sleep Electroencaphalography-Based Brain Age Index](https://bdsp.io/content/ss/0.99/)"
+
+- date: 7 Nov 2024
+  headline: "[ECG dataset update: Harvard Electroencephalography Database v 2.0](https://bdsp.io/content/harvard-eeg-db/2.0/)"
+
 - date: 31 Oct 2024
   headline: "[Marta and Sahar's paper on extracting mRS from notes is published in JAHA](https://www.ahajournals.org/doi/epub/10.1161/JAHA.124.036386)"
 
 - date: 25 Oct 2024
   headline: "[How to tell if GPDs are `ictal': Commentary from Marcus Ng et al](https://pubmed.ncbi.nlm.nih.gov/39422357/)"
+
+- date: 22 Oct 2024
+  headline: "[Dataset publication: Assessing Risk of Health Outcomes From Brain Activity in Sleep](https://bdsp.io/content/rhofbas/1.0/)"
 
 - date: 10 Sept 2024
   headline: "[Kayley's paper on EEG spectrogram patterns is out!](https://pubmed.ncbi.nlm.nih.gov/39360183/)"
