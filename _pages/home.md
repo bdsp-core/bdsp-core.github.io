@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Clinical Data Animation Center (CDAC) brings medical data to life. Our research aims to help people preserve and enhance brain health. CDAC maintains the [Brain Data Science Platform (BDSP)](https://bdsp.io/), and is affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/),  [Massachusetts General Hospital](https://www.massgeneral.org/), and [MIT](https://www.mit.edu/). Our research areas include sleep, dementia, epilepsy, delirium/encephalopathy, anoxic brain injury, status epilepticus, the ictal-interictal-injury continuum, subarachnoid hemorrhage, and critical illness neurophysiology.
+The Clinical Data Animation Center (CDAC), affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), [Massachusetts General Hospital](https://www.massgeneral.org/), and [MIT](https://www.mit.edu/), conducts research to preserve and enhance brain health. Our focus spans critical neurological conditions including sleep disorders, dementia, epilepsy, and acute brain injuries. CDAC manages the [Brain Data Science Platform (BDSP)](https://bdsp.io/), an NIH-Approved Data Repository advancing collaborative, open science in neurology research.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -82,9 +82,9 @@ The Clinical Data Animation Center (CDAC) brings medical data to life. Our resea
 
 We develop mathematical models to clarify risk-benefit tradeoffs in medical decision-making, predict neurologic outcomes in critical care settings, and automate tasks in medicine previously performed only by clinical experts.
 
-Our research emphasizes working with clinical data from large and heterogenous patient cohorts to ensure that our models work in the real world. We and our collaborators are creating a Brain Data Science Platform (BDSP), a massive cloud-based repository of clinical neurology data and code for conducting research. 
+Our research emphasizes working with clinical data from large and heterogenous patient cohorts to ensure that our models work in the real world. Through the [Brain Data Science Platform (BDSP)](https://bdsp.io/), we're building a comprehensive cloud-based repository of clinical neurology data and research code.
 
-Funding for the lab has been provided by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and AWS.
+CDAC's work is supported by the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and AWS.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="height: 50px">
