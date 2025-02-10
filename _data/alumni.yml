@@ -642,3 +642,63 @@
   education2: Massachusetts General Hospital
   education3: Beth Israel Deaconess Medical Center 
   education4: Brain Data Science Platform (BDSP)
+
+- name: Moritz Alkofer
+  photo: moritzAlkofer.jpeg
+  info: Masters Student
+  email: malkofer@bidmc.harvard.edu
+  number_educ: 2
+  education1: Technische Universität Berlin
+  education2: In lab 2023-2024
+
+
+- name: Samvrit (Sam) Rao
+  photo: samvritstem.jpeg
+  info: Highschool Student - NAX project
+  number_educ: 1
+  education1: In lab 2023-2024
+
+- name: Rajib Dey, MD
+  photo: rajib_cropped.jpeg
+  info: Postdoctoral research fellow
+  number_educ: 2
+  education1: Jalalabad Ragib Rabeya Medical College, Sylhet, Bangladesh
+  education2: In lab 2024-2025
+
+- name: Krissie Endhoven
+  photo: Endhoven_Krissie_CDAC.jpg
+  info: Research Student Intern
+  number_educ: 1
+  education1: In lab 2024
+
+- name: Sven Huiting 
+  photo: Huiting_Sven_CDAC.jpeg
+  info: Research Student Intern
+  number_educ: 1
+  education1: In lab 2024
+  
+- name: Jauke Reinders 
+  photo: jauke.png
+  info: Research Student Intern
+  number_educ: 1
+  education1: In lab 2024
+
+- name: Elija Davis
+  photo: elijahDavis.jpeg
+  info: Undergraduate - NAX project
+  number_educ: 1
+  education1: In lab 2023-2024
+
+- name: Erik-Jan Meulenbrugge, MSc
+  photo: erik-jan.jpeg
+  info: Bioinformaticist
+  email: wganglbe@bidmc.harvard.edu
+  number_educ: 1
+  education1: In lab 2021-2025
+
+- name: Thijs Nassi, MSc
+  photo: thijs.jpeg
+  info: PhD student
+  email: tnassi@bidmc.harvard.edu
+  number_educ: 1
+  education1: In lab 2021-2025
