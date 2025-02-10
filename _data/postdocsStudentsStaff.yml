@@ -30,22 +30,6 @@
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
 
-- name: Erik-Jan Meulenbrugge, MSc
-  photo: erik-jan.jpeg
-  info: Bioinformaticist
-  email: wganglbe@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-
-- name: Thijs Nassi, MSc
-  photo: thijs.jpeg
-  info: PhD student
-  email: tnassi@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-
 - name: Ryan Tesh, BSc
   photo: Ryan-Tesh.jpeg
   info: Research coordinator
@@ -69,13 +53,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
-- name: Moritz Alkofer
-  photo: moritzAlkofer.jpeg
-  info: Masters Student
-  email: malkofer@bidmc.harvard.edu
-  number_educ: 1
-  education1: Technische Universität Berlin
 
 - name: Zade Akras
   photo: Zade-Akras.jpeg
@@ -107,24 +84,6 @@
   number_educ: 1
   education1: Brigham Young University
 
-- name: Elija Davis
-  photo: elijahDavis.jpeg
-  info: Undergraduate - NAX project
-  number_educ: 1
-  education1: Brigham Young University
-  
-- name: Samvrit (Sam) Rao
-  photo: samvritstem.jpeg
-  info: Highschool Student - NAX project
-  number_educ: 1
-  education1: Harvard University
-
-- name: Rajib Dey, MD
-  photo: rajib_cropped.jpeg
-  info: Postdoctoral research fellow
-  number_educ: 1
-  education1: Jalalabad Ragib Rabeya Medical College, Sylhet, Bangladesh
-
 - name: Niels Turley
   photo: niels_resized.jpg
   info: Research coordinator
@@ -137,7 +96,6 @@
   number_educ: 1
   education1: Charité - Universitätsmedizin Berlin
 
- 
 - name: Ayan Mitra, PhD
   photo: Mitra_Ayan_CDAC.png
   info: Clinical Research Manager
@@ -145,12 +103,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  
-- name: Krissie Endhoven
-  photo: Endhoven_Krissie_CDAC.jpg
-  info: Research Student Intern
-  number_educ: 1
-  education1: University of Twente
   
 - name: Ayush Tripathi, PhD
   photo: Tripathi_Ayush_CDAC.jpg
@@ -183,18 +135,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  
-- name: Sven Huiting 
-  photo: Huiting_Sven_CDAC.jpeg
-  info: Research Student Intern
-  number_educ: 1
-  education1: University of Twente
-  
-- name: Jauke Reinders 
-  photo: jauke.png
-  info: Research Student Intern
-  number_educ: 1
-  education1: University of Twente
 
 - name: Shadi Sartipi, PhD
   photo: shadi.jpeg
@@ -212,4 +152,3 @@
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
   education3: Beth Israel Deaconess Medical Center
-

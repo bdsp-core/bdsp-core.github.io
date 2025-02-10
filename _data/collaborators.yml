@@ -113,3 +113,16 @@
   number_educ: 2
   education1: Departent of Biomedical Informatics
   education2: Emory University School of Medicine
+
+- name: <a href="https://lopour.eng.uci.edu/">Beth A. Lopour, PhD<a/>
+  photo: Lopour_Beth_CDACjpg.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: University of California, Irvine
+  education2: Biomedical Engineering
+  
+- name: <a href="https://choc.org/providers/neurology/daniel-shrey-md/">Daniel W. Shrey, MD<a/>
+  photo: Shrey_Daniel_CDAC.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: Children’s Hospital of Orange County
