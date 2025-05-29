@@ -2,7 +2,7 @@
 ---
 
 // Team member image styling for consistent display
-// This approach uses CSS to handle image sizing without modifying the original files
+// Uses #gridid selector which is the actual ID on the team page
 
 // Container for team member entries
 .team-member {
@@ -10,11 +10,11 @@
   min-height: 200px; // Ensure consistent height for layout
 }
 
-// Team member images
-#team .img-responsive {
+// Team member images - target all img tags within gridid
+#gridid img {
   // Fixed dimensions for consistent display
-  width: 150px;
-  height: 150px;
+  width: 150px !important;
+  height: 150px !important;
   object-fit: cover; // Maintains aspect ratio, crops if needed
   object-position: center top; // Focus on face area
   
@@ -36,42 +36,42 @@
   margin-bottom: 10px;
 }
 
+// Override default img styling from main.scss
+#gridid .col-sm-6 img {
+  margin: 0 20px 10px 0 !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+}
+
 // Lazy loading state
-#team .img-responsive[loading="lazy"] {
+#gridid img[loading="lazy"] {
   opacity: 0.8;
 }
 
 // Loaded state
-#team .img-responsive.loaded {
+#gridid img.loaded {
   opacity: 1;
 }
 
 // Responsive adjustments
 @media (max-width: 768px) {
-  #team .img-responsive {
-    width: 120px;
-    height: 120px;
+  #gridid img {
+    width: 120px !important;
+    height: 120px !important;
     margin-right: 15px;
   }
 }
 
 @media (max-width: 480px) {
-  #team .img-responsive {
-    width: 100px;
-    height: 100px;
+  #gridid img {
+    width: 100px !important;
+    height: 100px !important;
     margin-right: 10px;
   }
   
   .team-member {
     min-height: 150px;
   }
-}
-
-// Fix for images that are actually PNGs with wrong extension
-#team img[src$=".jpeg"]:not([src*="img-responsive"]),
-#team img[src$=".jpg"]:not([src*="img-responsive"]) {
-  // Apply same styling to ensure consistency
-  @extend .img-responsive;
 }
 
 // Clearfix for floating images

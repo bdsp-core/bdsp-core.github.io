@@ -1,7 +1,7 @@
 // Enhance team page image loading
 document.addEventListener('DOMContentLoaded', function() {
   // Get all team member images
-  const teamImages = document.querySelectorAll('#team .img-responsive');
+  const teamImages = document.querySelectorAll('#gridid img');
   
   // Add loaded class when images finish loading
   teamImages.forEach(function(img) {
