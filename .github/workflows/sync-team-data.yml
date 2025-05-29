@@ -61,6 +61,21 @@ jobs:
           echo "QUOTES_SPREADSHEET_ID not set, skipping quotes sync"
         fi
     
+    - name: Sync News from Google Sheets
+      env:
+        SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
+        NEWS_SPREADSHEET_ID: ${{ secrets.NEWS_SPREADSHEET_ID }}
+      run: |
+        # Update the news sync script with the spreadsheet ID
+        if [ -n "$NEWS_SPREADSHEET_ID" ]; then
+          sed -i "s/YOUR_NEWS_SPREADSHEET_ID_HERE/$NEWS_SPREADSHEET_ID/g" sync_news_from_sheets.py
+          
+          # Run the news sync script
+          python sync_news_from_sheets.py
+        else
+          echo "NEWS_SPREADSHEET_ID not set, skipping news sync"
+        fi
+    
     - name: Check for changes
       id: verify-changed-files
       run: |
