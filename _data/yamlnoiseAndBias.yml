@@ -1,3 +1,116 @@
+- title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
+    Injury Continuum Using Interpretable Machine Learning."'
+  image: ''
+  description: ''
+  authors: Barnett AJ, Guo Z, Jing J, Ge W, Kaplan PW, Kong WY, Karakis I, Herlopian
+    A, Jayagopal LA, Taraschenko O, Selioutski O, Osman G, Goldenholz D, Rudin C,
+    Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38872809
+    display: 'NEJM AI. 2024. 1(6). doi: 10.1056/aioa2300331. PMID: 38872809.'
+  highlight: 0
+- title: '"Inductive reasoning with large language models: a simulated randomized
+    controlled trial for epilepsy."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Goldenholz SR, Habib S, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38562831
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.03.18.24304493.
+      PMID: 38562831.'
+  highlight: 0
+- title: '"The sleep and wake electroencephalogram over the lifespan."'
+  image: ''
+  description: ''
+  authors: Sun H, Ye E, Paixao L, Ganglberger W, Chu CJ, Zhang C, Rosand J, Mignot
+    E, Cash SS, Gozal D, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36739622
+    display: 'Neurobiology of aging. 2023. 124. 60-70. doi: 10.1016/j.neurobiolaging.2023.01.006.
+      PMID: 36739622.'
+  highlight: 0
+- title: '"ATD: Augmenting CP Tensor Decomposition by Self Supervision."'
+  image: ''
+  description: ''
+  authors: Yang C, Qian C, Singh N, Xiao C, Westover MB, Solomonik E, Sun J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37994346
+    display: 'Advances in neural information processing systems. 2022. 35. 32039-32052.
+      PMID: 37994346.'
+  highlight: 0
+- title: '"Adaptive Sedation Monitoring From EEG in ICU Patients With Online Learning."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Sun H, Akeju O, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31545708
+    display: 'IEEE transactions on bio-medical engineering. 2020. 67(6). 1696-1706.
+      doi: 10.1109/TBME.2019.2943062. PMID: 31545708.'
+  highlight: 0
+- title: '"Estimating the False Positive Rate of Absent Somatosensory Evoked Potentials
+    in Cardiac Arrest Prognostication."'
+  image: ''
+  description: ''
+  authors: Amorim E, Ghassemi MM, Lee JW, Greer DM, Kaplan PW, Cole AJ, Cash SS, Bianchi
+    MT, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30247243
+    display: 'Critical care medicine. 2018. 46(12). e1213-e1221. doi: 10.1097/CCM.0000000000003436.
+      PMID: 30247243.'
+  highlight: 0
+- title: '"ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit."'
+  image: ''
+  description: ''
+  authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28210934
+    display: 'Journal of clinical monitoring and computing. 2018. 32(1). 53-61. doi:
+      10.1007/s10877-017-9999-9. PMID: 28210934.'
+  highlight: 0
+- title: '"Causal inference as an emerging statistical approach in neurology: an example
+    for epilepsy in the elderly."'
+  image: ''
+  description: ''
+  authors: Moura LM, Westover MB, Kwasnik D, Cole AJ, Hsu J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28115873
+    display: 'Clinical epidemiology. 2017. 9. 9-18. doi: 10.2147/CLEP.S121023. PMID:
+      28115873.'
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26738009
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7430-3. doi: 10.1109/EMBC.2015.7320109.
+      PMID: 26738009.'
+  highlight: 0
+- title: '"High risk for seizures following subarachnoid hemorrhage regardless of
+    referral bias."'
+  image: ''
+  description: ''
+  authors: O'Connor KL, Westover MB, Phillips MT, Iftimia NA, Buckley DA, Ogilvy CS,
+    Shafi MM, Rosenthal ES
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24723663
+    display: 'Neurocritical care. 2014. 21(3). 476-82. doi: 10.1007/s12028-014-9974-y.
+      PMID: 24723663.'
+  highlight: 0
+- title: '"Applications of a Capacitor-Based Respiratory Position Sensing Device:
+    Implications for Radiation Therapy."'
+  image: ''
+  description: ''
+  authors: Y W, Mb W, C S, G S, Mt B, Kd W
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31934681
+    display: 'Austin journal of medical oncology. 2014. 1(2). PMID: 31934681.'
+  highlight: 0
 - title: '"Interrater Reliability Estimation via Maximum Likelihood for Gwet''s Chance
     Agreement Model."'
   image: ''

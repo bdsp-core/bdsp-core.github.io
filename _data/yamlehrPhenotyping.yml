@@ -1,3 +1,122 @@
+- title: '"Identification of Patients With Congestive Heart Failure From the Electronic
+    Health Records of Two Hospitals: Retrospective Study."'
+  image: ''
+  description: ''
+  authors: Sumsion D, Davis E, Fernandes M, Wei R, Milde R, Veltink JM, Kong WY, Xiong
+    Y, Rao S, Westover T, Petersen L, Turley N, Singh A, Buss S, Mukerji S, Zafar
+    S, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Stone K, Mignot E, Hwang D, Trotti
+    LM, Clifford GD, Katwa U, Thomas R, Westover MB, Sun H
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40208662
+    display: 'JMIR medical informatics. 2025. 13. e64113. doi: 10.2196/64113. PMID:
+      40208662.'
+  highlight: 0
+- title: '"Automated extraction of post-stroke functional outcomes from unstructured
+    electronic health records."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Gallagher K, Turley N, Gupta A, Westover MB, Singhal AB, Zafar
+    SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39838914
+    display: 'European stroke journal. 2025. 23969873251314340. doi: 10.1177/23969873251314340.
+      PMID: 39838914.'
+  highlight: 0
+- title: '"Automated Extraction of Stroke Severity From Unstructured Electronic Health
+    Records Using Natural Language Processing."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Westover MB, Singhal AB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39450737
+    display: 'Journal of the American Heart Association. 2024. 13(21). e036386. doi:
+      10.1161/JAHA.124.036386. PMID: 39450737.'
+  highlight: 0
+- title: '"Automated Medical Records Review for Mild Cognitive Impairment and Dementia."'
+  image: ''
+  description: ''
+  authors: Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong WY, Xiong
+    Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior
+    VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM,
+    Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39315274
+    display: 'Research square. 2024. PMID: 39315274.'
+  highlight: 0
+- title: '"Morphological Prediction of CPAP Associated Acute Respiratory Instability."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Oppersma E, Labarca G, Donker DW, Westover MB, Thomas RJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39288402
+    display: 'Annals of the American Thoracic Society. 2024. 22(1). 138-49. doi: 10.1513/AnnalsATS.202311-979OC.
+      PMID: 39288402.'
+  highlight: 0
+- title: '"Extracting seizure control metrics from clinic notes of patients with epilepsy:
+    A natural language processing approach."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Cardall A, Moura LM, McGraw C, Zafar SF, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39276641
+    display: 'Epilepsy research. 2024. 207. 107451. doi: 10.1016/j.eplepsyres.2024.107451.
+      PMID: 39276641.'
+  highlight: 0
+- title: '"Automated Extraction of Stroke Severity from Unstructured Electronic Health
+    Records using Natural Language Processing."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Westover MB, Singhal AB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38559062
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.03.08.24304011.
+      PMID: 38559062.'
+  highlight: 0
+- title: '"Development and Evaluation of a Natural Language Processing Annotation
+    Tool to Facilitate Phenotyping of Cognitive Status in Electronic Health Records:
+    Diagnostic Study."'
+  image: ''
+  description: ''
+  authors: Noori A, Magdamo C, Liu X, Tyagi T, Li Z, Kondepudi A, Alabsi H, Rudmann
+    E, Wilcox D, Brenner L, Robbins GK, Moura L, Zafar S, Benson NM, Hsu J, R Dickson
+    J, Serrano-Pozo A, Hyman BT, Blacker D, Westover MB, Mukerji SS, Das S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36040790
+    display: 'Journal of medical Internet research. 2022. 24(8). e40384. doi: 10.2196/40384.
+      PMID: 36040790.'
+  highlight: 0
+- title: '"Development and Validation of a Model to Identify Critical Brain Injuries
+    Using Natural Language Processing of Text Computed Tomography Reports."'
+  image: ''
+  description: ''
+  authors: Torres-Lopez VM, Rovenolt GE, Olcese AJ, Garcia GE, Chacko SM, Robinson
+    A, Gaiser E, Acosta J, Herman AL, Kuohn LR, Leary M, Soto AL, Zhang Q, Fatima
+    S, Falcone GJ, Payabvash MS, Sharma R, Struck AF, Sheth KN, Westover MB, Kim JA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35972739
+    display: 'JAMA network open. 2022. 5(8). e2227109. doi: 10.1001/jamanetworkopen.2022.27109.
+      PMID: 35972739.'
+  highlight: 0
+- title: '"Real-Time, Automated Detection of Ventilator-Associated Events: Avoiding
+    Missed Detections, Misclassifications, and False Detections Due to Human Error."'
+  image: ''
+  description: ''
+  authors: Shenoy ES, Rosenthal ES, Shao YP, Biswal S, Ghanta M, Ryan EE, Suslak D,
+    Swanson N, Junior VM, Hooper DC, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29769151
+    display: 'Infection control and hospital epidemiology. 2018. 39(7). 826-833. doi:
+      10.1017/ice.2018.97. PMID: 29769151.'
+  highlight: 0
+- title: '"Big data in sleep medicine: prospects and pitfalls in phenotyping."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Russo K, Gabbidon H, Smith T, Goparaju B, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28243157
+    display: 'Nature and science of sleep. 2017. 9. 11-29. doi: 10.2147/NSS.S130141.
+      PMID: 28243157.'
+  highlight: 0
 - title: '"Automated phenotyping of mild cognitive impairment and Alzheimer''s disease
     and related dementias using electronic health records."'
   image: ''

@@ -1,3 +1,31 @@
+- title: '"Sleep staging from electrocardiography and respiration with deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
+    Tesh RA, Akeju O, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31863111
+    display: 'Sleep. 2020. 43(7). doi: 10.1093/sleep/zsz306. PMID: 31863111.'
+  highlight: 0
+- title: '"You Snooze, You Win: the PhysioNet/Computing in Cardiology Challenge 2018."'
+  image: ''
+  description: ''
+  authors: Ghassemi MM, Moody BE, Lehman LH, Song C, Li Q, Sun H, Mark RG, Westover
+    MB, Clifford GD
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34796237
+    display: 'Computing in cardiology. 2018. 45. doi: 10.22489/cinc.2018.049. PMID:
+      34796237.'
+  highlight: 0
+- title: '"Classification algorithms for predicting sleepiness and sleep apnea severity."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Mietus JE, Thomas RJ, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21752133
+    display: 'Journal of sleep research. 2012. 21(1). 101-12. doi: 10.1111/j.1365-2869.2011.00935.x.
+      PMID: 21752133.'
+  highlight: 0
 - title: '"The Harvard-Emory ECG Database."'
   image: ''
   description: ''
