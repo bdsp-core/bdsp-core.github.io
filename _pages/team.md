@@ -24,7 +24,7 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 {% endif %}
 
 <div class="col-sm-6 clearfix team-member">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="Team member photo" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -86,7 +86,7 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 {% endif %}
 
 <div class="col-sm-6 clearfix team-member">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="Team member photo" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -148,7 +148,7 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 {% endif %}
 
 <div class="col-sm-6 clearfix team-member">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="Team member photo" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -211,7 +211,7 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 {% endif %}
 
 <div class="col-sm-6 clearfix team-member">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="Team member photo" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -274,7 +274,7 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 {% endif %}
 
 <div class="col-sm-6 clearfix team-member">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="Team member photo" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
