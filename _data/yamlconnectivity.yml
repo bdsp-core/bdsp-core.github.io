@@ -1,3 +1,116 @@
+- title: '"Classification of autism spectrum disorder using electroencephalography
+    in Chinese children: a cross-sectional retrospective study."'
+  image: ''
+  description: ''
+  authors: Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, Westover MB, Xu H, Kong
+    XJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38332856
+    display: 'Frontiers in neuroscience. 2024. 18. 1330556. doi: 10.3389/fnins.2024.1330556.
+      PMID: 38332856.'
+  highlight: 0
+- title: '"Age estimation from sleep studies using deep learning predicts life expectancy."'
+  image: ''
+  description: ''
+  authors: Brink-Kjaer A, Leary EB, Sun H, Westover MB, Stone KL, Peppard PE, Lane
+    NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35869169
+    display: 'NPJ digital medicine. 2022. 5(1). 103. doi: 10.1038/s41746-022-00630-9.
+      PMID: 35869169.'
+  highlight: 0
+- title: '"Responsive neurostimulation for focal motor status epilepticus."'
+  image: ''
+  description: ''
+  authors: Yang JC, Harid NM, Nascimento FA, Kokkinos V, Shaughnessy A, Lam AD, Westover
+    MB, Leslie-Mazwi TM, Hochberg LR, Rosenthal ES, Cole AJ, Richardson RM, Cash SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33955717
+    display: 'Annals of clinical and translational neurology. 2021. 8(6). 1353-1361.
+      doi: 10.1002/acn3.51318. PMID: 33955717.'
+  highlight: 0
+- title: '"Persistent abnormalities in Rolandic thalamocortical white matter circuits
+    in childhood epilepsy with centrotemporal spikes."'
+  image: ''
+  description: ''
+  authors: Thorn EL, Ostrowski LM, Chinappen DM, Jing J, Westover MB, Stufflebeam
+    SM, Kramer MA, Chu CJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32944938
+    display: 'Epilepsia. 2020. 61(11). 2500-2508. doi: 10.1111/epi.16681. PMID: 32944938.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32268366
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Effects of Cholinergic Neuromodulation on Thalamocortical Rhythms During
+    NREM Sleep: A Model Study."'
+  image: ''
+  description: ''
+  authors: Li Q, Song JL, Li SH, Westover MB, Zhang R
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32038215
+    display: 'Frontiers in computational neuroscience. 2019. 13. 100. doi: 10.3389/fncom.2019.00100.
+      PMID: 32038215.'
+  highlight: 0
+- title: '"Automated tracking of level of consciousness and delirium in critical illness
+    using deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng
+    WL, Ge W, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31508499
+    display: 'NPJ digital medicine. 2019. 2. 89. doi: 10.1038/s41746-019-0167-0. PMID:
+      31508499.'
+  highlight: 0
+- title: '"An enhanced cerebral recovery index for coma prognostication following
+    cardiac arrest."'
+  image: ''
+  description: ''
+  authors: Ghassemi MM, Amorim E, Pati SB, Mark RG, Brown EN, Purdon PL, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26736317
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 534-7. doi: 10.1109/EMBC.2015.7318417.
+      PMID: 26736317.'
+  highlight: 0
+- title: '"Sparse extreme learning machine for classification."'
+  image: ''
+  description: ''
+  authors: Bai Z, Huang GB, Wang D, Wang H, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25222727
+    display: 'IEEE transactions on cybernetics. 2014. 44(10). 1858-70. doi: 10.1109/TCYB.2014.2298235.
+      PMID: 25222727.'
+  highlight: 0
+- title: '"Layer 4C in monkey V1 may linearize the output of the LGN."'
+  image: ''
+  description: ''
+  authors: Westover MB, Anderson CH
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32153320
+    display: 'Neurocomputing. 2003. 52-54. 671-676. doi: 10.1016/s0925-2312(02)00863-9.
+      PMID: 32153320.'
+  highlight: 0
+- title: '"The neural multiple access channel."'
+  image: ''
+  description: ''
+  authors: Fischer BJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32153319
+    display: 'Neurocomputing. 2003. 52-54. 511-518. doi: 10.1016/s0925-2312(02)00762-2.
+      PMID: 32153319.'
+  highlight: 0
 - title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
     channels."'
   image: ''

@@ -1,3 +1,24 @@
+- title: '"How many patients do you need? Investigating trial designs for anti-seizure
+    treatment in acute brain injury patients."'
+  image: ''
+  description: ''
+  authors: Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, Westover
+    MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38867375
+    display: 'Annals of clinical and translational neurology. 2024. 11(7). 1681-1690.
+      doi: 10.1002/acn3.52059. PMID: 38867375.'
+  highlight: 0
+- title: '"Unknown Title"'
+  image: ''
+  description: ''
+  authors: Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, Westover
+    MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37662339
+    display: 'medRxiv : the preprint server for health sciences. 2023. doi: 10.1101/2023.08.21.23294339.
+      PMID: 37662339.'
+  highlight: 0
 - title: '"Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid
     hemorrhage."'
   image: ''
@@ -125,35 +146,35 @@
     neurointensive care: Review and recommendations of the COSBID research group."'
   image: ''
   description: ''
-  authors: "Dreier JP, Fabricius M, Ayata C, Sakowitz OW, Shuttleworth CW, Dohmen\
-    \ C, Graf R, Vajkoczy P, Helbok R, Suzuki M, Schiefecker AJ, Major S, Winkler\
-    \ MK, Kang EJ, Milakara D, Oliveira-Ferreira AI, Reiffurth C, Revankar GS, Sugimoto\
-    \ K, Dengler NF, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg CK, Piilgaard\
-    \ H, Rosenthal ES, Westover MB, Maslarova A, Santos E, Hertle D, S\xE1nchez-Porras\
-    \ R, Jewell SL, Balan\xE7a B, Platz J, Hinzman JM, L\xFCckl J, Schoknecht K, Sch\xF6\
-    ll M, Drenckhahn C, Feuerstein D, Eriksen N, Horst V, Bretz JS, Jahnke P, Scheel\
-    \ M, Bohner G, Rostrup E, Pakkenberg B, Heinemann U, Claassen J, Carlson AP, Kowoll\
-    \ CM, Lublinsky S, Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov\
-    \ SA, Andrew RD, Farkas E, G\xFCresir E, Vatter H, Chung LS, Brennan KC, Lieutaud\
-    \ T, Marinesco S, Maas AI, Sahuquillo J, Dahlem MA, Richter F, Herreras O, Boutelle\
-    \ MG, Okonkwo DO, Bullock MR, Witte OW, Martus P, van den Maagdenberg AM, Ferrari\
-    \ MD, Dijkhuizen RM, Shutter LA, Andaluz N, Schulte AP, MacVicar B, Watanabe T,\
-    \ Woitzik J, Lauritzen M, Strong AJ, Hartings JA."
+  authors: Dreier JP, Fabricius M, Ayata C, Sakowitz OW, Shuttleworth CW, Dohmen C,
+    Graf R, Vajkoczy P, Helbok R, Suzuki M, Schiefecker AJ, Major S, Winkler MK, Kang
+    EJ, Milakara D, Oliveira-Ferreira AI, Reiffurth C, Revankar GS, Sugimoto K, Dengler
+    NF, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg CK, Piilgaard H, Rosenthal
+    ES, Westover MB, Maslarova A, Santos E, Hertle D, Sánchez-Porras R, Jewell SL,
+    Balança B, Platz J, Hinzman JM, Lückl J, Schoknecht K, Schöll M, Drenckhahn C,
+    Feuerstein D, Eriksen N, Horst V, Bretz JS, Jahnke P, Scheel M, Bohner G, Rostrup
+    E, Pakkenberg B, Heinemann U, Claassen J, Carlson AP, Kowoll CM, Lublinsky S,
+    Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov SA, Andrew RD, Farkas
+    E, Güresir E, Vatter H, Chung LS, Brennan KC, Lieutaud T, Marinesco S, Maas AI,
+    Sahuquillo J, Dahlem MA, Richter F, Herreras O, Boutelle MG, Okonkwo DO, Bullock
+    MR, Witte OW, Martus P, van den Maagdenberg AM, Ferrari MD, Dijkhuizen RM, Shutter
+    LA, Andaluz N, Schulte AP, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong
+    AJ, Hartings JA.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27317657
     display: 'J Cereb Blood Flow Metab 2017 May; 37 (5) :1595-1625 doi: 10.1177/0271678X16654496.
       Epub 2016 Jan 1. PMID:27317657 ; PMCID:PMC5435289 '
   highlight: 0
-- title: "\"The continuum of spreading depolarizations in acute cortical lesion development:\
-    \ Examining Le\xE3o's legacy.\""
+- title: '"The continuum of spreading depolarizations in acute cortical lesion development:
+    Examining Leão''s legacy."'
   image: ''
   description: ''
-  authors: "Hartings JA, Shuttleworth CW, Kirov SA, Ayata C, Hinzman JM, Foreman B,\
-    \ Andrew RD, Boutelle MG, Brennan KC, Carlson AP, Dahlem MA, Drenckhahn C, Dohmen\
-    \ C, Fabricius M, Farkas E, Feuerstein D, Graf R, Helbok R, Lauritzen M, Major\
-    \ S, Oliveira-Ferreira AI, Richter F, Rosenthal ES, Sakowitz OW, S\xE1nchez-Porras\
-    \ R, Santos E, Sch\xF6ll M, Strong AJ, Urbach A, Westover MB, Winkler MK, Witte\
-    \ OW, Woitzik J, Dreier JP."
+  authors: Hartings JA, Shuttleworth CW, Kirov SA, Ayata C, Hinzman JM, Foreman B,
+    Andrew RD, Boutelle MG, Brennan KC, Carlson AP, Dahlem MA, Drenckhahn C, Dohmen
+    C, Fabricius M, Farkas E, Feuerstein D, Graf R, Helbok R, Lauritzen M, Major S,
+    Oliveira-Ferreira AI, Richter F, Rosenthal ES, Sakowitz OW, Sánchez-Porras R,
+    Santos E, Schöll M, Strong AJ, Urbach A, Westover MB, Winkler MK, Witte OW, Woitzik
+    J, Dreier JP.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27328690
     display: 'J Cereb Blood Flow Metab 2017 May; 37 (5) :1571-1594 doi: 10.1177/0271678X16654495.
@@ -172,8 +193,8 @@
     Prospective EEG Monitoring and Reporting of Delayed Cerebral Ischemia."'
   image: ''
   description: ''
-  authors: "Muniz CF, Shenoy AV, O\u02BCConnor KL, Bechek SC, Boyle EJ, Guanci MM,\
-    \ Tehan TM, Zafar SF, Cole AJ, Patel AB, Westover MB, Rosenthal ES."
+  authors: Muniz CF, Shenoy AV, OʼConnor KL, Bechek SC, Boyle EJ, Guanci MM, Tehan
+    TM, Zafar SF, Cole AJ, Patel AB, Westover MB, Rosenthal ES.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27258445
     display: 'J Clin Neurophysiol 2016 Jun; 33 (3) :217-26 doi: 10.1097/WNP.0000000000000281.
@@ -193,8 +214,8 @@
     After Aneurysmal Subarachnoid Hemorrhage."'
   image: ''
   description: ''
-  authors: "Zafar SF, Westover MB, Gaspard N, Gilmore EJ, Foreman BP, O\u02BCConnor\
-    \ KL, Rosenthal ES."
+  authors: Zafar SF, Westover MB, Gaspard N, Gilmore EJ, Foreman BP, OʼConnor KL,
+    Rosenthal ES.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27258447
     display: 'J Clin Neurophysiol 2016 Jun; 33 (3) :235-40 doi: 10.1097/WNP.0000000000000276.
@@ -204,8 +225,8 @@
     Cerebral Ischemia: More Work to Do."'
   image: ''
   description: ''
-  authors: "Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, O\u02BC\
-    Connor K, Rosenthal ES, Westover MB."
+  authors: Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor
+    K, Rosenthal ES, Westover MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27258446
     display: 'J Clin Neurophysiol 2016 Jun; 33 (3) :227-34 doi: 10.1097/WNP.0000000000000278.
