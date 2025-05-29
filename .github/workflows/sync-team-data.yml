@@ -1,0 +1,51 @@
+name: Sync Team Data from Google Sheets
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  sync-team-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install google-auth google-auth-oauthlib google-auth-httplib2 
+        pip install google-api-python-client PyYAML
+    
+    - name: Sync from Google Sheets
+      env:
+        SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
+      run: |
+        # Create service account key file from secret
+        echo "$SERVICE_ACCOUNT_KEY" > service-account-key.json
+        
+        # Run the sync script
+        python sync_team_service_account.py
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        git diff --quiet _data/*.yml || echo "changed=true" >> $GITHUB_OUTPUT
+    
+    - name: Commit and push if changed
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add _data/*.yml
+        git commit -m "Update team data from Google Sheets"
+        git push
