@@ -2,8 +2,8 @@ name: Sync Data from Google Sheets and PubMed
 
 on:
   schedule:
-    # Run daily at 2 AM UTC
-    - cron: '0 2 * * *'
+    # Run daily at 2 AM Eastern Time (6 AM UTC during EDT, 7 AM UTC during EST)
+    - cron: '0 6 * * *'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
