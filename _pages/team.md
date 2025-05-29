@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-<!-- Updated: May 29, 2025 - Images standardized to 400x400 -->
+<!-- Updated: May 29, 2025 - CSS-based image standardization -->
 # Group Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
@@ -23,8 +23,8 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
+<div class="col-sm-6 clearfix team-member">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -85,8 +85,8 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
+<div class="col-sm-6 clearfix team-member">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -147,8 +147,8 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
+<div class="col-sm-6 clearfix team-member">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -210,8 +210,8 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
+<div class="col-sm-6 clearfix team-member">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -273,8 +273,8 @@ Jump to [Faculty](#faculty), [Engineering Team](#engineering), [Postdocs, Studen
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
+<div class="col-sm-6 clearfix team-member">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" loading="lazy" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">

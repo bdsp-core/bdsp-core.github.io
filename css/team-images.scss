@@ -1,0 +1,82 @@
+---
+---
+
+// Team member image styling for consistent display
+// This approach uses CSS to handle image sizing without modifying the original files
+
+// Container for team member entries
+.team-member {
+  margin-bottom: 30px;
+  min-height: 200px; // Ensure consistent height for layout
+}
+
+// Team member images
+#team .img-responsive {
+  // Fixed dimensions for consistent display
+  width: 150px;
+  height: 150px;
+  object-fit: cover; // Maintains aspect ratio, crops if needed
+  object-position: center top; // Focus on face area
+  
+  // Performance optimizations
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  
+  // Smooth loading
+  background-color: #f5f5f5;
+  transition: opacity 0.3s ease-in-out;
+  
+  // Border for consistency
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  
+  // Float and spacing
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+// Lazy loading state
+#team .img-responsive[loading="lazy"] {
+  opacity: 0.8;
+}
+
+// Loaded state
+#team .img-responsive.loaded {
+  opacity: 1;
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  #team .img-responsive {
+    width: 120px;
+    height: 120px;
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  #team .img-responsive {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+  }
+  
+  .team-member {
+    min-height: 150px;
+  }
+}
+
+// Fix for images that are actually PNGs with wrong extension
+#team img[src$=".jpeg"]:not([src*="img-responsive"]),
+#team img[src$=".jpg"]:not([src*="img-responsive"]) {
+  // Apply same styling to ensure consistency
+  @extend .img-responsive;
+}
+
+// Clearfix for floating images
+.team-member::after {
+  content: "";
+  display: table;
+  clear: both;
+}
