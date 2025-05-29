@@ -5,7 +5,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
-
 - name: Marta Priscila Bento Fernandes, PhD
   photo: marta.jpeg
   info: Postdoctoral research fellow
@@ -13,7 +12,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
-
 - name: Wan Yee Kong, MD, MSc
   photo: wanYeeKong.png
   info: Epilepsy fellow
@@ -21,7 +19,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
 - name: Wolfgang Ganglberger, MSc
   photo: wolfgang.jpeg
   info: PhD student
@@ -29,7 +26,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
 - name: Ryan Tesh, BSc
   photo: Ryan-Tesh.jpeg
   info: Research coordinator
@@ -37,7 +33,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
 - name: Kaileigh Gallagher, BSc
   photo: kaileigh.jpg
   info: Research coordinator
@@ -45,7 +40,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
 - name: Sakshi Chougule, MSc
   photo: sakshi.jpeg
   info: Project manager
@@ -53,7 +47,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
 - name: Zade Akras
   photo: Zade-Akras.jpeg
   info: Harvard HST Student
@@ -61,7 +54,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Harvard-MIT HST Program
-
 - name: Callison Alcott, MD, PhD
   photo: callisonAlcott.jpeg
   info: Child Neurology Resident
@@ -69,33 +61,28 @@
   number_educ: 2
   education1: Child Neurology Resident
   education2: Harvard Medical School
-
 - name: Jun Li
   photo: JunLi_photo.jpg
   info: Undergraduate studen in Computer Science
   email: jli47@bidmc.harvard.edu
   number_educ: 2
-  education1: Peking University, Institute of Health Data Science 
+  education1: Peking University, Institute of Health Data Science
   education2: Harvard Medical School
-
 - name: Dan Sumsion
   photo: danSumsion.jpeg
   info: Undergraduate - NAX project
   number_educ: 1
   education1: Brigham Young University
-
 - name: Niels Turley
   photo: niels_resized.jpg
   info: Research coordinator
   number_educ: 1
   education1: Brigham Young University
-
 - name: Laura Krumm
   photo: LauraKrumm.jpg
   info: Visiting scholar
   number_educ: 1
-  education1: Charité - Universitätsmedizin Berlin
-
+  education1: Charit√© - Universit√§tsmedizin Berlin
 - name: Ayan Mitra, PhD
   photo: Mitra_Ayan_CDAC.png
   info: Clinical Research Manager
@@ -103,39 +90,34 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  
 - name: Ayush Tripathi, PhD
   photo: Tripathi_Ayush_CDAC.jpg
   info: Postdoctoral Research Fellow
-  email: atripat1@bidmc.harvard.edu 
+  email: atripat1@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  
 - name: Samuel Waters, PhD
   photo: Waters_Sam_CDAC.JPG
   info: Postdoctoral Research Fellow
-  email: swaters@bidmc.harvard.edu 
+  email: swaters@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  
 - name: Chenxi Sun, PhD
   photo: Sun_Chenxi_CDAC.jpeg
   info: Postdoctoral Research Fellow
-  email: csun8@bidmc.harvard.edu 
+  email: csun8@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-  
 - name: Charlotte Macshke, PhD
   photo: Maschke_Charlotte_CDAC.jpg
   info: Postdoctoral Research Fellow
-  email: cmaschke@bidmc.harvard.edu 
+  email: cmaschke@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
 - name: Shadi Sartipi, PhD
   photo: shadi.jpeg
   info: Postdoctoral Research Fellow
@@ -143,7 +125,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-
 - name: Alexandra Tautan, PhD
   photo: alexandraTautan.jpeg
   info: Postdoctoral Research Fellow
