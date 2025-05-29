@@ -1,3 +1,24 @@
+- title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
+    channels."'
+  image: ''
+  description: ''
+  authors: Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand
+    MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E,
+    Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
+    D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40317534
+    display: 'Epilepsia. 2025. doi: 10.1111/epi.18431. PMID: 40317534.'
+  highlight: 0
+- title: '"Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth."'
+  image: ''
+  description: ''
+  authors: Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40276961
+    display: 'Journal of sleep research. 2025. e70074. doi: 10.1111/jsr.70074. PMID:
+      40276961.'
+  highlight: 0
 - title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
     Injury Continuum Using Interpretable Machine Learning."'
   image: ''
@@ -164,8 +185,8 @@
     experts."'
   image: ''
   description: ''
-  authors: "Kural MA, Jing J, F\xFCrbass F, Perko H, Qerama E, Johnsen B, Fuchs S,\
-    \ Westover MB, Beniczky S."
+  authors: Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, Westover
+    MB, Beniczky S.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/35184276
     display: 'Epilepsia 2022 May; 63 (5) :1064-1073 doi: 10.1111/epi.17206. Epub 2022

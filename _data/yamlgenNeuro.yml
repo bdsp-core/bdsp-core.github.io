@@ -1,3 +1,11 @@
+- title: '"General AI May Revolutionize Neurology-Or It Might Be Bad."'
+  image: ''
+  description: ''
+  authors: Westover MB, Westover AM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40323622
+    display: 'JAMA neurology. 2025. doi: 10.1001/jamaneurol.2025.0905. PMID: 40323622.'
+  highlight: 0
 - title: '"Estimating Total Cerebral Microinfarct Burden From Diffusion-Weighted Imaging."'
   image: ''
   description: ''
@@ -13,7 +21,7 @@
     literature on shunt-related movement disorders."'
   image: ''
   description: ''
-  authors: "de Gusm\xE4o CM, Berkowitz AL, Hung AY, Westover MB."
+  authors: de Gusmäo CM, Berkowitz AL, Hung AY, Westover MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/24997172
     display: 'Pract Neurol 2015 Feb; 15 (1) :42-4 doi: 10.1136/practneurol-2014-000913.

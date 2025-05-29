@@ -1,4 +1,4 @@
-name: Sync Data from Google Sheets
+name: Sync Data from Google Sheets and PubMed
 
 on:
   schedule:
@@ -76,6 +76,11 @@ jobs:
           echo "NEWS_SPREADSHEET_ID not set, skipping news sync"
         fi
     
+    - name: Sync Publications from PubMed
+      run: |
+        # Run the PubMed scraping script
+        python scrape_pubmed_auto.py
+    
     - name: Check for changes
       id: verify-changed-files
       run: |
@@ -87,5 +92,5 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
         git add _data/*.yml _pages/quotes.md
-        git commit -m "Update data from Google Sheets"
+        git commit -m "Update data from Google Sheets and PubMed"
         git push

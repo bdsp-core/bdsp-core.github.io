@@ -1,3 +1,12 @@
+- title: '"Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth."'
+  image: ''
+  description: ''
+  authors: Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40276961
+    display: 'Journal of sleep research. 2025. e70074. doi: 10.1111/jsr.70074. PMID:
+      40276961.'
+  highlight: 0
 - title: '"Brain health scores to predict neurological outcomes from electronic health
     records."'
   image: ''
@@ -54,9 +63,9 @@
 - title: '"Optimal spindle detection parameters for predicting cognitive performance."'
   image: ''
   description: ''
-  authors: "Adra N, Sun H, Ganglberger W, Ye EM, D\xFCmmer LW, Tesh RA, Westmeijer\
-    \ M, Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas\
-    \ RJ, Westover MB."
+  authors: Adra N, Sun H, Ganglberger W, Ye EM, Dümmer LW, Tesh RA, Westmeijer M,
+    Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas RJ, Westover
+    MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/34984446
     display: 'Sleep 2022 Apr 11; 45 (4) doi: 10.1093/sleep/zsac001. PMID:34984446

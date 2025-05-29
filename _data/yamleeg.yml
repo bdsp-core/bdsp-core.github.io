@@ -1,3 +1,35 @@
+- title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
+    channels."'
+  image: ''
+  description: ''
+  authors: Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand
+    MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E,
+    Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
+    D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40317534
+    display: 'Epilepsia. 2025. doi: 10.1111/epi.18431. PMID: 40317534.'
+  highlight: 0
+- title: '"Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth."'
+  image: ''
+  description: ''
+  authors: Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40276961
+    display: 'Journal of sleep research. 2025. e70074. doi: 10.1111/jsr.70074. PMID:
+      40276961.'
+  highlight: 0
+- title: '"Association of Time to Continuous EEG Initiation With Outcomes in Critically
+    Ill Patients."'
+  image: ''
+  description: ''
+  authors: Haider MA, Khalil MH, Fernandes MB, Westover MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40237584
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2025. doi: 10.1097/WNP.0000000000001161. PMID:
+      40237584.'
+  highlight: 0
 - title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
     Injury Continuum Using Interpretable Machine Learning."'
   image: ''
@@ -101,8 +133,8 @@
     A prospective cohort study."'
   image: ''
   description: ''
-  authors: "Boncompte G, Sun H, Elgueta MF, Benavides J, Carrasco M, Morales MI, Calder\xF3\
-    n N, Contreras V, Westover MB, Cort\xEDnez LI, Akeju O, Pedemonte JC."
+  authors: Boncompte G, Sun H, Elgueta MF, Benavides J, Carrasco M, Morales MI, Calderón
+    N, Contreras V, Westover MB, Cortínez LI, Akeju O, Pedemonte JC.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/36738630
     display: 'J Clin Anesth 2023 Jun; 86 :111069 doi: 10.1016/j.jclinane.2023.111069.
@@ -309,8 +341,8 @@
     experts."'
   image: ''
   description: ''
-  authors: "Kural MA, Jing J, F\xFCrbass F, Perko H, Qerama E, Johnsen B, Fuchs S,\
-    \ Westover MB, Beniczky S."
+  authors: Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, Westover
+    MB, Beniczky S.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/35184276
     display: 'Epilepsia 2022 May; 63 (5) :1064-1073 doi: 10.1111/epi.17206. Epub 2022
@@ -876,8 +908,8 @@
 - title: '"Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns."'
   image: ''
   description: ''
-  authors: "Jing J, d\u2019Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim\
-    \ S, Dauwels J, Westover MB."
+  authors: Jing J, d’Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim S,
+    Dauwels J, Westover MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/30441116
     display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :3394-3397 doi: 10.1109/EMBC.2018.8513059.
@@ -974,8 +1006,8 @@
     Prospective EEG Monitoring and Reporting of Delayed Cerebral Ischemia."'
   image: ''
   description: ''
-  authors: "Muniz CF, Shenoy AV, O\u02BCConnor KL, Bechek SC, Boyle EJ, Guanci MM,\
-    \ Tehan TM, Zafar SF, Cole AJ, Patel AB, Westover MB, Rosenthal ES."
+  authors: Muniz CF, Shenoy AV, OʼConnor KL, Bechek SC, Boyle EJ, Guanci MM, Tehan
+    TM, Zafar SF, Cole AJ, Patel AB, Westover MB, Rosenthal ES.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27258445
     display: 'J Clin Neurophysiol 2016 Jun; 33 (3) :217-26 doi: 10.1097/WNP.0000000000000281.
@@ -995,8 +1027,8 @@
     Cerebral Ischemia: More Work to Do."'
   image: ''
   description: ''
-  authors: "Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, O\u02BC\
-    Connor K, Rosenthal ES, Westover MB."
+  authors: Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor
+    K, Rosenthal ES, Westover MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/27258446
     display: 'J Clin Neurophysiol 2016 Jun; 33 (3) :227-34 doi: 10.1097/WNP.0000000000000278.
