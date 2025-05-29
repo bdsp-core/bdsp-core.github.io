@@ -41,13 +41,13 @@ blockquote strong em {
 > **--_Cicero, 106-43 BC_**
 
 > Death is there as irrefutable proof of the absurdity of life.  
-> **--_Andr√© Malraux, 1901-1976_**
+> **--_Andre Malraux, 1901-1976_**
 
 > At any street corner the feeling of absurdity can strike any man in the face. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.  
 > **--_Albert Camus, 1913-1960_**
 
 > Take away paradox from the thinker and you have a professor.  
-> **--_S√∏ren Kierkegaard, 1813-1855_**
+> **--_Søren Kierkegaard, 1813-1855_**
 
 > To me, absurdity is the only reality.  
 > **--_Frank Zappa, 1940-1993_**
@@ -295,6 +295,9 @@ blockquote strong em {
 > No; I‚Äôm not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.  
 > **--_North Wind, speaking to Little Diamond in "At the Back of the North Wind" by George MacDonald_**
 
+> "You mustn’t think that even now Edmund was quite so bad that he actually wanted his brother and sisters to be turned into stone. He did want Turkish Delight and to be a Prince (and later a King) and to pay Peter out for calling him a beast. As for what the Witch would do with the others, he didn’t want her to be particularly nice to them—certainly not to put them on the same level as himself; but he managed to believe, or to pretend he believed, that she wouldn’t do anything very bad to them, “Because,” he said to himself, “all these people who say nasty things about her are her enemies and probably half of it isn’t true. She was jolly nice to me, anyway, much nicer than they are. I expect she is the rightful Queen really. Anyway, she’ll be better than that awful Aslan!” At least, that was the excuse he made in his own mind for what he was doing. It wasn’t a very good excuse, however, for deep down inside him he really knew that the White Witch was bad and cruel."  
+> **--_C.S. Lewis, "The Lion, the Witch and the Wardrobe", 1950_**
+
 [Back to Top](# )
 
 
@@ -339,6 +342,9 @@ blockquote strong em {
 
 > Somewhat it seeketh, and what that is directly it knoweth not, yet very intentive desire thereof doth so incite it, that all other known delights and pleasures are laid aside, they give place to the search of this but only suspected desire. If the soul of man did serve only to give him being in this life, then things appertaining unto this life would content him, as we see they do other creatures; which creatures enjoying what they live by seek no further, but in this contentation do shew a kind of acknowledgment that there is no higher good which doth any way telling unto them. With us it is otherwise. For although the beauties, riches, honors, sciences, virtues, and perfection of all men living, were in the present possession of one; yet somewhat beyond and above all this there would still be sought and earnestly thirsted for. So that Nature even in the life doth plainly claim and call for a more divine perfection than either of these two that have been mentioned.  
 > **--_Hooker on Sehnsucht_**
+
+> "None of the children knew who Aslan was any more than you do; but the moment the Beaver had spoken these words everyone felt quite different. Perhaps it has sometimes happened to you in a dream that someone says something which you don't understand but in the dream it feels as if it had some enormous meaning--either a terrifying one which turns the whole dream into a nightmare or else a lovely meaning too lovely to put into words, which makes the dream so beautiful that you remember it all your life and are always wishing you could get into that dream again. It was like that now. At the name of Aslan each one of the children felt something jump in it's inside. Edmund felt a sensation of mysterious horror. Peter felt suddenly brave and adventurous. Susan felt as if some delicious smell or some delightful strain of music had just floated by her. And Lucy got the feeling you have when you wake up in the morning and realize that it is the beginning of the holidays or the beginning of Summer."  
+> **--_― C.S. Lewis, The Lion, the Witch and the Wardrobe_**
 
 [Back to Top](# )
 
@@ -733,8 +739,8 @@ blockquote strong em {
 > I can live with doubt and uncertainty and not knowing. I think it is much more interesting to live not knowing than to have answers that might be wrong. If we will only allow that, as we progress, we remain unsure, we will leave opportunities for alternatives. We will not become enthusiastic for the fact, the knowledge, the absolute truth of the day, but remain always uncertain...In order to make progress, one must leave the door to the unknown ajar.  
 > **--_Richard P. Feynman, 1918-1988_**
 
-> testing  
-> **--_the Tester, 2025_**
+> "The notion that there must exist final objective answers to normative questions, truths that can be demonstrated or directly intuited, that it is in principle possible to discover a harmonious pattern in which all values are reconciled, and that it is towards this unique goal that we must make; that we can uncover some single central principle that shapes this vision, a principle which, once found, will govern our lives – this ancient and almost universal belief, on which so much traditional thought and action and philosophical doctrine rests, seems to me invalid, and at times to have led (and still to lead) to absurdities in theory and barbarous consequences in practice."  
+> **--_Isaiah Berlin, "Four Essays on Liberty", 1969_**
 
 [Back to Top](# )
 
