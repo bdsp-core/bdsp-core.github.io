@@ -1,4 +1,4 @@
-# Google Sheets Team Sync Setup Guide
+# Google Sheets Data Sync Setup Guide
 
 ## Using Service Account (Recommended)
 
@@ -29,14 +29,24 @@
 5. Click **Send**
 
 ### Step 5: Run the Sync
+
+For team data:
 ```bash
 cd "/Users/bwestove/cdac Dropbox/brandon westover/0_GithubRepos/bdsp-core.github.io"
 source venv/bin/activate
 python sync_team_service_account.py
 ```
 
-## Google Sheet Format
-Your sheet should have these columns:
+For quotes:
+```bash
+# First, update the SPREADSHEET_ID in sync_quotes_from_sheets.py
+python sync_quotes_from_sheets.py
+```
+
+## Google Sheet Formats
+
+### Team Sheet Format
+Your team sheet should have these columns:
 - Name
 - Link (optional URL)
 - Photo (filename)
@@ -48,5 +58,23 @@ Your sheet should have these columns:
 - Education4
 - Category (must be one of: Faculty, Alumni, Postdocs/Students/Staff, Collaborators)
 
+### Quotes Sheet Format
+Your quotes sheet should have these columns:
+- Section (e.g., "Absurdity", "Academics", "Science", etc.)
+- Quote (the actual quote text)
+- Attribution (author name and any additional info)
+
 ## Automation with GitHub Actions
-Once the manual sync works, the GitHub Action will use the same service account to sync automatically.
+
+The GitHub Action will sync both team data and quotes automatically. You need to set these secrets in your repository:
+
+1. **SERVICE_ACCOUNT_KEY**: The contents of your service-account-key.json file
+2. **TEAM_SPREADSHEET_ID**: The ID of your team Google Sheet (optional, uses hardcoded ID if not set)
+3. **QUOTES_SPREADSHEET_ID**: The ID of your quotes Google Sheet (optional, skips quotes sync if not set)
+
+To set secrets:
+1. Go to your repository Settings → Secrets and variables → Actions
+2. Click "New repository secret"
+3. Add each secret with the appropriate value
+
+The workflow runs daily at 2 AM UTC or can be manually triggered from the Actions tab.
