@@ -49,17 +49,9 @@ jobs:
     - name: Sync Quotes from Google Sheets
       env:
         SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
-        QUOTES_SPREADSHEET_ID: ${{ secrets.QUOTES_SPREADSHEET_ID }}
       run: |
-        # Update the quotes sync script with the spreadsheet ID
-        if [ -n "$QUOTES_SPREADSHEET_ID" ]; then
-          sed -i "s/YOUR_QUOTES_SPREADSHEET_ID_HERE/$QUOTES_SPREADSHEET_ID/g" sync_quotes_from_sheets.py
-          
-          # Run the quotes sync script
-          python sync_quotes_from_sheets.py
-        else
-          echo "QUOTES_SPREADSHEET_ID not set, skipping quotes sync"
-        fi
+        # Run the quotes sync script (uses hardcoded spreadsheet ID)
+        python sync_quotes_from_sheets.py
     
     - name: Sync News from Google Sheets
       env:
@@ -68,10 +60,14 @@ jobs:
       run: |
         # Update the news sync script with the spreadsheet ID
         if [ -n "$NEWS_SPREADSHEET_ID" ]; then
-          sed -i "s/YOUR_NEWS_SPREADSHEET_ID_HERE/$NEWS_SPREADSHEET_ID/g" sync_news_from_sheets.py
+          # Create a temporary copy with the spreadsheet ID
+          sed "s/YOUR_NEWS_SPREADSHEET_ID_HERE/$NEWS_SPREADSHEET_ID/g" sync_news_from_sheets.py > sync_news_temp.py
           
           # Run the news sync script
-          python sync_news_from_sheets.py
+          python sync_news_temp.py
+          
+          # Clean up temporary file
+          rm sync_news_temp.py
         else
           echo "NEWS_SPREADSHEET_ID not set, skipping news sync"
         fi

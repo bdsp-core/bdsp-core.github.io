@@ -12,7 +12,7 @@ from googleapiclient.discovery import build
 # Scopes for read-only access
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
-# Your Google Sheets ID (update this with your quotes sheet ID)
+# Your Google Sheets ID - CDAC_QUOTES spreadsheet
 SPREADSHEET_ID = '1HeU0368kUL7J4dIY8Lv-Pknd9UyrmI_rZ6J50aivNKM'
 
 # Sheet name and range
