@@ -133,3 +133,24 @@
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
   education3: Beth Israel Deaconess Medical Center
+- name: <a href="https://www.linkedin.com/in/carlos-nunez-sosa/">Carlos (宋爱思) Nuñez-Sosa<a/>
+  photo: carlos_nunez_150x150_cropped_enhanced.jpg
+  info: Undergraduate Research Intern
+  number_educ: 2
+  education1: MIT
+  education2: Electrical Engineering and Computer Science & Brain and Cognitive Sciences
+- name: Luke Jackson
+  photo: Luke_Jackson_150x150.jpg
+  info: Undergraduate Research Intern
+  email: ljacks10@bidmc.harvard.edu
+  number_educ: 2
+  education1: Brigham Young University
+  education2: Beth Israel Deaconess Medical Center
+- name: <a href="https://www.youtube.com/channel/UCm7YOqeu9mg22A59uWrETtA">Arnav Gupta<a/>
+  photo: ArnavGupta_150x150.jpg
+  info: PhD Student
+  email: agupta19@bidmc.harvard.edu
+  number_educ: 3
+  education1: Harvard University
+  education2: School of Engineering and Applied Sciences, Harvard University
+  education3: Beth Israel Deaconess Medical Center
