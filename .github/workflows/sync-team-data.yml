@@ -30,8 +30,17 @@ jobs:
       env:
         SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
       run: |
+        # Debug: Check if secret is set
+        if [ -z "$SERVICE_ACCOUNT_KEY" ]; then
+          echo "Error: SERVICE_ACCOUNT_KEY secret is not set!"
+          exit 1
+        fi
+        
         # Create service account key file from secret
         echo "$SERVICE_ACCOUNT_KEY" > service-account-key.json
+        
+        # Debug: Check file was created
+        ls -la service-account-key.json
         
         # Run the sync script
         python sync_team_service_account.py
