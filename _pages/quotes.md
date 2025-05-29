@@ -733,6 +733,9 @@ blockquote strong em {
 > I can live with doubt and uncertainty and not knowing. I think it is much more interesting to live not knowing than to have answers that might be wrong. If we will only allow that, as we progress, we remain unsure, we will leave opportunities for alternatives. We will not become enthusiastic for the fact, the knowledge, the absolute truth of the day, but remain always uncertain...In order to make progress, one must leave the door to the unknown ajar.  
 > **--_Richard P. Feynman, 1918-1988_**
 
+> testing  
+> **--_the Tester, 2025_**
+
 [Back to Top](# )
 
 
