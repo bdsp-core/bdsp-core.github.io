@@ -2,3 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_Store
+credentials.json
+service-account-key.json
+*.key
+*.pem
