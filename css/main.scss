@@ -119,3 +119,25 @@ body {
 .navbar-nav li a:hover {
   box-shadow: inset 200px 0 0 0 #FF0000;
 }
+
+/* Team page image optimization */
+#team img.img-responsive {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  background-color: #f5f5f5;
+  transition: opacity 0.3s ease-in-out;
+  opacity: 1;
+}
+
+/* Prevent layout shift while images load */
+#team .col-sm-6 img {
+  display: block;
+  min-height: 100px;
+  min-width: 100px;
+}
+
+/* Lazy loading optimization */
+#team img[loading="lazy"] {
+  background: linear-gradient(0deg, #f0f0f0 0%, #f8f8f8 100%);
+}
