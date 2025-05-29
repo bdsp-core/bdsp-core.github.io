@@ -15,7 +15,7 @@ from datetime import datetime
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
 # Your Google Sheets ID (update this with your news sheet ID)
-SPREADSHEET_ID = 'YOUR_NEWS_SPREADSHEET_ID_HERE'
+SPREADSHEET_ID = '1i2cyibZBERRqQ5DR76qdHZK3c-FMUsfNwIQjY9HWZJk'
 
 # Sheet name and range
 RANGE_NAME = 'Sheet1!A:B'  # Assumes columns: Date, Headline
@@ -60,6 +60,8 @@ def parse_date(date_str):
         '%b %d, %Y',     # Nov 21, 2024
         '%d %b %Y',      # 21 Nov 2024
         '%d %B %Y',      # 21 November 2024
+        '%d-%b-%y',      # 21-Nov-24
+        '%d-%B-%y',      # 21-November-24
     ]
     
     for fmt in date_formats:
