@@ -16,91 +16,91 @@
 - date: 22 Oct 2024
   headline: "[Dataset publication: Assessing Risk of Health Outcomes From Brain Activity in Sleep](https://bdsp.io/content/rhofbas/1.0/)"
 
-- date: 10 Sept 2024
+- date: 10 Sep 2024
   headline: "[Kayley's paper on EEG spectrogram patterns is out!](https://pubmed.ncbi.nlm.nih.gov/39360183/)"
 
-- date: 10 Sept 2024
+- date: 10 Sep 2024
   headline: "[Marta's paper on extracting seizure control metrics from notes is published](https://pubmed.ncbi.nlm.nih.gov/39276641/)"
 
 - date: 31 Aug 2024
   headline: "[Wolfgang's and Sameneh's paper is published in SLEEP](https://pubmed.ncbi.nlm.nih.gov/39215679/)"
 
-- date: 26 July 2024
-  headline: "[Wendong's and Lidia's paper published about NLP identification of fall-related injuries in EHR notes](https://pubmed.ncbi.nlm.nih.gov/39060160/)"
-
-- date: 24 July 2024
-  headline: "[Shawn's and Eddy's paper on burst similarity ~ MRI in postanoxic coma](https://pubmed.ncbi.nlm.nih.gov/39043984/)"
-
-- date: 07 Aug 2024
+- date: 7 Aug 2024
   headline: "[Chris, Sam, Shashank, and JJ's paper is out on estimating PD frequency](https://pubmed.ncbi.nlm.nih.gov/39111323/)"
 
-- date: 09 July 2024
+- date: 26 Jul 2024
+  headline: "[Wendong's and Lidia's paper published about NLP identification of fall-related injuries in EHR notes](https://pubmed.ncbi.nlm.nih.gov/39060160/)"
+
+- date: 24 Jul 2024
+  headline: "[Shawn's and Eddy's paper on burst similarity ~ MRI in postanoxic coma](https://pubmed.ncbi.nlm.nih.gov/39043984/)"
+
+- date: 9 Jul 2024
   headline: "[AWS article](https://aws.amazon.com/blogs/publicsector/brain-data-science-platform-increases-eeg-accessibility-with-open-data-and-research-enabled-by-aws/) about [BDSP!](bdsp.io)"
 
-- date: 12 June 2024
+- date: 12 Jun 2024
   headline: "Harsh's and Sahar's paper published in ACTN: [Sample Size Calculations for Neuro-ICU Clinical Trials: Yikes.](https://pubmed.ncbi.nlm.nih.gov/38867375/)"
 
 - date: 23 May 2024
   headline: "NEJM AI paper on [Interpretable ML for critical care EEG patterns](Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal Injury Continuum Using Interpretable Machine Learning)"
 
-- date: 09 May 2024
+- date: 9 May 2024
   headline: "James' paper published in JNCN: [GPDs in Catatonia](https://pubmed.ncbi.nlm.nih.gov/38720623/)"
 
-- date: 26 April 2024
+- date: 26 Apr 2024
   headline: "Fabio's and JJ's [pilot RCT on teaching IED recognition to neurology residents](https://pubmed.ncbi.nlm.nih.gov/38669007/)"
 
-- date: 08 April 2024
+- date: 8 Apr 2024
   headline: "[Kaggle IIIC Classification Competition winners!](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/leaderboard)"
 
 - date: 17 Feb 2024
   headline: "Daniel's paper [Minimum clinical utility standards for wearable seizure detectors: A simulation study](https://pubmed.ncbi.nlm.nih.gov/38366862/) published in Epilepsia"
 
-- date: 02 February 2024
+- date: 2 Feb 2024
   headline: "Ruoqi and Wolfgang's [paper about Sleep~Cognition~MRI](https://pubmed.ncbi.nlm.nih.gov/37950486/) is out in SLEEP: [paper](/downloads/11a-2024-wolfgang-ruoqi-eeg-mri.pdf), [supplement](/downloads/11b-2024-wolfgang-ruoqi-eeg-mri-supp.docx), [editorial](/downloads/11c-2024-wolfgang-ruoqi-eeg-mri-editorial.pdf)."
 
-- date: 08 January 2024
+- date: 8 Jan 2024
   headline: "[Kaggle Competition launched!: Harmful Brain Activity Classification. $50K in prizes](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)"
 
-- date: 08 December 2023
+- date: 8 Dec 2023
   headline: "Haoqi's paper [Assessing Risk of Health Outcomes From Brain Activity in Sleep](/downloads/10-sleepOutcomePrediction.pdf) is out! See also this [nice editorial](/downloads/10-sleepOutcomePredictionEditorial.pdf)."
 
-- date: 07 December 2023
+- date: 7 Dec 2023
   headline: "New dataset and code!: [Real-Time Segmentation of Burst Suppression Patterns in Critical Care EEG Monitoring](https://bdsp.io/content/bsupp/1.0/) is published on BDSP"
 
-- date: 29 November 2023
+- date: 29 Nov 2023
   headline: "New dataset release!: [The Human Burst Suppression Electroencephalogram of Deep Hypothermia](https://bdsp.io/content/dhypothermia/1.0/) is published on BDSP"
 
-- date: 13 November 2023
+- date: 13 Nov 2023
   headline: "[E-CAM-S](https://bdsp.io/content/e-cam-s/1.0/) is published on [BDSP](bdsp.io)!"
 
-- date: 6 October 2023
+- date: 6 Oct 2023
   headline: "Kalyan and Jay's [paper showing automated spindle detection is better](https://pubmed.ncbi.nlm.nih.gov/37803266/) than sigma power is out!"
 
-- date: 9 September 2023
+- date: 9 Sep 2023
   headline: "The [Harvard-Emory ECG Database](https://bdsp.io/content/heedb/1.0/) is published on BDSP"
 
-- date: 29 August 2023
+- date: 29 Aug 2023
   headline: "Eddy and Weilong's epic [paper about how the EEG evolves following cardiac arrest](https://pubmed.ncbi.nlm.nih.gov/37414565/) is published in Neurology."
 
-- date: 28 August 2023
+- date: 28 Aug 2023
   headline: "Eddy and the Physionet Challenge team published a [description of the I-CARE dataset](https://pubmed.ncbi.nlm.nih.gov/37693458/)"
 
-- date: 6 August 2023
+- date: 6 Aug 2023
   headline: "Christine's work on [physiological grading of ICANS neurotoxicity](https://pubmed.ncbi.nlm.nih.gov/37545104/) for patients receiving CAR-T therapy is out!"
 
-- date: 1 August 2023
+- date: 1 Aug 2023
   headline: "Fabio, Jaden & JJ's [paper](https://pubmed.ncbi.nlm.nih.gov/37681118/) on learning EEG through competition is out!"
 
-- date: 21 July 2023 
+- date: 21 Jul 2023
   headline: "[Neurology Today did a piece](https://journals.lww.com/neurotodayonline/pages/articleviewer.aspx?year=2023&issue=07200&article=00001&type=Fulltext&utm_source=twitter&utm_medium=organic%20social) on our recent [paper in Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00088-2/fulltext)"
 
-- date: 15 July 2023
+- date: 15 Jul 2023
   headline: "Noor's paper, [Decoding information about cognitive health from the brainwaves of sleep](https://www.nature.com/articles/s41598-023-37128-7) is out!"
 
-- date: 15 June 2023
+- date: 15 Jun 2023
   headline: "The [Harvard Electroencephalography Database](https://bdsp.io/content/harvard-eeg-db/1.0/) is published on [BDSP](bdsp.io)!"
 
-- date: 6 June 2023
+- date: 6 Jun 2023
   headline: "Harsh's and Haoqi's paper with Cynthia Rundin and Alex Volfovsky is published in [Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00088-2/fulltext)"
 
 - date: 23 May 2023
@@ -115,65 +115,62 @@
 - date: 1 May 2023
   headline: "[ML contest launched!](https://www.eventbrite.com/e/harmful-brain-activity-classification-contest-tickets-598785823517). Compete with other teams to develop neural networks that classify patterns of harmful brain activity. Top prize $10K!"
 
-- date: 11 March 2023
-  headline: JJ and Wendong's companion papers on [expert reliability](https://pubmed.ncbi.nlm.nih.gov/36460472/) and [automated detection of seizures and IIIC patterns](https://pubmed.ncbi.nlm.nih.gov/36878708/) are out in Neurology, with an accompanying [editorial](https://pubmed.ncbi.nlm.nih.gov/36878700/).
+- date: 11 Mar 2023
+  headline: "JJ and Wendong's companion papers on [expert reliability](https://pubmed.ncbi.nlm.nih.gov/36460472/) and [automated detection of seizures and IIIC patterns](https://pubmed.ncbi.nlm.nih.gov/36878708/) are out in Neurology, with an accompanying [editorial](https://pubmed.ncbi.nlm.nih.gov/36878700/)."
 
-- date: 01 March 2023
-  headline: Brandon gave the [Harvard Longwood Neurology Grand Rounds - Geschwind Lecture](https://bostonchildrens.zoom.us/rec/share/RUZo0Z2TZbzUKfm2UogltYmvL_yIyBwmYDH1RaeO3OneLSdO0p9C8TfjMrLX22hR.2_913cP_2bch69Bb?startTime=1677687386000). The talk starts at 00:16:15. 
+- date: 1 Mar 2023
+  headline: "Brandon gave the [Harvard Longwood Neurology Grand Rounds - Geschwind Lecture](https://bostonchildrens.zoom.us/rec/share/RUZo0Z2TZbzUKfm2UogltYmvL_yIyBwmYDH1RaeO3OneLSdO0p9C8TfjMrLX22hR.2_913cP_2bch69Bb?startTime=1677687386000). The talk starts at 00:16:15."
 
-- date: 27 February 2023
-  headline: Wolfgang's paper on [sleep staging in the ICU](https://www.frontiersin.org/articles/10.3389/fnetp.2023.1120390/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Network_Physiology&id=1120390) using heart rate and breathing signals is out! 
+- date: 27 Feb 2023
+  headline: "Wolfgang's paper on [sleep staging in the ICU](https://www.frontiersin.org/articles/10.3389/fnetp.2023.1120390/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Network_Physiology&id=1120390) using heart rate and breathing signals is out!"
 
-- date: 27 February 2023
-  headline: Daniel, Haoqi and Wolfgang's [SSAML](https://www.mdpi.com/2227-9059/11/3/685) (Sample Size Analysis for Machine Learning validation studies) is in print!
+- date: 27 Feb 2023
+  headline: "Daniel, Haoqi and Wolfgang's [SSAML](https://www.mdpi.com/2227-9059/11/3/685) (Sample Size Analysis for Machine Learning validation studies) is in print!"
 
-- date: 10 February 2023
-  headline: The [2023 Physionet Challenge](https://moody-challenge.physionet.org/2023/) is launched! Compete to develop the most accurate algorithm to predict neurologic recovery for patients with coma following cardiac arrest.   
+- date: 10 Feb 2023
+  headline: "The [2023 Physionet Challenge](https://moody-challenge.physionet.org/2023/) is launched! Compete to develop the most accurate algorithm to predict neurologic recovery for patients with coma following cardiac arrest."
 
-- date: 02 February 2023
-  headline: Juan and Haoqi's paper [Intraoperative electroencephalographic marker of preoperative frailty](https://pubmed.ncbi.nlm.nih.gov/36738630/) is published in JCA
+- date: 2 Feb 2023
+  headline: "Juan and Haoqi's paper [Intraoperative electroencephalographic marker of preoperative frailty](https://pubmed.ncbi.nlm.nih.gov/36738630/) is published in JCA"
 
-- date: 19 January 2023
+- date: 19 Jan 2023
   headline: "Haoqi's paper is published in Neurobiology of Aging: [The Sleep and Wake Electroencephalogram over the Lifespan](https://www.sciencedirect.com/science/article/abs/pii/S0197458023000076)"
 
-- date: 9 November 2022
-  headline: "[Medical students beat EEG experts at recognizing IIIC patterns in EEGs!](https://centaurlabs.medium.com/beating-the-eeg-experts-de7fcd0690b8)"
-
-- date: 24 December 2022
+- date: 24 Dec 2022
   headline: "Jason and Seun's MINDDS trial results are published in EClinicalMedicine: [Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac surgery (MINDDS): A single-centre, parallel-arm, randomised, placebo-controlled superiority trial](https://pubmed.ncbi.nlm.nih.gov/36590787/)"
 
-- date: 22 December 2022
+- date: 22 Dec 2022
   headline: "Jin Jing's (JJ's) paper is published in Neurology: [Interrater Reliability of Expert Electroencephalographers Identifying Seizures and Rhythmic and Periodic Patterns in Electroencephalograms](https://pubmed.ncbi.nlm.nih.gov/36460472/)."
 
-- date: 30 November 2022
+- date: 30 Nov 2022
   headline: "Elissa, Haoqi, and Alice's paper is published in _Sleep_: [Dementia Detection from Brain Activity During Sleep](https://pubmed.ncbi.nlm.nih.gov/36448766/)"
 
-- date: 28 November 2022
+- date: 28 Nov 2022
   headline: "Chaoqi's paper on Augmenting Tensor Decomposition by Self Supervision is published in NeurIPS: [ATD: Augmenting CP Tensor Decomposition by Self Supervision](https://realsunlab.medium.com/atd-augmenting-cp-tensor-decomposition-by-self-supervision-c9dcfbd71915). Code is [here.](https://github.com/ycq091044/ATD)"
 
-- date: 17 November 2022
-  headline: "Fabio and JJ's paper is published in Clinical Neurophysiology: [A quantitative approach to evaluating interictal epileptiform discharges based on interpretable quantitative criteria](https://pubmed.ncbi.nlm.nih.gov/36473334/). Code is [here.](https://github.com/bdsp-core/IFCN6)"
-
-- date: 19 November 2022
+- date: 19 Nov 2022
   headline: "Daniel's paper is published in Epilepsia: [Flexible realistic simulation of seizure occurrence recapitulating statistical properties of seizure diaries](https://pubmed.ncbi.nlm.nih.gov/36401798/)"
 
-- date: 10 November 2022
+- date: 17 Nov 2022
+  headline: "Fabio and JJ's paper is published in Clinical Neurophysiology: [A quantitative approach to evaluating interictal epileptiform discharges based on interpretable quantitative criteria](https://pubmed.ncbi.nlm.nih.gov/36473334/). Code is [here.](https://github.com/bdsp-core/IFCN6)"
+
+- date: 10 Nov 2022
   headline: "Yalda and Christine's paper about predicting the timecourse of neurotoxicity after CAR-T therapy is published in the Journal of Immunotherapy and Cancer [Forecasting immune effector cell-associated neurotoxicity syndrome after chimeric antigen receptor t-cell therapy](https://pubmed.ncbi.nlm.nih.gov/36450377/)"
 
-- date: 14 October 2022
-  headline: "Jenn's paper is published in JNNP: [Quantitative epileptiform burden and electroencephalography background features predict post-traumatic epilepsy](https://pubmed.ncbi.nlm.nih.gov/36241423/)"
+- date: 9 Nov 2022
+  headline: "[Medical students beat EEG experts at recognizing IIIC patterns in EEGs!](https://centaurlabs.medium.com/beating-the-eeg-experts-de7fcd0690b8)"
 
-- date: 1 November 2022
+- date: 1 Nov 2022
   headline: "Jiangling's paper is published in the Journal of Neurophysiology: [A mechanistic model of calcium homeostasis leading to occurrence and propagation of secondary brain injury](https://pubmed.ncbi.nlm.nih.gov/36197012/)"
 
-- date: 1 October 2022
-  headline: "Danny & Christine's paper is published in Nature Scientific Reports:  [EEG-based grading of immune effector cell-associated neurotoxicity syndrome](https://www.nature.com/articles/s41598-022-24010-1)"
+- date: 14 Oct 2022
+  headline: "Jenn's paper is published in JNNP: [Quantitative epileptiform burden and electroencephalography background features predict post-traumatic epilepsy](https://pubmed.ncbi.nlm.nih.gov/36241423/)"
 
-- date: 1 October 2022
+- date: 1 Oct 2022
+  headline: "Danny & Christine's paper is published in Nature Scientific Reports: [EEG-based grading of immune effector cell-associated neurotoxicity syndrome](https://www.nature.com/articles/s41598-022-24010-1)"
+
+- date: 1 Oct 2022
   headline: "Fabio & JJ's paper is published in Neurophysiologie Clinique: [EEG reading with or without clinical information - a real-world practice study](https://pubmed.ncbi.nlm.nih.gov/36127207/)"
 
-- date: 26 September 2022
-  headline: "Wolfgang's paper is published in Sleep and Breathing: [Sleep apnea and respiratory anomaly detection from a wearable band and oxygen saturation](https://pubmed.ncbi.nlm.nih.gov/34409545/)"
-
-- dates: 20 July 2022
+- date: 26 Sep 2022
   headline: "New paper with our collaborators Cynthia Rudin and Alex Volfovsky: [Effects of Epileptiform Activity on Discharge Outcome in Critically Ill Patients](https://arxiv.org/abs/2203.04920/)"
