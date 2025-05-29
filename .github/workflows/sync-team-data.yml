@@ -1,4 +1,4 @@
-name: Sync Team Data from Google Sheets
+name: Sync Data from Google Sheets
 
 on:
   schedule:
@@ -26,9 +26,10 @@ jobs:
         pip install google-auth google-auth-oauthlib google-auth-httplib2 
         pip install google-api-python-client PyYAML
     
-    - name: Sync from Google Sheets
+    - name: Sync Team Data from Google Sheets
       env:
         SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
+        TEAM_SPREADSHEET_ID: ${{ secrets.TEAM_SPREADSHEET_ID }}
       run: |
         # Debug: Check if secret is set
         if [ -z "$SERVICE_ACCOUNT_KEY" ]; then
@@ -42,19 +43,34 @@ jobs:
         # Debug: Check file was created
         ls -la service-account-key.json
         
-        # Run the sync script
+        # Run the team sync script
         python sync_team_service_account.py
+    
+    - name: Sync Quotes from Google Sheets
+      env:
+        SERVICE_ACCOUNT_KEY: ${{ secrets.SERVICE_ACCOUNT_KEY }}
+        QUOTES_SPREADSHEET_ID: ${{ secrets.QUOTES_SPREADSHEET_ID }}
+      run: |
+        # Update the quotes sync script with the spreadsheet ID
+        if [ -n "$QUOTES_SPREADSHEET_ID" ]; then
+          sed -i "s/YOUR_QUOTES_SPREADSHEET_ID_HERE/$QUOTES_SPREADSHEET_ID/g" sync_quotes_from_sheets.py
+          
+          # Run the quotes sync script
+          python sync_quotes_from_sheets.py
+        else
+          echo "QUOTES_SPREADSHEET_ID not set, skipping quotes sync"
+        fi
     
     - name: Check for changes
       id: verify-changed-files
       run: |
-        git diff --quiet _data/*.yml || echo "changed=true" >> $GITHUB_OUTPUT
+        git diff --quiet _data/*.yml _pages/quotes.md || echo "changed=true" >> $GITHUB_OUTPUT
     
     - name: Commit and push if changed
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        git add _data/*.yml
-        git commit -m "Update team data from Google Sheets"
+        git add _data/*.yml _pages/quotes.md
+        git commit -m "Update data from Google Sheets"
         git push
