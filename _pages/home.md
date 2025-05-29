@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Clinical Data Animation Center (CDAC), affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), [Massachusetts General Hospital](https://www.massgeneral.org/), and [MIT](https://www.mit.edu/), conducts research to preserve and enhance brain health. Our focus spans critical neurological conditions including sleep disorders, dementia, epilepsy, and acute brain injuries. CDAC manages the [Brain Data Science Platform (BDSP)](https://bdsp.io/), an NIH-Approved Data Repository advancing collaborative, open science in neurology research.
+Transforming clinical data into life-saving insights for brain health.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -80,11 +80,15 @@ The Clinical Data Animation Center (CDAC), affiliated with [Harvard Medical Scho
   </a>
 </div>
 
-We develop models to clarify risk-benefit tradeoffs in medical decisions, predict neurologic outcomes in critical care, and to automate tasks in medicine previously performed only by clinical experts.
+The Clinical Data Animation Center (CDAC) conducts research to preserve and enhance brain health through advanced data science. Affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), [Massachusetts General Hospital](https://www.massgeneral.org/), and [MIT](https://www.mit.edu/), we focus on critical neurological conditions including sleep disorders, dementia, epilepsy, and acute brain injuries.
 
-We work with clinical data from large and heterogenous patient cohorts to ensure that our models work in the real world. On the [Brain Data Science Platform (BDSP)](https://bdsp.io/), we're building a comprehensive repository of clinical neurology data and research code.
+**Our Approach:** We develop AI models that help doctors clarify risk-benefit tradeoffs in medical decisions, predict neurological outcomes in critical care, and automate complex clinical tasks. Working with diverse patient populations ensures our models perform effectively in real-world settings.
 
-CDAC's work receives support from the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and AWS.
+**Our Platform:** CDAC manages the [Brain Data Science Platform (BDSP)](https://bdsp.io/), an NIH-approved repository that advances collaborative, open science in neurology research. Through the BDSP Contributing Collaborators Consortium (BDSPC3), we unite research consortia worldwide to share data and collaborate across diverse neurology topics.
+
+**Our Impact:** Our work empowers clinicians with better decision-making tools and accelerates neurological research worldwide, ultimately improving outcomes for patients with brain-related conditions.
+
+*CDAC receives support from the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and AWS.*
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="height: 50px">
