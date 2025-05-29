@@ -1,3 +1,26 @@
+- title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
+    channels."'
+  image: ''
+  description: ''
+  authors: Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand
+    MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E,
+    Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
+    D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40317534
+    display: 'Epilepsia. 2025. doi: 10.1111/epi.18431. PMID: 40317534.'
+  highlight: 0
+- title: '"Association of Time to Continuous EEG Initiation With Outcomes in Critically
+    Ill Patients."'
+  image: ''
+  description: ''
+  authors: Haider MA, Khalil MH, Fernandes MB, Westover MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40237584
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2025. doi: 10.1097/WNP.0000000000001161. PMID:
+      40237584.'
+  highlight: 0
 - title: '"Prospective validation of a seizure diary forecasting falls short."'
   image: ''
   description: ''
@@ -173,8 +196,8 @@
     experts."'
   image: ''
   description: ''
-  authors: "Kural MA, Jing J, F\xFCrbass F, Perko H, Qerama E, Johnsen B, Fuchs S,\
-    \ Westover MB, Beniczky S."
+  authors: Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, Westover
+    MB, Beniczky S.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/35184276
     display: 'Epilepsia 2022 May; 63 (5) :1064-1073 doi: 10.1111/epi.17206. Epub 2022
@@ -374,9 +397,9 @@
     Risk Prediction."'
   image: ''
   description: ''
-  authors: "Struck AF, Tabaeizadeh M, Schmitt SE, Ruiz AR, Swisher CB, Subramaniam\
-    \ T, Hernandez C, Kaleem S, Haider HA, Ciss\xE9 AF, Dhakar MB, Hirsch LJ, Rosenthal\
-    \ ES, Zafar SF, Gaspard N, Westover MB."
+  authors: Struck AF, Tabaeizadeh M, Schmitt SE, Ruiz AR, Swisher CB, Subramaniam
+    T, Hernandez C, Kaleem S, Haider HA, Cissé AF, Dhakar MB, Hirsch LJ, Rosenthal
+    ES, Zafar SF, Gaspard N, Westover MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/31930362
     display: 'JAMA Neurol 2020 Apr 1; 77 (4) :500-507 doi: 10.1001/jamaneurol.2019.4656.
@@ -523,8 +546,8 @@
 - title: '"Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns."'
   image: ''
   description: ''
-  authors: "Jing J, d\u2019Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim\
-    \ S, Dauwels J, Westover MB."
+  authors: Jing J, d’Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim S,
+    Dauwels J, Westover MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/30441116
     display: 'Annu Int Conf IEEE Eng Med Biol Soc 2018 Jul; 2018 :3394-3397 doi: 10.1109/EMBC.2018.8513059.
