@@ -1,3 +1,41 @@
+- title: '"EEG Functional Connectivity is a Weak Predictor of Causal Brain Interactions."'
+  image: ''
+  description: ''
+  authors: Vink JJT, Klooster DCW, Ozdemir RA, Westover MB, Pascual-Leone A, Shafi
+    MM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32090281
+    display: 'Brain topography. 2020. 33(2). 221-237. doi: 10.1007/s10548-020-00757-6.
+      PMID: 32090281.'
+  highlight: 0
+- title: '"Stimulus information stored in lasting active and hidden network states
+    is destroyed by network bursts."'
+  image: ''
+  description: ''
+  authors: Dranias MR, Westover MB, Cash S, VanDongen AM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25755638
+    display: 'Frontiers in integrative neuroscience. 2015. 9. 14. doi: 10.3389/fnint.2015.00014.
+      PMID: 25755638.'
+  highlight: 0
+- title: '"Classification algorithms for predicting sleepiness and sleep apnea severity."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Mietus JE, Thomas RJ, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21752133
+    display: 'Journal of sleep research. 2012. 21(1). 101-12. doi: 10.1111/j.1365-2869.2011.00935.x.
+      PMID: 21752133.'
+  highlight: 0
+- title: '"The neural multiple access channel."'
+  image: ''
+  description: ''
+  authors: Fischer BJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32153319
+    display: 'Neurocomputing. 2003. 52-54. 511-518. doi: 10.1016/s0925-2312(02)00762-2.
+      PMID: 32153319.'
+  highlight: 0
 - title: '"The information theoretic perspective on medical diagnostic inference."'
   image: ''
   description: ''

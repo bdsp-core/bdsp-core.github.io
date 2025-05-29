@@ -1,3 +1,89 @@
+- title: '"Quantifying seizure termination patterns reveals limited pathways to seizure
+    end."'
+  image: ''
+  description: ''
+  authors: Salami P, Borzello M, Kramer MA, Westover MB, Cash SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35104646
+    display: 'Neurobiology of disease. 2022. 165. 105645. doi: 10.1016/j.nbd.2022.105645.
+      PMID: 35104646.'
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients with Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32699855
+    display: 'medRxiv : the preprint server for health sciences. 2020. doi: 10.1101/2020.07.13.20152207.
+      PMID: 32699855.'
+  highlight: 0
+- title: '"Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns."'
+  image: ''
+  description: ''
+  authors: Jing J, d’Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim S,
+    Dauwels J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30441116
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2018. 2018. 3394-3397. doi: 10.1109/EMBC.2018.8513059.
+      PMID: 30441116.'
+  highlight: 0
+- title: '"Metabolic Correlates of the Ictal-Interictal Continuum: FDG-PET During
+    Continuous EEG."'
+  image: ''
+  description: ''
+  authors: Struck AF, Westover MB, Hall LT, Deck GM, Cole AJ, Rosenthal ES
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27169855
+    display: 'Neurocritical care. 2016. 24(3). 324-31. doi: 10.1007/s12028-016-0245-y.
+      PMID: 27169855.'
+  highlight: 0
+- title: '"Response Rates to Anticonvulsant Trials in Patients with Triphasic-Wave
+    EEG Patterns of Uncertain Significance."'
+  image: ''
+  description: ''
+  authors: O'Rourke D, Chen PM, Gaspard N, Foreman B, McClain L, Karakis I, Mahulikar
+    A, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26013921
+    display: 'Neurocritical care. 2016. 24(2). 233-9. doi: 10.1007/s12028-015-0151-8.
+      PMID: 26013921.'
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26738009
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7430-3. doi: 10.1109/EMBC.2015.7320109.
+      PMID: 26738009.'
+  highlight: 0
+- title: '"Treating seizures in Creutzfeldt-Jakob disease."'
+  image: ''
+  description: ''
+  authors: Ng MC, Westover MB, Cole AJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25667875
+    display: 'Epilepsy & behavior case reports. 2014. 2. 75-9. doi: 10.1016/j.ebcr.2014.01.004.
+      PMID: 25667875.'
+  highlight: 0
+- title: '"Real-time closed-loop control in a rodent model of medically induced coma
+    using burst suppression."'
+  image: ''
+  description: ''
+  authors: Ching S, Liberman MY, Chemali JJ, Westover MB, Kenny JD, Solt K, Purdon
+    PL, Brown EN
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23770601
+    display: 'Anesthesiology. 2013. 119(4). 848-60. doi: 10.1097/ALN.0b013e31829d4ab4.
+      PMID: 23770601.'
+  highlight: 0
 - title: '"Do Triphasic Waves and Nonconvulsive Status Epilepticus Arise From Similar
     Mechanisms? A Computational Model."'
   image: ''

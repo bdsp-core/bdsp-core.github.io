@@ -1,3 +1,49 @@
+- title: '"Early Burst Suppression Similarity Association with Structural Brain Injury
+    Severity on MRI After Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Shivdat S, Zhan T, De Palma A, Zheng WL, Krishnamurthy P, Paneerselvam
+    E, Snider S, Bevers M, O'Reilly UM, Lee JW, Westover MB, Amorim E
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39043984
+    display: 'Neurocritical care. 2025. 42(1). 175-184. doi: 10.1007/s12028-024-02047-6.
+      PMID: 39043984.'
+  highlight: 0
+- title: '"Neurophysiology State Dynamics Underlying Acute Neurologic Recovery After
+    Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Amorim E, Zheng WL, Jing J, Ghassemi MM, Lee JW, Wu O, Herman ST, Pang
+    T, Sivaraju A, Gaspard N, Hirsch L, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer
+    J, van Putten MJAM, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37414565
+    display: 'Neurology. 2023. 101(9). e940-e952. doi: 10.1212/WNL.0000000000207537.
+      PMID: 37414565.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32268366
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Design, implementation, and evaluation of a physiological closed-loop control
+    device for medically-induced coma."'
+  image: ''
+  description: ''
+  authors: Purdon PL, Solt K, Sims NM, Brown EN, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29060851
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2017. 2017. 4313-4316. doi: 10.1109/EMBC.2017.8037810.
+      PMID: 29060851.'
+  highlight: 0
 - title: '"Burst Suppression: Causes and Effects on Mortality in Critical Illness."'
   image: ''
   description: ''
@@ -46,8 +92,8 @@
     evaluation of a novel method."'
   image: ''
   description: ''
-  authors: "F\xFCrbass F, Herta J, Koren J, Westover MB, Hartmann MM, Gruber A, Baumgartner\
-    \ C, Kluge T."
+  authors: Fürbass F, Herta J, Koren J, Westover MB, Hartmann MM, Gruber A, Baumgartner
+    C, Kluge T.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/26971487
     display: 'Clin Neurophysiol 2016 Apr; 127 (4) :2038-46 doi: 10.1016/j.clinph.2016.02.001.

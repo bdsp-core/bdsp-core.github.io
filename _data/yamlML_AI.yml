@@ -1,3 +1,285 @@
+- title: '"Continuous sleep depth index annotation with deep learning yields novel
+    digital biomarkers for sleep health."'
+  image: ''
+  description: ''
+  authors: Zhou S, Song G, Sun H, Zhang D, Leng Y, Westover MB, Hong S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40216900
+    display: 'NPJ digital medicine. 2025. 8(1). 203. doi: 10.1038/s41746-025-01607-0.
+      PMID: 40216900.'
+  highlight: 0
+- title: '"The future of EEG education in the era of artificial intelligence."'
+  image: ''
+  description: ''
+  authors: McLaren JR, Yuan D, Beniczky S, Westover MB, Nascimento FA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40035709
+    display: 'Epilepsia. 2025. doi: 10.1111/epi.18326. PMID: 40035709.'
+  highlight: 0
+- title: '"Inductive reasoning with large language models: A simulated randomized
+    controlled trial for epilepsy."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Goldenholz SR, Habib S, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40020525
+    display: 'Epilepsy research. 2025. 211. 107532. doi: 10.1016/j.eplepsyres.2025.107532.
+      PMID: 40020525.'
+  highlight: 0
+- title: '"A Claims-Based Machine Learning Classifier of Modified Rankin Scale in
+    Acute Ischemic Stroke."'
+  image: ''
+  description: ''
+  authors: Habib M, de Medeiros RC, Ahsan SM, Wojciechowski AM, Donahue MA, Blacker
+    D, Newhouse JP, Schwamm LH, Westover MB, Moura LM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39990546
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.06.25321827.
+      PMID: 39990546.'
+  highlight: 0
+- title: '"Big Data Approaches for Novel Mechanistic Insights on Sleep and Circadian
+    Rhythms: a Workshop Summary."'
+  image: ''
+  description: ''
+  authors: Baizer L, Bures R, Nadkarni G, Reyes-Guzman C, Ladwa S, Cade B, Westover
+    MB, Durmer J, de Zambotti M, Desai M, Parekh A, Si B, Fernandez-Mendoza J, Minor
+    K, Mazzotti DR, Lee S, Katabi D, Kiss O, Spira AP, Morris J, Seixas A, Kioumourtzoglou
+    MA, Bridges JFP, Brown M, Hale L, Purcell S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39945146
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf035. PMID: 39945146.'
+  highlight: 0
+- title: '"Using artificial intelligence to optimize anti-seizure treatment and EEG-guided
+    decisions in severe brain injury."'
+  image: ''
+  description: ''
+  authors: Akras Z, Jing J, Westover MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39855915
+    display: 'Neurotherapeutics : the journal of the American Society for Experimental
+      NeuroTherapeutics. 2025. 22(1). e00524. doi: 10.1016/j.neurot.2025.e00524. PMID:
+      39855915.'
+  highlight: 0
+- title: '"Epilepsy is associated with the accelerated aging of brain activity in
+    sleep."'
+  image: ''
+  description: ''
+  authors: Hadar PN, Westmeijer M, Sun H, Meulenbrugge EJ, Jing J, Paixao L, Tesh
+    RA, Da Silva Cardoso M, Arnal P, Au R, Shin C, Kim S, Thomas RJ, Cash SS, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39668843
+    display: 'Frontiers in physiology. 2024. 15. 1458592. doi: 10.3389/fphys.2024.1458592.
+      PMID: 39668843.'
+  highlight: 0
+- title: '"Effects of Aerobic Exercise on Brain Age and Health in Middle-Aged and
+    Older Adults: A Single-Arm Pilot Clinical Trial."'
+  image: ''
+  description: ''
+  authors: Ouyang A, Zhang C, Adra N, Tesh RA, Sun H, Lei D, Jing J, Fan P, Paixao
+    L, Ganglberger W, Briggs L, Salinas J, Bevers MB, Wrann CD, Chemali Z, Fricchione
+    G, Thomas RJ, Rosand J, Tanzi RE, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39063609
+    display: 'Life (Basel, Switzerland). 2024. 14(7). doi: 10.3390/life14070855. PMID:
+      39063609.'
+  highlight: 0
+- title: '"Prospective validation of a seizure diary forecasting falls short."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Eccleston C, Moss R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38606580
+    display: 'Epilepsia. 2024. 65(6). 1730-1736. doi: 10.1111/epi.17984. PMID: 38606580.'
+  highlight: 0
+- title: '"Inductive reasoning with large language models: a simulated randomized
+    controlled trial for epilepsy."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Goldenholz SR, Habib S, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38562831
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.03.18.24304493.
+      PMID: 38562831.'
+  highlight: 0
+- title: '"Classification of autism spectrum disorder using electroencephalography
+    in Chinese children: a cross-sectional retrospective study."'
+  image: ''
+  description: ''
+  authors: Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, Westover MB, Xu H, Kong
+    XJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38332856
+    display: 'Frontiers in neuroscience. 2024. 18. 1330556. doi: 10.3389/fnins.2024.1330556.
+      PMID: 38332856.'
+  highlight: 0
+- title: '"Prospective validation of a seizure diary forecasting falls short."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Eccleston C, Moss R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38260666
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.01.11.24301175.
+      PMID: 38260666.'
+  highlight: 0
+- title: '"Decoding information about cognitive health from the brainwaves of sleep."'
+  image: ''
+  description: ''
+  authors: Adra N, Dümmer LW, Paixao L, Tesh RA, Sun H, Ganglberger W, Westmeijer
+    M, Da Silva Cardoso M, Kumar A, Ye E, Henry J, Cash SS, Kitchener E, Leveroni
+    CL, Au R, Rosand J, Salinas J, Lam AD, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37454163
+    display: 'Scientific reports. 2023. 13(1). 11448. doi: 10.1038/s41598-023-37128-7.
+      PMID: 37454163.'
+  highlight: 0
+- title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
+    An exploratory cross-sectional study using deep neural networks."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N,
+    Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins
+    J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
+    Kuller D, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36926545
+    display: 'Frontiers in network physiology. 2023. 3. 1120390. doi: 10.3389/fnetp.2023.1120390.
+      PMID: 36926545.'
+  highlight: 0
+- title: '"EEG-based grading of immune effector cell-associated neurotoxicity syndrome."'
+  image: ''
+  description: ''
+  authors: Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van
+    Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C,
+    Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36414694
+    display: 'Scientific reports. 2022. 12(1). 20011. doi: 10.1038/s41598-022-24010-1.
+      PMID: 36414694.'
+  highlight: 0
+- title: '"Age estimation from sleep studies using deep learning predicts life expectancy."'
+  image: ''
+  description: ''
+  authors: Brink-Kjaer A, Leary EB, Sun H, Westover MB, Stone KL, Peppard PE, Lane
+    NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35869169
+    display: 'NPJ digital medicine. 2022. 5(1). 103. doi: 10.1038/s41746-022-00630-9.
+      PMID: 35869169.'
+  highlight: 0
+- title: '"Predicting neurological outcome in comatose patients after cardiac arrest
+    with multiscale deep neural networks."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Amorim E, Jing J, Ge W, Hong S, Wu O, Ghassemi M, Lee JW, Sivaraju
+    A, Pang T, Herman ST, Gaspard N, Ruijter BJ, Sun J, Tjepkema-Cloostermans MC,
+    Hofmeijer J, van Putten MJAM, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34699925
+    display: 'Resuscitation. 2021. 169. 86-94. doi: 10.1016/j.resuscitation.2021.10.034.
+      PMID: 34699925.'
+  highlight: 0
+- title: '"HIV increases sleep-based brain age despite antiretroviral therapy."'
+  image: ''
+  description: ''
+  authors: Leone MJ, Sun H, Boutros CL, Liu L, Ye E, Sullivan L, Thomas RJ, Robbins
+    GK, Mukerji SS, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33783511
+    display: 'Sleep. 2021. 44(8). doi: 10.1093/sleep/zsab058. PMID: 33783511.'
+  highlight: 0
+- title: '"Excess brain age in the sleep electroencephalogram predicts reduced life
+    expectancy."'
+  image: ''
+  description: ''
+  authors: Paixao L, Sikka P, Sun H, Jain A, Hogan J, Thomas R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31932049
+    display: 'Neurobiology of aging. 2020. 88. 150-155. doi: 10.1016/j.neurobiolaging.2019.12.015.
+      PMID: 31932049.'
+  highlight: 0
+- title: '"Detecting abnormal electroencephalograms using deep convolutional networks."'
+  image: ''
+  description: ''
+  authors: van Leeuwen KG, Sun H, Tabaeizadeh M, Struck AF, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30481649
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2019. 130(1). 77-84. doi: 10.1016/j.clinph.2018.10.012.
+      PMID: 30481649.'
+  highlight: 0
+- title: '"Brain age from the electroencephalogram of sleep."'
+  image: ''
+  description: ''
+  authors: Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju
+    O, Thomas RJ, Cash SS, Bianchi MT, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30448611
+    display: 'Neurobiology of aging. 2019. 74. 112-120. doi: 10.1016/j.neurobiolaging.2018.10.016.
+      PMID: 30448611.'
+  highlight: 0
+- title: '"Expert-level sleep scoring with deep neural networks."'
+  image: ''
+  description: ''
+  authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30445569
+    display: 'Journal of the American Medical Informatics Association : JAMIA. 2018.
+      25(12). 1643-1650. doi: 10.1093/jamia/ocy131. PMID: 30445569.'
+  highlight: 0
+- title: '"EEG CLassification Via Convolutional Neural Network-Based Interictal Epileptiform
+    Event Detection."'
+  image: ''
+  description: ''
+  authors: Thomas J, Comoretto L, Jin J, Dauwels J, Cash SS, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30441062
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2018. 2018. 3148-3151. doi: 10.1109/EMBC.2018.8512930.
+      PMID: 30441062.'
+  highlight: 0
+- title: '"EPILEPTIFORM SPIKE DETECTION VIA CONVOLUTIONAL NEURAL NETWORKS."'
+  image: ''
+  description: ''
+  authors: Johansen AR, Jin J, Maszczyk T, Dauwels J, Cash SS, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29527131
+    display: 'Proceedings of the ... IEEE International Conference on Acoustics, Speech,
+      and Signal Processing. ICASSP (Conference). 2016. 2016. 754-758. doi: 10.1109/ICASSP.2016.7471776.
+      PMID: 29527131.'
+  highlight: 0
+- title: '"FAST AND EFFICIENT REJECTION OF BACKGROUND WAVEFORMS IN INTERICTAL EEG."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29507536
+    display: 'Proceedings of the ... IEEE International Conference on Acoustics, Speech,
+      and Signal Processing. ICASSP (Conference). 2016. 2016. 744-748. doi: 10.1109/ICASSP.2016.7471774.
+      PMID: 29507536.'
+  highlight: 0
+- title: '"Clinical Prediction Models for Sleep Apnea: The Importance of Medical History
+    over Symptoms."'
+  image: ''
+  description: ''
+  authors: Ustun B, Westover MB, Rudin C, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26350602
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2016. 12(2). 161-8. doi: 10.5664/jcsm.5476.
+      PMID: 26350602.'
+  highlight: 0
+- title: '"Layer 4C in monkey V1 may linearize the output of the LGN."'
+  image: ''
+  description: ''
+  authors: Westover MB, Anderson CH
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32153320
+    display: 'Neurocomputing. 2003. 52-54. 671-676. doi: 10.1016/s0925-2312(02)00863-9.
+      PMID: 32153320.'
+  highlight: 0
 - title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
     channels."'
   image: ''

@@ -1,3 +1,172 @@
+- title: '"Anesthesia-induced electroencephalogram oscillations and perioperative
+    outcomes in older adults undergoing cardiac surgery."'
+  image: ''
+  description: ''
+  authors: Freedman IG, Boncompte G, Qu JZ, Khawaja ZQ, Turco I, Mueller A, Wiredu
+    K, McKay TB, Westover MB, Pedemonte JC, Akeju O
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39921932
+    display: 'Journal of clinical anesthesia. 2025. 102. 111770. doi: 10.1016/j.jclinane.2025.111770.
+      PMID: 39921932.'
+  highlight: 0
+- title: '"A Real-Time Neurophysiologic Stress Test for the Aging Brain: Novel Perioperative
+    and ICU Applications of EEG in Older Surgical Patients."'
+  image: ''
+  description: ''
+  authors: Berger M, Ryu D, Reese M, McGuigan S, Evered LA, Price CC, Scott DA, Westover
+    MB, Eckenhoff R, Bonanni L, Sweeney A, Babiloni C
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37436580
+    display: 'Neurotherapeutics : the journal of the American Society for Experimental
+      NeuroTherapeutics. 2023. 20(4). 975-1000. doi: 10.1007/s13311-023-01401-4. PMID:
+      37436580.'
+  highlight: 0
+- title: '"Responsive neurostimulation for focal motor status epilepticus."'
+  image: ''
+  description: ''
+  authors: Yang JC, Harid NM, Nascimento FA, Kokkinos V, Shaughnessy A, Lam AD, Westover
+    MB, Leslie-Mazwi TM, Hochberg LR, Rosenthal ES, Cole AJ, Richardson RM, Cash SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33955717
+    display: 'Annals of clinical and translational neurology. 2021. 8(6). 1353-1361.
+      doi: 10.1002/acn3.51318. PMID: 33955717.'
+  highlight: 0
+- title: '"A Theoretical Paradigm for Evaluating Risk-Benefit of Status Epilepticus
+    Treatment."'
+  image: ''
+  description: ''
+  authors: Amorim E, McGraw CM, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32890059
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2020. 37(5). 385-392. doi: 10.1097/WNP.0000000000000753.
+      PMID: 32890059.'
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients with Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32699855
+    display: 'medRxiv : the preprint server for health sciences. 2020. doi: 10.1101/2020.07.13.20152207.
+      PMID: 32699855.'
+  highlight: 0
+- title: '"Drug-Specific Models Improve the Performance of an EEG-based Automated
+    Brain-State Prediction System."'
+  image: ''
+  description: ''
+  authors: Kashkooli K, Polk SL, Chamadia S, Hahm E, Ethridge B, Gitlin J, Ibala R,
+    Mekonnen J, Pedemonte J, Murphy JM, Sun H, Westover MB, Akeju O
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31947172
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2019. 2019. 5808-5811. doi: 10.1109/EMBC.2019.8856935.
+      PMID: 31947172.'
+  highlight: 0
+- title: '"Automatic Detection of General Anesthetic-States using ECG-Derived Autonomic
+    Nervous System Features."'
+  image: ''
+  description: ''
+  authors: Polk SL, Kashkooli K, Nagaraj SB, Chamadia S, Murphy JM, Sun H, Westover
+    MB, Barbieri R, Akeju O
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31946297
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2019. 2019. 2019-2022. doi: 10.1109/EMBC.2019.8857704.
+      PMID: 31946297.'
+  highlight: 0
+- title: '"Automated tracking of level of consciousness and delirium in critical illness
+    using deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng
+    WL, Ge W, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31508499
+    display: 'NPJ digital medicine. 2019. 2. 89. doi: 10.1038/s41746-019-0167-0. PMID:
+      31508499.'
+  highlight: 0
+- title: '"Design, implementation, and evaluation of a physiological closed-loop control
+    device for medically-induced coma."'
+  image: ''
+  description: ''
+  authors: Purdon PL, Solt K, Sims NM, Brown EN, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29060851
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2017. 2017. 4313-4316. doi: 10.1109/EMBC.2017.8037810.
+      PMID: 29060851.'
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26738009
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7430-3. doi: 10.1109/EMBC.2015.7320109.
+      PMID: 26738009.'
+  highlight: 0
+- title: '"Clustering analysis to identify distinct spectral components of encephalogram
+    burst suppression in critically ill patients."'
+  image: ''
+  description: ''
+  authors: Zhou DW, Westover MB, McClain LM, Nagaraj SB, Bajwa EK, Quraishi SA, Akeju
+    O, Cobb JP, Purdon PL
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26737967
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7258-61. doi: 10.1109/EMBC.2015.7320067.
+      PMID: 26737967.'
+  highlight: 0
+- title: '"Robust control of burst suppression for medical coma."'
+  image: ''
+  description: ''
+  authors: Westover MB, Kim SE, Ching S, Purdon PL, Brown EN
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26020243
+    display: 'Journal of neural engineering. 2015. 12(4). 046004. doi: 10.1088/1741-2560/12/4/046004.
+      PMID: 26020243.'
+  highlight: 0
+- title: '"The human burst suppression electroencephalogram of deep hypothermia."'
+  image: ''
+  description: ''
+  authors: Westover MB, Ching S, Kumaraswamy VM, Akeju SO, Pierce E, Cash SS, Kilbride
+    R, Brown EN, Purdon PL
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25649968
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2015. 126(10). 1901-1914. doi: 10.1016/j.clinph.2014.12.022.
+      PMID: 25649968.'
+  highlight: 0
+- title: '"Burst suppression in sleep in a routine outpatient EEG."'
+  image: ''
+  description: ''
+  authors: Kheder A, Bianchi MT, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25667874
+    display: 'Epilepsy & behavior case reports. 2014. 2. 71-4. doi: 10.1016/j.ebcr.2014.01.003.
+      PMID: 25667874.'
+  highlight: 0
+- title: '"Real-time closed-loop control in a rodent model of medically induced coma
+    using burst suppression."'
+  image: ''
+  description: ''
+  authors: Ching S, Liberman MY, Chemali JJ, Westover MB, Kenny JD, Solt K, Purdon
+    PL, Brown EN
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23770601
+    display: 'Anesthesiology. 2013. 119(4). 848-60. doi: 10.1097/ALN.0b013e31829d4ab4.
+      PMID: 23770601.'
+  highlight: 0
 - title: '"Association of Time to Continuous EEG Initiation With Outcomes in Critically
     Ill Patients."'
   image: ''
