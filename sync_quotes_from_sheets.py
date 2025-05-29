@@ -13,7 +13,7 @@ from googleapiclient.discovery import build
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
 # Your Google Sheets ID (update this with your quotes sheet ID)
-SPREADSHEET_ID = 'YOUR_QUOTES_SPREADSHEET_ID_HERE'
+SPREADSHEET_ID = '1HeU0368kUL7J4dIY8Lv-Pknd9UyrmI_rZ6J50aivNKM'
 
 # Sheet name and range
 RANGE_NAME = 'Sheet1!A:C'  # Assumes columns: Section, Quote, Attribution
