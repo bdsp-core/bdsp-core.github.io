@@ -154,3 +154,31 @@
   education1: Harvard University
   education2: School of Engineering and Applied Sciences, Harvard University
   education3: Beth Israel Deaconess Medical Center
+- name: Amber Peng
+  photo: amber_peng_150x150.jpeg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Massachusetts Institute of Technology
+  education2: EECS
+  education3: Beth Israel Deaconess Medical Center
+- name: Mitchell McCauley
+  photo: mitchell_mccauley_150x150.jpeg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Brigham Young University
+  education2: Biostatistics
+  education3: Beth Israel Deaconess Medical Center
+- name: Patrick Wynn
+  photo: patrick_wynn_150x150.jpeg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Brigham Young University
+  education2: Bioinformatics
+  education3: Beth Israel Deaconess Medical Center
+- name: Elijah Keldsen
+  photo: elijah_kelsden_150x150.jpg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Brigham Young University
+  education2: Mathematics
+  education3: Beth Israel Deaconess Medical Center
