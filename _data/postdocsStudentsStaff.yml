@@ -61,13 +61,6 @@
   number_educ: 2
   education1: Child Neurology Resident
   education2: Harvard Medical School
-- name: Jun Li
-  photo: JunLi_photo.jpg
-  info: Undergraduate studen in Computer Science
-  email: jli47@bidmc.harvard.edu
-  number_educ: 2
-  education1: Peking University, Institute of Health Data Science
-  education2: Harvard Medical School
 - name: Dan Sumsion
   photo: danSumsion.jpeg
   info: Undergraduate - NAX project
@@ -78,11 +71,6 @@
   info: Research coordinator
   number_educ: 1
   education1: Brigham Young University
-- name: Laura Krumm
-  photo: LauraKrumm.jpg
-  info: Visiting scholar
-  number_educ: 1
-  education1: Charité – Universitätsmedizin Berlin
 - name: Ayan Mitra, PhD
   photo: Mitra_Ayan_CDAC.png
   info: Clinical Research Manager
