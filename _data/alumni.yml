@@ -637,3 +637,15 @@
   email: tnassi@bidmc.harvard.edu
   number_educ: 1
   education1: In lab 2021-2025
+- name: Jun Li
+  photo: JunLi_photo.jpg
+  info: Undergraduate studen in Computer Science
+  email: jli47@bidmc.harvard.edu
+  number_educ: 2
+  education1: Peking University, Institute of Health Data Science
+  education2: Harvard Medical School
+- name: Laura Krumm
+  photo: LauraKrumm.jpg
+  info: Visiting scholar
+  number_educ: 1
+  education1: Charité – Universitätsmedizin Berlin
