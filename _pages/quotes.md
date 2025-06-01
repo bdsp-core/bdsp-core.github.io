@@ -7,30 +7,381 @@ permalink: /quotes/
 ---
 
 <style>
-/* this is kind of a hack */
+/* Enhanced quotes styling */
 blockquote {
- padding: 5px 20px;
- margin: 0 0 20px;
-font-size: 16px;
- border-left: 5px solid #eee;
+ padding: 15px 25px;
+ margin: 0 0 25px;
+ font-size: 16px;
+ border-left: 4px solid #3498db;
+ background-color: #f8f9fa;
+ border-radius: 5px;
+ box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+ transition: transform 0.2s ease;
+}
+blockquote:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 blockquote strong em {
  color: #7F8C8D;
+ font-size: 14px;
+}
+
+/* Sticky TOC */
+.quotes-toc {
+ position: sticky;
+ top: 20px;
+ background: white;
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 8px;
+ margin-bottom: 30px;
+ box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+ z-index: 100;
+}
+
+/* Search box */
+.quote-search {
+ width: 100%;
+ padding: 12px;
+ margin-bottom: 20px;
+ border: 2px solid #ddd;
+ border-radius: 6px;
+ font-size: 16px;
+ transition: border-color 0.3s ease;
+}
+.quote-search:focus {
+ outline: none;
+ border-color: #3498db;
+}
+
+/* Section headers */
+.section-header {
+ background: linear-gradient(135deg, #34495e, #2c3e50);
+ color: white;
+ padding: 15px 20px;
+ margin: 40px 0 25px 0;
+ border-radius: 8px;
+ box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+ position: relative;
+}
+.section-header::before {
+ content: '';
+ position: absolute;
+ left: 0;
+ top: 0;
+ height: 100%;
+ width: 4px;
+ background: #3498db;
+ border-radius: 8px 0 0 8px;
+}
+
+/* Quote counter */
+.quote-count {
+ font-size: 12px;
+ color: #7f8c8d;
+ margin-left: 10px;
+ background: #ecf0f1;
+ padding: 2px 8px;
+ border-radius: 12px;
+}
+
+/* TOC styling */
+.toc-grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+ gap: 8px;
+ margin-bottom: 15px;
+}
+.toc-link {
+ padding: 8px 12px;
+ background: #f8f9fa;
+ border: 1px solid #e9ecef;
+ border-radius: 4px;
+ text-decoration: none;
+ transition: all 0.2s ease;
+ display: block;
+}
+.toc-link:hover {
+ background: #3498db;
+ color: white;
+ text-decoration: none;
+}
+
+/* Back to top button */
+.back-to-top {
+ position: fixed;
+ bottom: 30px;
+ right: 30px;
+ background: #3498db;
+ color: white;
+ padding: 12px 16px;
+ border-radius: 50%;
+ text-decoration: none;
+ box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+ opacity: 0;
+ visibility: hidden;
+ transition: all 0.3s ease;
+ z-index: 1000;
+}
+.back-to-top.visible {
+ opacity: 1;
+ visibility: visible;
+}
+.back-to-top:hover {
+ background: #2980b9;
+ transform: translateY(-2px);
+ text-decoration: none;
+ color: white;
+}
+
+/* Search highlighting */
+.highlight {
+ background-color: #ffeb3b;
+ padding: 1px 2px;
+ border-radius: 2px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+ .quotes-toc {
+  position: relative;
+  font-size: 14px;
+  padding: 15px;
+ }
+ .toc-grid {
+  grid-template-columns: 1fr;
+ }
+ blockquote {
+  padding: 12px 18px;
+  font-size: 15px;
+ }
+ .back-to-top {
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 14px;
+ }
+}
+
+/* Loading animation for search */
+.searching::after {
+ content: '...';
+ animation: dots 1.5s steps(5, end) infinite;
+}
+@keyframes dots {
+ 0%, 20% { color: rgba(0,0,0,0); text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+ 40% { color: black; text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+ 60% { text-shadow: .25em 0 0 black, .5em 0 0 rgba(0,0,0,0); }
+ 80%, 100% { text-shadow: .25em 0 0 black, .5em 0 0 black; }
 }
 </style>
 
+<script>
+// Enhanced search functionality with highlighting
+function searchQuotes() {
+ const searchTerm = document.getElementById('quoteSearch').value.toLowerCase().trim();
+ const sections = document.querySelectorAll('h3');
+ let totalVisible = 0;
+ 
+ // Clear previous highlights
+ document.querySelectorAll('.highlight').forEach(el => {
+  el.outerHTML = el.innerHTML;
+ });
+ 
+ sections.forEach(section => {
+  let element = section.nextElementSibling;
+  let hasVisibleQuotes = false;
+  
+  while (element && element.tagName !== 'H3') {
+   if (element.tagName === 'BLOCKQUOTE') {
+    const quotText = element.textContent.toLowerCase();
+    const isVisible = searchTerm === '' || quotText.includes(searchTerm);
+    
+    if (isVisible) {
+     hasVisibleQuotes = true;
+     totalVisible++;
+     
+     // Highlight search terms
+     if (searchTerm !== '') {
+      highlightText(element, searchTerm);
+     }
+    }
+    
+    element.style.display = isVisible ? 'block' : 'none';
+   }
+   element = element.nextElementSibling;
+  }
+  
+  section.style.display = hasVisibleQuotes || searchTerm === '' ? 'block' : 'none';
+ });
+ 
+ // Update search results info
+ updateSearchInfo(searchTerm, totalVisible);
+}
+
+function highlightText(element, searchTerm) {
+ const walker = document.createTreeWalker(
+  element,
+  NodeFilter.SHOW_TEXT,
+  null,
+  false
+ );
+ 
+ const textNodes = [];
+ let node;
+ while (node = walker.nextNode()) {
+  textNodes.push(node);
+ }
+ 
+ textNodes.forEach(textNode => {
+  const text = textNode.textContent;
+  const regex = new RegExp(`(${searchTerm})`, 'gi');
+  if (regex.test(text)) {
+   const highlightedText = text.replace(regex, '<span class="highlight">$1</span>');
+   const span = document.createElement('span');
+   span.innerHTML = highlightedText;
+   textNode.parentNode.replaceChild(span, textNode);
+  }
+ });
+}
+
+function updateSearchInfo(searchTerm, totalVisible) {
+ let infoElement = document.getElementById('searchInfo');
+ if (!infoElement) {
+  infoElement = document.createElement('div');
+  infoElement.id = 'searchInfo';
+  infoElement.style.cssText = 'margin-bottom: 15px; padding: 8px 12px; background: #e8f4f8; border-radius: 4px; font-size: 14px;';
+  document.querySelector('.quote-search').parentNode.insertBefore(infoElement, document.querySelector('.toc-grid'));
+ }
+ 
+ if (searchTerm === '') {
+  infoElement.style.display = 'none';
+ } else {
+  infoElement.style.display = 'block';
+  infoElement.innerHTML = `Found ${totalVisible} quote${totalVisible !== 1 ? 's' : ''} matching "${searchTerm}"`;
+ }
+}
+
+// Smooth scrolling for anchor links
+function initSmoothScrolling() {
+ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+   e.preventDefault();
+   const targetId = this.getAttribute('href').substring(1);
+   const target = document.getElementById(targetId);
+   if (target) {
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+   }
+  });
+ });
+}
+
+// Back to top button functionality
+function initBackToTop() {
+ const backToTop = document.createElement('a');
+ backToTop.href = '#';
+ backToTop.className = 'back-to-top';
+ backToTop.innerHTML = '↑';
+ backToTop.title = 'Back to top';
+ document.body.appendChild(backToTop);
+ 
+ window.addEventListener('scroll', () => {
+  if (window.pageYOffset > 300) {
+   backToTop.classList.add('visible');
+  } else {
+   backToTop.classList.remove('visible');
+  }
+ });
+ 
+ backToTop.addEventListener('click', (e) => {
+  e.preventDefault();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+ });
+}
+
+// Random quote functionality
+function showRandomQuote() {
+ const quotes = document.querySelectorAll('blockquote');
+ const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+ 
+ // Clear search and show all quotes first
+ document.getElementById('quoteSearch').value = '';
+ searchQuotes();
+ 
+ // Scroll to random quote
+ randomQuote.scrollIntoView({ behavior: 'smooth', block: 'center' });
+ 
+ // Briefly highlight the quote
+ randomQuote.style.border = '3px solid #e74c3c';
+ setTimeout(() => {
+  randomQuote.style.border = '';
+ }, 3000);
+}
+
+// Initialize everything when page loads
+document.addEventListener('DOMContentLoaded', function() {
+ initSmoothScrolling();
+ initBackToTop();
+ 
+ // Add keyboard shortcut for search (Ctrl+F or Cmd+F)
+ document.addEventListener('keydown', function(e) {
+  if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
+   e.preventDefault();
+   document.getElementById('quoteSearch').focus();
+  }
+ });
+});
+</script>
+
+<div class="quotes-toc">
+<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (Ctrl+F)" onkeyup="searchQuotes()">
+
+<div style="margin-bottom: 15px;">
+<button onclick="showRandomQuote()" style="background: #e74c3c; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-right: 10px;">🎲 Random Quote</button>
+<span style="font-size: 14px; color: #7f8c8d;">Navigate by category below ↓</span>
+</div>
+
 # Table of Contents
-[Absurdity | ](#absurdity) | [Academics | ](#academics) | [Anger | ](#anger) | [Beauty | ](#beauty) | [Computation | ](#computation)
-[Conscience | ](#conscience) | [Creativity | ](#creativity) | [Culture | ](#culture) | [Faith | ](#faith) | [Good and Evil | ](#good-and-evil)
-[Happiness | ](#happiness) | [Logic | ](#logic) | [Longing | ](#longing) | [Love | ](#love) | [Math | ](#math)
-[Math Jokes | ](#math-jokes) | [Meaning | ](#meaning) | [Moderation | ](#moderation) | [Nihilism | ](#nihilism) | [Passion | ](#passion)
-[Philosophical jokes | ](#philosophical-jokes) | [Philosophy | ](#philosophy) | [Planning | ](#planning) | [Probability | ](#probability) | [Probability and Statistics jokes | ](#probability-and-statistics-jokes)
-[Psychology | ](#psychology) | [Science | ](#science) | [Suffering | ](#suffering) | [Systems | ](#systems) | [Teaching | ](#teaching)
-[Technology | ](#technology) | [Uncertainty | ](#uncertainty)
+<div class="toc-grid">
+<a href="#absurdity" class="toc-link">Absurdity <span class="quote-count">(13)</span></a>
+<a href="#academics" class="toc-link">Academics <span class="quote-count">(8)</span></a>
+<a href="#anger" class="toc-link">Anger <span class="quote-count">(16)</span></a>
+<a href="#beauty" class="toc-link">Beauty <span class="quote-count">(3)</span></a>
+<a href="#computation" class="toc-link">Computation <span class="quote-count">(1)</span></a>
+<a href="#conscience" class="toc-link">Conscience <span class="quote-count">(1)</span></a>
+<a href="#creativity" class="toc-link">Creativity <span class="quote-count">(3)</span></a>
+<a href="#culture" class="toc-link">Culture <span class="quote-count">(4)</span></a>
+<a href="#faith" class="toc-link">Faith <span class="quote-count">(5)</span></a>
+<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(18)</span></a>
+<a href="#happiness" class="toc-link">Happiness <span class="quote-count">(1)</span></a>
+<a href="#logic" class="toc-link">Logic <span class="quote-count">(6)</span></a>
+<a href="#longing" class="toc-link">Longing <span class="quote-count">(4)</span></a>
+<a href="#love" class="toc-link">Love <span class="quote-count">(3)</span></a>
+<a href="#math" class="toc-link">Math <span class="quote-count">(29)</span></a>
+<a href="#math-jokes" class="toc-link">Math Jokes <span class="quote-count">(7)</span></a>
+<a href="#meaning" class="toc-link">Meaning <span class="quote-count">(4)</span></a>
+<a href="#moderation" class="toc-link">Moderation <span class="quote-count">(1)</span></a>
+<a href="#nihilism" class="toc-link">Nihilism <span class="quote-count">(1)</span></a>
+<a href="#passion" class="toc-link">Passion <span class="quote-count">(4)</span></a>
+<a href="#philosophical-jokes" class="toc-link">Philosophical jokes <span class="quote-count">(3)</span></a>
+<a href="#philosophy" class="toc-link">Philosophy <span class="quote-count">(1)</span></a>
+<a href="#planning" class="toc-link">Planning <span class="quote-count">(1)</span></a>
+<a href="#probability" class="toc-link">Probability <span class="quote-count">(2)</span></a>
+<a href="#probability-and-statistics-jokes" class="toc-link">Probability and Statistics jokes <span class="quote-count">(2)</span></a>
+<a href="#psychology" class="toc-link">Psychology <span class="quote-count">(2)</span></a>
+<a href="#science" class="toc-link">Science <span class="quote-count">(27)</span></a>
+<a href="#suffering" class="toc-link">Suffering <span class="quote-count">(7)</span></a>
+<a href="#systems" class="toc-link">Systems <span class="quote-count">(1)</span></a>
+<a href="#teaching" class="toc-link">Teaching <span class="quote-count">(7)</span></a>
+<a href="#technology" class="toc-link">Technology <span class="quote-count">(1)</span></a>
+<a href="#uncertainty" class="toc-link">Uncertainty <span class="quote-count">(3)</span></a>
+</div>
 
 [Back to Brandon's page](/brandon/)
 
-### Absurdity
+<div class="section-header" id="absurdity">
+<h3 style="margin: 0; color: white;">Absurdity <span class="quote-count">(13 quotes)</span></h3>
+</div>
 > Cut off from his religious, metaphysical and transcendental roots, man is lost; all his actions become senseless, absurd, useless.  
 > **--_Eugene Ionesco, 1912-1994_**
 
@@ -75,7 +426,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Academics
+<div class="section-header" id="academics">
+<h3 style="margin: 0; color: white;">Academics <span class="quote-count">(8 quotes)</span></h3>
+</div>
 > "Hold your peace, senor," said Sancho; "faith, if I take to asking questions and answering, I'll go on from this till to-morrow morning. Nay! to ask foolish things and answer nonsense I needn't go looking for help from my neighbors." "Thou hast said more than thou art aware of, Sancho," said Don Quixote; "for there are some who weary themselves out in learning and proving things that, after they are known and proved, are not worth a farthing to the understanding or memory."  
 > **--_Miguel de Cervantes, The Ingenious Gentleman Don Quixote of La Mancha. 1615_**
 
@@ -115,7 +468,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Anger
+<div class="section-header" id="anger">
+<h3 style="margin: 0; color: white;">Anger <span class="quote-count">(16 quotes)</span></h3>
+</div>
 > Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.  
 > **--_Psalm 37:8_**
 
@@ -169,7 +524,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Beauty
+<div class="section-header" id="beauty">
+<h3 style="margin: 0; color: white;">Beauty <span class="quote-count">(3 quotes)</span></h3>
+</div>
 > I have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.‚Äù  
 > **--_Richard P. Feynman, The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman_**
 
@@ -184,7 +541,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Computation
+<div class="section-header" id="computation">
+<h3 style="margin: 0; color: white;">Computation <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > Where a calculator like the ENIAC today is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps weigh only 1 1/2 tons.  
 > **--_Popular Mechanics, March 1949, p. 258_**
 
@@ -193,7 +552,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Conscience
+<div class="section-header" id="conscience">
+<h3 style="margin: 0; color: white;">Conscience <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > There is a spectacle grander than the sea, and that is the sky; there is a spectacle grander than the sky, and it is the interior of the soul. To write the poem of the human conscience, were the subject only one man, and he the lowest of men, would be to resolve all epic poems into one supreme and final epic. Conscience is the chaos of chimeras, envies, and attempts, the furnace of dreams, the lurking-place of ideas we are ashamed of; it is the pandemonium of sophistry, the battlefield of the passions. At certain hours look through the livid face of a reflecting man, look into his soul, peer into the darkness. Beneath the external silence, combats of giants are going on there, such as we read of in Homer; melees of dragons and hydras and clouds of phantoms, such as we find in Milton; and visionary spirals, as in Dante. A sombre thing is the infinitude which every man bears within him, and by which he desperately measures the volitions of his brain and the actions of his life.  
 > **--_Victor Hugo, 1802-1885, Les Miserables_**
 
@@ -202,7 +563,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Creativity
+<div class="section-header" id="creativity">
+<h3 style="margin: 0; color: white;">Creativity <span class="quote-count">(3 quotes)</span></h3>
+</div>
 > I don't know where my ideas come from. I will admit, however, that one key ingredient is caffeine. I get a couple cups of coffee into me and weird things just start to happen.  
 > **--_Gary Larson, The Prehistory of The Far Side_**
 
@@ -217,7 +580,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Culture
+<div class="section-header" id="culture">
+<h3 style="margin: 0; color: white;">Culture <span class="quote-count">(4 quotes)</span></h3>
+</div>
 > What is the worst thing about living near an open sewer? It is not that you sicken at the stench of it every time you leave your front door. It is that the noisome vapors are so pervasive, and you have lived with them so long, you no longer notice it. What is the worst thing about living in the rubble of a civilization? It is not that you shed a tear for the noble churches and courts and town halls you once knew, as you recall years filled with religious services, parades, block parties, and all the bumptious folderol of an ordinary civic life. It is that you do not even suspect that such things existed.  
 > **--_Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
 
@@ -235,7 +600,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Faith
+<div class="section-header" id="faith">
+<h3 style="margin: 0; color: white;">Faith <span class="quote-count">(5 quotes)</span></h3>
+</div>
 > Roughly speaking, the word faith seems to be used by Christians in two senses or on two levels, and I will take them in turn. In the first sense it means simply belief‚ accepting or regarding as true the doctrines of Christianity. That is fairly simple. But what does puzzle people‚ at least it used to puzzle me‚ is the fact that Christians regard faith in this sense as a virtue. I used to ask how on Earth it can be a virtue‚ what is there moral or immoral about believing or not believing a set of statements? Obviously, I used to say, a sane man accepts or rejects any statement, not because he wants or does not want to, but because the evidence seems to him good or bad. If he were mistaken about the goodness or badness of the evidence, that would not mean he was a bad man, but only that he was not very clever. And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid. Well, I think I still take that view. But what I did not see then -- and a good many people do not see still -- was this. I was assuming that if the human mind once accepts a thing as true it will automatically go on regarding it as true, until some real reason for reconsidering it turns up. In fact, I was assuming that the human mind is completely ruled by reason. But that is not so. For example, my reason is perfectly convinced by good evidence that anesthetics do not smother me and that properly trained surgeons do not start operating until I am unconscious. But that does not alter the fact that when they have me down on the table and clap their horrible mask over my face, a mere childish panic begins inside me. I start thinking I am going to choke, and I am afraid they will start cutting me up before I am properly under. In other words, I lose my faith in anesthetics. It is not reason that is taking away my faith; on the contrary, my faith is based on reason. It is my imagination and emotions. The battle is between faith and reason on one side and emotion and imagination on the other. Now just the same thing happens about Christianity. I am not asking anyone to accept Christianity if his best reasoning tells him that the weight of evidence is against it. That is not the point at which faith comes in. But supposing a man's reason once decides that the weight of the evidence is for it. I can tell that man what is going to happen to him in the next few weeks. There will come a moment when there is bad news, or he is in trouble, or is living among a lot of other people who do not believe it, and all at once his emotions will rise up and carry out a sort of blitz on his belief. Or else there will come a moment when he wants a woman, or wants to tell a lie, or feels very pleased with himself, or sees a chance of making a little money in some way that is not perfectly fair; some moment, in fact, at which it would be very convenient if Christianity were not true. And once again his wishes and desires will carry out a blitz. I am not talking of moments at which any real new reasons against Christianity turn up. Those have to be faced and that is a different matter. I am talking about moments where a mere mood rises up against it. Now faith, in the sense in which I am here using the word, is the art of holding onto things your reason has once accepted, in spite of your changing moods. For moods will change, whatever view your reason takes. I know that by experience. Now that I am a Christian, I do have moods in which the whole thing looks very improbable; but when I was an atheist, I had moods in which Christianity looked terribly probable. This rebellion of your moods against your real self is going to come anyway. That is why faith is such a necessary virtue; unless you teach your moods 'where they get off', you can never be either a sound Christian or even a sound atheist, but just a creature dithering to and fro, with its beliefs really dependent on the weather and the state of its digestion. Consequently one must train the habit of faith.  
 > **--_C.S. Lewis, Mere Christianity, 1952._**
 
@@ -256,7 +623,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Good and Evil
+<div class="section-header" id="good-and-evil">
+<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(18 quotes)</span></h3>
+</div>
 > When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.  
 > **--_Mahatma Gandhi_**
 
@@ -316,7 +685,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Happiness
+<div class="section-header" id="happiness">
+<h3 style="margin: 0; color: white;">Happiness <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > The true secret of happiness lies in taking a genuine interest in all the details of daily life.  
 > **--_William Morris_**
 
@@ -325,7 +696,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Logic
+<div class="section-header" id="logic">
+<h3 style="margin: 0; color: white;">Logic <span class="quote-count">(6 quotes)</span></h3>
+</div>
 > Alice laughed: 'There's no use trying,' she said; 'one can't believe impossible things.' 'I daresay you haven't had much practice,' said the Queen. 'When I was younger, I always did it for half an hour a day. Why, sometimes I've believed as many as six impossible things before breakfast.'" "Where shall I begin" he asked. "Begin at the beginning", the king said, "and stop when you get to an end." "And what is the use of a book," thought Alice, "without pictures or conversations?  
 > **--_L. Carroll, Alice in Wonderland_**
 
@@ -349,7 +722,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Longing
+<div class="section-header" id="longing">
+<h3 style="margin: 0; color: white;">Longing <span class="quote-count">(4 quotes)</span></h3>
+</div>
 > This every soul seeketh and for the sake of this doth all her actions, having an inkling that it is; but what it is she cannot sufficiently discern, and she knoweth not her way, and concerning this she hath no constant assurance as she hath of other things.  
 > **--_Plato, The Republic, Book VI_**
 
@@ -367,7 +742,9 @@ blockquote strong em {
 
 [Back to Brandon's page](/brandon/)
 
-### Love
+<div class="section-header" id="love">
+<h3 style="margin: 0; color: white;">Love <span class="quote-count">(3 quotes)</span></h3>
+</div>
 > "There's Ilusha's stone, under which they wanted to bury him."
 
 They all stood still by the big stone. Alyosha looked and the whole picture of what Snegiryov had described to him that day, how Ilusha, weeping and hugging his father, had cried, "Father, father, how he insulted you," rose at once before his imagination. A sudden impulse seemed to come into his soul. With a serious and earnest expression he looked from one to another of the bright, pleasant faces of Ilusha's schoolfellows, and suddenly said to them:
@@ -432,7 +809,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Math
+<div class="section-header" id="math">
+<h3 style="margin: 0; color: white;">Math <span class="quote-count">(29 quotes)</span></h3>
+</div>
 > Mathematics presented as a closed, linearly ordered, system of truths without reference to origin and purpose has its charm and satisfies a philosophical need. But the attitude of introverted science is unsuitable for students who seek intellectual independence rather than indoctrination; disregard for applications and intuition leads to isolation and atrophy of mathematics. It seems extremely important that students and instructors should be protected from smug purism.  
 > **--_Richard Courant and Fritz John, From Introduction to Calculus and Analysis._**
 
@@ -525,7 +904,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Math Jokes
+<div class="section-header" id="math-jokes">
+<h3 style="margin: 0; color: white;">Math Jokes <span class="quote-count">(7 quotes)</span></h3>
+</div>
 > logloglog n has been proved to go to infinity, but has never been observed to do so.  
 > **--_Anonymous_**
 
@@ -552,7 +933,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Meaning
+<div class="section-header" id="meaning">
+<h3 style="margin: 0; color: white;">Meaning <span class="quote-count">(4 quotes)</span></h3>
+</div>
 > Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.  
 > **--_Richard P. Feynman, 1918-1988_**
 
@@ -570,7 +953,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Moderation
+<div class="section-header" id="moderation">
+<h3 style="margin: 0; color: white;">Moderation <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > Moderation does not mean truth is always found equidistant between two extreme positions, nor does it mean that bold and at times even radical steps are not necessary to advance moral ends. Moderation takes into account what is needed at any given moment ... there are general characteristics we associate with moderation, including prudence, the humility to recognize limits (including our own), the willingness to balance competing principles and an aversion to fanaticism. Moderation accepts the complexity of life in this world and distrusts utopian visions and simple solutions. The way to think about moderation is as a disposition, not as an ideology. Its antithesis is not conviction but intemperance.  
 > **--_Peter Wehner, NYT. Dec. 17, 2016_**
 
@@ -579,7 +964,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Nihilism
+<div class="section-header" id="nihilism">
+<h3 style="margin: 0; color: white;">Nihilism <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > Have you not heard of that madman who lit a lantern in the bright morning hours, ran to the market place, and cried incessantly: "I seek God! I seek God!" -- As many of those who did not believe in God were standing around just then, he provoked much laughter. Has he got lost? asked one. Did he lose his way like a child? asked another. Or is he hiding? Is he afraid of us? Has he gone on a voyage? emigrated? -- Thus they yelled and laughed. The madman jumped into their midst and pierced them with his eyes. "Whither is God?" he cried; "I will tell you. We have killed him -- you and I. All of us are his murderers. But how did we do this? How could we drink up the sea? Who gave us the sponge to wipe away the entire horizon? What were we doing when we unchained this earth from its sun? Whither is it moving now? Whither are we moving? Away from all suns? Are we not plunging continually? Backward, sideward, forward, in all directions? Is there still any up or down? Are we not straying, as through an infinite nothing? Do we not feel the breath of empty space? Has it not become colder? Is not night continually closing in on us? Do we not need to light lanterns in the morning? Do we hear nothing as yet of the noise of the gravediggers who are burying God? Do we smell nothing as yet of the divine decomposition? Gods, too, decompose. God is dead. God remains dead. And we have killed him. "How shall we comfort ourselves, the murderers of all murderers? What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves? What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it? There has never been a greater deed; and whoever is born after us -- for the sake of this deed he will belong to a higher history than all history hitherto." Here the madman fell silent and looked again at his listeners; and they, too, were silent and stared at him in astonishment. At last he threw his lantern on the ground, and it broke into pieces and went out. "I have come too early," he said then; "my time is not yet. This tremendous event is still on its way, still wandering; it has not yet reached the ears of men. Lightning and thunder require time; the light of the stars requires time; deeds, though done, still require time to be seen and heard. This deed is still more distant from them than most distant stars -- and yet they have done it themselves. It has been related further that on the same day the madman forced his way into several churches and there struck up his requiem aeternam deo. Led out and called to account, he is said always to have replied nothing but: "What after all are these churches now if they are not the tombs and sepulchers of God?"  
 > **--_Friedrich Nietzsche, The Gay Science (1882, 1887) para. 125; Walter Kaufmann ed. (New York: Vintage, 1974), pp.181-82_**
 
@@ -588,7 +975,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Passion
+<div class="section-header" id="passion">
+<h3 style="margin: 0; color: white;">Passion <span class="quote-count">(4 quotes)</span></h3>
+</div>
 > I would rather be ashes than dust! I would rather that my spark should burn out in a brilliant blaze than it should be stifled by dry-rot. I would rather be a superb meteor, every atom of me in magnificent glow, than a sleepy and permanent planet. The function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time.  
 > **--_Jack London, London's literary executor, Irving Shepard, quoting a Jack London Credo in an introduction to a 1956 collection of London stories._**
 
@@ -606,7 +995,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Philosophical jokes
+<div class="section-header" id="philosophical-jokes">
+<h3 style="margin: 0; color: white;">Philosophical jokes <span class="quote-count">(3 quotes)</span></h3>
+</div>
 > What if everything is an illusion and nothing exists? In that case, I definitely overpaid for my carpet.  
 > **--_Woody Alen_**
 
@@ -621,7 +1012,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Philosophy
+<div class="section-header" id="philosophy">
+<h3 style="margin: 0; color: white;">Philosophy <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > Order is not sufficient. What is required, is something much more complex. It is order entering upon novelty; so that the massiveness of order does not degenerate into mere repetition; and so that the novelty is always reflected upon a background of system.  
 > **--_Alfred North Whitehead, 1861-1947_**
 
@@ -630,7 +1023,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Planning
+<div class="section-header" id="planning">
+<h3 style="margin: 0; color: white;">Planning <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > He who every morning plans the transaction of the day and follows out that plan, carries a thread that will guide him through the maze of the most busy life. But where no plan is laid, where the disposal of time is surrendered merely to the chance of incidence, chaos will soon reign.  
 > **--_Victor Hugo_**
 
@@ -639,7 +1034,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Probability
+<div class="section-header" id="probability">
+<h3 style="margin: 0; color: white;">Probability <span class="quote-count">(2 quotes)</span></h3>
+</div>
 > ...no test based upon a theory of probability can by itself provide any valuable evidence of the truth or falsehood of a hypothesis. . . But we may look at the purpose of tests from another viewpoint. Without hoping to know whether each separate hypothesis is true or false, we may search for rules to govern our behavior with regard to them, in following which we insure that, in the long run of experience, we shall not often be wrong.  
 > **--_J. Neyman and E. S. Pearson, On the Problem of the Most Efficient Tests of Statistical Hypotheses. 1933_**
 
@@ -651,7 +1048,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Probability and Statistics jokes
+<div class="section-header" id="probability-and-statistics-jokes">
+<h3 style="margin: 0; color: white;">Probability and Statistics jokes <span class="quote-count">(2 quotes)</span></h3>
+</div>
 > USA Today has come out with a new survey--apparently three out of every four people make up 75% of the population.  
 > **--_David Letterman_**
 
@@ -663,7 +1062,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Psychology
+<div class="section-header" id="psychology">
+<h3 style="margin: 0; color: white;">Psychology <span class="quote-count">(2 quotes)</span></h3>
+</div>
 > The world is continuous, but the mind is discrete.  
 > **--_David Mumford, ICM 2002 plenary talk, Aug. 21, 2002_**
 
@@ -675,7 +1076,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Science
+<div class="section-header" id="science">
+<h3 style="margin: 0; color: white;">Science <span class="quote-count">(27 quotes)</span></h3>
+</div>
 > The most beautiful experience is the mysterious. It is the source of true art and science.  
 > **--_Albert Einstein, 1879-1955_**
 
@@ -762,7 +1165,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Suffering
+<div class="section-header" id="suffering">
+<h3 style="margin: 0; color: white;">Suffering <span class="quote-count">(7 quotes)</span></h3>
+</div>
 > What is hell? I maintain that it is the suffering of being unable to love.  
 > **--_Fyodor Dostoevsky, The Brothers Karamazov_**
 
@@ -789,7 +1194,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Systems
+<div class="section-header" id="systems">
+<h3 style="margin: 0; color: white;">Systems <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system  
 > **--_John Gall_**
 
@@ -798,7 +1205,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Teaching
+<div class="section-header" id="teaching">
+<h3 style="margin: 0; color: white;">Teaching <span class="quote-count">(7 quotes)</span></h3>
+</div>
 > "Spoon feeding, in the long run teaches us nothing but the shape of the spoon."  
 > **--_E. M. Forster_**
 
@@ -825,7 +1234,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Technology
+<div class="section-header" id="technology">
+<h3 style="margin: 0; color: white;">Technology <span class="quote-count">(1 quotes)</span></h3>
+</div>
 > "For a list of all the ways technology has failed to improve the quality of life, please press three."  
 > **--_Alice Kahn_**
 
@@ -834,7 +1245,9 @@ The boys were excited and they, too, wanted to say something, but they restraine
 
 [Back to Brandon's page](/brandon/)
 
-### Uncertainty
+<div class="section-header" id="uncertainty">
+<h3 style="margin: 0; color: white;">Uncertainty <span class="quote-count">(3 quotes)</span></h3>
+</div>
 > I think it's much more interesting to live not knowing than to have answers which might be wrong. I have approximate answers and possible beliefs and different degrees of uncertainty about different things, but I am not absolutely sure of anything and there are many things I don't know anything about, such as whether it means anything to ask why we're here. I don't have to know an answer. I don't feel frightened not knowing things, by being lost in a mysterious universe without any purpose, which is the way it really is as far as I can tell. I would rather have questions that can't be answered than answers that can't be questioned. I think it's much more interesting to live not knowing than to have answers which might be wrong. If you thought that science was certain - well, that is just an error on your part.  
 > **--_Richard P. Feynman, 1918-1988_**
 
