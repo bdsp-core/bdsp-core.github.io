@@ -32,12 +32,17 @@ blockquote strong em {
  position: sticky;
  top: 20px;
  background: white;
- padding: 20px;
+ padding: 15px;
  border: 1px solid #ddd;
  border-radius: 8px;
  margin-bottom: 30px;
  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
  z-index: 100;
+ transition: box-shadow 0.3s ease;
+}
+.quotes-toc.searching {
+ box-shadow: 0 4px 16px rgba(52, 152, 219, 0.3);
+ border-color: #3498db;
 }
 
 /* Search box */
@@ -76,36 +81,63 @@ blockquote strong em {
  border-radius: 8px 0 0 8px;
 }
 
-/* Quote counter */
-.quote-count {
- font-size: 12px;
- color: #7f8c8d;
- margin-left: 10px;
- background: #ecf0f1;
- padding: 2px 8px;
- border-radius: 12px;
-}
+/* Quote counter (moved to TOC styling section) */
 
-/* TOC styling */
+/* TOC styling - flexbox tiles */
 .toc-grid {
- display: grid;
- grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
- gap: 8px;
+ display: flex;
+ flex-wrap: wrap;
+ gap: 6px;
  margin-bottom: 15px;
 }
 .toc-link {
- padding: 8px 12px;
+ flex: 0 0 calc(25% - 5px);
+ padding: 6px 8px;
  background: #f8f9fa;
  border: 1px solid #e9ecef;
  border-radius: 4px;
  text-decoration: none;
  transition: all 0.2s ease;
- display: block;
+ font-size: 12px;
+ line-height: 1.2;
+ text-align: center;
+ box-sizing: border-box;
 }
 .toc-link:hover {
  background: #3498db;
  color: white;
  text-decoration: none;
+ transform: translateY(-1px);
+}
+.quote-count {
+ font-size: 10px;
+ color: #7f8c8d;
+ margin-left: 4px;
+ background: #ecf0f1;
+ padding: 1px 3px;
+ border-radius: 6px;
+ display: inline-block;
+}
+.toc-link:hover .quote-count {
+ color: #ffffff;
+ background: rgba(255,255,255,0.2);
+}
+
+/* Responsive - fewer columns on smaller screens */
+@media (max-width: 1024px) {
+ .toc-link {
+  flex: 0 0 calc(33.33% - 4px);
+ }
+}
+@media (max-width: 768px) {
+ .toc-link {
+  flex: 0 0 calc(50% - 3px);
+ }
+}
+@media (max-width: 480px) {
+ .toc-link {
+  flex: 0 0 100%;
+ }
 }
 
 /* Back to top button */
@@ -174,25 +206,33 @@ blockquote strong em {
  60% { text-shadow: .25em 0 0 black, .5em 0 0 rgba(0,0,0,0); }
  80%, 100% { text-shadow: .25em 0 0 black, .5em 0 0 black; }
 }
+
+/* Flash animation for search navigation */
+@keyframes flash {
+ 0% { box-shadow: 0 0 5px rgba(231, 76, 60, 0.3); }
+ 50% { box-shadow: 0 0 20px rgba(231, 76, 60, 0.8), 0 0 30px rgba(231, 76, 60, 0.6); }
+ 100% { box-shadow: 0 0 5px rgba(231, 76, 60, 0.3); }
+}
 </style>
 
 <script>
 // Enhanced search functionality with highlighting
 function searchQuotes() {
  const searchTerm = document.getElementById('quoteSearch').value.toLowerCase().trim();
- const sections = document.querySelectorAll('h3');
+ const sections = document.querySelectorAll('.section-header');
  let totalVisible = 0;
+ let firstMatchingQuote = null;
  
  // Clear previous highlights
  document.querySelectorAll('.highlight').forEach(el => {
   el.outerHTML = el.innerHTML;
  });
  
- sections.forEach(section => {
-  let element = section.nextElementSibling;
+ sections.forEach(sectionHeader => {
+  let element = sectionHeader.nextElementSibling;
   let hasVisibleQuotes = false;
   
-  while (element && element.tagName !== 'H3') {
+  while (element && !element.classList.contains('section-header')) {
    if (element.tagName === 'BLOCKQUOTE') {
     const quotText = element.textContent.toLowerCase();
     const isVisible = searchTerm === '' || quotText.includes(searchTerm);
@@ -200,6 +240,11 @@ function searchQuotes() {
     if (isVisible) {
      hasVisibleQuotes = true;
      totalVisible++;
+     
+     // Remember the first matching quote for scrolling
+     if (!firstMatchingQuote && searchTerm !== '') {
+      firstMatchingQuote = element;
+     }
      
      // Highlight search terms
      if (searchTerm !== '') {
@@ -212,11 +257,20 @@ function searchQuotes() {
    element = element.nextElementSibling;
   }
   
-  section.style.display = hasVisibleQuotes || searchTerm === '' ? 'block' : 'none';
+  sectionHeader.style.display = hasVisibleQuotes || searchTerm === '' ? 'block' : 'none';
  });
  
  // Update search results info
  updateSearchInfo(searchTerm, totalVisible);
+ 
+ // Use navigation function to go to first result instead of manual scroll
+ if (firstMatchingQuote && searchTerm !== '') {
+  setTimeout(() => {
+   // Use the navigation function to properly highlight and scroll to first result
+   currentResultIndex = -1; // Set to -1 so navigateResults(1) makes it 0
+   navigateResults(1);
+  }, 100);
+ }
 }
 
 function highlightText(element, searchTerm) {
@@ -245,20 +299,109 @@ function highlightText(element, searchTerm) {
  });
 }
 
+let currentResultIndex = 0;
+let searchResults = [];
+
 function updateSearchInfo(searchTerm, totalVisible) {
- let infoElement = document.getElementById('searchInfo');
- if (!infoElement) {
-  infoElement = document.createElement('div');
-  infoElement.id = 'searchInfo';
-  infoElement.style.cssText = 'margin-bottom: 15px; padding: 8px 12px; background: #e8f4f8; border-radius: 4px; font-size: 14px;';
-  document.querySelector('.quote-search').parentNode.insertBefore(infoElement, document.querySelector('.toc-grid'));
+ if (searchTerm === '') {
+  searchResults = [];
+  currentResultIndex = 0;
+  
+  // Hide floating bar
+  const floatingBar = document.getElementById('floatingSearchBar');
+  if (floatingBar) {
+   floatingBar.style.display = 'none';
+  }
+ } else {
+  // Collect all visible quotes for navigation
+  searchResults = Array.from(document.querySelectorAll('blockquote')).filter(quote => 
+   quote.style.display !== 'none' && quote.textContent.toLowerCase().includes(searchTerm)
+  );
+  currentResultIndex = 0;
+  
+  // Show floating search bar
+  showFloatingSearchBar(searchTerm, totalVisible);
+ }
+}
+
+// Handle search input - only search on Enter key
+function handleSearchKeydown(event) {
+ if (event.key === 'Enter') {
+  event.preventDefault();
+  searchQuotes();
+  // Remove focus from search box so Enter can be used for navigation
+  event.target.blur();
+  console.log('Search completed, focus removed from search box');
+  
+  // No auto-navigation needed - search already scrolls to first result
+ } else if (event.key === 'Escape') {
+  // Clear search and go to top on Escape
+  event.preventDefault();
+  event.stopPropagation(); // Prevent other handlers
+  console.log('Escape from search box');
+  clearFloatingSearch();
+ }
+}
+
+// Navigate between search results
+function navigateResults(direction) {
+ console.log('navigateResults called with direction:', direction, 'currentIndex:', currentResultIndex, 'total results:', searchResults.length);
+ 
+ if (searchResults.length === 0) {
+  console.log('No search results to navigate');
+  return;
  }
  
- if (searchTerm === '') {
-  infoElement.style.display = 'none';
- } else {
-  infoElement.style.display = 'block';
-  infoElement.innerHTML = `Found ${totalVisible} quote${totalVisible !== 1 ? 's' : ''} matching "${searchTerm}"`;
+ // Clear previous highlight and effects
+ searchResults.forEach(quote => {
+  quote.style.border = '';
+  quote.style.backgroundColor = '';
+  quote.style.transform = '';
+  quote.style.animation = '';
+ });
+ 
+ // Update index
+ const oldIndex = currentResultIndex;
+ currentResultIndex += direction;
+ if (currentResultIndex >= searchResults.length) currentResultIndex = 0;
+ if (currentResultIndex < 0) currentResultIndex = searchResults.length - 1;
+ 
+ console.log('Index changed from', oldIndex, 'to', currentResultIndex);
+ 
+ // Scroll to and highlight current result
+ const currentQuote = searchResults[currentResultIndex];
+ console.log('Scrolling to result', currentResultIndex + 1);
+ 
+ // Debug: Show the text content of the current quote
+ const quoteText = currentQuote.textContent.substring(0, 50) + "...";
+ console.log('Current quote text:', quoteText);
+ 
+ // Add a more dramatic highlight with result number
+ currentQuote.style.border = '4px solid #e74c3c';
+ currentQuote.style.backgroundColor = '#fff3cd';
+ currentQuote.style.transform = 'scale(1.02)';
+ 
+ // No need for floating indicator - counter is in search bar
+ 
+ // Scroll with more dramatic positioning
+ currentQuote.scrollIntoView({ 
+  behavior: 'smooth', 
+  block: 'center' 
+ });
+ 
+ // Flash effect to make navigation obvious
+ currentQuote.style.animation = 'flash 0.5s ease-in-out';
+ setTimeout(() => {
+  currentQuote.style.animation = '';
+ }, 500);
+ 
+ // Indicator removed - using search bar counter instead
+ 
+ // Update counter in floating bar
+ const counterSpan = document.getElementById('floatingCounter');
+ if (counterSpan) {
+  counterSpan.textContent = `${currentResultIndex + 1} of ${searchResults.length}`;
+  console.log('Updated counter to:', counterSpan.textContent);
  }
 }
 
@@ -318,23 +461,170 @@ function showRandomQuote() {
  }, 3000);
 }
 
+// Create floating search bar when searching
+function createFloatingSearchBar() {
+ let floatingBar = document.getElementById('floatingSearchBar');
+ if (!floatingBar) {
+  floatingBar = document.createElement('div');
+  floatingBar.id = 'floatingSearchBar';
+  floatingBar.style.cssText = `
+   position: fixed;
+   top: 50px;
+   left: 50%;
+   transform: translateX(-50%);
+   background: white;
+   padding: 10px 15px;
+   border: 2px solid #3498db;
+   border-radius: 8px;
+   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+   z-index: 1001;
+   display: none;
+   min-width: 300px;
+   max-width: 90vw;
+  `;
+  document.body.appendChild(floatingBar);
+ }
+ return floatingBar;
+}
+
+function showFloatingSearchBar(searchTerm, totalVisible) {
+ const floatingBar = createFloatingSearchBar();
+ 
+ let navButtons = '';
+ if (totalVisible > 1) {
+  navButtons = `
+   <div style="margin-left: 15px; display: flex; align-items: center; gap: 8px;">
+    <button onclick="navigateResults(-1)" style="padding: 4px 8px; border: 1px solid #ddd; background: white; border-radius: 3px; cursor: pointer;" title="Previous (↑ key)">↑ Prev</button>
+    <span style="font-size: 12px; min-width: 60px; text-align: center;" id="floatingCounter">1 of ${totalVisible}</span>
+    <button onclick="navigateResults(1)" style="padding: 4px 8px; border: 1px solid #ddd; background: white; border-radius: 3px; cursor: pointer;" title="Next (↓ or Enter key)">↓ Next</button>
+    <button onclick="clearFloatingSearch()" style="padding: 4px 8px; border: 1px solid #ddd; background: #f8f9fa; border-radius: 3px; cursor: pointer;" title="Close & go to top (Escape key)">✕ Close</button>
+    <span style="font-size: 10px; color: #666; margin-left: 8px;">↑↓ Enter Esc</span>
+   </div>
+  `;
+ } else {
+  navButtons = `
+   <button onclick="clearFloatingSearch()" style="margin-left: 15px; padding: 4px 8px; border: 1px solid #ddd; background: #f8f9fa; border-radius: 3px; cursor: pointer;">✕ Close</button>
+  `;
+ }
+ 
+ floatingBar.innerHTML = `
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+   <span style="font-size: 14px;">Found ${totalVisible} quote${totalVisible !== 1 ? 's' : ''} matching "${searchTerm}"</span>
+   ${navButtons}
+  </div>
+ `;
+ 
+ floatingBar.style.display = 'block';
+}
+
+function clearFloatingSearch() {
+ console.log('clearFloatingSearch called');
+ 
+ // Clear the search input
+ const searchBox = document.getElementById('quoteSearch');
+ if (searchBox) {
+  searchBox.value = '';
+  searchBox.blur(); // Remove focus from search box
+ }
+ 
+ // Clear search results array immediately
+ searchResults = [];
+ currentResultIndex = 0;
+ 
+ // Hide floating bar immediately
+ const floatingBar = document.getElementById('floatingSearchBar');
+ if (floatingBar) {
+  floatingBar.style.display = 'none';
+ }
+ 
+ // Show all quotes and sections
+ const allQuotes = document.querySelectorAll('blockquote');
+ allQuotes.forEach(quote => {
+  quote.style.display = 'block';
+  quote.style.border = ''; // Remove any search highlighting
+ });
+ 
+ const allSections = document.querySelectorAll('.section-header');
+ allSections.forEach(section => {
+  section.style.display = 'block';
+ });
+ 
+ // Clear any search highlights
+ document.querySelectorAll('.highlight').forEach(el => {
+  el.outerHTML = el.innerHTML;
+ });
+ 
+ // Return to top of page
+ console.log('Scrolling to top');
+ window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 // Initialize everything when page loads
 document.addEventListener('DOMContentLoaded', function() {
+ // Force page to start at top
+ window.scrollTo(0, 0);
+ 
  initSmoothScrolling();
  initBackToTop();
  
- // Add keyboard shortcut for search (Ctrl+F or Cmd+F)
+ // Add keyboard shortcuts
  document.addEventListener('keydown', function(e) {
+  // Debug: log all key presses when search is active
+  if (searchResults.length > 0) {
+   console.log('Key pressed:', e.key, 'Active element:', document.activeElement?.tagName, 'Search results:', searchResults.length);
+  }
+  
+  // Escape key - always clears search and goes to top
+  if (e.key === 'Escape') {
+   e.preventDefault();
+   e.stopPropagation();
+   console.log('Escape pressed globally, searchResults.length:', searchResults.length);
+   // Always clear search (even if empty) and go to top
+   clearFloatingSearch();
+   console.log('After clearFloatingSearch, searchResults.length:', searchResults.length);
+   return;
+  }
+  
+  // Ctrl+F or Cmd+F for search
   if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
    e.preventDefault();
    document.getElementById('quoteSearch').focus();
+   return;
+  }
+  
+  // When search is active
+  if (searchResults.length > 0) {
+   // Navigation keys
+   if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    console.log('Arrow up navigation');
+    navigateResults(-1);
+   } else if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    console.log('Arrow down navigation');
+    navigateResults(1);
+   } else if (e.key === 'Enter') {
+    console.log('Enter key detected, activeElement:', document.activeElement?.tagName, 'search box value:', document.getElementById('quoteSearch').value);
+    // Check if we're actively typing in search box
+    const searchBox = document.getElementById('quoteSearch');
+    if (document.activeElement === searchBox) {
+     // If in search box, let it handle the search
+     console.log('Enter in search box - letting it search');
+     return;
+    } else {
+     // If not in search box, use Enter for navigation
+     e.preventDefault();
+     console.log('Enter pressed for navigation');
+     navigateResults(1);
+    }
+   }
   }
  });
 });
 </script>
 
 <div class="quotes-toc">
-<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (Ctrl+F)" onkeyup="searchQuotes()">
+<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (press Enter to search)" onkeydown="handleSearchKeydown(event)">
 
 <div style="margin-bottom: 15px;">
 <button onclick="showRandomQuote()" style="background: #e74c3c; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-right: 10px;">🎲 Random Quote</button>
