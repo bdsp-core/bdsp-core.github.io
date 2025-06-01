@@ -248,109 +248,7 @@ blockquote strong em {
 > “Are you still sure of those signs, Pole? What’s the one we ought to be after, now?” “Oh, come on! Bother the signs,” said Pole. “Something about someone mentioning Aslan’s name, I think. But I’m jolly well not going to give a recitation here.”… This annoyance added to the misery of being very cold and tired, made her say, “Bother the signs.” She didn’t perhaps quite mean it...“Harfang!” exclaimed Scrubb. “That’s all very well,” said Puddleglum. “But what I was saying was——” “Oh, shut up,” said Jill crossly. “We haven’t a moment to lose. Don’t you remember what the Lady said about their locking up so early? We must get there in time, we must, we must. We’ll die if we’re shut out on a night like this.” “Well, it isn’t exactly a night, not yet,” began Puddleglum; but the two children both said, “Come on,” and began stumbling forward on the slippery tableland as quickly as their legs would carry them. The Marsh-wiggle followed them: still talking, but now that they were forcing their way into the wind again, they could not have heard him even if they had wanted to. And they didn’t want. They were thinking of baths and beds and hot drinks; and the idea of coming to Harfang too late and being shut out was almost unbearable.  
 > **--_The Silver Chair, C.S. Lewis_**
 
-> "Yes, indeed there are. Well, I will keep you in front of me. You will feel the wind, but not too much. I shall only want one arm to take care of you; the other will be quite enough to sink the ship."
-
-"Oh, dear North Wind! how can you talk so?"
-
-"My dear boy, I never talk; I always mean what I say."
-
-"Then you do mean to sink the ship with the other hand?"
-
-"Yes."
-
-"It's not like you."
-
-"How do you know that?"
-
-"Quite easily. Here you are taking care of a poor little boy with one arm, and there you are sinking a ship with the other. It can't be like you."
-
-"Ah! but which is me? I can't be two mes, you know."
-
-"No. Nobody can be two mes."
-
-"Well, which me is me?"
-
-"Now I must think. There looks to be two."
-
-"Yes. That's the very point.—You can't be knowing the thing you don't know, can you?"
-
-"No."
-
-"Which me do you know?"
-
-"The kindest, goodest, best me in the world," answered Diamond, clinging to North Wind.
-
-"Why am I good to you?"
-
-"I don't know."
-
-"Have you ever done anything for me?"
-
-"No."
-
-"Then I must be good to you because I choose to be good to you."
-
-"Yes."
-
-"Why should I choose?"
-
-"Because—because—because you like."
-
-"Why should I like to be good to you?"
-
-"I don't know, except it be because it's good to be good to me."
-
-"That's just it; I am good to you because I like to be good."
-
-"Then why shouldn't you be good to other people as well as to me?"
-
-"That's just what I don't know. Why shouldn't I?"
-
-"I don't know either. Then why shouldn't you?"
-
-"Because I am."
-
-"There it is again," said Diamond. "I don't see that you are. It looks quite the other thing."
-
-"Well, but listen to me, Diamond. You know the one me, you say, and that is good."
-
-"Yes."
-
-"Do you know the other me as well?"
-
-"No. I can't. I shouldn't like to."
-
-"There it is. You don't know the other me. You are sure of one of them?"
-
-"Yes."
-
-"And you are sure there can't be two mes?"
-
-"Yes."
-
-"Then the me you don't know must be the same as the me you do know,—else there would be two mes?"
-
-"Yes."
-
-"Then the other me you don't know must be as kind as the me you do know?"
-
-"Yes."
-
-"Besides, I tell you that it is so, only it doesn't look like it. That I confess freely. Have you anything more to object?"
-
-"No, no, dear North Wind; I am quite satisfied."
-
-"Then I will tell you something you might object. You might say that the me you know is like the other me, and that I am cruel all through."
-
-"I know that can't be, because you are so kind."
-
-"But that kindness might be only a pretence for the sake of being more cruel afterwards."
-
-Diamond clung to her tighter than ever, crying—
-
-"No, no, dear North Wind; I can't believe that. I don't believe it. I won't believe it. That would kill me. I love you, and you must love me, else how did I come to love you? How could you know how to put on such a beautiful face if you did not love me and the rest? No. You may sink as many ships as you like, and I won't say another word. I can't say I shall like to see it, you know."
-
-"That's quite another thing," said North Wind; and as she spoke she gave one spring from the roof of the hay-loft, and rushed up into the clouds, with Diamond on her left arm close to her heart. And as if the clouds knew she had come, they burst into a fresh jubilation of thunderous light...  
+> No; I'm not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.  
 > **--_George MacDonald, At the Back of the North Wind_**
 
 [Back to Top](# )
@@ -398,7 +296,7 @@ Diamond clung to her tighter than ever, crying—
 > If you wish to glimpse inside a human soul and get to know a man, don't bother analyzing his ways of being silent, of talking, of weeping, of seeing how much he is moved by noble ideas; you will get better results if you just watch him laugh. If he laughs well, he's a good man.  
 > **--_Fyodor Dostoevsky_**
 
-> It is not the brains that matter most, but that which guides them ‚Äî the character, the heart, generous qualities, progressive ideas.  
+> It is not the brains that matter most, but that which guides them‚ the character, the heart, generous qualities, progressive ideas.  
 > **--_Fyodor Dostoevsky_**
 
 > Looking back, I saw that for my whole conscious life I had not understood either myself or my strivings. What had seemed for so long beneficial now turned out in actuality to be fatal, and I had been striving to go in the opposite direction to that which was truly necessary to me. But just as the waves of the sea knock the inexperienced swimmer off his feet and keep tossing him back on to the shore, so also was I painfully tossed back on dry land by the blows of misfortune. And it was only because of this that I was able to travel the path which I had always really wanted to travel. It was granted me to carry away from my prison years on my bent back, which nearly broke beneath its load, this essential experience: how a human being becomes evil and how good. In the intoxication of youthful successes I had felt myself to be infallible, and I was therefore cruel. In the surfeit of power I was a murderer and an oppressor. In my most evil moments I was convinced that I was doing good, and I was well supplied with systematic arguments. And it was only when I lay there rotting on prison straw that I sensed within myself the first stirrings of good. Gradually it was disclosed to me that the line separating good and evil passes not through states, nor between classes, nor between political parties either ‚Äì but right through every human heart ‚Äì and through all human hearts. This line shifts. Inside us it oscillates with the years. And even within the hearts overwhelmed with evil, one small bridgehead of good is retained. And even in the best of all hearts, there remains‚Ä¶an un-uprooted small corner of evil. Since then I have come to understand the truth of all the religions of the world: They struggle with the evil inside a human being (inside every human being). It is impossible to expel evil from the world in its entirety, but it is possible to constrict it within each person. Bless you, prison, for having been in my life!‚Äù  
@@ -407,10 +305,10 @@ Diamond clung to her tighter than ever, crying—
 > Then the lion said - but I don't know if it spoke ‚Äì ‚ÄòYou will have to let me undress you.‚Äô I was afraid of his claws, I can tell you, but I was pretty nearly desperate now. So I just lay flat down on my back to let him do it. The very first tear he made was so deep that I thought it had gone right into my heart. And when he began pulling the skin off, it hurt worse than anything I've ever felt. The only thing that made me able to bear it was just the pleasure of feeling the stuff peel off. You know - if you've ever picked the scab off a sore place. It hurts like billy-oh but it is such fun to see it coming away. Well, he peeled the beastly stuff right off ... And there was I as smooth and soft as a peeled switch and smaller than I had been. Then he caught hold of me - I didn't like that much for I was very tender underneath now that I'd no skin on - and threw me into the water. It smarted like anything but only for a moment. After that it became perfectly delicious and as soon as I started swimming and splashing I found that all the pain had gone from my arm. And then I saw why. I'd turned into a boy again...  
 > **--_Eustace Scrubb in C. S. Lewis, The Voyage of the Dawn Treader_**
 
-> No; I‚Äôm not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.  
+> No; I'm not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.  
 > **--_North Wind, speaking to Little Diamond in "At the Back of the North Wind" by George MacDonald_**
 
-> "You mustn’t think that even now Edmund was quite so bad that he actually wanted his brother and sisters to be turned into stone. He did want Turkish Delight and to be a Prince (and later a King) and to pay Peter out for calling him a beast. As for what the Witch would do with the others, he didn’t want her to be particularly nice to them—certainly not to put them on the same level as himself; but he managed to believe, or to pretend he believed, that she wouldn’t do anything very bad to them, “Because,” he said to himself, “all these people who say nasty things about her are her enemies and probably half of it isn’t true. She was jolly nice to me, anyway, much nicer than they are. I expect she is the rightful Queen really. Anyway, she’ll be better than that awful Aslan!” At least, that was the excuse he made in his own mind for what he was doing. It wasn’t a very good excuse, however, for deep down inside him he really knew that the White Witch was bad and cruel."  
+> You mustn’t think that even now Edmund was quite so bad that he actually wanted his brother and sisters to be turned into stone. He did want Turkish Delight and to be a Prince (and later a King) and to pay Peter out for calling him a beast. As for what the Witch would do with the others, he didn’t want her to be particularly nice to them—certainly not to put them on the same level as himself; but he managed to believe, or to pretend he believed, that she wouldn’t do anything very bad to them, “Because,” he said to himself, “all these people who say nasty things about her are her enemies and probably half of it isn’t true. She was jolly nice to me, anyway, much nicer than they are. I expect she is the rightful Queen really. Anyway, she’ll be better than that awful Aslan!” At least, that was the excuse he made in his own mind for what he was doing. It wasn’t a very good excuse, however, for deep down inside him he really knew that the White Witch was bad and cruel.  
 > **--_C.S. Lewis, "The Lion, the Witch and the Wardrobe", 1950_**
 
 [Back to Top](# )
@@ -428,16 +326,19 @@ Diamond clung to her tighter than ever, crying—
 [Back to Brandon's page](/brandon/)
 
 ### Logic
-> "Alice laughed: 'There's no use trying,' she said; 'one can't believe impossible things.' 'I daresay you haven't had much practice,' said the Queen. 'When I was younger, I always did it for half an hour a day. Why, sometimes I've believed as many as six impossible things before breakfast.'" "Where shall I begin" he asked. "Begin at the beginning", the king said, "and stop when you get to an end." "And what is the use of a book," thought Alice, "without pictures or conversations?"  
+> Alice laughed: 'There's no use trying,' she said; 'one can't believe impossible things.' 'I daresay you haven't had much practice,' said the Queen. 'When I was younger, I always did it for half an hour a day. Why, sometimes I've believed as many as six impossible things before breakfast.'" "Where shall I begin" he asked. "Begin at the beginning", the king said, "and stop when you get to an end." "And what is the use of a book," thought Alice, "without pictures or conversations?  
 > **--_L. Carroll, Alice in Wonderland_**
 
-> "The grand thing is to be able to reason backwards."  
+> The grand thing is to be able to reason backwards.  
 > **--_Arthur Conan Doyle, A study in scarlet_**
 
-> "Have you ever observed that we pay much more attention to a wise passage when it is quoted than when we read it in the original author?"  
+> Have you ever observed that we pay much more attention to a wise passage when it is quoted than when we read it in the original author?  
 > **--_Philip G. Hamerton_**
 
-> "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth." "'Data! Data! Data!' he cried, impatiently. 'I can't make bricks without clay'."  
+> Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.  
+> **--_Sherlock Holmes, by Sir Arthur Conan Doyle, 1859-1930_**
+
+> Data! Data! Data!' he cried, impatiently. 'I can't make bricks without clay'.  
 > **--_Sherlock Holmes, by Sir Arthur Conan Doyle, 1859-1930_**
 
 > "Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth."  
@@ -541,8 +442,14 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > If things are nice there is probably a good reason why they are nice: and if you do not know at least one reason for this good fortune, then you still have work to do.  
 > **--_Richard Askey, Ramanujan and Important Formulas, p. 32, in Srinivasa Ramanujan (1887-1920), a Tribute, K.R. Nagarajan and T. Soundarajan, eds., Madurai Kamaraj University, 1987_**
 
-> "Quapropter bono christiano, sive mathematici, sive quilibet impie divinantium, maxime dicentes vera, cavendi sunt, ne consortio daemoniorum animam deceptam, pacto quodam societatis irretiant." ("Thus the good christian should beware of mathematicians and all those who make false prophecies, however much they may in fact speak the truth; lest, being in league with the devil, they may deceive errant souls into making common cause.") **-_Augustinus, De genesis ad literam, Liber 2, Caput XVII, Nr. 37_** Obvious is the most dangerous word in mathematics. **-_E. T. Bell_** "Mathematics is a collection of cheap tricks and dirty jokes."  
-> **--_Lipman Bers_**
+> Mathematics is a collection of cheap tricks and dirty jokes.  
+> **--_Limpan Bers_**
+
+> Obvious is the most dangerous word in mathematics.  
+> **--_E. T. Bell_**
+
+> "Quapropter bono christiano, sive mathematici, sive quilibet impie divinantium, maxime dicentes vera, cavendi sunt, ne consortio daemoniorum animam deceptam, pacto quodam societatis irretiant." ("Thus the good christian should beware of mathematicians and all those who make false prophecies, however much they may in fact speak the truth; lest, being in league with the devil, they may deceive errant souls into making common cause.")  
+> **--_Augustinus, De genesis ad literam, Liber 2, Caput XVII, Nr. 37_**
 
 > Suppose that you want to teach the 'cat' concept to a very young child. Do you explain that a cat is a relatively small, primarily carnivorous mammal with retractible claws, a distinctive sonic output, etc.? I'll bet not. You probably show the kid a lot of different cats, saying 'kitty' each time, until it gets the idea. To put it more generally, generalizations are best made by abstraction from experience.  
 > **--_R. P. Boas, From: "C"an we make mathematics inelligible?", American Mathematical Monthly 88 (1981), pp. 727-731_**
@@ -646,10 +553,10 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 ### Meaning
-> Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.‚Äù  
+> Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.  
 > **--_Richard P. Feynman, 1918-1988_**
 
-> Tomorrow, and tomorrow, and tomorrow, Creeps in the petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death. Out, out, brief candle, Life‚Äôs but a walking shadow, a poor player That struts and frets his hour upon the stage, And then is heard no more. It is a tale Told by an idiot, full of sound and fury Signifying nothing.  
+> Tomorrow, and tomorrow, and tomorrow, Creeps in the petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death. Out, out, brief candle, Life's but a walking shadow, a poor player That struts and frets his hour upon the stage, And then is heard no more. It is a tale Told by an idiot, full of sound and fury Signifying nothing.  
 > **--_Shakespeare's Macbeth, after Macbeth hears of his wife's suicide, 1623_**
 
 > William Stoner entered the University of Missouri as a freshman in the year 1910, at the age of nineteen. Eight years later, during the height of World War I, he received his Doctor of Philosophy degree and accepted an instructorship at the same University, where he taught until his death in 1956. He did not rise above the rank of assistant professor, and few students remembered him with any sharpness after they had taken his courses. When he died his colleagues made a memorial contribution of a medieval manuscript to the University library. This manuscript may still be found in the Rare Books Collection, bearing the inscription: "Presented to the Library of the University of Missouri, in memory of William Stoner, Department of English. By his colleagues." An occasional student who comes upon the name may wonder idly who William Stoner was, but he seldom pursues his curiosity beyond a casual question. Stoner's colleagues, who held him in no particular esteem when he was alive, speak of him rarely now; to the older ones, his name is a reminder of the end that awaits them all, and to the younger ones it is merely a sound which evokes no sense of the past and no identity with which they can associate themselves or their careers.  
@@ -688,10 +595,10 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > You can only be truly accomplished at something you love. Don't make money the goal. Instead, pursue the things you love doing, and do them so well that people can't take their eyes off you. All the other tangible rewards will come as a result.  
 > **--_Maya Angleou_**
 
-> "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines, sail away from the safe harbour, catch the trade winds in your sails. Explore. Dream. Discover."  
+> Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines, sail away from the safe harbour, catch the trade winds in your sails. Explore. Dream. Discover.  
 > **--_Mark Twain, 1835-1910_**
 
-> Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.‚Äù  
+> Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don't think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn't stop you from doing anything at all.  
 > **--_Richard P. Feynman_**
 
 [Back to Top](# )
@@ -700,13 +607,13 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 ### Philosophical jokes
-> "What if everything is an illusion and nothing exists? In that case, I definitely overpaid for my carpet."  
+> What if everything is an illusion and nothing exists? In that case, I definitely overpaid for my carpet.  
 > **--_Woody Alen_**
 
 > It is an important and popular fact that things are not always as what they seem. For instance, on the planet earth, man has always assumed that he was more intelligent than dolphins because he had achieved so much: the wheel, New York, wars. [...] But conversely, the dolphins had always believed that they were far more intelligent than men; for precisely the same reasons.  
 > **--_Douglas Adams, The hitchhiker's guide to the galaxy_**
 
-> God is dead. Marx is dead. And I don‚Äôt feel so well myself.  
+> God is dead. Marx is dead. And I don't feel so well myself.  
 > **--_Eugene Ionesco, 1912-1994_**
 
 [Back to Top](# )
@@ -715,7 +622,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 ### Philosophy
-> "Order is not sufficient. What is required, is something much more complex. It is order entering upon novelty; so that the massiveness of order does not degenerate into mere repetition; and so that the novelty is always reflected upon a background of system."  
+> Order is not sufficient. What is required, is something much more complex. It is order entering upon novelty; so that the massiveness of order does not degenerate into mere repetition; and so that the novelty is always reflected upon a background of system.  
 > **--_Alfred North Whitehead, 1861-1947_**
 
 [Back to Top](# )
@@ -736,7 +643,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > ...no test based upon a theory of probability can by itself provide any valuable evidence of the truth or falsehood of a hypothesis. . . But we may look at the purpose of tests from another viewpoint. Without hoping to know whether each separate hypothesis is true or false, we may search for rules to govern our behavior with regard to them, in following which we insure that, in the long run of experience, we shall not often be wrong.  
 > **--_J. Neyman and E. S. Pearson, On the Problem of the Most Efficient Tests of Statistical Hypotheses. 1933_**
 
-> "It is not certain that everything is uncertain."  
+> It is not certain that everything is uncertain.  
 > **--_Blaise Pascal_**
 
 [Back to Top](# )
@@ -745,13 +652,10 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 ### Probability and Statistics jokes
-> "USA Today has come out with a new survey--apparently three out of every four people make up 75% of the population."  
+> USA Today has come out with a new survey--apparently three out of every four people make up 75% of the population.  
 > **--_David Letterman_**
 
-> "There is something in statistics that makes it very similar to astrology."  
-> **--_Gian-Carlo Rota_**
-
-> "There is something in statistics that makes it very similar to astrology."  
+> There is something in statistics that makes it very similar to astrology.  
 > **--_Gian-Carlo Rota_**
 
 [Back to Top](# )
@@ -760,7 +664,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 ### Psychology
-> "The world is continuous, but the mind is discrete."  
+> The world is continuous, but the mind is discrete.  
 > **--_David Mumford, ICM 2002 plenary talk, Aug. 21, 2002_**
 
 > Don't let us forget that the causes of human actions are usually immeasurably more complex and varied than our subsequent explanations of them.  
@@ -772,43 +676,76 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 ### Science
-> "The most beautiful experience is the mysterious. It is the source of true art and science." "Everything should be made as simple as possible, but not simpler." "Pure mathematics is, in its way, the poetry of logical ideas." "Not everything that can be counted counts, and not everything that counts can be counted." "Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater." "I never think of the future--it comes soon enough." "Imagination is more important than knowledge." "It's not that I'm so smart. It's just that I spent more time on problems."  
+> The most beautiful experience is the mysterious. It is the source of true art and science.  
 > **--_Albert Einstein, 1879-1955_**
 
-> "I have not failed. I've just found 10,000 ways that won't work."  
+> Everything should be made as simple as possible, but not simpler.  
+> **--_Albert Einstein, 1879-1955_**
+
+> Pure mathematics is, in its way, the poetry of logical ideas.  
+> **--_Albert Einstein, 1879-1955_**
+
+> Not everything that can be counted counts, and not everything that counts can be counted.  
+> **--_Albert Einstein, 1879-1955_**
+
+> Imagination is more important than knowledge.  
+> **--_Albert Einstein, 1879-1955_**
+
+> I never think of the future--it comes soon enough.  
+> **--_Albert Einstein, 1879-1955_**
+
+> Do not worry too much about your difficulties in mathematics, I can assure you that mine are still greater.  
+> **--_Albert Einstein, 1879-1955_**
+
+> It's not that I'm so smart. It's just that I spent more time on problems.  
+> **--_Albert Einstein, 1879-1955_**
+
+> I have not failed. I've just found 10,000 ways that won't work.  
 > **--_Thomas Alva Edison, 1847-1931_**
 
-> "In theory, there is no difference between theory and practice. But, in practice, there is.  
+> In theory, there is no difference between theory and practice. But, in practice, there is.  
 > **--_Jan L.A. van de Snepscheut_**
 
-> "One cannot understand... the universality of laws of nature, the relationship of things, without an understanding of mathematics. There is no other way to do it."  
+> One cannot understand... the universality of laws of nature, the relationship of things, without an understanding of mathematics. There is no other way to do it.  
 > **--_Richard P. Feynman_**
 
-> "When I am working on a problem I never think about beauty. I only think about how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong." "Everything you've learned in school as 'obvious' becomes less and less obvious as you begin to study the universe. For example, there are no solids in the universe. There's not even a suggestion of a solid. There are no absolute continuums. There are no surfaces. There are no straight lines."  
+> Everything you've learned in school as 'obvious' becomes less and less obvious as you begin to study the universe. For example, there are no solids in the universe. There's not even a suggestion of a solid. There are no absolute continuums. There are no surfaces. There are no straight lines.  
 > **--_Buckminster Fuller, 1895-1983_**
 
-> "Philosophy is written in this grand book--I mean the universe--which stands continually open to our gaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures, without which it is humanly impossible to understand a single word of it."  
+> When I am working on a problem I never think about beauty. I only think about how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.  
+> **--_Buckminster Fuller, 1895-1983_**
+
+> Philosophy is written in this grand book--I mean the universe--which stands continually open to our gaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures, without which it is humanly impossible to understand a single word of it.  
 > **--_Galileo Galilei, Il Saggiatore, 1623_**
 
-> "Ubi materia, ibi geometria." "Geometry is the archetype of the beauty of the world."  
+> Ubi materia, ibi geometria. (Geometry is the archetype of the beauty of the world.)  
 > **--_Johannes Kepler, 1571-1630_**
 
-> "Science is what we understand well enough to explain to a computer, Art is all the rest."  
+> Science is what we understand well enough to explain to a computer, Art is all the rest.  
 > **--_Donald E. Knuth, Foreword to A=B by Petkovsek, Wilf and Zeilberger_**
 
-> "Sometimes a good idea comes to you when you are not looking for it. Through an improbable combination of coincidence, naivete and lucky mistakes ..."  
+> Sometimes a good idea comes to you when you are not looking for it. Through an improbable combination of coincidence, naivete and lucky mistakes ...  
 > **--_Kary Mullis, The Unusual Origin of the Polymerase Chain Reaction, Sci. Amer., April 1990, p. 445_**
 
-> "In mathematics you don't understand things. You just get used to them." "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."  
+> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.  
 > **--_John von Neumann, 1903-1957_**
 
-> "Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things." "I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."  
+> In mathematics you don't understand things. You just get used to them.  
+> **--_John von Neumann, 1903-1957_**
+
+> Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things.  
 > **--_Isaac Newton, 1643-1727_**
 
-> "Thought is only a flash between two long nights, but this flash is everything." "Science is facts; just as houses are made of stones, so is science made of facts; but a pile of stones is not a house and a collection of facts is not necessarily science.  
+> I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.  
+> **--_Isaac Newton, 1643-1727_**
+
+> Science is facts; just as houses are made of stones, so is science made of facts; but a pile of stones is not a house and a collection of facts is not necessarily science.  
 > **--_Jules Henri Poincare, 1854-1912_**
 
-> "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."  
+> Thought is only a flash between two long nights, but this flash is everything.  
+> **--_Jules Henri Poincare, 1854-1912_**
+
+> All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.  
 > **--_Arthur Schopenhauer, 1788-1860_**
 
 > The first principle is that you must not fool yourself and you are the easiest person to fool.  
