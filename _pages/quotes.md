@@ -180,7 +180,7 @@ blockquote strong em {
 // Enhanced search functionality with highlighting
 function searchQuotes() {
  const searchTerm = document.getElementById('quoteSearch').value.toLowerCase().trim();
- const sections = document.querySelectorAll('h3');
+ const sections = document.querySelectorAll('.section-header');
  let totalVisible = 0;
  
  // Clear previous highlights
@@ -188,11 +188,11 @@ function searchQuotes() {
   el.outerHTML = el.innerHTML;
  });
  
- sections.forEach(section => {
-  let element = section.nextElementSibling;
+ sections.forEach(sectionHeader => {
+  let element = sectionHeader.nextElementSibling;
   let hasVisibleQuotes = false;
   
-  while (element && element.tagName !== 'H3') {
+  while (element && !element.classList.contains('section-header')) {
    if (element.tagName === 'BLOCKQUOTE') {
     const quotText = element.textContent.toLowerCase();
     const isVisible = searchTerm === '' || quotText.includes(searchTerm);
@@ -212,7 +212,7 @@ function searchQuotes() {
    element = element.nextElementSibling;
   }
   
-  section.style.display = hasVisibleQuotes || searchTerm === '' ? 'block' : 'none';
+  sectionHeader.style.display = hasVisibleQuotes || searchTerm === '' ? 'block' : 'none';
  });
  
  // Update search results info
@@ -251,7 +251,12 @@ function updateSearchInfo(searchTerm, totalVisible) {
   infoElement = document.createElement('div');
   infoElement.id = 'searchInfo';
   infoElement.style.cssText = 'margin-bottom: 15px; padding: 8px 12px; background: #e8f4f8; border-radius: 4px; font-size: 14px;';
-  document.querySelector('.quote-search').parentNode.insertBefore(infoElement, document.querySelector('.toc-grid'));
+  const tocGrid = document.querySelector('.toc-grid');
+  if (tocGrid) {
+   document.querySelector('.quote-search').parentNode.insertBefore(infoElement, tocGrid);
+  } else {
+   document.querySelector('.quote-search').parentNode.appendChild(infoElement);
+  }
  }
  
  if (searchTerm === '') {
