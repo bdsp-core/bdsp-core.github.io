@@ -91,10 +91,20 @@ blockquote strong em {
 > For every problem, there is one solution which is simple, neat, and wrong.  
 > **--_H. L. Mencken, 1880-1956_**
 
-> The academic politician is interested in victory. He has the moral code of Machiavelli, but, because he is too impatient to submit to the instruction of history, he has not the old master‚Äôs shrewd sense of human limitations and contradictions. He makes the worst of rulers: he is neither a lover of truth, nor a practical man of the world, nor an habitual examiner of his all-too-human and persistent failings.  
+> The academic politician is interested in victory. He has the moral code of Machiavelli, but, because he is too impatient to submit to the instruction of history, he has not the old master's shrewd sense of human limitations and contradictions. He makes the worst of rulers: he is neither a lover of truth, nor a practical man of the world, nor an habitual examiner of his all-too-human and persistent failings.  
 > **--_Anthony Ansolen, Higher Education in Hell (January 25, 2017)_**
 
-> In my long experience I have learned what are the five most important characteristics of a good colleague, and I shall tell you them. 1. He or she must tell you when you're wrong. When you've risen above the associate professor level most people are convinced that you think yourself infallible. Of course they're right, but it's annoying that they tell everybody else when you're wrong and won't tell you‚Ä¶. 2. The ideal colleague must tell you you're wrong without actually stopping you doing the experiment you're just planning. With some colleagues things stop dead when the idea is killed; With others the argument and discussion is such fun that the experiment gets forgotten‚Ä¶. 3. The ideal colleague must constantly convert a theoretical argument into an experimental prediction: ‚ÄòYou say X is so, therefore Y should happen.‚Äô This is the most basic step in all of science, but it's a rare ability to constantly make that step; most of us either waste our time basking in the brilliant sunshine of theory, or just love fiddling with the equipment. Come to think of it there's a third category: those who spend all their time writing grant applications. 4. The ideal colleague must have read all the literature you cannot be bothered to read, must understand the historical development of the subject accurately and dispassionately, and whenever necessary must exaggerate the importance of your own role in it. > 5. Any colleague of any sort has to tidy up the lab after you've made a mess of it.  
+> In my long experience I have learned what are the five most important characteristics of a good colleague, and I shall tell you them. 
+
+1. He or she must tell you when you're wrong. When you've risen above the associate professor level most people are convinced that you think yourself infallible. Of course they're right, but it's annoying that they tell everybody else when you're wrong and won't tell you. 
+
+2. The ideal colleague must tell you you're wrong without actually stopping you doing the experiment you're just planning. With some colleagues things stop dead when the idea is killed; With others the argument and discussion is such fun that the experiment gets forgotten. 
+
+3. The ideal colleague must constantly convert a theoretical argument into an experimental prediction: "You say X is so, therefore Y should happen." This is the most basic step in all of science, but it's a rare ability to constantly make that step; most of us either waste our time basking in the brilliant sunshine of theory, or just love fiddling with the equipment. Come to think of it there's a third category: those who spend all their time writing grant applications. 
+
+4. The ideal colleague must have read all the literature you cannot be bothered to read, must understand the historical development of the subject accurately and dispassionately, and whenever necessary must exaggerate the importance of your own role in it. 
+
+5. Any colleague of any sort has to tidy up the lab after you've made a mess of it.  
 > **--_Horace Barlow, preface of Vision: Coding and Efficiency. (1990)_**
 
 > And further, by these, my son, be admonished: of making many books there is no end; and much astudy is a weariness of the flesh.  
@@ -124,8 +134,11 @@ blockquote strong em {
 > He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.  
 > **--_Proverbs 14:29, KJV_**
 
-> Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools. **-_Ecclesiastes 7:9, KJV_** The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.  
+> The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.  
 > **--_Proverbs 17:14, KJV_**
+
+> Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.  
+> **--_Ecclesiastes 7:9, KJV_**
 
 > Be not overcome of evil, but overcome evil with good.  
 > **--_Romans 12:21, KJV_**
@@ -157,13 +170,13 @@ blockquote strong em {
 [Back to Brandon's page](/brandon/)
 
 ### Beauty
-> ‚ÄúI have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.‚Äù  
+> I have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.‚Äù  
 > **--_Richard P. Feynman, The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman_**
 
-> ‚ÄúA poet once said, 'The whole universe is in a glass of wine.' We will probably never know in what sense he meant it, for poets do not write to be understood. But it is true that if we look at a glass of wine closely enough we see the entire universe. There are the things of physics: the twisting liquid which evaporates depending on the wind and weather, the reflection in the glass; and our imagination adds atoms. The glass is a distillation of the earth's rocks, and in its composition we see the secrets of the universe's age, and the evolution of stars. What strange array of chemicals are in the wine? How did they come to be? There are the ferments, the enzymes, the substrates, and the products. There in wine is found the great generalization; all life is fermentation. Nobody can discover the chemistry of wine without discovering, as did Louis Pasteur, the cause of much disease. How vivid is the claret, pressing its existence into the consciousness that watches it! If our small minds, for some convenience, divide this glass of wine, this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it! So let us put it all back together, not forgetting ultimately what it is for. Let it give us one more final pleasure; drink it and forget it all!‚Äù  
+> A poet once said, 'The whole universe is in a glass of wine.' We will probably never know in what sense he meant it, for poets do not write to be understood. But it is true that if we look at a glass of wine closely enough we see the entire universe. There are the things of physics: the twisting liquid which evaporates depending on the wind and weather, the reflection in the glass; and our imagination adds atoms. The glass is a distillation of the earth's rocks, and in its composition we see the secrets of the universe's age, and the evolution of stars. What strange array of chemicals are in the wine? How did they come to be? There are the ferments, the enzymes, the substrates, and the products. There in wine is found the great generalization; all life is fermentation. Nobody can discover the chemistry of wine without discovering, as did Louis Pasteur, the cause of much disease. How vivid is the claret, pressing its existence into the consciousness that watches it! If our small minds, for some convenience, divide this glass of wine, this universe, into parts -- physics, biology, geology, astronomy, psychology, and so on -- remember that nature does not know it! So let us put it all back together, not forgetting ultimately what it is for. Let it give us one more final pleasure; drink it and forget it all!  
 > **--_Richard P. Feynman, 1918-1988_**
 
-> ‚ÄúPoets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?‚Äù  
+> Poets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?  
 > **--_Richard Feynman, 1918-1988_**
 
 [Back to Top](# )
@@ -211,7 +224,7 @@ blockquote strong em {
 > No society has been able to abolish human sadness, no political system can deliver us from the pain of living, from our fear of death, our thirst for the absolute. It is the human condition that directs the social condition, not vice versa.  
 > **--_Eugene Ionesco_**
 
-> If you are a really serious student, you will be in science, or finance, or politics‚Äîyou will be in the business of money or power. Everything is about ourselves. We don‚Äôt want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, ‚ÄúHere, let me teach you about Milton,‚Äù the author of the greatest poem in the English language. The students reply, ‚ÄúNo, let us teach you about us.‚Äù Dear Narcissus, there is a great and beautiful world beyond that pool.  
+> If you are a really serious student, you will be in science, or finance, or politics‚ you will be in the business of money or power. Everything is about ourselves. We don't want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, "Here, let me teach you about Milton, the author of the greatest poem in the English language". The students reply, "No, let us teach you about us". Dear Narcissus, there is a great and beautiful world beyond that pool.  
 > **--_Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
 
 > The world says: "You have needs -- satisfy them. You have as much right as the rich and the mighty. Don't hesitate to satisfy your needs; indeed, expand your needs and demand more." This is the worldly doctrine of today. And they believe that this is freedom. The result for the rich is isolation and suicide, for the poor, envy and murder.  
@@ -235,7 +248,109 @@ blockquote strong em {
 > “Are you still sure of those signs, Pole? What’s the one we ought to be after, now?” “Oh, come on! Bother the signs,” said Pole. “Something about someone mentioning Aslan’s name, I think. But I’m jolly well not going to give a recitation here.”… This annoyance added to the misery of being very cold and tired, made her say, “Bother the signs.” She didn’t perhaps quite mean it...“Harfang!” exclaimed Scrubb. “That’s all very well,” said Puddleglum. “But what I was saying was——” “Oh, shut up,” said Jill crossly. “We haven’t a moment to lose. Don’t you remember what the Lady said about their locking up so early? We must get there in time, we must, we must. We’ll die if we’re shut out on a night like this.” “Well, it isn’t exactly a night, not yet,” began Puddleglum; but the two children both said, “Come on,” and began stumbling forward on the slippery tableland as quickly as their legs would carry them. The Marsh-wiggle followed them: still talking, but now that they were forcing their way into the wind again, they could not have heard him even if they had wanted to. And they didn’t want. They were thinking of baths and beds and hot drinks; and the idea of coming to Harfang too late and being shut out was almost unbearable.  
 > **--_The Silver Chair, C.S. Lewis_**
 
-> "Yes, indeed there are. Well, I will keep you in front of me. You will feel the wind, but not too much. I shall only want one arm to take care of you; the other will be quite enough to sink the ship." "Oh, dear North Wind! how can you talk so?" "My dear boy, I never talk; I always mean what I say." "Then you do mean to sink the ship with the other hand?" "Yes." "It's not like you." "How do you know that?" "Quite easily. Here you are taking care of a poor little boy with one arm, and there you are sinking a ship with the other. It can't be like you." "Ah! but which is me? I can't be two mes, you know." "No. Nobody can be two mes." "Well, which me is me?" "Now I must think. There looks to be two." "Yes. That's the very point.--You can't be knowing the thing you don't know, can you?" "No." "Which me do you know?" "The kindest, goodest, best me in the world," answered Diamond, clinging to North Wind. "Why am I good to you?" "I don't know." "Have you ever done anything for me?" "No." "Then I must be good to you because I choose to be good to you." "Yes." "Why should I choose?" "Because--because--because you like." "Why should I like to be good to you?" "I don't know, except it be because it's good to be good to me." "That's just it; I am good to you because I like to be good." "Then why shouldn't you be good to other people as well as to me?" "That's just what I don't know. Why shouldn't I?" "I don't know either. Then why shouldn't you?" "Because I am." "There it is again," said Diamond. "I don't see that you are. It looks quite the other thing." "Well, but listen to me, Diamond. You know the one me, you say, and that is good." "Yes." "Do you know the other me as well?" "No. I can't. I shouldn't like to." "There it is. You don't know the other me. You are sure of one of them?" "Yes." "And you are sure there can't be two mes?" "Yes." "Then the me you don't know must be the same as the me you do know,-- else there would be two mes?" "Yes." "Then the other me you don't know must be as kind as the me you do know?" "Yes." "Besides, I tell you that it is so, only it doesn't look like it. That I confess freely. Have you anything more to object?" "No, no, dear North Wind; I am quite satisfied." "Then I will tell you something you might object. You might say that the me you know is like the other me, and that I am cruel all through." "I know that can't be, because you are so kind." "But that kindness might be only a pretence for the sake of being more cruel afterwards." Diamond clung to her tighter than ever, crying-- "No, no, dear North Wind; I can't believe that. I don't believe it. I won't believe it. That would kill me. I love you, and you must love me, else how did I come to love you? How could you know how to put on such a beautiful face if you did not love me and the rest? No. You may sink as many ships as you like, and I won't say another word. I can't say I shall like to see it, you know." "That's quite another thing," said North Wind; and as she spoke she gave one spring from the roof of the hay-loft, and rushed up into the clouds, with Diamond on her left arm close to her heart. And as if the clouds knew she had come, they burst into a fresh jubilation of thunderous light...  
+> "Yes, indeed there are. Well, I will keep you in front of me. You will feel the wind, but not too much. I shall only want one arm to take care of you; the other will be quite enough to sink the ship."
+
+"Oh, dear North Wind! how can you talk so?"
+
+"My dear boy, I never talk; I always mean what I say."
+
+"Then you do mean to sink the ship with the other hand?"
+
+"Yes."
+
+"It's not like you."
+
+"How do you know that?"
+
+"Quite easily. Here you are taking care of a poor little boy with one arm, and there you are sinking a ship with the other. It can't be like you."
+
+"Ah! but which is me? I can't be two mes, you know."
+
+"No. Nobody can be two mes."
+
+"Well, which me is me?"
+
+"Now I must think. There looks to be two."
+
+"Yes. That's the very point.—You can't be knowing the thing you don't know, can you?"
+
+"No."
+
+"Which me do you know?"
+
+"The kindest, goodest, best me in the world," answered Diamond, clinging to North Wind.
+
+"Why am I good to you?"
+
+"I don't know."
+
+"Have you ever done anything for me?"
+
+"No."
+
+"Then I must be good to you because I choose to be good to you."
+
+"Yes."
+
+"Why should I choose?"
+
+"Because—because—because you like."
+
+"Why should I like to be good to you?"
+
+"I don't know, except it be because it's good to be good to me."
+
+"That's just it; I am good to you because I like to be good."
+
+"Then why shouldn't you be good to other people as well as to me?"
+
+"That's just what I don't know. Why shouldn't I?"
+
+"I don't know either. Then why shouldn't you?"
+
+"Because I am."
+
+"There it is again," said Diamond. "I don't see that you are. It looks quite the other thing."
+
+"Well, but listen to me, Diamond. You know the one me, you say, and that is good."
+
+"Yes."
+
+"Do you know the other me as well?"
+
+"No. I can't. I shouldn't like to."
+
+"There it is. You don't know the other me. You are sure of one of them?"
+
+"Yes."
+
+"And you are sure there can't be two mes?"
+
+"Yes."
+
+"Then the me you don't know must be the same as the me you do know,—else there would be two mes?"
+
+"Yes."
+
+"Then the other me you don't know must be as kind as the me you do know?"
+
+"Yes."
+
+"Besides, I tell you that it is so, only it doesn't look like it. That I confess freely. Have you anything more to object?"
+
+"No, no, dear North Wind; I am quite satisfied."
+
+"Then I will tell you something you might object. You might say that the me you know is like the other me, and that I am cruel all through."
+
+"I know that can't be, because you are so kind."
+
+"But that kindness might be only a pretence for the sake of being more cruel afterwards."
+
+Diamond clung to her tighter than ever, crying—
+
+"No, no, dear North Wind; I can't believe that. I don't believe it. I won't believe it. That would kill me. I love you, and you must love me, else how did I come to love you? How could you know how to put on such a beautiful face if you did not love me and the rest? No. You may sink as many ships as you like, and I won't say another word. I can't say I shall like to see it, you know."
+
+"That's quite another thing," said North Wind; and as she spoke she gave one spring from the roof of the hay-loft, and rushed up into the clouds, with Diamond on her left arm close to her heart. And as if the clouds knew she had come, they burst into a fresh jubilation of thunderous light...  
 > **--_George MacDonald, At the Back of the North Wind_**
 
 [Back to Top](# )
@@ -286,7 +401,7 @@ blockquote strong em {
 > It is not the brains that matter most, but that which guides them ‚Äî the character, the heart, generous qualities, progressive ideas.  
 > **--_Fyodor Dostoevsky_**
 
-> Looking back, I saw that for my whole conscious life I had not understood either myself or my strivings. What had seemed for so long beneficial now turned out in actuality to be fatal, and I had been striving to go in the opposite direction to that which was truly necessary to me. But just as the waves of the sea knock the inexperienced swimmer off his feet and keep tossing him back on to the shore, so also was I painfully tossed back on dry land by the blows of misfortune. And it was only because of this that I was able to travel the path which I had always really wanted to travel. It was granted me to carry away from my prison years on my bent back, which nearly broke beneath its load, this essential experience: how a human being becomes evil and how good. In the intoxication of youthful successes I had felt myself to be infallible, and I was therefore cruel. In the surfeit of power I was a murderer and an oppressor. In my most evil moments I was convinced that I was doing good, and I was well supplied with systematic arguments. And it was only when I lay there rotting on prison straw that I sensed within myself the first stirrings of good. Gradually it was disclosed to me that the line separating good and evil passes not through states, nor between classes, nor between political parties either ‚Äì but right through every human heart ‚Äì and through all human hearts. This line shifts. Inside us it oscillates with the years. And even within the hearts overwhelmed with evil, one small bridgehead of good is retained. And even in the best of all hearts, there remains‚Ä¶an un-uprooted small corner of evil. Since then I have come to understand the truth of all the religions of the world: They struggle with the evil inside a human being (inside every human being). It is impossible to expel evil from the world in its entirety, but it is possible to constrict it within each person. ‚ÄúBless you, prison, for having been in my life!‚Äù  
+> Looking back, I saw that for my whole conscious life I had not understood either myself or my strivings. What had seemed for so long beneficial now turned out in actuality to be fatal, and I had been striving to go in the opposite direction to that which was truly necessary to me. But just as the waves of the sea knock the inexperienced swimmer off his feet and keep tossing him back on to the shore, so also was I painfully tossed back on dry land by the blows of misfortune. And it was only because of this that I was able to travel the path which I had always really wanted to travel. It was granted me to carry away from my prison years on my bent back, which nearly broke beneath its load, this essential experience: how a human being becomes evil and how good. In the intoxication of youthful successes I had felt myself to be infallible, and I was therefore cruel. In the surfeit of power I was a murderer and an oppressor. In my most evil moments I was convinced that I was doing good, and I was well supplied with systematic arguments. And it was only when I lay there rotting on prison straw that I sensed within myself the first stirrings of good. Gradually it was disclosed to me that the line separating good and evil passes not through states, nor between classes, nor between political parties either ‚Äì but right through every human heart ‚Äì and through all human hearts. This line shifts. Inside us it oscillates with the years. And even within the hearts overwhelmed with evil, one small bridgehead of good is retained. And even in the best of all hearts, there remains‚Ä¶an un-uprooted small corner of evil. Since then I have come to understand the truth of all the religions of the world: They struggle with the evil inside a human being (inside every human being). It is impossible to expel evil from the world in its entirety, but it is possible to constrict it within each person. Bless you, prison, for having been in my life!‚Äù  
 > **--_Aleksandr Solzhenitsyn, 1918-2008, The Gulag Archipelago_**
 
 > Then the lion said - but I don't know if it spoke ‚Äì ‚ÄòYou will have to let me undress you.‚Äô I was afraid of his claws, I can tell you, but I was pretty nearly desperate now. So I just lay flat down on my back to let him do it. The very first tear he made was so deep that I thought it had gone right into my heart. And when he began pulling the skin off, it hurt worse than anything I've ever felt. The only thing that made me able to bear it was just the pleasure of feeling the stuff peel off. You know - if you've ever picked the scab off a sore place. It hurts like billy-oh but it is such fun to see it coming away. Well, he peeled the beastly stuff right off ... And there was I as smooth and soft as a peeled switch and smaller than I had been. Then he caught hold of me - I didn't like that much for I was very tender underneath now that I'd no skin on - and threw me into the water. It smarted like anything but only for a moment. After that it became perfectly delicious and as soon as I started swimming and splashing I found that all the pain had gone from my arm. And then I saw why. I'd turned into a boy again...  
@@ -352,13 +467,63 @@ blockquote strong em {
 [Back to Brandon's page](/brandon/)
 
 ### Love
-> A sudden impulse seemed to come into his [Alyosha's] soul. With a serious and earnest expression he looked from one to another of the bright, pleasant faces of Ilusha‚Äôs schoolfellows, and suddenly said to them: ‚ÄúBoys, I should like to say one word to you, here at this place.‚Äù The boys stood round him and at once bent attentive and expectant eyes upon him. ‚ÄúBoys, we shall soon part. I shall be for some time with my two brothers, of whom one is going to Siberia and the other is lying at death‚Äôs door. But soon I shall leave this town, perhaps for a long time, so we shall part. Let us make a compact here, at Ilusha‚Äôs stone, that we will never forget Ilusha and one another. And whatever happens to us later in life, if we don‚Äôt meet for twenty years afterwards, let us always remember how we buried the poor boy at whom we once threw stones, do you remember, by the bridge? and afterwards we all grew so fond of him. He was a fine boy, a kindhearted, brave boy, he felt for his father‚Äôs honor and resented the cruel insult to him and stood up for him. And so in the first place, we will remember him, boys, all our lives. And even if we are occupied with most important things, if we attain to honor or fall into great misfortune‚Äîstill let us remember how good it was once here, when we were all together, united by a good and kind feeling which made us, for the time we were loving that poor boy, better perhaps than we are. My little doves‚Äîlet me call you so, for you are very like them, those pretty blue birds, at this minute as I look at your good dear faces. My dear children, perhaps you won‚Äôt understand what I am saying to you, because I often speak very unintelligibly, but you‚Äôll remember it all the same and will agree with my words some time. You must know that there is nothing higher and stronger and more wholesome and good for life in the future than some good memory, especially a memory of childhood, of home. People talk to you a great deal about your education, but some good, sacred memory, preserved from childhood, is perhaps the best education. If a man carries many such memories with him into life, he is safe to the end of his days, and if one has only one good memory left in one‚Äôs heart, even that may sometime be the means of saving us. Perhaps we may even grow wicked later on, may be unable to refrain from a bad action, may laugh at men‚Äôs tears and at those people who say as Kolya did just now, ‚ÄòI want to suffer for all men,‚Äô and may even jeer spitefully at such people. But however bad we may become‚Äîwhich God forbid‚Äîyet, when we recall how we buried Ilusha, how we loved him in his last days, and how we have been talking like friends all together, at this stone, the cruelest and most mocking of us‚Äîif we do become so‚Äîwill not dare to laugh inwardly at having been kind and good at this moment! What‚Äôs more, perhaps, that one memory may keep him from great evil and he will reflect and say, ‚ÄòYes, I was good and brave and honest then!‚Äô Let him laugh to himself, that‚Äôs no matter, a man often laughs at what‚Äôs good and kind. That‚Äôs only from thoughtlessness. But I assure you, boys, that as he laughs he will say at once in his heart, ‚ÄòNo, I do wrong to laugh, for that‚Äôs not a thing to laugh at.‚Äô‚Äù ‚ÄúThat will be so, I understand you, Karamazov!‚Äù cried Kolya, with flashing eyes. The boys were excited and they, too, wanted to say something, but they restrained themselves, looking with intentness and emotion at the speaker. ‚ÄúI say this in case we become bad,‚Äù Alyosha went on, ‚Äúbut there‚Äôs no reason why we should become bad, is there, boys? Let us be, first and above all, kind, then honest and then let us never forget each other! I say that again. I give you my word for my part that I‚Äôll never forget one of you. Every face looking at me now I shall remember even for thirty years. Just now Kolya said to Kartashov that we did not care to know whether he exists or not. But I cannot forget that Kartashov exists and that he is not blushing now as he did when he discovered the founders of Troy, but is looking at me with his jolly, kind, dear little eyes. Boys, my dear boys, let us all be generous and brave like Ilusha, clever, brave and generous like Kolya (though he will be ever so much cleverer when he is grown up), and let us all be as modest, as clever and sweet as Kartashov. But why am I talking about those two? You are all dear to me, boys, from this day forth, I have a place in my heart for you all, and I beg you to keep a place in your hearts for me! Well, and who has united us in this kind, good feeling which we shall remember and intend to remember all our lives? Who, if not Ilusha, the good boy, the dear boy, precious to us forever! Let us never forget him. May his memory live forever in our hearts from this time forth!‚Äù ‚ÄúYes, yes, forever, forever!‚Äù the boys cried in their ringing voices, with softened faces. ‚ÄúLet us remember his face and his clothes and his poor little boots, his coffin and his unhappy, sinful father, and how boldly he stood up for him alone against the whole school.‚Äù ‚ÄúWe will remember, we will remember,‚Äù cried the boys. ‚ÄúHe was brave, he was good!‚Äù ‚ÄúAh, how I loved him!‚Äù exclaimed Kolya. ‚ÄúAh, children, ah, dear friends, don‚Äôt be afraid of life! How good life is when one does something good and just!‚Äù ‚ÄúYes, yes,‚Äù the boys repeated enthusiastically. ‚ÄúKaramazov, we love you!‚Äù a voice, probably Kartashov‚Äôs, cried impulsively. ‚ÄúWe love you, we love you!‚Äù they all caught it up. There were tears in the eyes of many of them. ‚ÄúHurrah for Karamazov!‚Äù Kolya shouted ecstatically. ‚ÄúAnd may the dead boy‚Äôs memory live forever!‚Äù Alyosha added again with feeling. ‚ÄúFor ever!‚Äù the boys chimed in again. ‚ÄúKaramazov,‚Äù cried Kolya, ‚Äúcan it be true what‚Äôs taught us in religion, that we shall all rise again from the dead and shall live and see each other again, all, Ilusha too?‚Äù ‚ÄúCertainly we shall all rise again, certainly we shall see each other and shall tell each other with joy and gladness all that has happened!‚Äù Alyosha answered, half laughing, half enthusiastic. ‚ÄúAh, how splendid it will be!‚Äù broke from Kolya. ‚ÄúWell, now we will finish talking and go to his funeral dinner. Don‚Äôt be put out at our eating pancakes‚Äîit‚Äôs a very old custom and there‚Äôs something nice in that!‚Äù laughed Alyosha. ‚ÄúWell, let us go! And now we go hand in hand.‚Äù ‚ÄúAnd always so, all our lives hand in hand! Hurrah for Karamazov!‚Äù Kolya cried once more rapturously, and once more the boys took up his exclamation: ‚ÄúHurrah for Karamazov!‚Äù  
-> **--_Dostoyevsky, The Brothers Karamozov, Ilusha‚Äôs Funeral. The Speech at the Stone_**
+> "There's Ilusha's stone, under which they wanted to bury him."
 
-> ‚ÄúThe highest forms of understanding we can achieve are laughter and human compassion.‚Äù  
+They all stood still by the big stone. Alyosha looked and the whole picture of what Snegiryov had described to him that day, how Ilusha, weeping and hugging his father, had cried, "Father, father, how he insulted you," rose at once before his imagination. A sudden impulse seemed to come into his soul. With a serious and earnest expression he looked from one to another of the bright, pleasant faces of Ilusha's schoolfellows, and suddenly said to them:
+
+"Boys, I should like to say one word to you, here at this place."
+
+The boys stood round him and at once bent attentive and expectant eyes upon him.
+
+"Boys, we shall soon part. I shall be for some time with my two brothers, of whom one is going to Siberia and the other is lying at death's door. But soon I shall leave this town, perhaps for a long time, so we shall part. Let us make a compact here, at Ilusha's stone, that we will never forget Ilusha and one another.
+
+"And whatever happens to us later in life, if we don't meet for twenty years afterwards, let us always remember how we buried the poor boy at whom we once threw stones, do you remember, by the bridge? and afterwards we all grew so fond of him. He was a fine boy, a kindhearted, brave boy, he felt for his father's honour and resented the cruel insult to him and stood up for him. And so in the first place, we will remember him, boys, all our lives. And even if we are occupied with most important things, if we attain to honour or fall into great misfortune—still let us remember how good it was once here, when we were all together, united by a good and kind feeling which made us, for the time we were loving that poor boy, better perhaps than we are. My little doves let me call you so, for you are very like them, those pretty blue birds, at this minute as I look at your good dear faces. My dear children, perhaps you won't understand what I am saying to you, because I often speak very unintelligibly, but you'll remember all the same and will agree with my words some time. You must know that there is nothing higher and stronger and more wholesome and good for life in the future than some good memory, especially a memory of childhood, of home. People talk to you a great deal about your education, but some good, sacred memory, preserved from childhood, is perhaps the best education. If a man carries many such memories with him into life, he is safe to the end of his days, and if one has only one good memory left in one's heart, even that may sometime be the means of saving us. Perhaps we may even grow wicked later on, may be unable to refrain from a bad action, may laugh at men's tears and at those people who say as Kolya did just now, 'I want to suffer for all men,' and may even jeer spitefully at such people. But however bad we may become—which God forbid—yet, when we recall how we buried Ilusha, how we loved him in his last days, and how we have been talking like friends all together, at this stone, the cruellest and most mocking of us—if we do become so will not dare to laugh inwardly at having been kind and good at this moment! What's more, perhaps, that one memory may keep him from great evil and he will reflect and say, 'Yes, I was good and brave and honest then!' Let him laugh to himself, that's no matter, a man often laughs at what's good and kind. That's only from thoughtlessness. But I assure you, boys, that as he laughs he will say at once in his heart, 'No, I do wrong to laugh, for that's not a thing to laugh at.'"
+
+"That will be so, I understand you, Karamazov!" cried Kolya, with flashing eyes.
+
+The boys were excited and they, too, wanted to say something, but they restrained themselves, looking with intentness and emotion at the speaker.
+
+"I say this in case we become bad," Alyosha went on, "but there's no reason why we should become bad, is there, boys? Let us be, first and above all, kind, then honest and then let us never forget each other! I say that again. I give you my word for my part that I'll never forget one of you. Every face looking at me now I shall remember even for thirty years. Just now Kolya said to Kartashov that we did not care to know whether he exists or not. But I cannot forget that Kartashov exists and that he is not blushing now as he did when he discovered the founders of Troy, but is looking at me with his jolly, kind, dear little eyes. Boys, my dear boys, let us all be generous and brave like Ilusha, clever, brave and generous like Kolya (though he will be ever so much cleverer when he is grown up), and let us all be as modest, as clever and sweet as Kartashov. But why am I talking about those two? You are all dear to me, boys; from this day forth, I have a place in my heart for you all, and I beg you to keep a place in your hearts for me! Well, and who has united us in this kind, good feeling which we shall remember and intend to remember all our lives? Who, if not Ilusha, the good boy, the dear boy, precious to us for ever! Let us never forget him. May his memory live for ever in our hearts from this time forth!"
+
+"Yes, yes, for ever, for ever!" the boys cried in their ringing voices, with softened faces.
+
+"Let us remember his face and his clothes and his poor little boots, his coffin and his unhappy, sinful father, and how boldly he stood up for him alone against the whole school."
+
+"We will remember, we will remember," cried the boys. "He was brave, he was good!"
+
+"Ah, how I loved him!" exclaimed Kolya.
+
+"Ah, children, ah, dear friends, don't be afraid of life! How good life is when one does something good and just!"
+
+"Yes, yes," the boys repeated enthusiastically.
+
+"Karamazov, we love you!" a voice, probably Kartashov's, cried impulsively.
+
+"We love you, we love you!" they all caught it up. There were tears in the eyes of many of them.
+
+"Hurrah for Karamazov!" Kolya shouted ecstatically.
+
+"And may the dead boy's memory live for ever!" Alyosha added again with feeling.
+
+"For ever!" the boys chimed in again.
+
+"Karamazov," cried Kolya, "can it be true what's taught us in religion, that we shall all rise again from the dead and shall live and see each other again, all, Ilusha too?"
+
+"Certainly we shall all rise again, certainly we shall see each other and shall tell each other with joy and gladness all that has happened!" Alyosha answered, half laughing, half enthusiastic.
+
+"Ah, how splendid it will be!" broke from Kolya.
+
+"Well, now we will finish talking and go to his funeral dinner. Don't be put out at our eating pancakes—it's a very old custom and there's something nice in that!" laughed Alyosha. "Well, let us go! And now we go hand in hand."
+
+"And always so, all our lives hand in hand! Hurrah for Karamazov!" Kolya cried once more rapturously, and once more the boys took up his exclamation:
+
+"Hurrah for Karamazov!"  
+> **--_Alyosha's Speech at Ilusha's Stone, From The Brothers Karamazov by Fyodor Dostoevsky_**
+
+> The highest forms of understanding we can achieve are laughter and human compassion.‚Äù  
 > **--_Richard P. Feynman_**
 
-> ‚ÄúPhysics isn't the most important thing. Love is.‚Äù  
+> Physics isn't the most important thing. Love is.‚Äù  
 > **--_Richard P. Feynman_**
 
 [Back to Top](# )
@@ -481,7 +646,7 @@ blockquote strong em {
 [Back to Brandon's page](/brandon/)
 
 ### Meaning
-> ‚ÄúNobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.‚Äù  
+> Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.‚Äù  
 > **--_Richard P. Feynman, 1918-1988_**
 
 > Tomorrow, and tomorrow, and tomorrow, Creeps in the petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death. Out, out, brief candle, Life‚Äôs but a walking shadow, a poor player That struts and frets his hour upon the stage, And then is heard no more. It is a tale Told by an idiot, full of sound and fury Signifying nothing.  
