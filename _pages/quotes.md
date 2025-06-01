@@ -32,17 +32,12 @@ blockquote strong em {
  position: sticky;
  top: 20px;
  background: white;
- padding: 15px;
+ padding: 20px;
  border: 1px solid #ddd;
  border-radius: 8px;
  margin-bottom: 30px;
  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
  z-index: 100;
- transition: box-shadow 0.3s ease;
-}
-.quotes-toc.searching {
- box-shadow: 0 4px 16px rgba(52, 152, 219, 0.3);
- border-color: #3498db;
 }
 
 /* Search box */
@@ -81,63 +76,36 @@ blockquote strong em {
  border-radius: 8px 0 0 8px;
 }
 
-/* Quote counter (moved to TOC styling section) */
+/* Quote counter */
+.quote-count {
+ font-size: 12px;
+ color: #7f8c8d;
+ margin-left: 10px;
+ background: #ecf0f1;
+ padding: 2px 8px;
+ border-radius: 12px;
+}
 
-/* TOC styling - flexbox tiles */
+/* TOC styling */
 .toc-grid {
- display: flex;
- flex-wrap: wrap;
- gap: 6px;
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+ gap: 8px;
  margin-bottom: 15px;
 }
 .toc-link {
- flex: 0 0 calc(25% - 5px);
- padding: 6px 8px;
+ padding: 8px 12px;
  background: #f8f9fa;
  border: 1px solid #e9ecef;
  border-radius: 4px;
  text-decoration: none;
  transition: all 0.2s ease;
- font-size: 12px;
- line-height: 1.2;
- text-align: center;
- box-sizing: border-box;
+ display: block;
 }
 .toc-link:hover {
  background: #3498db;
  color: white;
  text-decoration: none;
- transform: translateY(-1px);
-}
-.quote-count {
- font-size: 10px;
- color: #7f8c8d;
- margin-left: 4px;
- background: #ecf0f1;
- padding: 1px 3px;
- border-radius: 6px;
- display: inline-block;
-}
-.toc-link:hover .quote-count {
- color: #ffffff;
- background: rgba(255,255,255,0.2);
-}
-
-/* Responsive - fewer columns on smaller screens */
-@media (max-width: 1024px) {
- .toc-link {
-  flex: 0 0 calc(33.33% - 4px);
- }
-}
-@media (max-width: 768px) {
- .toc-link {
-  flex: 0 0 calc(50% - 3px);
- }
-}
-@media (max-width: 480px) {
- .toc-link {
-  flex: 0 0 100%;
- }
 }
 
 /* Back to top button */
@@ -206,13 +174,6 @@ blockquote strong em {
  60% { text-shadow: .25em 0 0 black, .5em 0 0 rgba(0,0,0,0); }
  80%, 100% { text-shadow: .25em 0 0 black, .5em 0 0 black; }
 }
-
-/* Flash animation for search navigation */
-@keyframes flash {
- 0% { box-shadow: 0 0 5px rgba(231, 76, 60, 0.3); }
- 50% { box-shadow: 0 0 20px rgba(231, 76, 60, 0.8), 0 0 30px rgba(231, 76, 60, 0.6); }
- 100% { box-shadow: 0 0 5px rgba(231, 76, 60, 0.3); }
-}
 </style>
 
 <script>
@@ -221,7 +182,6 @@ function searchQuotes() {
  const searchTerm = document.getElementById('quoteSearch').value.toLowerCase().trim();
  const sections = document.querySelectorAll('.section-header');
  let totalVisible = 0;
- let firstMatchingQuote = null;
  
  // Clear previous highlights
  document.querySelectorAll('.highlight').forEach(el => {
@@ -241,11 +201,6 @@ function searchQuotes() {
      hasVisibleQuotes = true;
      totalVisible++;
      
-     // Remember the first matching quote for scrolling
-     if (!firstMatchingQuote && searchTerm !== '') {
-      firstMatchingQuote = element;
-     }
-     
      // Highlight search terms
      if (searchTerm !== '') {
       highlightText(element, searchTerm);
@@ -262,15 +217,6 @@ function searchQuotes() {
  
  // Update search results info
  updateSearchInfo(searchTerm, totalVisible);
- 
- // Use navigation function to go to first result instead of manual scroll
- if (firstMatchingQuote && searchTerm !== '') {
-  setTimeout(() => {
-   // Use the navigation function to properly highlight and scroll to first result
-   currentResultIndex = -1; // Set to -1 so navigateResults(1) makes it 0
-   navigateResults(1);
-  }, 100);
- }
 }
 
 function highlightText(element, searchTerm) {
@@ -299,109 +245,25 @@ function highlightText(element, searchTerm) {
  });
 }
 
-let currentResultIndex = 0;
-let searchResults = [];
-
 function updateSearchInfo(searchTerm, totalVisible) {
- if (searchTerm === '') {
-  searchResults = [];
-  currentResultIndex = 0;
-  
-  // Hide floating bar
-  const floatingBar = document.getElementById('floatingSearchBar');
-  if (floatingBar) {
-   floatingBar.style.display = 'none';
+ let infoElement = document.getElementById('searchInfo');
+ if (!infoElement) {
+  infoElement = document.createElement('div');
+  infoElement.id = 'searchInfo';
+  infoElement.style.cssText = 'margin-bottom: 15px; padding: 8px 12px; background: #e8f4f8; border-radius: 4px; font-size: 14px;';
+  const tocGrid = document.querySelector('.toc-grid');
+  if (tocGrid) {
+   document.querySelector('.quote-search').parentNode.insertBefore(infoElement, tocGrid);
+  } else {
+   document.querySelector('.quote-search').parentNode.appendChild(infoElement);
   }
+ }
+ 
+ if (searchTerm === '') {
+  infoElement.style.display = 'none';
  } else {
-  // Collect all visible quotes for navigation
-  searchResults = Array.from(document.querySelectorAll('blockquote')).filter(quote => 
-   quote.style.display !== 'none' && quote.textContent.toLowerCase().includes(searchTerm)
-  );
-  currentResultIndex = 0;
-  
-  // Show floating search bar
-  showFloatingSearchBar(searchTerm, totalVisible);
- }
-}
-
-// Handle search input - only search on Enter key
-function handleSearchKeydown(event) {
- if (event.key === 'Enter') {
-  event.preventDefault();
-  searchQuotes();
-  // Remove focus from search box so Enter can be used for navigation
-  event.target.blur();
-  console.log('Search completed, focus removed from search box');
-  
-  // No auto-navigation needed - search already scrolls to first result
- } else if (event.key === 'Escape') {
-  // Clear search and go to top on Escape
-  event.preventDefault();
-  event.stopPropagation(); // Prevent other handlers
-  console.log('Escape from search box');
-  clearFloatingSearch();
- }
-}
-
-// Navigate between search results
-function navigateResults(direction) {
- console.log('navigateResults called with direction:', direction, 'currentIndex:', currentResultIndex, 'total results:', searchResults.length);
- 
- if (searchResults.length === 0) {
-  console.log('No search results to navigate');
-  return;
- }
- 
- // Clear previous highlight and effects
- searchResults.forEach(quote => {
-  quote.style.border = '';
-  quote.style.backgroundColor = '';
-  quote.style.transform = '';
-  quote.style.animation = '';
- });
- 
- // Update index
- const oldIndex = currentResultIndex;
- currentResultIndex += direction;
- if (currentResultIndex >= searchResults.length) currentResultIndex = 0;
- if (currentResultIndex < 0) currentResultIndex = searchResults.length - 1;
- 
- console.log('Index changed from', oldIndex, 'to', currentResultIndex);
- 
- // Scroll to and highlight current result
- const currentQuote = searchResults[currentResultIndex];
- console.log('Scrolling to result', currentResultIndex + 1);
- 
- // Debug: Show the text content of the current quote
- const quoteText = currentQuote.textContent.substring(0, 50) + "...";
- console.log('Current quote text:', quoteText);
- 
- // Add a more dramatic highlight with result number
- currentQuote.style.border = '4px solid #e74c3c';
- currentQuote.style.backgroundColor = '#fff3cd';
- currentQuote.style.transform = 'scale(1.02)';
- 
- // No need for floating indicator - counter is in search bar
- 
- // Scroll with more dramatic positioning
- currentQuote.scrollIntoView({ 
-  behavior: 'smooth', 
-  block: 'center' 
- });
- 
- // Flash effect to make navigation obvious
- currentQuote.style.animation = 'flash 0.5s ease-in-out';
- setTimeout(() => {
-  currentQuote.style.animation = '';
- }, 500);
- 
- // Indicator removed - using search bar counter instead
- 
- // Update counter in floating bar
- const counterSpan = document.getElementById('floatingCounter');
- if (counterSpan) {
-  counterSpan.textContent = `${currentResultIndex + 1} of ${searchResults.length}`;
-  console.log('Updated counter to:', counterSpan.textContent);
+  infoElement.style.display = 'block';
+  infoElement.innerHTML = `Found ${totalVisible} quote${totalVisible !== 1 ? 's' : ''} matching "${searchTerm}"`;
  }
 }
 
@@ -461,170 +323,23 @@ function showRandomQuote() {
  }, 3000);
 }
 
-// Create floating search bar when searching
-function createFloatingSearchBar() {
- let floatingBar = document.getElementById('floatingSearchBar');
- if (!floatingBar) {
-  floatingBar = document.createElement('div');
-  floatingBar.id = 'floatingSearchBar';
-  floatingBar.style.cssText = `
-   position: fixed;
-   top: 50px;
-   left: 50%;
-   transform: translateX(-50%);
-   background: white;
-   padding: 10px 15px;
-   border: 2px solid #3498db;
-   border-radius: 8px;
-   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-   z-index: 1001;
-   display: none;
-   min-width: 300px;
-   max-width: 90vw;
-  `;
-  document.body.appendChild(floatingBar);
- }
- return floatingBar;
-}
-
-function showFloatingSearchBar(searchTerm, totalVisible) {
- const floatingBar = createFloatingSearchBar();
- 
- let navButtons = '';
- if (totalVisible > 1) {
-  navButtons = `
-   <div style="margin-left: 15px; display: flex; align-items: center; gap: 8px;">
-    <button onclick="navigateResults(-1)" style="padding: 4px 8px; border: 1px solid #ddd; background: white; border-radius: 3px; cursor: pointer;" title="Previous (↑ key)">↑ Prev</button>
-    <span style="font-size: 12px; min-width: 60px; text-align: center;" id="floatingCounter">1 of ${totalVisible}</span>
-    <button onclick="navigateResults(1)" style="padding: 4px 8px; border: 1px solid #ddd; background: white; border-radius: 3px; cursor: pointer;" title="Next (↓ or Enter key)">↓ Next</button>
-    <button onclick="clearFloatingSearch()" style="padding: 4px 8px; border: 1px solid #ddd; background: #f8f9fa; border-radius: 3px; cursor: pointer;" title="Close & go to top (Escape key)">✕ Close</button>
-    <span style="font-size: 10px; color: #666; margin-left: 8px;">↑↓ Enter Esc</span>
-   </div>
-  `;
- } else {
-  navButtons = `
-   <button onclick="clearFloatingSearch()" style="margin-left: 15px; padding: 4px 8px; border: 1px solid #ddd; background: #f8f9fa; border-radius: 3px; cursor: pointer;">✕ Close</button>
-  `;
- }
- 
- floatingBar.innerHTML = `
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-   <span style="font-size: 14px;">Found ${totalVisible} quote${totalVisible !== 1 ? 's' : ''} matching "${searchTerm}"</span>
-   ${navButtons}
-  </div>
- `;
- 
- floatingBar.style.display = 'block';
-}
-
-function clearFloatingSearch() {
- console.log('clearFloatingSearch called');
- 
- // Clear the search input
- const searchBox = document.getElementById('quoteSearch');
- if (searchBox) {
-  searchBox.value = '';
-  searchBox.blur(); // Remove focus from search box
- }
- 
- // Clear search results array immediately
- searchResults = [];
- currentResultIndex = 0;
- 
- // Hide floating bar immediately
- const floatingBar = document.getElementById('floatingSearchBar');
- if (floatingBar) {
-  floatingBar.style.display = 'none';
- }
- 
- // Show all quotes and sections
- const allQuotes = document.querySelectorAll('blockquote');
- allQuotes.forEach(quote => {
-  quote.style.display = 'block';
-  quote.style.border = ''; // Remove any search highlighting
- });
- 
- const allSections = document.querySelectorAll('.section-header');
- allSections.forEach(section => {
-  section.style.display = 'block';
- });
- 
- // Clear any search highlights
- document.querySelectorAll('.highlight').forEach(el => {
-  el.outerHTML = el.innerHTML;
- });
- 
- // Return to top of page
- console.log('Scrolling to top');
- window.scrollTo({ top: 0, behavior: 'smooth' });
-}
-
 // Initialize everything when page loads
 document.addEventListener('DOMContentLoaded', function() {
- // Force page to start at top
- window.scrollTo(0, 0);
- 
  initSmoothScrolling();
  initBackToTop();
  
- // Add keyboard shortcuts
+ // Add keyboard shortcut for search (Ctrl+F or Cmd+F)
  document.addEventListener('keydown', function(e) {
-  // Debug: log all key presses when search is active
-  if (searchResults.length > 0) {
-   console.log('Key pressed:', e.key, 'Active element:', document.activeElement?.tagName, 'Search results:', searchResults.length);
-  }
-  
-  // Escape key - always clears search and goes to top
-  if (e.key === 'Escape') {
-   e.preventDefault();
-   e.stopPropagation();
-   console.log('Escape pressed globally, searchResults.length:', searchResults.length);
-   // Always clear search (even if empty) and go to top
-   clearFloatingSearch();
-   console.log('After clearFloatingSearch, searchResults.length:', searchResults.length);
-   return;
-  }
-  
-  // Ctrl+F or Cmd+F for search
   if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
    e.preventDefault();
    document.getElementById('quoteSearch').focus();
-   return;
-  }
-  
-  // When search is active
-  if (searchResults.length > 0) {
-   // Navigation keys
-   if (e.key === 'ArrowUp') {
-    e.preventDefault();
-    console.log('Arrow up navigation');
-    navigateResults(-1);
-   } else if (e.key === 'ArrowDown') {
-    e.preventDefault();
-    console.log('Arrow down navigation');
-    navigateResults(1);
-   } else if (e.key === 'Enter') {
-    console.log('Enter key detected, activeElement:', document.activeElement?.tagName, 'search box value:', document.getElementById('quoteSearch').value);
-    // Check if we're actively typing in search box
-    const searchBox = document.getElementById('quoteSearch');
-    if (document.activeElement === searchBox) {
-     // If in search box, let it handle the search
-     console.log('Enter in search box - letting it search');
-     return;
-    } else {
-     // If not in search box, use Enter for navigation
-     e.preventDefault();
-     console.log('Enter pressed for navigation');
-     navigateResults(1);
-    }
-   }
   }
  });
 });
 </script>
 
 <div class="quotes-toc">
-<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (press Enter to search)" onkeydown="handleSearchKeydown(event)">
+<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (Ctrl+F)" onkeyup="searchQuotes()">
 
 <div style="margin-bottom: 15px;">
 <button onclick="showRandomQuote()" style="background: #e74c3c; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-right: 10px;">🎲 Random Quote</button>
@@ -647,8 +362,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#logic" class="toc-link">Logic <span class="quote-count">(6)</span></a>
 <a href="#longing" class="toc-link">Longing <span class="quote-count">(4)</span></a>
 <a href="#love" class="toc-link">Love <span class="quote-count">(3)</span></a>
-<a href="#math" class="toc-link">Math <span class="quote-count">(29)</span></a>
-<a href="#math-jokes" class="toc-link">Math Jokes <span class="quote-count">(7)</span></a>
+<a href="#math" class="toc-link">Math <span class="quote-count">(33)</span></a>
+<a href="#math-jokes" class="toc-link">Math Jokes <span class="quote-count">(11)</span></a>
 <a href="#meaning" class="toc-link">Meaning <span class="quote-count">(4)</span></a>
 <a href="#moderation" class="toc-link">Moderation <span class="quote-count">(1)</span></a>
 <a href="#nihilism" class="toc-link">Nihilism <span class="quote-count">(1)</span></a>
@@ -662,7 +377,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#science" class="toc-link">Science <span class="quote-count">(27)</span></a>
 <a href="#suffering" class="toc-link">Suffering <span class="quote-count">(7)</span></a>
 <a href="#systems" class="toc-link">Systems <span class="quote-count">(1)</span></a>
-<a href="#teaching" class="toc-link">Teaching <span class="quote-count">(7)</span></a>
+<a href="#teaching" class="toc-link">Teaching <span class="quote-count">(8)</span></a>
 <a href="#technology" class="toc-link">Technology <span class="quote-count">(1)</span></a>
 <a href="#uncertainty" class="toc-link">Uncertainty <span class="quote-count">(3)</span></a>
 </div>
@@ -1035,63 +750,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="section-header" id="love">
 <h3 style="margin: 0; color: white;">Love <span class="quote-count">(3 quotes)</span></h3>
 </div>
-> "There's Ilusha's stone, under which they wanted to bury him."
-
-They all stood still by the big stone. Alyosha looked and the whole picture of what Snegiryov had described to him that day, how Ilusha, weeping and hugging his father, had cried, "Father, father, how he insulted you," rose at once before his imagination. A sudden impulse seemed to come into his soul. With a serious and earnest expression he looked from one to another of the bright, pleasant faces of Ilusha's schoolfellows, and suddenly said to them:
-
-"Boys, I should like to say one word to you, here at this place."
-
-The boys stood round him and at once bent attentive and expectant eyes upon him.
-
-"Boys, we shall soon part. I shall be for some time with my two brothers, of whom one is going to Siberia and the other is lying at death's door. But soon I shall leave this town, perhaps for a long time, so we shall part. Let us make a compact here, at Ilusha's stone, that we will never forget Ilusha and one another.
-
-"And whatever happens to us later in life, if we don't meet for twenty years afterwards, let us always remember how we buried the poor boy at whom we once threw stones, do you remember, by the bridge? and afterwards we all grew so fond of him. He was a fine boy, a kindhearted, brave boy, he felt for his father's honour and resented the cruel insult to him and stood up for him. And so in the first place, we will remember him, boys, all our lives. And even if we are occupied with most important things, if we attain to honour or fall into great misfortune—still let us remember how good it was once here, when we were all together, united by a good and kind feeling which made us, for the time we were loving that poor boy, better perhaps than we are. My little doves let me call you so, for you are very like them, those pretty blue birds, at this minute as I look at your good dear faces. My dear children, perhaps you won't understand what I am saying to you, because I often speak very unintelligibly, but you'll remember all the same and will agree with my words some time. You must know that there is nothing higher and stronger and more wholesome and good for life in the future than some good memory, especially a memory of childhood, of home. People talk to you a great deal about your education, but some good, sacred memory, preserved from childhood, is perhaps the best education. If a man carries many such memories with him into life, he is safe to the end of his days, and if one has only one good memory left in one's heart, even that may sometime be the means of saving us. Perhaps we may even grow wicked later on, may be unable to refrain from a bad action, may laugh at men's tears and at those people who say as Kolya did just now, 'I want to suffer for all men,' and may even jeer spitefully at such people. But however bad we may become—which God forbid—yet, when we recall how we buried Ilusha, how we loved him in his last days, and how we have been talking like friends all together, at this stone, the cruellest and most mocking of us—if we do become so will not dare to laugh inwardly at having been kind and good at this moment! What's more, perhaps, that one memory may keep him from great evil and he will reflect and say, 'Yes, I was good and brave and honest then!' Let him laugh to himself, that's no matter, a man often laughs at what's good and kind. That's only from thoughtlessness. But I assure you, boys, that as he laughs he will say at once in his heart, 'No, I do wrong to laugh, for that's not a thing to laugh at.'"
-
-"That will be so, I understand you, Karamazov!" cried Kolya, with flashing eyes.
-
-The boys were excited and they, too, wanted to say something, but they restrained themselves, looking with intentness and emotion at the speaker.
-
-"I say this in case we become bad," Alyosha went on, "but there's no reason why we should become bad, is there, boys? Let us be, first and above all, kind, then honest and then let us never forget each other! I say that again. I give you my word for my part that I'll never forget one of you. Every face looking at me now I shall remember even for thirty years. Just now Kolya said to Kartashov that we did not care to know whether he exists or not. But I cannot forget that Kartashov exists and that he is not blushing now as he did when he discovered the founders of Troy, but is looking at me with his jolly, kind, dear little eyes. Boys, my dear boys, let us all be generous and brave like Ilusha, clever, brave and generous like Kolya (though he will be ever so much cleverer when he is grown up), and let us all be as modest, as clever and sweet as Kartashov. But why am I talking about those two? You are all dear to me, boys; from this day forth, I have a place in my heart for you all, and I beg you to keep a place in your hearts for me! Well, and who has united us in this kind, good feeling which we shall remember and intend to remember all our lives? Who, if not Ilusha, the good boy, the dear boy, precious to us for ever! Let us never forget him. May his memory live for ever in our hearts from this time forth!"
-
-"Yes, yes, for ever, for ever!" the boys cried in their ringing voices, with softened faces.
-
-"Let us remember his face and his clothes and his poor little boots, his coffin and his unhappy, sinful father, and how boldly he stood up for him alone against the whole school."
-
-"We will remember, we will remember," cried the boys. "He was brave, he was good!"
-
-"Ah, how I loved him!" exclaimed Kolya.
-
-"Ah, children, ah, dear friends, don't be afraid of life! How good life is when one does something good and just!"
-
-"Yes, yes," the boys repeated enthusiastically.
-
-"Karamazov, we love you!" a voice, probably Kartashov's, cried impulsively.
-
-"We love you, we love you!" they all caught it up. There were tears in the eyes of many of them.
-
-"Hurrah for Karamazov!" Kolya shouted ecstatically.
-
-"And may the dead boy's memory live for ever!" Alyosha added again with feeling.
-
-"For ever!" the boys chimed in again.
-
-"Karamazov," cried Kolya, "can it be true what's taught us in religion, that we shall all rise again from the dead and shall live and see each other again, all, Ilusha too?"
-
-"Certainly we shall all rise again, certainly we shall see each other and shall tell each other with joy and gladness all that has happened!" Alyosha answered, half laughing, half enthusiastic.
-
-"Ah, how splendid it will be!" broke from Kolya.
-
-"Well, now we will finish talking and go to his funeral dinner. Don't be put out at our eating pancakes—it's a very old custom and there's something nice in that!" laughed Alyosha. "Well, let us go! And now we go hand in hand."
-
-"And always so, all our lives hand in hand! Hurrah for Karamazov!" Kolya cried once more rapturously, and once more the boys took up his exclamation:
-
-"Hurrah for Karamazov!"  
+> Alyosha's Speech at Ilusha's Stone, From The Brothers Karamazov by Fyodor Dostoyevsky  
 > **--_Alyosha's Speech at Ilusha's Stone, From The Brothers Karamazov by Fyodor Dostoevsky_**
 
-> The highest forms of understanding we can achieve are laughter and human compassion.‚Äù  
+> The highest forms of understanding we can achieve are laughter and human compassion.  
 > **--_Richard P. Feynman_**
 
-> Physics isn't the most important thing. Love is.‚Äù  
+> Physics isn't the most important thing. Love is.  
 > **--_Richard P. Feynman_**
 
 [Back to Top](# )
@@ -1100,7 +765,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="math">
-<h3 style="margin: 0; color: white;">Math <span class="quote-count">(29 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Math <span class="quote-count">(33 quotes)</span></h3>
 </div>
 > Mathematics presented as a closed, linearly ordered, system of truths without reference to origin and purpose has its charm and satisfies a philosophical need. But the attitude of introverted science is unsuitable for students who seek intellectual independence rather than indoctrination; disregard for applications and intuition leads to isolation and atrophy of mathematics. It seems extremely important that students and instructors should be protected from smug purism.  
 > **--_Richard Courant and Fritz John, From Introduction to Calculus and Analysis._**
@@ -1117,7 +782,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > Obvious is the most dangerous word in mathematics.  
 > **--_E. T. Bell_**
 
-> "Quapropter bono christiano, sive mathematici, sive quilibet impie divinantium, maxime dicentes vera, cavendi sunt, ne consortio daemoniorum animam deceptam, pacto quodam societatis irretiant." ("Thus the good christian should beware of mathematicians and all those who make false prophecies, however much they may in fact speak the truth; lest, being in league with the devil, they may deceive errant souls into making common cause.")  
+> Quapropter bono christiano, sive mathematici, sive quilibet impie divinantium, maxime dicentes vera, cavendi sunt, ne consortio daemoniorum animam deceptam, pacto quodam societatis irretiant. ("Thus the good christian should beware of mathematicians and all those who make false prophecies, however much they may in fact speak the truth; lest, being in league with the devil, they may deceive errant souls into making common cause.")  
 > **--_Augustinus, De genesis ad literam, Liber 2, Caput XVII, Nr. 37_**
 
 > Suppose that you want to teach the 'cat' concept to a very young child. Do you explain that a cat is a relatively small, primarily carnivorous mammal with retractible claws, a distinctive sonic output, etc.? I'll bet not. You probably show the kid a lot of different cats, saying 'kitty' each time, until it gets the idea. To put it more generally, generalizations are best made by abstraction from experience.  
@@ -1126,67 +791,79 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > Mathematics as we know it and as it has come to shape modern science could never have come into being without some disregard for the dangers of the infinite.  
 > **--_David Bressoud, A radical approach to real analysis, MAA, 2007, p. 22_**
 
-> "Abstraction consists essentially in the creation and utilization of ambiguity." "Logic moves in one direction, the direction of clarity, coherence and structure. Ambiguity moves in the other direction, that of fluidity, openness, and release. Mathematics moves back and forth between these two poles. [...] It is the interaction between these different aspects that gives mathematics its power."  
+> Abstraction consists essentially in the creation and utilization of ambiguity.  
 > **--_William Byers, How Mathematicians Think, Princeton University Press, 2007_**
 
-> "To ask the right question is harder than to answer it."  
+> Logic moves in one direction, the direction of clarity, coherence and structure. Ambiguity moves in the other direction, that of fluidity, openness, and release. Mathematics moves back and forth between these two poles. [...] It is the interaction between these different aspects that gives mathematics its power.  
+> **--_William Byers, How Mathematicians Think, Princeton University Press, 2007_**
+
+> To ask the right question is harder than to answer it.  
 > **--_G. Cantor_**
 
-> "Mathematics is the art of giving the same name to different things." "One geometry cannot be more true than another; it can only be more convenient."  
+> One geometry cannot be more true than another; it can only be more convenient.  
 > **--_Jules Henri Poincare, 1854-1912_**
 
-> "First, it is neccessary to study the facts, to multiply the number of observations, and then later to search for formulas that connect them so as thus to discern the particular laws governing a certain class of phenomena. In general, it is not until after these particular laws have been established that one can expect to discover and articulate the more general laws that complete theories by bringing a multitude of apparently very diverse phenomena together under a single governing principle."  
+> Mathematics is the art of giving the same name to different things.  
+> **--_Jules Henri Poincare, 1854-1912_**
+
+> First, it is neccessary to study the facts, to multiply the number of observations, and then later to search for formulas that connect them so as thus to discern the particular laws governing a certain class of phenomena. In general, it is not until after these particular laws have been established that one can expect to discover and articulate the more general laws that complete theories by bringing a multitude of apparently very diverse phenomena together under a single governing principle.  
 > **--_Augustin Louis Cauchy, 1789-1857_**
 
-> "To many, mathematics is a collection of theorems. For me, mathematics is a collection of examples; a theorem is a statement about a collection of examples and the purpuse of proving theorems is to classify and explain the examples..."  
+> To many, mathematics is a collection of theorems. For me, mathematics is a collection of examples; a theorem is a statement about a collection of examples and the purpuse of proving theorems is to classify and explain the examples...  
 > **--_John B. Conway, Subnormal Operators, Pitman Advanced Publishing Program, 1981_**
 
-> "I have photographed many people: artists, writers, and scientists, among others. In speaking about their work, mathematicians use the words 'elegance', 'truth', and 'beauty' more than everyone else combined."  
+> I have photographed many people: artists, writers, and scientists, among others. In speaking about their work, mathematicians use the words 'elegance', 'truth', and 'beauty' more than everyone else combined.  
 > **--_Mariana Cook, In the preface of her book Mathematicians: An Outer View of the Inner World with Clifford Gunning, Princeton University Press, 2009._**
 
-> "Induction makes you feel guilty for getting something out of nothing, and it is artificial, but it is one of the greatest ideas of civilization."  
+> Induction makes you feel guilty for getting something out of nothing, and it is artificial, but it is one of the greatest ideas of civilization.  
 > **--_Herbert Wilf_**
 
-> "My work always tried to unite the true with the beautiful, but when I had to choose one or the other, I usually chose the beautiful."  
+> My work always tried to unite the true with the beautiful, but when I had to choose one or the other, I usually chose the beautiful.  
 > **--_Hermann Weyl_**
 
-> "A mathematician who is not also something of a poet will never be a complete mathematician."  
+> A mathematician who is not also something of a poet will never be a complete mathematician.  
 > **--_Karl Weierstrass_**
 
-> "Suppose that we think of the integers lined up like dominoes. The inductive step tells us that they are close enough for each domino to knock over the next one, the base case tells us that the first domino falls over, the conclusion is that they all fall over. The fault in this analogy is that it takes time for each domino to fall and so a domino which is a long way along the line won't fall over for a long time. Mathematical implication is outside time."  
+> Suppose that we think of the integers lined up like dominoes. The inductive step tells us that they are close enough for each domino to knock over the next one, the base case tells us that the first domino falls over, the conclusion is that they all fall over. The fault in this analogy is that it takes time for each domino to fall and so a domino which is a long way along the line won't fall over for a long time. Mathematical implication is outside time.  
 > **--_Peter J. Eccles, An Introduction to Mathematical Reasoning, p. 41_**
 
-> "Analysis is the art of taming infinity."  
+> Analysis is the art of taming infinity.  
 > **--_Neil Falkner, Amer. Math. Monthly 116 (2009), p. 658_**
 
-> "Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them."  
+> Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them.  
 > **--_Jean Baptiste Joseph Fourier, 1768-1830_**
 
-> "The only way to learn mathematics is to do mathematics." "A good stock of examples, as large as possible, is indispensable for a thorough understanding of any concept, and when I want to learn something new, I make it my first job to build one."  
+> The only way to learn mathematics is to do mathematics.  
 > **--_Paul Halmos_**
 
-> "The purpose of computation is insight, not numbers."  
+> A good stock of examples, as large as possible, is indispensable for a thorough understanding of any concept, and when I want to learn something new, I make it my first job to build one.  
+> **--_Paul Halmos_**
+
+> The purpose of computation is insight, not numbers.  
 > **--_Richard Hamming, 1915--1998_**
 
-> "I believe that mathematical reality lies outside us, that our function is to discover or observe it, and that the theorems which we prove, and which we describe grandiloquently as our 'creations,' are simply the notes of our observations." "The mathematician's patterns, like those of the painter's or the poet's, must be beautiful; the ideas, like the colours or the words, must fit together in a harmonious way."  
+> I believe that mathematical reality lies outside us, that our function is to discover or observe it, and that the theorems which we prove, and which we describe grandiloquently as our 'creations,' are simply the notes of our observations.  
 > **--_Godfrey Harold Hardy_**
 
-> "The student of mathematics has to develop a tolerance for ambiguity. Pedantry can be the enemy of insight."  
+> The mathematician's patterns, like those of the painter's or the poet's, must be beautiful; the ideas, like the colours or the words, must fit together in a harmonious way.  
+> **--_Godfrey Harold Hardy_**
+
+> The student of mathematics has to develop a tolerance for ambiguity. Pedantry can be the enemy of insight.  
 > **--_Gila Hanna, in David Tall (ed.), Advanced mathematical thinking_**
 
-> "I believe that numbers and functions of Analysis are not the arbitrary result of our minds; I think that they exist outside of us, with the same character of necessity as the things of objective reality, and we meet them or discover them, and study them, as do the physicists, the chemists and the zoologists."  
+> I believe that numbers and functions of Analysis are not the arbitrary result of our minds; I think that they exist outside of us, with the same character of necessity as the things of objective reality, and we meet them or discover them, and study them, as do the physicists, the chemists and the zoologists.  
 > **--_Charles Hermite, quoted in Morris Kline's Mathematical Thought from Ancient to Modern Times, Oxford University Press, 1972, p. 1035._**
 
-> "The imaginary number is a fine and wonderful resource of the human spirit, almost an amphibian between being and not being."  
+> The imaginary number is a fine and wonderful resource of the human spirit, almost an amphibian between being and not being.  
 > **--_Gottfried Wilhelm Leibniz, 1646-1716_**
 
-> "Nature laughs at the difficulties of integration."  
+> Nature laughs at the difficulties of integration.  
 > **--_Pierre-Simon de Laplace_**
 
-> "There is nothing as dreamy and poetic, nothing as radical, subversive, and psychedelic, as mathematics. It is every bit as mind blowing as cosmology or physics (mathematicians conceived of black holes long before astronomers actually found any), and allows more freedom of expression than poetry, art, or music (which depends heavily on properties of the physical universe). Mathematics is the purest of the arts, as well as the most misunderstood."  
+> There is nothing as dreamy and poetic, nothing as radical, subversive, and psychedelic, as mathematics. It is every bit as mind blowing as cosmology or physics (mathematicians conceived of black holes long before astronomers actually found any), and allows more freedom of expression than poetry, art, or music (which depends heavily on properties of the physical universe). Mathematics is the purest of the arts, as well as the most misunderstood.  
 > **--_Paul Lockhart, A mathematician's lament_**
 
-> "To speak freely of mathematics, I find it the highest exercise of the spirit; but at the same time I know that it is so useless that I make little distinction between a man who is only a mathematician and a common artisan. Also, I call it the most beautiful profession in the world; but it is only a profession."  
+> To speak freely of mathematics, I find it the highest exercise of the spirit; but at the same time I know that it is so useless that I make little distinction between a man who is only a mathematician and a common artisan. Also, I call it the most beautiful profession in the world; but it is only a profession.  
 > **--_Blaise Pascal_**
 
 [Back to Top](# )
@@ -1195,7 +872,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="math-jokes">
-<h3 style="margin: 0; color: white;">Math Jokes <span class="quote-count">(7 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Math Jokes <span class="quote-count">(11 quotes)</span></h3>
 </div>
 > logloglog n has been proved to go to infinity, but has never been observed to do so.  
 > **--_Anonymous_**
@@ -1206,16 +883,69 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > There are three kinds of people: those who can count and those who can't.  
 > **--_Bumpersticker on a car in Ithaca, NY_**
 
-> "A mathematician is a blind man in a dark room looking for a black cat which isn't there."  
+> A mathematician is a blind man in a dark room looking for a black cat which isn't there.  
 > **--_Charles R. Darwin_**
 
-> "Bart: Hey, Houdini! Why don't you saw Martin in half? Magician: Oh, I'm not the kind of magician who does tricks. I'm a mathemagician! [Kids groan] Magician: Now, prepare to marvel at the mysteries of the universe, as I make this remainder disappear. [writes 7 goes into 28 three times] Lisa: But 7 goes into 28 four times. Magician: Uh, this is a magic 7." "Apu: In fact I can recite pi to 40000 places. The last digit is one! Homer: Mmmm, pie." "Homer: This time tomorrow, you'll be wearing high heels! Ned: Nope, you will. Homer: 'Fraid not. Ned: 'Fraid so! Homer: 'Fraid not. Ned: 'Fraid so! Homer: 'Fraid not infinity! Ned: 'Fraid so infinity plus one! Homer: D'oh!" "Internet Guy: Your stock is at zero. Bart: But I have 52 million shares! What's 52 million times zero?! And don't tell me it's zero!" "(Homer has disappeared into a wall in the living room.) Lisa: Well, where's my dad? Frink: Well, it should be obvious to even the most dimwitted individual who holds an advanced degree in hyperbolic topology, n'gee, that Homer Simpson has stumbled into...[the lights go off] the third dimension. Lisa: [flips the light switch back] Sorry. Frink: [drawing on a blackboard] Here is an ordinary square.... Wiggum: Whoa, whoa--slow down, egghead! >Frink: ... but suppose we extend the square beyond the two dimensions of our universe, along the hypothetical z-axis, there. Everyone: [gasps] Frink: This forms a three-dimensional object known as a "cube," or a "Frinkahedron" in honor of its discoverer, n'hey, n'hey. Homer's voice: Help me! Are you helping me, or are you going on and on? Frink: Oh, right. And, of course, within, we find the doomed individual."  
+> Homer: This time tomorrow, you'll be wearing high heels!
+Ned: Nope, you will.
+Homer: 'Fraid not.
+Ned: 'Fraid so!
+Homer: 'Fraid not.
+Ned: 'Fraid so!
+Homer: 'Fraid not infinity!
+Ned: 'Fraid so infinity plus one!
+Homer: D'oh!  
 > **--_Matt Groening, The Simpsons_**
 
-> "I'm a mathematical optimist: I deal only with positive integers."  
+> Internet Guy: Your stock is at zero.
+Bart: But I have 52 million shares! What's 52 million times zero?! And don't tell me it's zero!  
+> **--_Matt Groening, The Simpsons_**
+
+> [Homer has disappeared into a wall in the living room.]
+
+Lisa: Well, where's my dad?
+
+Frink: Well, it should be obvious to even the most dimwitted individual who holds an advanced degree in hyperbolic topology, n'gee, that Homer Simpson has stumbled into... [the lights go off] the third dimension.
+
+Lisa: [flips the light switch back] Sorry.
+
+Frink: [drawing on a blackboard] Here is an ordinary square...
+
+Wiggum: Whoa, whoa—slow down, egghead!
+
+Frink: ...but suppose we extend the square beyond the two dimensions of our universe, along the hypothetical z-axis, there.
+
+Everyone: [gasps]
+
+Frink: This forms a three-dimensional object known as a "cube," or a "Frinkahedron" in honor of its discoverer, n'hey, n'hey.
+
+Homer's voice: Help me! Are you helping me, or are you going on and on?
+
+Frink: Oh, right. And, of course, within, we find the doomed individual.  
+> **--_Matt Groening, The Simpsons_**
+
+> Apu: In fact I can recite pi to 40,000 places. The last digit is one!
+
+Homer: Mmmm, pie.  
+> **--_Matt Groening, The Simpsons_**
+
+> Bart: Hey, Houdini! Why don't you saw Martin in half?
+
+Magician: Oh, I'm not the kind of magician who does tricks. I'm a mathemagician!
+
+[Kids groan]
+
+Magician: Now, prepare to marvel at the mysteries of the universe, as I make this remainder disappear. [writes 7 goes into 28 three times]
+
+Lisa: But 7 goes into 28 four times.
+
+Magician: Uh, this is a magic 7.  
+> **--_Matt Groening, The Simpsons_**
+
+> I'm a mathematical optimist: I deal only with positive integers.  
 > **--_Tendai Chitewere_**
 
-> "The hardest thing being with a mathematician is that they always have problems."  
+> The hardest thing being with a mathematician is that they always have problems.  
 > **--_Tendai Chitewere_**
 
 [Back to Top](# )
@@ -1235,7 +965,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > William Stoner entered the University of Missouri as a freshman in the year 1910, at the age of nineteen. Eight years later, during the height of World War I, he received his Doctor of Philosophy degree and accepted an instructorship at the same University, where he taught until his death in 1956. He did not rise above the rank of assistant professor, and few students remembered him with any sharpness after they had taken his courses. When he died his colleagues made a memorial contribution of a medieval manuscript to the University library. This manuscript may still be found in the Rare Books Collection, bearing the inscription: "Presented to the Library of the University of Missouri, in memory of William Stoner, Department of English. By his colleagues." An occasional student who comes upon the name may wonder idly who William Stoner was, but he seldom pursues his curiosity beyond a casual question. Stoner's colleagues, who held him in no particular esteem when he was alive, speak of him rarely now; to the older ones, his name is a reminder of the end that awaits them all, and to the younger ones it is merely a sound which evokes no sense of the past and no identity with which they can associate themselves or their careers.  
 > **--_John Williams, in "Stoner", 1965_**
 
-> This is the problem. Maps get taken for territories and ERROR results. You lose track of what's body and what's just head. And the more time you spend sdtuck in your head, ignoring the world, hungry for transcendence and distraction, the more superficial your life becomes. And the more superficial your life becomes, the more undead you feel. After a while, "everything becomes an outline of the thing. Objects become schemata. The worlds becomes a map of the world"  
+> This is the problem. Maps get taken for territories and ERROR results. You lose track of what's body and what's just head. And the more time you spend sdtuck in your head, ignoring the world, hungry for transcendence and distraction, the more superficial your life becomes. And the more superficial your life becomes, the more undead you feel. After a while, everything becomes an outline of the thing. Objects become schemata. The worlds becomes a map of the world.  
 > **--_Adam S. Miller, 2016, in The Gospel According to David Foster Wallace; quote at end is from DFW, Infinite Jest_**
 
 [Back to Top](# )
@@ -1496,24 +1226,27 @@ The boys were excited and they, too, wanted to say something, but they restraine
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="teaching">
-<h3 style="margin: 0; color: white;">Teaching <span class="quote-count">(7 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Teaching <span class="quote-count">(8 quotes)</span></h3>
 </div>
-> "Spoon feeding, in the long run teaches us nothing but the shape of the spoon."  
+> Spoon feeding, in the long run teaches us nothing but the shape of the spoon.  
 > **--_E. M. Forster_**
 
-> "One of the big misapprehensions about mathematics that we perpetrate in our classrooms is that the teacher always seems to know the answer to any problem that is discussed. This gives students the idea that there is a book somewhere with all the right answers to all of the interesting questions, and that teachers know those answers. And if one could get hold of the book, one would have everything settled. That's so unlike the true nature of mathematics."  
+> One of the big misapprehensions about mathematics that we perpetrate in our classrooms is that the teacher always seems to know the answer to any problem that is discussed. This gives students the idea that there is a book somewhere with all the right answers to all of the interesting questions, and that teachers know those answers. And if one could get hold of the book, one would have everything settled. That's so unlike the true nature of mathematics.  
 > **--_Leon Henkin_**
 
-> "Education is the most powerful weapon which you can use to change the world."  
+> Education is the most powerful weapon which you can use to change the world.  
 > **--_Nelson Mandela_**
 
-> "We are usually convinced more easily by reasons we have found ourselves than by those which occured to others."  
+> We are usually convinced more easily by reasons we have found ourselves than by those which occured to others.  
 > **--_Blaise Pascal_**
 
-> "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea." >"Grown-ups never understand anything for themselves, and it is tiresome for children to be always and forever explaining things to them."  
+> Grown-ups never understand anything for themselves, and it is tiresome for children to be always and forever explaining things to them.  
 > **--_Antoine de Saint-Exupery_**
 
-> "We've taught you that the earth is round, That red and white make pink, And something else that matters more -- We've taught you how to think."  
+> If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.  
+> **--_Antoine de Saint-Exupery_**
+
+> We've taught you that the earth is round, That red and white make pink, And something else that matters more -- We've taught you how to think.  
 > **--_Dr. Seuss, Hooray for Diffendoofer Day_**
 
 > I don't know what's the matter with people: they don't learn by understanding, they learn by some other way‚ by rote or something. Their knowledge is so fragile!  
@@ -1527,7 +1260,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 <div class="section-header" id="technology">
 <h3 style="margin: 0; color: white;">Technology <span class="quote-count">(1 quotes)</span></h3>
 </div>
-> "For a list of all the ways technology has failed to improve the quality of life, please press three."  
+> For a list of all the ways technology has failed to improve the quality of life, please press three.  
 > **--_Alice Kahn_**
 
 [Back to Top](# )
@@ -1544,7 +1277,7 @@ The boys were excited and they, too, wanted to say something, but they restraine
 > I can live with doubt and uncertainty and not knowing. I think it is much more interesting to live not knowing than to have answers that might be wrong. If we will only allow that, as we progress, we remain unsure, we will leave opportunities for alternatives. We will not become enthusiastic for the fact, the knowledge, the absolute truth of the day, but remain always uncertain...In order to make progress, one must leave the door to the unknown ajar.  
 > **--_Richard P. Feynman, 1918-1988_**
 
-> "The notion that there must exist final objective answers to normative questions, truths that can be demonstrated or directly intuited, that it is in principle possible to discover a harmonious pattern in which all values are reconciled, and that it is towards this unique goal that we must make; that we can uncover some single central principle that shapes this vision, a principle which, once found, will govern our lives – this ancient and almost universal belief, on which so much traditional thought and action and philosophical doctrine rests, seems to me invalid, and at times to have led (and still to lead) to absurdities in theory and barbarous consequences in practice."  
+> The notion that there must exist final objective answers to normative questions, truths that can be demonstrated or directly intuited, that it is in principle possible to discover a harmonious pattern in which all values are reconciled, and that it is towards this unique goal that we must make; that we can uncover some single central principle that shapes this vision, a principle which, once found, will govern our lives – this ancient and almost universal belief, on which so much traditional thought and action and philosophical doctrine rests, seems to me invalid, and at times to have led (and still to lead) to absurdities in theory and barbarous consequences in practice.  
 > **--_Isaiah Berlin, "Four Essays on Liberty", 1969_**
 
 [Back to Top](# )
