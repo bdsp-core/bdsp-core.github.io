@@ -76,30 +76,350 @@ permalink: /quotes/
 ---
 
 <style>
-/* this is kind of a hack */
+/* Enhanced quotes styling */
 blockquote {
- padding: 5px 20px;
- margin: 0 0 20px;
-font-size: 16px;
- border-left: 5px solid #eee;
+ padding: 15px 25px;
+ margin: 0 0 25px;
+ font-size: 16px;
+ border-left: 4px solid #3498db;
+ background-color: #f8f9fa;
+ border-radius: 5px;
+ box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+ transition: transform 0.2s ease;
+}
+blockquote:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 blockquote strong em {
  color: #7F8C8D;
+ font-size: 14px;
+}
+
+/* Sticky TOC */
+.quotes-toc {
+ position: sticky;
+ top: 20px;
+ background: white;
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 8px;
+ margin-bottom: 30px;
+ box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+ z-index: 100;
+}
+
+/* Search box */
+.quote-search {
+ width: 100%;
+ padding: 12px;
+ margin-bottom: 20px;
+ border: 2px solid #ddd;
+ border-radius: 6px;
+ font-size: 16px;
+ transition: border-color 0.3s ease;
+}
+.quote-search:focus {
+ outline: none;
+ border-color: #3498db;
+}
+
+/* Section headers */
+.section-header {
+ background: linear-gradient(135deg, #34495e, #2c3e50);
+ color: white;
+ padding: 15px 20px;
+ margin: 40px 0 25px 0;
+ border-radius: 8px;
+ box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+ position: relative;
+}
+.section-header::before {
+ content: '';
+ position: absolute;
+ left: 0;
+ top: 0;
+ height: 100%;
+ width: 4px;
+ background: #3498db;
+ border-radius: 8px 0 0 8px;
+}
+
+/* Quote counter */
+.quote-count {
+ font-size: 12px;
+ color: #7f8c8d;
+ margin-left: 10px;
+ background: #ecf0f1;
+ padding: 2px 8px;
+ border-radius: 12px;
+}
+
+/* TOC styling */
+.toc-grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+ gap: 8px;
+ margin-bottom: 15px;
+}
+.toc-link {
+ padding: 8px 12px;
+ background: #f8f9fa;
+ border: 1px solid #e9ecef;
+ border-radius: 4px;
+ text-decoration: none;
+ transition: all 0.2s ease;
+ display: block;
+}
+.toc-link:hover {
+ background: #3498db;
+ color: white;
+ text-decoration: none;
+}
+
+/* Back to top button */
+.back-to-top {
+ position: fixed;
+ bottom: 30px;
+ right: 30px;
+ background: #3498db;
+ color: white;
+ padding: 12px 16px;
+ border-radius: 50%;
+ text-decoration: none;
+ box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+ opacity: 0;
+ visibility: hidden;
+ transition: all 0.3s ease;
+ z-index: 1000;
+}
+.back-to-top.visible {
+ opacity: 1;
+ visibility: visible;
+}
+.back-to-top:hover {
+ background: #2980b9;
+ transform: translateY(-2px);
+ text-decoration: none;
+ color: white;
+}
+
+/* Search highlighting */
+.highlight {
+ background-color: #ffeb3b;
+ padding: 1px 2px;
+ border-radius: 2px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+ .quotes-toc {
+  position: relative;
+  font-size: 14px;
+  padding: 15px;
+ }
+ .toc-grid {
+  grid-template-columns: 1fr;
+ }
+ blockquote {
+  padding: 12px 18px;
+  font-size: 15px;
+ }
+ .back-to-top {
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 14px;
+ }
+}
+
+/* Loading animation for search */
+.searching::after {
+ content: '...';
+ animation: dots 1.5s steps(5, end) infinite;
+}
+@keyframes dots {
+ 0%, 20% { color: rgba(0,0,0,0); text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+ 40% { color: black; text-shadow: .25em 0 0 rgba(0,0,0,0), .5em 0 0 rgba(0,0,0,0); }
+ 60% { text-shadow: .25em 0 0 black, .5em 0 0 rgba(0,0,0,0); }
+ 80%, 100% { text-shadow: .25em 0 0 black, .5em 0 0 black; }
 }
 </style>
 
+<script>
+// Enhanced search functionality with highlighting
+function searchQuotes() {
+ const searchTerm = document.getElementById('quoteSearch').value.toLowerCase().trim();
+ const sections = document.querySelectorAll('h3');
+ let totalVisible = 0;
+ 
+ // Clear previous highlights
+ document.querySelectorAll('.highlight').forEach(el => {
+  el.outerHTML = el.innerHTML;
+ });
+ 
+ sections.forEach(section => {
+  let element = section.nextElementSibling;
+  let hasVisibleQuotes = false;
+  
+  while (element && element.tagName !== 'H3') {
+   if (element.tagName === 'BLOCKQUOTE') {
+    const quotText = element.textContent.toLowerCase();
+    const isVisible = searchTerm === '' || quotText.includes(searchTerm);
+    
+    if (isVisible) {
+     hasVisibleQuotes = true;
+     totalVisible++;
+     
+     // Highlight search terms
+     if (searchTerm !== '') {
+      highlightText(element, searchTerm);
+     }
+    }
+    
+    element.style.display = isVisible ? 'block' : 'none';
+   }
+   element = element.nextElementSibling;
+  }
+  
+  section.style.display = hasVisibleQuotes || searchTerm === '' ? 'block' : 'none';
+ });
+ 
+ // Update search results info
+ updateSearchInfo(searchTerm, totalVisible);
+}
+
+function highlightText(element, searchTerm) {
+ const walker = document.createTreeWalker(
+  element,
+  NodeFilter.SHOW_TEXT,
+  null,
+  false
+ );
+ 
+ const textNodes = [];
+ let node;
+ while (node = walker.nextNode()) {
+  textNodes.push(node);
+ }
+ 
+ textNodes.forEach(textNode => {
+  const text = textNode.textContent;
+  const regex = new RegExp(`(${searchTerm})`, 'gi');
+  if (regex.test(text)) {
+   const highlightedText = text.replace(regex, '<span class="highlight">$1</span>');
+   const span = document.createElement('span');
+   span.innerHTML = highlightedText;
+   textNode.parentNode.replaceChild(span, textNode);
+  }
+ });
+}
+
+function updateSearchInfo(searchTerm, totalVisible) {
+ let infoElement = document.getElementById('searchInfo');
+ if (!infoElement) {
+  infoElement = document.createElement('div');
+  infoElement.id = 'searchInfo';
+  infoElement.style.cssText = 'margin-bottom: 15px; padding: 8px 12px; background: #e8f4f8; border-radius: 4px; font-size: 14px;';
+  document.querySelector('.quote-search').parentNode.insertBefore(infoElement, document.querySelector('.toc-grid'));
+ }
+ 
+ if (searchTerm === '') {
+  infoElement.style.display = 'none';
+ } else {
+  infoElement.style.display = 'block';
+  infoElement.innerHTML = `Found ${totalVisible} quote${totalVisible !== 1 ? 's' : ''} matching "${searchTerm}"`;
+ }
+}
+
+// Smooth scrolling for anchor links
+function initSmoothScrolling() {
+ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+   e.preventDefault();
+   const targetId = this.getAttribute('href').substring(1);
+   const target = document.getElementById(targetId);
+   if (target) {
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+   }
+  });
+ });
+}
+
+// Back to top button functionality
+function initBackToTop() {
+ const backToTop = document.createElement('a');
+ backToTop.href = '#';
+ backToTop.className = 'back-to-top';
+ backToTop.innerHTML = '↑';
+ backToTop.title = 'Back to top';
+ document.body.appendChild(backToTop);
+ 
+ window.addEventListener('scroll', () => {
+  if (window.pageYOffset > 300) {
+   backToTop.classList.add('visible');
+  } else {
+   backToTop.classList.remove('visible');
+  }
+ });
+ 
+ backToTop.addEventListener('click', (e) => {
+  e.preventDefault();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+ });
+}
+
+// Random quote functionality
+function showRandomQuote() {
+ const quotes = document.querySelectorAll('blockquote');
+ const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+ 
+ // Clear search and show all quotes first
+ document.getElementById('quoteSearch').value = '';
+ searchQuotes();
+ 
+ // Scroll to random quote
+ randomQuote.scrollIntoView({ behavior: 'smooth', block: 'center' });
+ 
+ // Briefly highlight the quote
+ randomQuote.style.border = '3px solid #e74c3c';
+ setTimeout(() => {
+  randomQuote.style.border = '';
+ }, 3000);
+}
+
+// Initialize everything when page loads
+document.addEventListener('DOMContentLoaded', function() {
+ initSmoothScrolling();
+ initBackToTop();
+ 
+ // Add keyboard shortcut for search (Ctrl+F or Cmd+F)
+ document.addEventListener('keydown', function(e) {
+  if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
+   e.preventDefault();
+   document.getElementById('quoteSearch').focus();
+  }
+ });
+});
+</script>
+
+<div class="quotes-toc">
+<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (Ctrl+F)" onkeyup="searchQuotes()">
+
+<div style="margin-bottom: 15px;">
+<button onclick="showRandomQuote()" style="background: #e74c3c; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-right: 10px;">🎲 Random Quote</button>
+<span style="font-size: 14px; color: #7f8c8d;">Navigate by category below ↓</span>
+</div>
+
 # Table of Contents""")
     
-    # Generate table of contents
-    toc_items = []
+    # Generate table of contents with grid layout and quote counts
+    content.append('<div class="toc-grid">')
     for section in sorted_sections:
         # Create anchor-friendly section ID
         section_id = section.lower().replace(' ', '-').replace('/', '-').replace('\'', '')
-        toc_items.append(f"[{section} | ](#{section_id})")
-    
-    content.append(' | '.join(toc_items[:5]))  # First row
-    for i in range(5, len(toc_items), 5):
-        content.append(' | '.join(toc_items[i:i+5]))
+        quote_count = len(sections[section])
+        content.append(f'<a href="#{section_id}" class="toc-link">{section} <span class="quote-count">({quote_count})</span></a>')
+    content.append('</div>')
     
     content.append("\n[Back to Brandon's page](/brandon/)")
     
@@ -107,8 +427,11 @@ blockquote strong em {
     for section in sorted_sections:
         # Create anchor-friendly section ID
         section_id = section.lower().replace(' ', '-').replace('/', '-').replace('\'', '')
+        quote_count = len(sections[section])
         
-        content.append(f"\n### {section}")
+        content.append(f'\n<div class="section-header" id="{section_id}">')
+        content.append(f'<h3 style="margin: 0; color: white;">{section} <span class="quote-count">({quote_count} quotes)</span></h3>')
+        content.append('</div>')
         
         for quote in sections[section]:
             quote_text = quote.get('Quote', '').strip()
