@@ -28,17 +28,27 @@ blockquote strong em {
  font-size: 14px;
 }
 
-/* Sticky TOC */
+/* TOC container */
 .quotes-toc {
- position: sticky;
- top: 20px;
  background: white;
  padding: 20px;
  border: 1px solid #ddd;
  border-radius: 8px;
  margin-bottom: 30px;
  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
- z-index: 100;
+}
+
+/* Sticky search container */
+.sticky-search {
+ position: sticky;
+ top: 0;
+ background: white;
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 8px;
+ margin-bottom: 20px;
+ box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+ z-index: 1000;
 }
 
 /* Search box */
@@ -143,11 +153,19 @@ blockquote strong em {
  border-radius: 2px;
 }
 
+/* Navigation highlight */
+blockquote.nav-highlight {
+ outline: 3px solid #3498db !important;
+ outline-offset: 2px;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
  .quotes-toc {
-  position: relative;
   font-size: 14px;
+  padding: 15px;
+ }
+ .sticky-search {
   padding: 15px;
  }
  .toc-grid {
@@ -181,34 +199,47 @@ blockquote strong em {
 // Enhanced search functionality with highlighting
 function searchQuotes() {
  const searchTerm = document.getElementById('quoteSearch').value.toLowerCase().trim();
+ const allQuotes = document.querySelectorAll('blockquote');
  const sections = document.querySelectorAll('.section-header');
  let totalVisible = 0;
+ window.visibleQuotes = [];
  
- // Clear previous highlights
+ // Clear previous highlights and navigation
  document.querySelectorAll('.highlight').forEach(el => {
   el.outerHTML = el.innerHTML;
  });
+ document.querySelectorAll('.nav-highlight').forEach(el => {
+  el.classList.remove('nav-highlight');
+ });
  
+ // First, hide/show all quotes based on search
+ allQuotes.forEach(quote => {
+  const quotText = quote.textContent.toLowerCase();
+  const matches = searchTerm === '' || quotText.includes(searchTerm);
+  
+  if (matches) {
+   quote.style.display = 'block';
+   window.visibleQuotes.push(quote);
+   totalVisible++;
+   
+   // Highlight search terms
+   if (searchTerm !== '') {
+    highlightText(quote, searchTerm);
+   }
+  } else {
+   quote.style.display = 'none';
+  }
+ });
+ 
+ // Then, hide/show section headers based on whether they have visible quotes
  sections.forEach(sectionHeader => {
-  let element = sectionHeader.nextElementSibling;
   let hasVisibleQuotes = false;
+  let element = sectionHeader.nextElementSibling;
   
   while (element && !element.classList.contains('section-header')) {
-   if (element.tagName === 'BLOCKQUOTE') {
-    const quotText = element.textContent.toLowerCase();
-    const isVisible = searchTerm === '' || quotText.includes(searchTerm);
-    
-    if (isVisible) {
-     hasVisibleQuotes = true;
-     totalVisible++;
-     
-     // Highlight search terms
-     if (searchTerm !== '') {
-      highlightText(element, searchTerm);
-     }
-    }
-    
-    element.style.display = isVisible ? 'block' : 'none';
+   if (element.tagName === 'BLOCKQUOTE' && element.style.display !== 'none') {
+    hasVisibleQuotes = true;
+    break;
    }
    element = element.nextElementSibling;
   }
@@ -218,6 +249,42 @@ function searchQuotes() {
  
  // Update search results info
  updateSearchInfo(searchTerm, totalVisible);
+ 
+ window.currentQuoteIndex = -1;
+ console.log('Search complete. Total quotes:', allQuotes.length, 'Visible quotes:', window.visibleQuotes.length);
+}
+
+// Navigate through search results
+function navigateQuotes(direction) {
+ console.log('navigateQuotes called, direction:', direction, 'visibleQuotes:', window.visibleQuotes ? window.visibleQuotes.length : 0);
+ 
+ if (!window.visibleQuotes || window.visibleQuotes.length === 0) {
+  console.log('No visible quotes to navigate');
+  return;
+ }
+ 
+ // Remove previous navigation highlight
+ document.querySelectorAll('.nav-highlight').forEach(el => el.classList.remove('nav-highlight'));
+ 
+ // Update index
+ console.log('Before update - currentQuoteIndex:', window.currentQuoteIndex);
+ if (direction === 'next') {
+  window.currentQuoteIndex = (window.currentQuoteIndex + 1) % window.visibleQuotes.length;
+ } else {
+  window.currentQuoteIndex = window.currentQuoteIndex <= 0 ? window.visibleQuotes.length - 1 : window.currentQuoteIndex - 1;
+ }
+ 
+ console.log('After update - currentQuoteIndex:', window.currentQuoteIndex);
+ 
+ // Highlight and scroll to current quote
+ const currentQuote = window.visibleQuotes[window.currentQuoteIndex];
+ if (currentQuote) {
+  currentQuote.classList.add('nav-highlight');
+  currentQuote.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  console.log('Scrolled to quote:', currentQuote.textContent.substring(0, 50) + '...');
+ } else {
+  console.error('Quote at index', window.currentQuoteIndex, 'not found');
+ }
 }
 
 function highlightText(element, searchTerm) {
@@ -252,11 +319,12 @@ function updateSearchInfo(searchTerm, totalVisible) {
   infoElement = document.createElement('div');
   infoElement.id = 'searchInfo';
   infoElement.style.cssText = 'margin-bottom: 15px; padding: 8px 12px; background: #e8f4f8; border-radius: 4px; font-size: 14px;';
-  const tocGrid = document.querySelector('.toc-grid');
-  if (tocGrid) {
-   document.querySelector('.quote-search').parentNode.insertBefore(infoElement, tocGrid);
+  // Insert after the search controls div
+  const searchControls = document.querySelector('.sticky-search > div');
+  if (searchControls) {
+   searchControls.parentNode.insertBefore(infoElement, searchControls.nextSibling);
   } else {
-   document.querySelector('.quote-search').parentNode.appendChild(infoElement);
+   document.querySelector('.sticky-search').appendChild(infoElement);
   }
  }
  
@@ -329,6 +397,33 @@ document.addEventListener('DOMContentLoaded', function() {
  initSmoothScrolling();
  initBackToTop();
  
+ // Add keyboard navigation for search input
+ const searchInput = document.getElementById('quoteSearch');
+ if (!searchInput) {
+  console.error('Search input not found!');
+  return;
+ }
+ 
+ searchInput.addEventListener('keydown', function(e) {
+  console.log('Key pressed:', e.key, 'Visible quotes:', window.visibleQuotes ? window.visibleQuotes.length : 0);
+  
+  if (e.key === 'Enter') {
+   e.preventDefault();
+   // Jump to first result or continue navigation
+   if (window.visibleQuotes && window.visibleQuotes.length > 0) {
+    navigateQuotes('next');
+   } else {
+    console.log('No visible quotes to navigate to');
+   }
+  } else if (e.key === 'ArrowDown') {
+   e.preventDefault();
+   navigateQuotes('next');
+  } else if (e.key === 'ArrowUp') {
+   e.preventDefault();
+   navigateQuotes('prev');
+  }
+ });
+ 
  // Add keyboard shortcut for search (Ctrl+F or Cmd+F)
  document.addEventListener('keydown', function(e) {
   if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
@@ -339,15 +434,18 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<div class="quotes-toc">
-<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (Ctrl+F)" onkeyup="searchQuotes()">
+<div class="sticky-search">
+<input type="text" id="quoteSearch" class="quote-search" placeholder="🔍 Search quotes... (Ctrl+F)" onkeyup="if(event.key !== 'Enter' && event.key !== 'ArrowDown' && event.key !== 'ArrowUp') searchQuotes()">
 
 <div style="margin-bottom: 15px;">
 <button onclick="showRandomQuote()" style="background: #e74c3c; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-right: 10px;">🎲 Random Quote</button>
 <span style="font-size: 14px; color: #7f8c8d;">Navigate by category below ↓</span>
 </div>
+</div>
 
-# Table of Contents
+<div class="quotes-toc">
+<h1>Table of Contents</h1>
+{::nomarkdown}
 <div class="toc-grid">
 <a href="#absurdity" class="toc-link">Absurdity <span class="quote-count">(13)</span></a>
 <a href="#academics" class="toc-link">Academics <span class="quote-count">(8)</span></a>
@@ -381,6 +479,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#teaching" class="toc-link">Teaching <span class="quote-count">(8)</span></a>
 <a href="#technology" class="toc-link">Technology <span class="quote-count">(1)</span></a>
 <a href="#uncertainty" class="toc-link">Uncertainty <span class="quote-count">(3)</span></a>
+</div>
+{:/nomarkdown}
 </div>
 
 [Back to Brandon's page](/brandon/)
