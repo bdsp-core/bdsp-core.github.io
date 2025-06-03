@@ -4,7 +4,6 @@ layout: textlay
 excerpt: "Quote collection"
 sitemap: false
 permalink: /quotes/
-# Last updated: June 3, 2025
 ---
 
 <style>
@@ -453,7 +452,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#beauty" class="toc-link">Beauty <span class="quote-count">(3)</span></a>
 <a href="#computation" class="toc-link">Computation <span class="quote-count">(1)</span></a>
 <a href="#conscience" class="toc-link">Conscience <span class="quote-count">(1)</span></a>
-<a href="#creativity" class="toc-link">Creativity <span class="quote-count">(3)</span></a>
+<a href="#creativity" class="toc-link">Creativity <span class="quote-count">(9)</span></a>
 <a href="#culture" class="toc-link">Culture <span class="quote-count">(4)</span></a>
 <a href="#faith" class="toc-link">Faith <span class="quote-count">(5)</span></a>
 <a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(18)</span></a>
@@ -670,16 +669,34 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="creativity">
-<h3 style="margin: 0; color: white;">Creativity <span class="quote-count">(3 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Creativity <span class="quote-count">(9 quotes)</span></h3>
 </div>
+> I never made one of my discoveries through the process of rational thinking.  
+> **--_Albert Einstein_**
+
+> To be creative means to be in love with life. You can be creative only if you love life enough that you want to enhance its beauty, you want to bring a little more music to it, a little more poetry to it, a little more dance to it.  
+> **--_Osho_**
+
 > I don't know where my ideas come from. I will admit, however, that one key ingredient is caffeine. I get a couple cups of coffee into me and weird things just start to happen.  
 > **--_Gary Larson, The Prehistory of The Far Side_**
+
+> One must still have chaos in oneself to be able to give birth to a dancing star.  
+> **--_Friedrich Nietzsche_**
 
 > Sometimes ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It's a mysterious process, but I hope I never find out exactly how it works.  
 > **--_J. K. Rowling_**
 
 > Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.  
 > **--_Richard Feynmann_**
+
+> The truly creative mind in any field is no more than this: A human creature born abnormally, inhumanly sensitive. To him... a touch is a blow, a sound is a noise, a misfortune is a tragedy, a joy is an ecstasy, a friend is a lover, a lover is a god, and failure is death. Add to this cruelly delicate organism the overpowering necessity to create, create, create -- so that without the creating of music or poetry or books or buildings or something of meaning, his very breath is cut off from him. He must create, must pour out creation. By some strange, unknown, inward urgency he is not really alive unless he is creating.  
+> **--_Pearl S. Buck_**
+
+> A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.  
+> **--_Antoine de Saint-Exupery, The Little Prince_**
+
+> You have to be burning with an idea, or a problem, or a wrong that you want to right. If you're not passionate enough from the start, you'll never stick it out.  
+> **--_Steve Jobs_**
 
 [Back to Top](# )
 
