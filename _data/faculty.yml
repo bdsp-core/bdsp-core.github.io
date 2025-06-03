@@ -93,3 +93,17 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
+- name: Christine Eckhardt, MD
+  photo: christineEckhardt.jpeg
+  info: Instructor in Neurology
+  email: ceckhardt@partners.org
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+- name: Marta Priscila Bento Fernandes, PhD
+  photo: marta.jpeg
+  info: Research scientist
+  email: mbentofernandes@mgh.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
