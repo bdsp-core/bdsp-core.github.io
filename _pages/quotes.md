@@ -4,6 +4,7 @@ layout: textlay
 excerpt: "Quote collection"
 sitemap: false
 permalink: /quotes/
+# Last updated: June 3, 2025
 ---
 
 <style>
