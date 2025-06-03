@@ -868,7 +868,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="section-header" id="love">
 <h3 style="margin: 0; color: white;">Love <span class="quote-count">(3 quotes)</span></h3>
 </div>
-> Alyosha's Speech at Ilusha's Stone, From The Brothers Karamazov by Fyodor Dostoyevsky  
+> “Boys, we shall soon part,” Alyosha said. “Let us make a compact here that we will never forget Ilusha and one another. And whatever happens to us later in life, let us always remember how we buried the poor boy at whom we once threw stones, and how, afterwards, we all grew so fond of him. He was a fine boy, a kindhearted, brave boy, he felt for his father’s honor and resented the cruel insult to him and stood up for him. We will remember him all our lives. And even if we are occupied with most important things, if we attain to honor or fall into great misfortune–still let us remember how good it was once here, when we were all together, united by a good and kind feeling which made us, for the time we were loving that poor boy, better perhaps than we are.”
+
+“My dear children, there is nothing higher and stronger and more wholesome and good for life in the future than some good memory, especially a memory of childhood, of home. People talk to you a great deal about your education, but some good, sacred memory, preserved from childhood, is perhaps the best education. If a man carries many such memories with him into life, he is safe to the end of his days, and if one has only one good memory left in one’s heart, even that may sometime be the means of saving us.
+
+Perhaps we may even grow wicked later on, may be unable to refrain from a bad action, may laugh at men’s tears and may even jeer spitefully at such people. But however bad we may become, yet, when we recall how we buried Ilusha, how we loved him in his last days, and how we have been talking like friends all together, the cruelest and most mocking of us won’t dare to laugh inwardly at having been kind and good at this moment! And, perhaps, that one memory may keep him from great evil and he will reflect and say, ‘Yes, I was good and brave and honest then!’ I say this in case we become bad, but there’s no reason why we should become bad. Let us be, first and above all, kind; then, honest; and then, let us never forget each other! I give you my word that I’ll never forget one of you. Every face looking at me now I shall remember even for thirty years.”
+
+“Boys, you are all dear to me; from this day forth, I have a place in my heart for you all, and I beg you to keep a place in your hearts for me! Ilusha united us in this kind, good feeling which we shall remember all our lives. May his memory live forever in our hearts from this time forth!”
+
+“Yes, yes, forever, forever!” the boys cried in their ringing voices, with softened faces. “Ah, children, ah, dear friends, don’t be afraid of life! How good life is when one does something good and just!” “Yes, yes,” the boys repeated enthusiastically.
+
+“Karamazov, we love you!” a voice cried impulsively. “We love you, we love you!” they all caught it up. There were tears in the eyes of many of them. “Hurrah for Karamazov!” Kolya shouted ecstatically.” “And may the dead boy’s memory live forever!” Alyosha added again with feeling. “Forever!” the boys chimed in again. “Well, now we will go, hand in hand, to his funeral dinner. And always so, all our lives, hand in hand!”
+
+Hurrah for Karamazov!” Kolya cried rapturously, and the boys took up his exclamation: “Hurrah for Karamazov!”  
 > **--_Alyosha's Speech at Ilusha's Stone, From The Brothers Karamazov by Fyodor Dostoevsky_**
 
 > The highest forms of understanding we can achieve are laughter and human compassion.  
