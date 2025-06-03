@@ -1,17 +1,3 @@
-- name: Christine Eckhardt, MD
-  photo: christineEckhardt.jpeg
-  info: Neurocritical care fellow
-  email: ceckhardt@partners.org
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Massachusetts General Hospital
-- name: Marta Priscila Bento Fernandes, PhD
-  photo: marta.jpeg
-  info: Postdoctoral research fellow
-  email: mbentofernandes@mgh.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Massachusetts General Hospital
 - name: Wan Yee Kong, MD, MSc
   photo: wanYeeKong.png
   info: Epilepsy fellow
@@ -162,4 +148,12 @@
   number_educ: 3
   education1: Brigham Young University
   education2: Mathematics
+  education3: Beth Israel Deaconess Medical Center
+- name: <a href="https://www.linkedin.com/in/gracekelliebayas/">Grace Bayas<a/>
+  photo: grace-bayas.jpeg
+  info: Research coordinator
+  email: gbayas@bidmc.harvard.edu
+  number_educ: 3
+  education1: Florida Atlantic University
+  education2: Biological Sciences
   education3: Beth Israel Deaconess Medical Center
