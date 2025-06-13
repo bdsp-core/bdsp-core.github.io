@@ -473,6 +473,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#probability-and-statistics-jokes" class="toc-link">Probability and Statistics jokes <span class="quote-count">(2)</span></a>
 <a href="#psychology" class="toc-link">Psychology <span class="quote-count">(2)</span></a>
 <a href="#science" class="toc-link">Science <span class="quote-count">(27)</span></a>
+<a href="#skepticism" class="toc-link">Skepticism <span class="quote-count">(3)</span></a>
 <a href="#suffering" class="toc-link">Suffering <span class="quote-count">(7)</span></a>
 <a href="#systems" class="toc-link">Systems <span class="quote-count">(1)</span></a>
 <a href="#teaching" class="toc-link">Teaching <span class="quote-count">(8)</span></a>
@@ -1309,6 +1310,23 @@ Magician: Uh, this is a magic 7.
 
 > All possible knowledge, then, depends on the validity of reasoning. If the feeling of certainty which we express by words like must be and therefore and since is a real perception of how things outside our own minds really ‘must’ be, well and good. But if this certainty is merely a feeling in our own minds and not a genuine insight into realities beyond them — if it merely represents the way our minds happen to work — then we can have no knowledge. Unless human reasoning is valid no science can be true. It follows that no account of the universe can be true unless that account leaves it possible for our thinking to be a real insight. A theory which explained everything else in the whole universe but which made it impossible to believe that our thinking was valid, would be utterly out of court. For that theory would itself have been reached by thinking, and if thinking is not valid that theory would, of course, be itself demolished. It would have destroyed its own credentials. It would be an argument which proved that no argument was sound — a proof that there are no such things as proofs — which is nonsense.  
 > **--_CS Lewis, "On the Incompatibility of Reason, Science, and Materialism"_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+<div class="section-header" id="skepticism">
+<h3 style="margin: 0; color: white;">Skepticism <span class="quote-count">(3 quotes)</span></h3>
+</div>
+> The peril is that the human intellect is free to destroy itself. Just as one generation could prevent the very existence of the next generation, by all entering a monastery or jumping into the sea, so one set of thinkers can in some degree prevent further thinking by teaching the next generation that there is no validity in any human thought. It is idle to talk always of the alternative of reason and faith. Reason is itself a matter of faith. It is an act of faith to assert that our thoughts have any relation to reality at all. If you are merely a sceptic, you must sooner or later ask yourself the question, ‘Why should anything go right; even observation and deduction? Why should not good logic be as misleading as bad logic? They are both movements in the brain of a bewildered ape?’ The young sceptic says, ‘I have a right to think for myself.’ But the old sceptic, the complete sceptic, says, ‘I have no right to think for myself. I have no right to think at all.’ There is a thought that stops thought.  
+> **--_G.K. Chesterton, Orthodoxy_**
+
+> Thus, even those who appreciate the metaphysical depth of Thomism in other matters have expressed surprise that he does not deal at all with what many now think the main metaphysical question; whether we can prove that the primary act of recognition of any reality is real. The answer is that St. Thomas recognised instantly, what so many modern sceptics have begun to suspect rather laboriously; that a man must either answer that question in the affirmative, or else never answer any question, never ask any question, never even exist intellectually, to answer or to ask. I suppose it is true in a sense that a man can be a fundamental sceptic, but he cannot be anything else: certainly not even a defender of fundamental scepticism. If a man feels that all the movements of his own mind are meaningless, then his mind is meaningless, and he is meaningless; and it does not mean anything to attempt to discover his meaning. Most fundamental sceptics appear to survive, because they are not consistently sceptical and not at all fundamental. They will first deny everything and then admit something, if for the sake of argument--or often rather of attack without argument. I saw an almost startling example of this essential frivolity in a professor of final scepticism, in a paper the other day. A man wrote to say that he accepted nothing but Solipsism, and added that he had often wondered it was not a more common philosophy. Now Solipsism simply means that a man believes in his own existence, but not in anybody or anything else. And it never struck this simple sophist, that if his philosophy was true, there obviously were no other philosophers to profess it.  
+> **--_G.K. Chesterton, St. Thomas Aquinas: "The Dumb Ox". 1933._**
+
+> If my mental processes are determined wholly by the motions of atoms in my brain, I have no reason to suppose that my beliefs are true ... and hence I have no reason for supposing my brain to be composed of atoms.  
+> **--_J.S. Haldane, "Possible Worlds", 1927._**
 
 [Back to Top](# )
 
