@@ -454,8 +454,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#conscience" class="toc-link">Conscience <span class="quote-count">(1)</span></a>
 <a href="#creativity" class="toc-link">Creativity <span class="quote-count">(9)</span></a>
 <a href="#culture" class="toc-link">Culture <span class="quote-count">(4)</span></a>
+<a href="#duty" class="toc-link">Duty <span class="quote-count">(1)</span></a>
 <a href="#faith" class="toc-link">Faith <span class="quote-count">(5)</span></a>
-<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(18)</span></a>
+<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(19)</span></a>
 <a href="#happiness" class="toc-link">Happiness <span class="quote-count">(1)</span></a>
 <a href="#logic" class="toc-link">Logic <span class="quote-count">(6)</span></a>
 <a href="#longing" class="toc-link">Longing <span class="quote-count">(4)</span></a>
@@ -724,6 +725,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
 [Back to Brandon's page](/brandon/)
 
+<div class="section-header" id="duty">
+<h3 style="margin: 0; color: white;">Duty <span class="quote-count">(1 quotes)</span></h3>
+</div>
+> The destiny of mankind is not decided by material computation. When great causes are on the move in the world, stirring all men’s souls, drawing them from their firesides, casting aside comfort, wealth, and the pursuit of happiness in response to impulses at once awe-striking and irresistible, we learn that we are spirits, not animals, and that something is going on in space and time, and beyond space and time, which, whether we like it or not, spells duty.  
+> **--_Winston Churchill, “Birth Throes of a Sublime Resolve,”  broadcast on 16 June 1941._**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
 <div class="section-header" id="faith">
 <h3 style="margin: 0; color: white;">Faith <span class="quote-count">(5 quotes)</span></h3>
 </div>
@@ -748,7 +760,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="good-and-evil">
-<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(18 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(19 quotes)</span></h3>
 </div>
 > When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.  
 > **--_Mahatma Gandhi_**
@@ -803,6 +815,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 > You mustn’t think that even now Edmund was quite so bad that he actually wanted his brother and sisters to be turned into stone. He did want Turkish Delight and to be a Prince (and later a King) and to pay Peter out for calling him a beast. As for what the Witch would do with the others, he didn’t want her to be particularly nice to them—certainly not to put them on the same level as himself; but he managed to believe, or to pretend he believed, that she wouldn’t do anything very bad to them, “Because,” he said to himself, “all these people who say nasty things about her are her enemies and probably half of it isn’t true. She was jolly nice to me, anyway, much nicer than they are. I expect she is the rightful Queen really. Anyway, she’ll be better than that awful Aslan!” At least, that was the excuse he made in his own mind for what he was doing. It wasn’t a very good excuse, however, for deep down inside him he really knew that the White Witch was bad and cruel.  
 > **--_C.S. Lewis, "The Lion, the Witch and the Wardrobe", 1950_**
+
+> Everything that exists deserves to perish.  
+> **--_Johann Wolfgang von Goethe, Faust - Part One (Karl Marx's favorite quote)_**
 
 [Back to Top](# )
 
