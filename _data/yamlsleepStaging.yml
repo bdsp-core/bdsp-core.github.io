@@ -1,3 +1,14 @@
+- title: '"CAISR: Achieving Human-Level Performance in Automated Sleep Analysis Across
+    All Clinical Sleep Metrics."'
+  image: ''
+  description: ''
+  authors: Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Moura Junior V, Ghanta
+    M, Gupta A, Stone KL, Kjaer MR, Sum-Ping O, Mignot E, Hwang D, Trotti LM, Clifford
+    GD, Katwa U, Sun H, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40554678
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf134. PMID: 40554678.'
+  highlight: 0
 - title: '"Continuous sleep depth index annotation with deep learning yields novel
     digital biomarkers for sleep health."'
   image: ''
