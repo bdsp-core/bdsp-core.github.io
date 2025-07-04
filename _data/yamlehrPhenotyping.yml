@@ -1,3 +1,14 @@
+- title: '"A GPT-4o-powered framework for identifying cognitive impairment stages
+    in electronic health records."'
+  image: ''
+  description: ''
+  authors: Leng Y, He Y, Amini S, Magdamo C, Paschalidis I, Mukerji SS, Moura LMVR,
+    Westover MB, Vranceanu AM, Ritchie CS, Blacker D, Dickson JR, Das S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40610683
+    display: 'NPJ digital medicine. 2025. 8(1). 401. doi: 10.1038/s41746-025-01834-5.
+      PMID: 40610683.'
+  highlight: 0
 - title: '"Identification of Patients With Congestive Heart Failure From the Electronic
     Health Records of Two Hospitals: Retrospective Study."'
   image: ''
