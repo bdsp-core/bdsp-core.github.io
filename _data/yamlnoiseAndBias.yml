@@ -1,3 +1,15 @@
+- title: '"Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales."'
+  image: ''
+  description: ''
+  authors: Li J, Goldenholz DM, Alkofer M, Sun C, Nascimento FA, Halford JJ, Dean
+    BC, Galanti M, Struck AF, Greenblatt AS, Lam AD, Herlopian A, Nwankwo C, Weber
+    D, Maus D, Haider HA, Karakis I, Yoo JY, Ng MC, Selioutski O, Taraschenko O, Osman
+    G, Katyal R, Schmitt SE, Benbadis S, Cash SS, Tatum WO, Sheikh Z, Kong WY, Bayas
+    G, Turley N, Hong S, Westover MB, Jing J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40689158
+    display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401221. PMID: 40689158.'
+  highlight: 0
 - title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
     Injury Continuum Using Interpretable Machine Learning."'
   image: ''
