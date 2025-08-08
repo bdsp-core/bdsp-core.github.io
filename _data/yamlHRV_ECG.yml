@@ -1,3 +1,12 @@
+- title: '"An Electrocardiogram Foundation Model Built on over 10 Million Recordings."'
+  image: ''
+  description: ''
+  authors: Li J, Aguirre AD, Moura V, Jin J, Liu C, Zhong L, Sun C, Clifford G, Westover
+    MB, Hong S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40771651
+    display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401033. PMID: 40771651.'
+  highlight: 0
 - title: '"Sleep staging from electrocardiography and respiration with deep learning."'
   image: ''
   description: ''
