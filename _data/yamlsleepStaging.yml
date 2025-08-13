@@ -1,3 +1,26 @@
+- title: '"Health-Oriented Sleep States: Making Sleep States Reflect Health Conditions."'
+  image: ''
+  description: ''
+  authors: Sun H, Ganglberger W, Nasiri S, Nassi TE, Meulenbrugge EJ, Lam AD, Zafar
+    S, Gupta A, Ghanta M, Moura Junior VF, Shin C, Au R, Cash SS, Thomas RJ, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40795277
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf229. PMID: 40795277.'
+  highlight: 0
+- title: '"Automated analysis of the AASM Inter-Scorer Reliability gold standard polysomnogram
+    dataset."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Sun H, Stone
+    KL, Mignot E, Hwang D, Trotti LM, Reyna MA, Clifford GD, Katwa U, Thomas RJ, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40790924
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2025. doi: 10.5664/jcsm.11848. PMID:
+      40790924.'
+  highlight: 0
 - title: '"CAISR: Achieving Human-Level Performance in Automated Sleep Analysis Across
     All Clinical Sleep Metrics."'
   image: ''
