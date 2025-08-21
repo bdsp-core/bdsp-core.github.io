@@ -21,7 +21,7 @@
   education2: Beth Israel Deaconess Medical Center
 - name: Sakshi Chougule, MSc
   photo: sakshi.jpeg
-  info: Project manager
+  info: Sr. Clinical Research Coordinator
   email: schougul@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
@@ -38,8 +38,8 @@
   info: Child Neurology Resident
   email: callison.alcott@childrens.harvard.edu
   number_educ: 2
-  education1: Child Neurology Resident
-  education2: Harvard Medical School
+  education1: Harvard Medical School
+  education2: Boston Children's Hospital
 - name: Dan Sumsion
   photo: danSumsion.jpeg
   info: Undergraduate - NAX project
@@ -48,9 +48,10 @@
 - name: Niels Turley
   photo: niels_resized.jpg
   info: Research coordinator
+  email: nturley1@bidmc.harvard.edu
   number_educ: 1
   education1: Brigham Young University
-- name: Ayan Mitra, PhD
+- name: <a href="https://www.linkedin.com/in/drayanmitra/">Ayan Mitra, PhD<a/>
   photo: Mitra_Ayan_CDAC.png
   info: Clinical Research Manager
   email: amitra1@bidmc.harvard.edu
@@ -157,3 +158,28 @@
   education1: Florida Atlantic University
   education2: Biological Sciences
   education3: Beth Israel Deaconess Medical Center
+- name: Marjan Sarami, MD
+  info: Postdoctoral Research Fellow
+  email: msarami@bidmc.harvard.edu
+  number_educ: 1
+  education1: Beth Israel Deaconess Medical Center
+- name: Imad Akbar, MD
+  info: Postdoctoral Research Fellow Intern
+  email: iakbar@bidmc.harvard.edu
+  number_educ: 1
+  education1: Beth Israel Deaconess Medical Center
+- name: Ali Han Yaramis, MD
+  info: Postdoctoral Research Fellow Intern
+  email: ayaramis@bidmc.harvard.edu
+  number_educ: 1
+  education1: Beth Israel Deaconess Medical Center
+- name: Katelyn M. Surrao, BS
+  info: Research Assistant
+  email: ksurrao@bidmc.harvard.edu
+  number_educ: 1
+  education1: Beth Israel Deaconess Medical Center
+- name: Han Wu, MS
+  info: Bioinformatician
+  email: hwu9@bidmc.harvard.edu
+  number_educ: 1
+  education1: Beth Israel Deaconess Medical Center
