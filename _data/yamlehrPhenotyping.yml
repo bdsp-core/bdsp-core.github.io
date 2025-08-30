@@ -1,3 +1,14 @@
+- title: '"A Machine Learning Approach for Identifying People With Neuroinfectious
+    Diseases in Electronic Health Records: Algorithm Development and Validation."'
+  image: ''
+  description: ''
+  authors: Singh A, Sartipi S, Sun H, Milde R, Turley N, Quinn C, Harrold GK, Gillani
+    RL, Turbett SE, Das S, Zafar S, Fernandes M, Westover MB, Mukerji SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40882236
+    display: 'JMIR medical informatics. 2025. 13. e63157. doi: 10.2196/63157. PMID:
+      40882236.'
+  highlight: 0
 - title: '"A GPT-4o-powered framework for identifying cognitive impairment stages
     in electronic health records."'
   image: ''
