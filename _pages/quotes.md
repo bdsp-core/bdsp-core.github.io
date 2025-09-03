@@ -446,8 +446,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <h1>Table of Contents</h1>
 {::nomarkdown}
 <div class="toc-grid">
-<a href="#absurdity" class="toc-link">Absurdity <span class="quote-count">(13)</span></a>
+<a href="#absurdity" class="toc-link">Absurdity <span class="quote-count">(14)</span></a>
 <a href="#academics" class="toc-link">Academics <span class="quote-count">(8)</span></a>
+<a href="#alienation" class="toc-link">Alienation <span class="quote-count">(1)</span></a>
 <a href="#anger" class="toc-link">Anger <span class="quote-count">(16)</span></a>
 <a href="#beauty" class="toc-link">Beauty <span class="quote-count">(3)</span></a>
 <a href="#computation" class="toc-link">Computation <span class="quote-count">(1)</span></a>
@@ -475,7 +476,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#psychology" class="toc-link">Psychology <span class="quote-count">(2)</span></a>
 <a href="#science" class="toc-link">Science <span class="quote-count">(27)</span></a>
 <a href="#skepticism" class="toc-link">Skepticism <span class="quote-count">(3)</span></a>
-<a href="#suffering" class="toc-link">Suffering <span class="quote-count">(7)</span></a>
+<a href="#suffering" class="toc-link">Suffering <span class="quote-count">(8)</span></a>
 <a href="#systems" class="toc-link">Systems <span class="quote-count">(1)</span></a>
 <a href="#teaching" class="toc-link">Teaching <span class="quote-count">(8)</span></a>
 <a href="#technology" class="toc-link">Technology <span class="quote-count">(1)</span></a>
@@ -487,7 +488,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="absurdity">
-<h3 style="margin: 0; color: white;">Absurdity <span class="quote-count">(13 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Absurdity <span class="quote-count">(14 quotes)</span></h3>
 </div>
 > Cut off from his religious, metaphysical and transcendental roots, man is lost; all his actions become senseless, absurd, useless.  
 > **--_Eugene Ionesco, 1912-1994_**
@@ -527,6 +528,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 > If a sense of the absurd is a way of perceiving our true situation (even though the situation is not absurd until the perception arises), then what reason can we have to resent or escape it? Like the capacity for epistemological skepticism, it results from the ability to understand our human limitations. It need not be a matter for agony unless we make it so. Nor need it evoke a defiant contempt of fate that allows us to feel brave or proud. Such dramatics, even if carried on in private, betray a failure to appreciate the cosmic unimportance of the situation. If sub specie aeternitatis there is no reason to believe that anything matters, then that doesn't matter either, and we can approach our absurd lives with irony instead of heroism or despair.  
 > **--_The Absurd, Thomas Nagel, at The Meaning of Life symposium, December 29, 1971_**
+
+> Yet, I didn't understand that she was intentionally disguising her feelings with sarcasm; that was usually the last resort of people who are timid and chaste of heart, whose souls have been coarsely and impudently invaded; and who, until the last moment, refuse to yield out of pride and are afraid to express their own feelings to you.  
+> **--_Fyodor Dostoyevsky, Notes From Underground_**
 
 [Back to Top](# )
 
@@ -569,6 +573,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
 > And further, by these, my son, be admonished: of making many books there is no end; and much astudy is a weariness of the flesh.  
 > **--_Ecclesiastes 12:12_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+<div class="section-header" id="alienation">
+<h3 style="margin: 0; color: white;">Alienation <span class="quote-count">(1 quotes)</span></h3>
+</div>
+> Why, to tell long stories, showing how I have spoiled my life through morally rotting in my corner, through lack of fitting environment, through divorce from real life, and rankling spite in my underground world, would certainly not be interesting...we are all divorced from life, we are all cripples, every one of us, more or less. We are so divorced from it that we feel at once a sort of loathing for real life, and so cannot bear to be reminded of it. Why, we have come almost to looking upon real life as an effort, almost as hard work, and we are all privately agreed that it is better in books...give any one of us, for instance, a little more independence, untie our hands, widen the spheres of our activity, relax the control and we ... yes, I assure you...we should be begging to be under control again at once...Why, we don't even know what living means now...Leave us alone without books and we shall be lost and in confusion at once. We shall not know what to join on to, what to cling to, what to love and what to hate, what to respect and what to despise. We are oppressed at being men--men with a real individual body and blood, we are ashamed of it, we think it a disgrace and try to contrive to be some sort of impossible generalised man...Soon we shall contrive to be born somehow from an idea.  
+> **--_Fyodor Dostoyevsky, Notes from The Underground_**
 
 [Back to Top](# )
 
@@ -1349,7 +1364,7 @@ Magician: Uh, this is a magic 7.
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="suffering">
-<h3 style="margin: 0; color: white;">Suffering <span class="quote-count">(7 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Suffering <span class="quote-count">(8 quotes)</span></h3>
 </div>
 > What is hell? I maintain that it is the suffering of being unable to love.  
 > **--_Fyodor Dostoevsky, The Brothers Karamazov_**
@@ -1371,6 +1386,9 @@ Magician: Uh, this is a magic 7.
 
 > I don’t like anything here at all,’ said Frodo, ‘step or stone, breath or bone. Earth, air and water all seem accursed. But so our path is laid.’ ‘Yes, that’s so,’ said Sam. ‘And we shouldn’t be here at all, if we’d known more about it before we started. But I suppose it’s often that way. The brave things in the old tales and songs, Mr. Frodo: adventures, as I used to call them. I used to think that they were things the wonderful folk of the stories went out and looked for, because they wanted them, because they were exciting and life was a bit dull, a kind of a sport, as you might say. But that’s not the way of it with the tales that really mattered, or the ones that stay in the mind. Folk seem to have been just landed in them, usually – their paths were laid that way, as you put it. But I expect they had lots of chances, like us, of turning back, only they didn’t. And if they had, we shouldn’t know, because they’d have been forgotten. We hear about those as just went on – and not all to a good end, mind you; at least not to what folk inside a story and not outside it call a good end. You know, coming home, and finding things all right, though not quite the same – like old Mr. Bilbo. But those aren’t always the best tales to hear, though they may be the best tales to get landed in! I wonder what sort of a tale we’ve fallen into?’ ‘I wonder,’ said Frodo. ‘But I don’t know. And that’s the way of a real tale. Take any one that you’re fond of. You may know, or guess, what kind of a tale it is, happy-ending or sad-ending, but the people in it don’t know. And you don’t want them to.’ ‘No, sir, of course not. Beren now, he never thought he was going to get that Silmaril from the Iron Crown in Thangorodrim, and yet he did, and that was a worse place and a blacker danger than ours. But that’s a long tale, of course, and goes on past the happiness and into grief and beyond it – and the Silmaril went on and came to Eärendil. And why, sir, I never thought of that before! We’ve got – you’ve got some of the light of it in that star-glass that the Lady gave you! Why, to think of it, we’re in the same tale still! It’s going on. Don’t the great tales never end?’ ‘No, they never end as tales,’ said Frodo. ‘But the people in them come, and go when their part’s ended. Our part will end later – or sooner.’ ‘And then we can have some rest and some sleep,’ said Sam. He laughed grimly. ‘And I mean just that, Mr. Frodo. I mean plain ordinary rest, and sleep, and waking up to a morning’s work in the garden. I’m afraid that’s all I’m hoping for all the time. All the big important plans are not for my sort. Still, I wonder if we shall ever be put into songs or tales. We’re in one, of course; but I mean: put into words, you know, told by the fireside, or read out of a great big book with red and black letters, years and years afterwards. And people will say: “Let’s hear about Frodo and the Ring!” And they’ll say: “Yes, that’s one of my favourite stories. Frodo was very brave, wasn’t he, dad?” “Yes, my boy, the famousest of the hobbits, and that’s saying a lot.”’ ‘It’s saying a lot too much,’ said Frodo, and he laughed, a long clear laugh from his heart. Such a sound had not been heard in those places since Sauron came to Middle-earth. To Sam suddenly it seemed as if all the stones were listening and the tall rocks leaning over them. But Frodo did not heed them; he laughed again. ‘Why, Sam,’ he said, ‘to hear you somehow makes me as merry as if the story was already written. But you’ve left out one of the chief characters: Samwise the stouthearted. “I want to hear more about Sam, dad. Why didn’t they put in more of his talk, dad? That’s what I like, it makes me laugh. And Frodo wouldn’t have got far without Sam, would he, dad?”’ ‘Now, Mr. Frodo,’ said Sam, ‘you shouldn’t make fun. I was serious.’ ‘So was I,’ said Frodo, ‘and so I am. We’re going on a bit too fast. You and I, Sam, are still stuck in the worst places of the story, and it is all too likely that some will say at this point: “Shut the book now, dad; we don’t want to read any more.”’ ‘Maybe,’ said Sam, ‘but I wouldn’t be one to say that.  
 > **--_Frodo and Sam, on the stairs of Cirith Ungol, JRR Tolkien_**
+
+> I swear to you that to think too much is a disease, a real, actual disease.  
+> **--_Fyodor Dostoyevsky, Notes From The Underground_**
 
 [Back to Top](# )
 
