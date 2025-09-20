@@ -1,3 +1,16 @@
+- title: '"The Boston Children''s Hospital Sleep Corpus: A Collection of 15,695 Annotated
+    Pediatric Polysomnograms."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra
+    A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone
+    KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo
+    G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski
+    K, Katwa U
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40971987
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf273. PMID: 40971987.'
+  highlight: 0
 - title: '"Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales."'
   image: ''
   description: ''
