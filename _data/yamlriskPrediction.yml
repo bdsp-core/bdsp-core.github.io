@@ -1,3 +1,15 @@
+- title: '"Dual-outcome Prediction of Post-Ischemic Stroke Epilepsy and Mortality
+    Using Multimodal Quantitative Biomarkers."'
+  image: ''
+  description: ''
+  authors: Chen Y, Soto AL, Sudhakar TD, Zubair A, Sun H, Jing J, Ge W, Loman L, Sivaraju
+    A, Petersen N, Hirsch LJ, Blumenfeld H, Zafar SF, Struck AF, Sheth KN, Gilmore
+    EJ, Westover MB, Kim JA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41040677
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.09.22.25335736.
+      PMID: 41040677.'
+  highlight: 0
 - title: '"Assessing Risk of Health Outcomes From Brain Activity in Sleep: A Retrospective
     Cohort Study."'
   image: ''
@@ -276,9 +288,9 @@
     Risk Prediction."'
   image: ''
   description: ''
-  authors: "Struck AF, Tabaeizadeh M, Schmitt SE, Ruiz AR, Swisher CB, Subramaniam\
-    \ T, Hernandez C, Kaleem S, Haider HA, Ciss\xE9 AF, Dhakar MB, Hirsch LJ, Rosenthal\
-    \ ES, Zafar SF, Gaspard N, Westover MB."
+  authors: Struck AF, Tabaeizadeh M, Schmitt SE, Ruiz AR, Swisher CB, Subramaniam
+    T, Hernandez C, Kaleem S, Haider HA, Cissé AF, Dhakar MB, Hirsch LJ, Rosenthal
+    ES, Zafar SF, Gaspard N, Westover MB.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/31930362
     display: 'JAMA Neurol 2020 Apr 1; 77 (4) :500-507 doi: 10.1001/jamaneurol.2019.4656.
