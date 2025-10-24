@@ -454,10 +454,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#computation" class="toc-link">Computation <span class="quote-count">(1)</span></a>
 <a href="#conscience" class="toc-link">Conscience <span class="quote-count">(1)</span></a>
 <a href="#creativity" class="toc-link">Creativity <span class="quote-count">(9)</span></a>
-<a href="#culture" class="toc-link">Culture <span class="quote-count">(4)</span></a>
-<a href="#duty" class="toc-link">Duty <span class="quote-count">(1)</span></a>
+<a href="#culture" class="toc-link">Culture <span class="quote-count">(5)</span></a>
+<a href="#duty" class="toc-link">Duty <span class="quote-count">(3)</span></a>
 <a href="#faith" class="toc-link">Faith <span class="quote-count">(5)</span></a>
-<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(19)</span></a>
+<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(21)</span></a>
 <a href="#happiness" class="toc-link">Happiness <span class="quote-count">(1)</span></a>
 <a href="#logic" class="toc-link">Logic <span class="quote-count">(6)</span></a>
 <a href="#longing" class="toc-link">Longing <span class="quote-count">(4)</span></a>
@@ -466,7 +466,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#math-jokes" class="toc-link">Math Jokes <span class="quote-count">(11)</span></a>
 <a href="#meaning" class="toc-link">Meaning <span class="quote-count">(4)</span></a>
 <a href="#moderation" class="toc-link">Moderation <span class="quote-count">(1)</span></a>
-<a href="#nihilism" class="toc-link">Nihilism <span class="quote-count">(1)</span></a>
+<a href="#nihilism" class="toc-link">Nihilism <span class="quote-count">(2)</span></a>
 <a href="#passion" class="toc-link">Passion <span class="quote-count">(4)</span></a>
 <a href="#philosophical-jokes" class="toc-link">Philosophical jokes <span class="quote-count">(3)</span></a>
 <a href="#philosophy" class="toc-link">Philosophy <span class="quote-count">(1)</span></a>
@@ -721,7 +721,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="culture">
-<h3 style="margin: 0; color: white;">Culture <span class="quote-count">(4 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Culture <span class="quote-count">(5 quotes)</span></h3>
 </div>
 > What is the worst thing about living near an open sewer? It is not that you sicken at the stench of it every time you leave your front door. It is that the noisome vapors are so pervasive, and you have lived with them so long, you no longer notice it. What is the worst thing about living in the rubble of a civilization? It is not that you shed a tear for the noble churches and courts and town halls you once knew, as you recall years filled with religious services, parades, block parties, and all the bumptious folderol of an ordinary civic life. It is that you do not even suspect that such things existed.  
 > **--_Anthony Esolen, What Would Our Ancestors Think of Us?, February 16, 2016_**
@@ -732,6 +732,9 @@ document.addEventListener('DOMContentLoaded', function() {
 > If you are a really serious student, you will be in science, or finance, or politics‚ you will be in the business of money or power. Everything is about ourselves. We don't want to study other cultures. We want to make other people study about us, and from our preferred point of view. I say to students, "Here, let me teach you about Milton, the author of the greatest poem in the English language". The students reply, "No, let us teach you about us". Dear Narcissus, there is a great and beautiful world beyond that pool.  
 > **--_Anthony Esolen, The Narcissism of Campus Diversity Activists, February 24, 2016_**
 
+> There were spaceships again in that century, and the ships were manned by fuzzy impossibilities that walked on two legs and sprouted tufts of hair in unlikely anatomical regions. They were a garrulous kind. They belonged to a race quite capable of admiring its own image in a mirror, and equally capable of cutting its own throat before the altar of some tribal god, such as the deity of Daily Shaving. It was a species which often considered itself to be, basically, a race of divinely inspired toolmakers; any intelligent entity from Arcturus would instantly have perceived them to be, basically, a race of impassioned after-dinner speechmakers.  
+> **--_Walter M. Miller Jr. (1923-1996), A Canticle for Leibowitz (1959)_**
+
 > The world says: "You have needs -- satisfy them. You have as much right as the rich and the mighty. Don't hesitate to satisfy your needs; indeed, expand your needs and demand more." This is the worldly doctrine of today. And they believe that this is freedom. The result for the rich is isolation and suicide, for the poor, envy and murder.  
 > **--_Fyodor Dostoyevsky, The Brothers Karamazov_**
 
@@ -741,10 +744,16 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="duty">
-<h3 style="margin: 0; color: white;">Duty <span class="quote-count">(1 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Duty <span class="quote-count">(3 quotes)</span></h3>
 </div>
 > The destiny of mankind is not decided by material computation. When great causes are on the move in the world, stirring all men’s souls, drawing them from their firesides, casting aside comfort, wealth, and the pursuit of happiness in response to impulses at once awe-striking and irresistible, we learn that we are spirits, not animals, and that something is going on in space and time, and beyond space and time, which, whether we like it or not, spells duty.  
 > **--_Winston Churchill, “Birth Throes of a Sublime Resolve,”  broadcast on 16 June 1941._**
+
+> Abbot: “You promise to begin restoring Man's control over Nature. But who will govern the use of the power to control natural forces? Who will use it? To what end? How will you hold him in check? Such decisions can still be made. But if you and your group don't make them now, others will soon make them for you. Mankind will profit, you say. By whose sufferance? The sufferance of a prince who signs his letters X? Or do you really believe that your collegium can stay aloof from his ambitions when he begins to find out that you're valuable to him?” Scientist: "What you really suggest is that we wait a little while. That we dissolve the collegium, or move it to the desert, and somehow-with no gold and silver of our own-revive an experimental and theoretical science in some slow, hard way, and tell nobody. That we save it all up for the day when Man is good and pure and holy and wise...Keep science cloistered, don't try to apply it, don't try to do anything about it until men are holy."  
+> **--_Walter M. Miller Jr. (1923-1996), A Canticle for Leibowitz (1959)_**
+
+> Steel screams when it's forged, it gasps when it's quenched. It creaks when it goes under load. I think even steel is scared, son.  
+> **--_Walter M. Miller Jr. (1923-1996), A Canticle for Leibowitz (1959)_**
 
 [Back to Top](# )
 
@@ -775,7 +784,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="good-and-evil">
-<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(19 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(21 quotes)</span></h3>
 </div>
 > When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.  
 > **--_Mahatma Gandhi_**
@@ -833,6 +842,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
 > Everything that exists deserves to perish.  
 > **--_Johann Wolfgang von Goethe, Faust - Part One (Karl Marx's favorite quote)_**
+
+> "Where's the truth?" he asked quietly. "What's to be believed? Or does it matter at all? When mass murder's been answered with mass murder, rape with rape, hate with hate, there's no longer much meaning in asking whose ax is bloodier. Evil, on evil, piled on evil.”  
+> **--_Walter M. Miller Jr. (1923-1996), A Canticle for Leibowitz (1959)_**
+
+> The old father of lies was clever at telling half-truths: How shall you “know” good and evil, until you shall have sampled a little? Taste and be as Gods. But neither infinite power nor infinite wisdom could bestow godhood upon men. For that there would have to be infinite love as well.  
+> **--_Walter M. Miller Jr. (1923-1996), A Canticle for Leibowitz (1959)_**
 
 [Back to Top](# )
 
@@ -1146,10 +1161,13 @@ Magician: Uh, this is a magic 7.
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="nihilism">
-<h3 style="margin: 0; color: white;">Nihilism <span class="quote-count">(1 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Nihilism <span class="quote-count">(2 quotes)</span></h3>
 </div>
 > Have you not heard of that madman who lit a lantern in the bright morning hours, ran to the market place, and cried incessantly: "I seek God! I seek God!" -- As many of those who did not believe in God were standing around just then, he provoked much laughter. Has he got lost? asked one. Did he lose his way like a child? asked another. Or is he hiding? Is he afraid of us? Has he gone on a voyage? emigrated? -- Thus they yelled and laughed. The madman jumped into their midst and pierced them with his eyes. "Whither is God?" he cried; "I will tell you. We have killed him -- you and I. All of us are his murderers. But how did we do this? How could we drink up the sea? Who gave us the sponge to wipe away the entire horizon? What were we doing when we unchained this earth from its sun? Whither is it moving now? Whither are we moving? Away from all suns? Are we not plunging continually? Backward, sideward, forward, in all directions? Is there still any up or down? Are we not straying, as through an infinite nothing? Do we not feel the breath of empty space? Has it not become colder? Is not night continually closing in on us? Do we not need to light lanterns in the morning? Do we hear nothing as yet of the noise of the gravediggers who are burying God? Do we smell nothing as yet of the divine decomposition? Gods, too, decompose. God is dead. God remains dead. And we have killed him. "How shall we comfort ourselves, the murderers of all murderers? What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves? What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it? There has never been a greater deed; and whoever is born after us -- for the sake of this deed he will belong to a higher history than all history hitherto." Here the madman fell silent and looked again at his listeners; and they, too, were silent and stared at him in astonishment. At last he threw his lantern on the ground, and it broke into pieces and went out. "I have come too early," he said then; "my time is not yet. This tremendous event is still on its way, still wandering; it has not yet reached the ears of men. Lightning and thunder require time; the light of the stars requires time; deeds, though done, still require time to be seen and heard. This deed is still more distant from them than most distant stars -- and yet they have done it themselves. It has been related further that on the same day the madman forced his way into several churches and there struck up his requiem aeternam deo. Led out and called to account, he is said always to have replied nothing but: "What after all are these churches now if they are not the tombs and sepulchers of God?"  
 > **--_Friedrich Nietzsche, The Gay Science (1882, 1887) para. 125; Walter Kaufmann ed. (New York: Vintage, 1974), pp.181-82_**
+
+> The closer men came to perfecting for themselves a paradise, the more impatient they became with it, and with themselves as well. They made a garden of pleasure, and became progressively more miserable with it as it grew in richness and power and beauty; for then, perhaps, it was easier to see something was missing in the garden, some tree or shrub that would not grow. When the world was in darkness and wretchedness, it could believe in perfection and yearn for it. But when the world became bright with reason and riches, it began to sense the narrowness of the needle's eye, and that rankled for a world no longer willing to believe or yearn. Well, they were going to destroy it again, were they -- this garden Earth, civilized and knowing, to be torn apart again that Man might hope again in wretched darkness.  
+> **--_Walter M. Miller Jr. (1923-1996), A Canticle for Leibowitz (1959)_**
 
 [Back to Top](# )
 
