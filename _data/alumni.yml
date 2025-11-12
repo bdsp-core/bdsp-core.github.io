@@ -649,6 +649,70 @@
   info: Visiting scholar
   number_educ: 1
   education1: Charité – Universitätsmedizin Berlin
+- name: Sakshi Chougule, MSc
+  photo: sakshi.jpeg
+  info: Sr. Clinical Research Coordinator
+  email: schougul@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+- name: Ayush Tripathi, PhD
+  photo: Tripathi_Ayush_CDAC.jpg
+  info: Postdoctoral Research Fellow
+  email: atripat1@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+- name: Charlotte Macshke, PhD
+  photo: Maschke_Charlotte_CDAC.jpg
+  info: Postdoctoral Research Fellow
+  email: cmaschke@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+- name: Shadi Sartipi, PhD
+  photo: shadi.jpeg
+  info: Postdoctoral Research Fellow
+  email: ssartipi@mgh.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+- name: Luke Jackson
+  photo: Luke_Jackson_150x150.jpg
+  info: Undergraduate Research Intern
+  email: ljacks10@bidmc.harvard.edu
+  number_educ: 2
+  education1: Brigham Young University
+  education2: Beth Israel Deaconess Medical Center
+- name: Mitchell McCauley
+  photo: mitchell_mccauley_150x150.jpeg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Brigham Young University
+  education2: Biostatistics
+  education3: Beth Israel Deaconess Medical Center
+- name: Patrick Wynn
+  photo: patrick_wynn_150x150.jpeg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Brigham Young University
+  education2: Bioinformatics
+  education3: Beth Israel Deaconess Medical Center
+- name: Elijah Keldsen
+  photo: elijah_kelsden_150x150.jpg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Brigham Young University
+  education2: Mathematics
+  education3: Beth Israel Deaconess Medical Center
+- name: <a href="https://www.linkedin.com/in/gracekelliebayas/">Grace Bayas<a/>
+  photo: grace-bayas.jpeg
+  info: Research coordinator
+  email: gbayas@bidmc.harvard.edu
+  number_educ: 3
+  education1: Florida Atlantic University
+  education2: Biological Sciences
+  education3: Beth Israel Deaconess Medical Center
 - name: Rex Manglicmot, MS
   photo: RexManglicmot.jpg
   info: Masters Student
