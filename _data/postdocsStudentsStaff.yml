@@ -1,14 +1,7 @@
-- name: Wan Yee Kong, MD, MSc
-  photo: wanYeeKong.png
-  info: Epilepsy fellow
-  email: wkong@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Ryan Tesh, BSc
-  photo: Ryan-Tesh.jpeg
-  info: Research coordinator
-  email: tnassi@bidmc.harvard.edu
+- name: <a href="https://www.linkedin.com/in/drayanmitra/">Ayan Mitra, PhD<a/>
+  photo: Mitra_Ayan_CDAC.png
+  info: Clinical Research Manager
+  email: amitra1@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
@@ -19,49 +12,16 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-- name: Sakshi Chougule, MSc
-  photo: sakshi.jpeg
-  info: Sr. Clinical Research Coordinator
-  email: schougul@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Zade Akras
-  photo: Zade-Akras.jpeg
-  info: Harvard HST Student
-  email: zakras@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Harvard-MIT HST Program
-- name: Callison Alcott, MD, PhD
-  photo: callisonAlcott.jpeg
-  info: Child Neurology Resident
-  email: callison.alcott@childrens.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Boston Children's Hospital
-- name: Dan Sumsion
-  photo: danSumsion.jpeg
-  info: Undergraduate - NAX project
-  number_educ: 1
-  education1: Brigham Young University
 - name: Niels Turley
   photo: niels_resized.jpg
   info: Research coordinator
   email: nturley1@bidmc.harvard.edu
   number_educ: 1
   education1: Brigham Young University
-- name: <a href="https://www.linkedin.com/in/drayanmitra/">Ayan Mitra, PhD<a/>
-  photo: Mitra_Ayan_CDAC.png
-  info: Clinical Research Manager
-  email: amitra1@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Ayush Tripathi, PhD
-  photo: Tripathi_Ayush_CDAC.jpg
-  info: Postdoctoral Research Fellow
-  email: atripat1@bidmc.harvard.edu
+- name: Ryan Tesh, BSc
+  photo: Ryan-Tesh.jpeg
+  info: Research coordinator
+  email: tnassi@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
@@ -79,41 +39,12 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-- name: Charlotte Macshke, PhD
-  photo: Maschke_Charlotte_CDAC.jpg
+- name: <a href="https://www.linkedin.com/in/arka-roy-ph-d-53a5aa171/">Arka Roy, PhD<a/>
   info: Postdoctoral Research Fellow
-  email: cmaschke@bidmc.harvard.edu
+  email: aroy11@bidmc.harvard.edu
   number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Shadi Sartipi, PhD
-  photo: shadi.jpeg
-  info: Postdoctoral Research Fellow
-  email: ssartipi@mgh.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Alexandra Tautan, PhD
-  photo: alexandraTautan.jpeg
-  info: Postdoctoral Research Fellow
-  email: atautan@mgh.harvard.edu
-  number_educ: 3
-  education1: Harvard Medical School
-  education2: Massachusetts General Hospital
-  education3: Beth Israel Deaconess Medical Center
-- name: <a href="https://www.linkedin.com/in/carlos-nunez-sosa/">Carlos (宋爱思) Nuñez-Sosa<a/>
-  photo: carlos_nunez_150x150_cropped_enhanced.jpg
-  info: Undergraduate Research Intern
-  number_educ: 2
-  education1: MIT
-  education2: Electrical Engineering and Computer Science & Brain and Cognitive Sciences
-- name: Luke Jackson
-  photo: Luke_Jackson_150x150.jpg
-  info: Undergraduate Research Intern
-  email: ljacks10@bidmc.harvard.edu
-  number_educ: 2
-  education1: Brigham Young University
-  education2: Beth Israel Deaconess Medical Center
+  education1: Beth Israel Deaconess Medical Center
+  education2: Harvard Medical School
 - name: <a href="https://www.youtube.com/channel/UCm7YOqeu9mg22A59uWrETtA">Arnav Gupta<a/>
   photo: ArnavGupta_150x150.jpg
   info: PhD Student
@@ -121,42 +52,6 @@
   number_educ: 3
   education1: Harvard University
   education2: School of Engineering and Applied Sciences, Harvard University
-  education3: Beth Israel Deaconess Medical Center
-- name: Amber Peng
-  photo: amber_peng_150x150.jpeg
-  info: Undergraduate Research Intern
-  number_educ: 3
-  education1: Massachusetts Institute of Technology
-  education2: EECS
-  education3: Beth Israel Deaconess Medical Center
-- name: Mitchell McCauley
-  photo: mitchell_mccauley_150x150.jpeg
-  info: Undergraduate Research Intern
-  number_educ: 3
-  education1: Brigham Young University
-  education2: Biostatistics
-  education3: Beth Israel Deaconess Medical Center
-- name: Patrick Wynn
-  photo: patrick_wynn_150x150.jpeg
-  info: Undergraduate Research Intern
-  number_educ: 3
-  education1: Brigham Young University
-  education2: Bioinformatics
-  education3: Beth Israel Deaconess Medical Center
-- name: Elijah Keldsen
-  photo: elijah_kelsden_150x150.jpg
-  info: Undergraduate Research Intern
-  number_educ: 3
-  education1: Brigham Young University
-  education2: Mathematics
-  education3: Beth Israel Deaconess Medical Center
-- name: <a href="https://www.linkedin.com/in/gracekelliebayas/">Grace Bayas<a/>
-  photo: grace-bayas.jpeg
-  info: Research coordinator
-  email: gbayas@bidmc.harvard.edu
-  number_educ: 3
-  education1: Florida Atlantic University
-  education2: Biological Sciences
   education3: Beth Israel Deaconess Medical Center
 - name: Marjan Sarami, MD
   photo: marjanSarami.jpeg
@@ -176,6 +71,26 @@
   email: ayaramis@bidmc.harvard.edu
   number_educ: 1
   education1: Beth Israel Deaconess Medical Center
+- name: <a href="www.linkedin.com/in/洋-洋-b25672126">Yangyang Yu, MD, PhD<a/>
+  info: Postdoctoral Research Fellow Visiting
+  email: yyu13@bidmc.harvard.edu
+  number_educ: 2
+  education1: Beth Israel Deaconess Medical Center
+  education2: Longhua Hospital, Shanghai University of TCM
+- name: Callison Alcott, MD, PhD
+  photo: callisonAlcott.jpeg
+  info: Child Neurology Resident
+  email: callison.alcott@childrens.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Boston Children's Hospital
+- name: Wan Yee Kong, MD, MSc
+  photo: wanYeeKong.png
+  info: Epilepsy fellow
+  email: wkong@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
 - name: Katelyn M. Surrao, BS
   photo: Surrao_Katelyn_CDAC.png
   info: Research Assistant
@@ -188,9 +103,42 @@
   email: hwu9@bidmc.harvard.edu
   number_educ: 1
   education1: Beth Israel Deaconess Medical Center
-- name: <a href="www.linkedin.com/in/洋-洋-b25672126">Yangyang Yu, PhD<a/>
-  info: Postdoctoral Research Fellow Visiting
-  email: yyu13@bidmc.harvard.edu
+- name: <a href="https://www.linkedin.com/in/tomas-j-maia/">Tomas Maia<a/>
+  info: Research Student Intern
+  email: tmaia@bidmc.harvard.edu
   number_educ: 2
-  education1: Beth Israel Deaconess Medical Center
-  education2: Longhua Hospital, Shanghai University of TCM
+  education1: University of Twente
+  education2: Beth Israel Deaconess Medical Center
+- name: Zade Akras
+  photo: Zade-Akras.jpeg
+  info: Harvard HST Student
+  email: zakras@bidmc.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Harvard-MIT HST Program
+- name: Amber Peng
+  photo: amber_peng_150x150.jpeg
+  info: Undergraduate Research Intern
+  number_educ: 3
+  education1: Massachusetts Institute of Technology
+  education2: EECS
+  education3: Beth Israel Deaconess Medical Center
+- name: Alexandra Tautan, PhD
+  photo: alexandraTautan.jpeg
+  info: Postdoctoral Research Fellow
+  email: atautan@mgh.harvard.edu
+  number_educ: 3
+  education1: Harvard Medical School
+  education2: Massachusetts General Hospital
+  education3: Beth Israel Deaconess Medical Center
+- name: <a href="https://www.linkedin.com/in/carlos-nunez-sosa/">Carlos (宋爱思) Nuñez-Sosa<a/>
+  photo: carlos_nunez_150x150_cropped_enhanced.jpg
+  info: Undergraduate Research Intern
+  number_educ: 2
+  education1: MIT
+  education2: Electrical Engineering and Computer Science & Brain and Cognitive Sciences
+- name: Dan Sumsion
+  photo: danSumsion.jpeg
+  info: Undergraduate - NAX project
+  number_educ: 1
+  education1: Brigham Young University
