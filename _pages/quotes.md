@@ -457,7 +457,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#culture" class="toc-link">Culture <span class="quote-count">(5)</span></a>
 <a href="#duty" class="toc-link">Duty <span class="quote-count">(3)</span></a>
 <a href="#faith" class="toc-link">Faith <span class="quote-count">(5)</span></a>
-<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(21)</span></a>
+<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(22)</span></a>
 <a href="#happiness" class="toc-link">Happiness <span class="quote-count">(1)</span></a>
 <a href="#logic" class="toc-link">Logic <span class="quote-count">(6)</span></a>
 <a href="#longing" class="toc-link">Longing <span class="quote-count">(4)</span></a>
@@ -784,7 +784,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="good-and-evil">
-<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(21 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(22 quotes)</span></h3>
 </div>
 > When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.  
 > **--_Mahatma Gandhi_**
@@ -848,6 +848,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 > The old father of lies was clever at telling half-truths: How shall you “know” good and evil, until you shall have sampled a little? Taste and be as Gods. But neither infinite power nor infinite wisdom could bestow godhood upon men. For that there would have to be infinite love as well.  
 > **--_Walter M. Miller Jr. (1923-1996), A Canticle for Leibowitz (1959)_**
+
+> Until that final glory, however, the world remains divided between two kingdoms, where light and darkness, life and death grow up together and await the harvest. In such a world, our portion is charity, and our sustenance is faith, and so it will be until the end of days. As for comfort, when we seek it, I can imagine none greater than the happy knowledge that when I see the death of a child, I do not see the face of God but the face of his enemy. Such faith might never seem credible to someone like Ivan Karamazov, or still the disquiet of his conscience, or give him peace in place of rebellion, but neither is it a faith that his arguments can defeat: for it is a faith that set us free from optimism long ago and taught us hope instead. Now we are able to rejoice that we are saved not through the immanent mechanisms of history and nature, but by grace; that God will not unite all of history's many strands in one great synthesis, but will judge much of history false and damnable; that he will not simply reveal the sublime logic of fallen nature, but will strike off the fetters in which creation languishes; and that, rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes - and there shall be no more death, nor sorrow, nor crying, not any more pain, for the former things will have passed away, and he that sits upon the throne will say, "Behold, I make all things new.  
+> **--_David Bentley Hart (1965-), The Doors of the Sea: Where Was God in the Tsunami?_**
 
 [Back to Top](# )
 
