@@ -450,7 +450,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#academics" class="toc-link">Academics <span class="quote-count">(8)</span></a>
 <a href="#alienation" class="toc-link">Alienation <span class="quote-count">(1)</span></a>
 <a href="#anger" class="toc-link">Anger <span class="quote-count">(16)</span></a>
-<a href="#beauty" class="toc-link">Beauty <span class="quote-count">(3)</span></a>
+<a href="#beauty" class="toc-link">Beauty <span class="quote-count">(4)</span></a>
 <a href="#computation" class="toc-link">Computation <span class="quote-count">(1)</span></a>
 <a href="#conscience" class="toc-link">Conscience <span class="quote-count">(1)</span></a>
 <a href="#creativity" class="toc-link">Creativity <span class="quote-count">(9)</span></a>
@@ -647,7 +647,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="beauty">
-<h3 style="margin: 0; color: white;">Beauty <span class="quote-count">(3 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Beauty <span class="quote-count">(4 quotes)</span></h3>
 </div>
 > I have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.‚Äù  
 > **--_Richard P. Feynman, The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman_**
@@ -657,6 +657,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 > Poets say science takes away from the beauty of the stars - mere globs of gas atoms. I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination - stuck on this carousel my little eye can catch one - million - year - old light. A vast pattern - of which I am a part... What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined it. Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were a man, but if he is an immense spinning sphere of methane and ammonia must be silent?  
 > **--_Richard Feynman, 1918-1988_**
+
+> The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.  
+> **--_J.R.R. Tolkien, The Fellowship of the Ring, 1954_**
 
 [Back to Top](# )
 
