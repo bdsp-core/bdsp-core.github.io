@@ -450,8 +450,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#academics" class="toc-link">Academics <span class="quote-count">(8)</span></a>
 <a href="#alienation" class="toc-link">Alienation <span class="quote-count">(1)</span></a>
 <a href="#anger" class="toc-link">Anger <span class="quote-count">(16)</span></a>
-<a href="#beauty" class="toc-link">Beauty <span class="quote-count">(4)</span></a>
-<a href="#computation" class="toc-link">Computation <span class="quote-count">(1)</span></a>
+<a href="#beauty" class="toc-link">Beauty <span class="quote-count">(5)</span></a>
+<a href="#computation" class="toc-link">Computation <span class="quote-count">(4)</span></a>
 <a href="#conscience" class="toc-link">Conscience <span class="quote-count">(1)</span></a>
 <a href="#creativity" class="toc-link">Creativity <span class="quote-count">(9)</span></a>
 <a href="#culture" class="toc-link">Culture <span class="quote-count">(5)</span></a>
@@ -647,7 +647,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="beauty">
-<h3 style="margin: 0; color: white;">Beauty <span class="quote-count">(4 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Beauty <span class="quote-count">(5 quotes)</span></h3>
 </div>
 > I have a friend who's an artist and has sometimes taken a view which I don't agree with very well. He'll hold up a flower and say "look how beautiful it is," and I'll agree. Then he says "I as an artist can see how beautiful this is but you as a scientist take this all apart and it becomes a dull thing," and I think that he's kind of nutty. First of all, the beauty that he sees is available to other people and to me too, I believe. Although I may not be quite as refined aesthetically as he is ... I can appreciate the beauty of a flower. At the same time, I see much more about the flower than he sees. I could imagine the cells in there, the complicated actions inside, which also have a beauty. I mean it's not just beauty at this dimension, at one centimeter; there's also beauty at smaller dimensions, the inner structure, also the processes. The fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting; it means that insects can see the color. It adds a question: does this aesthetic sense also exist in the lower forms? Why is it aesthetic? All kinds of interesting questions which the science knowledge only adds to the excitement, the mystery and the awe of a flower. It only adds. I don't understand how it subtracts.‚Äù  
 > **--_Richard P. Feynman, The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman_**
@@ -661,16 +661,34 @@ document.addEventListener('DOMContentLoaded', function() {
 > The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.  
 > **--_J.R.R. Tolkien, The Fellowship of the Ring, 1954_**
 
+> The travellers now turned their faces to the journey; the sun was before them, and their eyes were dazzled, for all were filled with tears. Gimli wept openly.
+
+“I have looked the last upon that which was fairest,” he said to Legolas his companion. “Henceforward I will call nothing fair, unless it be her gift.” He put his hand to his breast.
+
+“Tell me, Legolas, why did I come on this Quest? Little did I know where the chief peril lay! Truly Elrond spoke, saying that we could not foresee what we might meet upon our road. Torment in the dark was the danger that I feared, and it did not hold me back. But I would not have come, had I known the danger of light and joy. Now I have taken my worst wound in this parting, even if I were to go this night straight to the Dark Lord. Alas for Gimli son of Gloin!”
+
+“Nay!” said Legolas. “Alas for us all! And for all that walk the world in these after-days. For such is the way of it: to find and lose, as it seems to those whose boat is on the running stream. But I count you blessed, Gimli son of Gloin: for your loss you suffer of your own free will, and you might have chosen otherwise. But you have not forsaken your companions, and the least reward that you shall have is that the memory of Lothlorien shall remain ever clear and unstained in your heart, and shall neither fade nor grow stale.”  
+> **--_J.R.R. Tolkien, The Fellowship of the Ring, 1954_**
+
 [Back to Top](# )
 
 
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="computation">
-<h3 style="margin: 0; color: white;">Computation <span class="quote-count">(1 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Computation <span class="quote-count">(4 quotes)</span></h3>
 </div>
 > Where a calculator like the ENIAC today is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps weigh only 1 1/2 tons.  
 > **--_Popular Mechanics, March 1949, p. 258_**
+
+> Computers are good at following instructions, but not at reading your mind.  
+> **--_Donald Knuth_**
+
+> Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin.  
+> **--_John von Neumann_**
+
+> If carpenters made buildings the way programmers make programs, the first woodpecker to come along would destroy all of civilization.  
+> **--_Unknown_**
 
 [Back to Top](# )
 
