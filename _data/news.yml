@@ -1,3 +1,27 @@
+- date: 16 Dec 2025
+  headline: "[Alexandra's paper on estimation of PD frequency is published](https://pubmed.ncbi.nlm.nih.gov/41330044/)"
+
+- date: 8 Dec 2025
+  headline: "[Cat's NLP paper on coma after cardiac arrest is published in Resuscitation](https://pubmed.ncbi.nlm.nih.gov/41371332/)"
+
+- date: 1 Dec 2025
+  headline: "[The ELUCID study protocol paper is published!](https://pubmed.ncbi.nlm.nih.gov/41442271/) studying late-onset epilesy"
+
+- date: 1 Nov 2025
+  headline: "[Analysis of inter-rater reliability of sleep scoring in the ISR dataset](https://pubmed.ncbi.nlm.nih.gov/40790924/)"
+
+- date: 21 Oct 2025
+  headline: "[Lidia's paper on Inferring mRS from claims data using NLP is published in JAHA](https://pubmed.ncbi.nlm.nih.gov/41085187/)"
+
+- date: 14 Oct 2025
+  headline: "[A better benchmrk than "chance" for seizure forecasting](https://pubmed.ncbi.nlm.nih.gov/41085335/)"
+
+- date: 1 Oct 2025
+  headline: "[Paper with Chol Shin from KoGES on OSA and cerebral microbleeds](https://pubmed.ncbi.nlm.nih.gov/41148136/)"
+
+- date: 16 Sep 2025
+  headline: "[The BCH Sleep Database manuscript is published in SLEEP](https://pubmed.ncbi.nlm.nih.gov/40971987/)"
+
 - date: 9 Sep 2025
   headline: "[The Brain Imaging and Neurophysiology Database -BIND -](https://bdsp.io/content/n1vba1x5qt62frfjem65/1.0/) is published on bdsp.io"
 
@@ -15,6 +39,9 @@
 
 - date: 6 Aug 2025
   headline: "[Evaluating crowdsourcing for ICU EEG annotation: A comparison with expert performance](https://pubmed.ncbi.nlm.nih.gov/40768345/)"
+
+- date: 6 Aug 2025
+  headline: "[The BCH Sleep Database is published on BDSP](https://bdsp.io/content/l8c86mgywuneuy74ae71/1.0.1/)"
 
 - date: 5 Jul 2025
   headline: "[Controversies: Periodic discharges in critically ill patients - urgent treatment is essential](https://pubmed.ncbi.nlm.nih.gov/40703850/)"
