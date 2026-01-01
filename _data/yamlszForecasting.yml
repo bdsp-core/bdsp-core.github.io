@@ -1,3 +1,12 @@
+- title: '"Deployable seizure forecasting requires clinically meaningful performance:
+    Response to Stirling et al."'
+  image: ''
+  description: ''
+  authors: Chang CY, Moss R, Westover MB, Goldenholz DM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41474369
+    display: 'Epilepsia. 2025. doi: 10.1002/epi.70083. PMID: 41474369.'
+  highlight: 0
 - title: '"Rigorous evaluation of five models for e-diary-only seizure forecasting:
     Retrospective and prospective datasets do not outperform the Napkin method."'
   image: ''
