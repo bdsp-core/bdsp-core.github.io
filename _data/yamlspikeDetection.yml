@@ -1,3 +1,13 @@
+- title: '"The Harvard-Emory ECG Database."'
+  image: ''
+  description: ''
+  authors: Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre
+    AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna
+    MA, Westover MB, Clifford GD
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41741499
+    display: 'Scientific data. 2026. doi: 10.1038/s41597-026-06861-9. PMID: 41741499.'
+  highlight: 0
 - title: '"An Electroencephalographic Study of Sleep Spindle and Infraslow Oscillation
     in Children With Autism Spectrum Disorder."'
   image: ''
