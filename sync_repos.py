@@ -237,6 +237,64 @@ REPO_CATEGORIES = {
     "tensorizer": "Data Platforms & Infrastructure",
     "mbw-zettelkasten": "Data Platforms & Infrastructure",
     "Omega": "Data Platforms & Infrastructure",
+
+    # --- Newly discovered private repos (from workflow run) ---
+    # Sleep
+    "BCH-SleepStaging": "Sleep Staging & Sleep AI",
+    "CAISR_internal": "Sleep Staging & Sleep AI",
+    "frankenstein-sleep": "Sleep Staging & Sleep AI",
+    "ICU_SLEEP": "Sleep Staging & Sleep AI",
+    "sleep-clinic-tools": "Sleep Staging & Sleep AI",
+    "sleep-philosophers-stone": "Sleep Staging & Sleep AI",
+    "sleep-yoda": "Sleep Staging & Sleep AI",
+    "spin": "Sleep Staging & Sleep AI",
+
+    # Brain Age & Brain Health
+    "brain_age_koges": "Brain Age & Brain Health",
+    "AD-PD-EEG": "Brain Age & Brain Health",
+    "Whole-Brain-Modeling": "Brain Age & Brain Health",
+
+    # Breathing & Respiratory
+    "breathing_stability_index": "Breathing & Respiratory",
+
+    # Seizures, IIIC Patterns & Spike Detection
+    "Epilepsy_Detection_Lr": "Seizures, IIIC Patterns & Spike Detection",
+    "morgoth-viewer": "Seizures, IIIC Patterns & Spike Detection",
+    "saurons_eye": "Seizures, IIIC Patterns & Spike Detection",
+    "prophet": "Seizures, IIIC Patterns & Spike Detection",
+    "ISR-IRR": "Seizures, IIIC Patterns & Spike Detection",
+
+    # Delirium, Encephalopathy & CAR-T Neurotoxicity
+    "muse": "Delirium, Encephalopathy & CAR-T Neurotoxicity",
+
+    # ICU & Critical Care
+    "ICU_EEG_PKPD_EmulatedTrial": "ICU & Critical Care",
+    "ICU_EEG_PKPD_SIMS": "ICU & Critical Care",
+    "ECGFounder": "ICU & Critical Care",
+
+    # EHR Phenotyping & Clinical NLP
+    "NAX-BrainTumors": "EHR Phenotyping & Clinical NLP",
+    "NAX-CardiacArrest": "EHR Phenotyping & Clinical NLP",
+    "NAX-HemorrhagicStroke": "EHR Phenotyping & Clinical NLP",
+    "NAX-Ischemic-Stroke": "EHR Phenotyping & Clinical NLP",
+    "NAX-SAH": "EHR Phenotyping & Clinical NLP",
+    "NAX-TBI": "EHR Phenotyping & Clinical NLP",
+
+    # Data Platforms & Infrastructure
+    "bdsp.io_webapp_dev": "Data Platforms & Infrastructure",
+    "bdsp.io_webapp_prod": "Data Platforms & Infrastructure",
+    "bdsp_bidmc": "Data Platforms & Infrastructure",
+    "BIDS_Annotations_Deidentification": "Data Platforms & Infrastructure",
+    "BIDS_Cleanup_delete_no_edf_sessions": "Data Platforms & Infrastructure",
+    "BIDS_EDF_to_BidsFormat_Conversion_EMORY": "Data Platforms & Infrastructure",
+    "BIDS_EDF_to_BidsFormat_Conversion_STANFORD": "Data Platforms & Infrastructure",
+    "BIDS_StartTime_Extraction": "Data Platforms & Infrastructure",
+    "discontinuous-edf-to-bids-": "Data Platforms & Infrastructure",
+    "MGBNatusToBIDSConversion": "Data Platforms & Infrastructure",
+    "demo-repository": "Data Platforms & Infrastructure",
+    "brandons-labyrinth": "Data Platforms & Infrastructure",
+    "grant-banana": "Data Platforms & Infrastructure",
+    "YAMA": "Data Platforms & Infrastructure",
 }
 
 # Controls the display order of categories on the page
