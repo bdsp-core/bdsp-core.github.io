@@ -10,6 +10,54 @@
   category_slug: sleep-staging-sleep-ai
   topics: []
   sort_order: 0
+- name: AirGo_ApneaDetection
+  description: Detecting Apneas from AirGo (and additional) signals
+  url: https://github.com/bdsp-core/AirGo_ApneaDetection
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: AirGo_SleepStaging
+  description: Code and Data related to aim 'Sleep Staging with AirGo'
+  url: https://github.com/bdsp-core/AirGo_SleepStaging
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: AirGoSleepPyT0-
+  description: AirGo repo for PyT0 version
+  url: https://github.com/bdsp-core/AirGoSleepPyT0-
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: Auto_PSG_Respiration
+  description: automating respiration analysis for PSGs
+  url: https://github.com/bdsp-core/Auto_PSG_Respiration
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
 - name: BCH-PSG-dataset
   description: No description provided.
   url: https://github.com/bdsp-core/BCH-PSG-dataset
@@ -18,6 +66,19 @@
   forks: 0
   updated_at: '2025-09-29'
   visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: BCH-Sleep-Step1
+  description: This is the repository set up to store all the code related to Step
+    1 for the BCH sleep pipeline.
+  url: https://github.com/bdsp-core/BCH-Sleep-Step1
+  language: AutoHotkey
+  stars: 1
+  forks: 0
+  updated_at: '2023-04-21'
+  visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
   topics: []
@@ -46,6 +107,18 @@
   category_slug: sleep-staging-sleep-ai
   topics: []
   sort_order: 0
+- name: CAISR2
+  description: CAISR1+1
+  url: https://github.com/bdsp-core/CAISR2
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2024-08-13'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
 - name: ecg_respiration_sleep_staging
   description: No description provided.
   url: https://github.com/bdsp-core/ecg_respiration_sleep_staging
@@ -67,6 +140,55 @@
   forks: 1
   updated_at: '2025-11-04'
   visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: ICU-Sleep
+  description: Code, Datatables, Tools related to ICU-Sleep trial.
+  url: https://github.com/bdsp-core/ICU-Sleep
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: ICU-sleep-vitals
+  description: This is a repository set up to create plots for vitals of all the patients
+    in the ICU Sleep Cohort.
+  url: https://github.com/bdsp-core/ICU-sleep-vitals
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: koges_sleep_staging
+  description: No description provided.
+  url: https://github.com/bdsp-core/koges_sleep_staging
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2024-07-09'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: noiselight
+  description: noise and light in the ICU analysis
+  url: https://github.com/bdsp-core/noiselight
+  language: HTML
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
   topics: []
@@ -120,6 +242,43 @@
   category_slug: sleep-staging-sleep-ai
   topics: []
   sort_order: 0
+- name: self-similarity-dev
+  description: self-similarity code development. For internal use.
+  url: https://github.com/bdsp-core/self-similarity-dev
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep-conversion
+  description: This is the repository to store the code related to EDF to .MAT conversion
+    in the sleep pipeline.
+  url: https://github.com/bdsp-core/sleep-conversion
+  language: MATLAB
+  stars: 1
+  forks: 0
+  updated_at: '2023-03-17'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: Sleep-deidentification
+  description: No description provided.
+  url: https://github.com/bdsp-core/Sleep-deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
 - name: sleep-outcome-prediction
   description: No description provided.
   url: https://github.com/bdsp-core/sleep-outcome-prediction
@@ -132,6 +291,18 @@
   category_slug: sleep-staging-sleep-ai
   topics: []
   sort_order: 0
+- name: sleep_cognition
+  description: predict cognitive function from sleep using deep learning
+  url: https://github.com/bdsp-core/sleep_cognition
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2025-10-18'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
 - name: sleep_eeg_age_norm
   description: No description provided.
   url: https://github.com/bdsp-core/sleep_eeg_age_norm
@@ -140,6 +311,43 @@
   forks: 2
   updated_at: '2025-06-04'
   visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep_eeg_mri
+  description: Code for "Sleep EEG and MRI" project 2022.
+  url: https://github.com/bdsp-core/sleep_eeg_mri
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2022-12-31'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep_general
+  description: General functions for sleep data, reserach etc.
+  url: https://github.com/bdsp-core/sleep_general
+  language: Jupyter Notebook
+  stars: 3
+  forks: 0
+  updated_at: '2026-03-02'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep_research_io
+  description: convenient function that format (sleep) biosignals data to common h5
+    format. used for ICU-Sleep and SleepLab data.
+  url: https://github.com/bdsp-core/sleep_research_io
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
   topics: []
@@ -169,6 +377,31 @@
   category_slug: sleep-staging-sleep-ai
   topics: []
   sort_order: 0
+- name: SleepBreathing-DL
+  description: develop multi-task model that can classify stages, apneas, arousals
+    based on respiration signal.
+  url: https://github.com/bdsp-core/SleepBreathing-DL
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: spindle_detection
+  description: No description provided.
+  url: https://github.com/bdsp-core/spindle_detection
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
 - name: spindle_optimization
   description: No description provided.
   url: https://github.com/bdsp-core/spindle_optimization
@@ -177,6 +410,18 @@
   forks: 0
   updated_at: '2023-01-01'
   visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: Undiagnosed_Apnea
+  description: Undiagnosed Apnea in the ICU
+  url: https://github.com/bdsp-core/Undiagnosed_Apnea
+  language: HTML
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
   topics: []
@@ -201,6 +446,18 @@
   forks: 0
   updated_at: '2025-09-05'
   visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: BrainAgeExercise
+  description: No description provided.
+  url: https://github.com/bdsp-core/BrainAgeExercise
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
   topics: []
@@ -343,6 +600,31 @@
   category_slug: breathing-respiratory
   topics: []
   sort_order: 2
+- name: AL_IIIC
+  description: No description provided.
+  url: https://github.com/bdsp-core/AL_IIIC
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: Burst-Suppression-Segmentation
+  description: 'Code to automatically detect periods of suppression in critically
+    ill ICU patients. '
+  url: https://github.com/bdsp-core/Burst-Suppression-Segmentation
+  language: MATLAB
+  stars: 1
+  forks: 0
+  updated_at: '2023-10-27'
+  visibility: private
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
 - name: cyclops
   description: No description provided.
   url: https://github.com/bdsp-core/cyclops
@@ -351,6 +633,43 @@
   forks: 1
   updated_at: '2025-06-05'
   visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: EEG-Pipeline
+  description: No description provided.
+  url: https://github.com/bdsp-core/EEG-Pipeline
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2022-10-13'
+  visibility: private
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: eeg_multitask_embedding
+  description: No description provided.
+  url: https://github.com/bdsp-core/eeg_multitask_embedding
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: epilepsy-project
+  description: This is a repository that will contain all the information regarding
+    the epilepsy project.
+  url: https://github.com/bdsp-core/epilepsy-project
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
   topics: []
@@ -415,6 +734,18 @@
   forks: 8
   updated_at: '2025-12-19'
   visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: IIIC_big_map
+  description: No description provided.
+  url: https://github.com/bdsp-core/IIIC_big_map
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
   topics: []
@@ -540,6 +871,30 @@
   category_slug: seizures-iiic-patterns-spike-detection
   topics: []
   sort_order: 3
+- name: delirium-nlp-colaboration
+  description: No description provided.
+  url: https://github.com/bdsp-core/delirium-nlp-colaboration
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2024-06-19'
+  visibility: private
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: DeliriumToDementia_CausalSurvivalAnalysis
+  description: No description provided.
+  url: https://github.com/bdsp-core/DeliriumToDementia_CausalSurvivalAnalysis
+  language: R
+  stars: 0
+  forks: 0
+  updated_at: '2025-01-26'
+  visibility: private
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
 - name: E-CAM-S
   description: 'Code and data to accompany "Physiological Assessment of Delirium Severity:
     The Electroencephalographic Confusion Assessment Method Severity Score (E-CAM-S)"'
@@ -589,6 +944,18 @@
   category_slug: delirium-encephalopathy-car-t-neurotoxicity
   topics: []
   sort_order: 4
+- name: IIC_DTR
+  description: No description provided.
+  url: https://github.com/bdsp-core/IIC_DTR
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-08-21'
+  visibility: private
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
 - name: irr-aware-eeg
   description: Code and analysis for incorporating inter-rater reliability into EEG
     feature–based severity modeling, with application to visual EEG grading of encephalopathy.
@@ -610,6 +977,18 @@
   forks: 0
   updated_at: '2023-02-13'
   visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: MGHNursingCAMsDataset
+  description: No description provided.
+  url: https://github.com/bdsp-core/MGHNursingCAMsDataset
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-08-31'
+  visibility: private
   category: Delirium, Encephalopathy & CAR-T Neurotoxicity
   category_slug: delirium-encephalopathy-car-t-neurotoxicity
   topics: []
@@ -650,6 +1029,18 @@
   category_slug: delirium-encephalopathy-car-t-neurotoxicity
   topics: []
   sort_order: 4
+- name: ABIEE
+  description: No description provided.
+  url: https://github.com/bdsp-core/ABIEE
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-30'
+  visibility: private
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
 - name: ADARRI
   description: 'ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
     for heart rate variability analysis in the intensive care unit'
@@ -663,6 +1054,18 @@
   category_slug: icu-critical-care
   topics: []
   sort_order: 5
+- name: CCI_SOFA
+  description: code to compute CCI and SOFA scores
+  url: https://github.com/bdsp-core/CCI_SOFA
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-10-18'
+  visibility: private
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
 - name: cdac-burst-suppression-data
   description: Variability in Pharmacologically-induced Coma for Treatment of Refractory
     Status Epilepticus
@@ -672,6 +1075,18 @@
   forks: 0
   updated_at: '2024-05-13'
   visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: Covid19_Respiration
+  description: Code to analyze AirGo and other ICU signals data for Covid-19 patients.
+  url: https://github.com/bdsp-core/Covid19_Respiration
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: ICU & Critical Care
   category_slug: icu-critical-care
   topics: []
@@ -725,6 +1140,18 @@
   category_slug: icu-critical-care
   topics: []
   sort_order: 5
+- name: icare-dl-lstm
+  description: No description provided.
+  url: https://github.com/bdsp-core/icare-dl-lstm
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2023-05-19'
+  visibility: private
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
 - name: ICU_EEG_Neuro_Prognosis
   description: No description provided.
   url: https://github.com/bdsp-core/ICU_EEG_Neuro_Prognosis
@@ -746,6 +1173,30 @@
   forks: 1
   updated_at: '2025-02-17'
   visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: MOCA
+  description: This is the repository to store the code related to the MOCA project.
+  url: https://github.com/bdsp-core/MOCA
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2022-12-28'
+  visibility: private
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: pkpd-causal-matching
+  description: No description provided.
+  url: https://github.com/bdsp-core/pkpd-causal-matching
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: ICU & Critical Care
   category_slug: icu-critical-care
   topics: []
@@ -776,6 +1227,30 @@
   category_slug: icu-critical-care
   topics: []
   sort_order: 5
+- name: SOFA
+  description: computing the Sequential Organ Failure Assessment score
+  url: https://github.com/bdsp-core/SOFA
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-10-17'
+  visibility: private
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: time-varying-causal-inference-simulation-tutorial
+  description: No description provided.
+  url: https://github.com/bdsp-core/time-varying-causal-inference-simulation-tutorial
+  language: R
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
 - name: CRIME-PISE
   description: No description provided.
   url: https://github.com/bdsp-core/CRIME-PISE
@@ -784,6 +1259,30 @@
   forks: 0
   updated_at: '2025-10-24'
   visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: EHR-phenotyping-NAX
+  description: No description provided.
+  url: https://github.com/bdsp-core/EHR-phenotyping-NAX
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2024-05-03'
+  visibility: private
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: ELUCID
+  description: No description provided.
+  url: https://github.com/bdsp-core/ELUCID
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2023-09-13'
+  visibility: private
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
   topics: []
@@ -845,6 +1344,18 @@
   forks: 1
   updated_at: '2025-06-05'
   visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: NLP_GUI
+  description: No description provided.
+  url: https://github.com/bdsp-core/NLP_GUI
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
   topics: []
@@ -925,14 +1436,38 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
+- name: bdsp-boto3-example
+  description: No description provided.
+  url: https://github.com/bdsp-core/bdsp-boto3-example
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-04-15'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
 - name: bdsp-core.github.io
   description: CCNL / BDSP Website
   url: https://github.com/bdsp-core/bdsp-core.github.io
   language: HTML
   stars: 1
   forks: 5
-  updated_at: '2026-02-27'
+  updated_at: '2026-03-04'
   visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: bdsp-emr-tools
+  description: Tools for extracting EMR data for use in BDSP
+  url: https://github.com/bdsp-core/bdsp-emr-tools
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-03-16'
+  visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
   topics: []
@@ -945,6 +1480,18 @@
   forks: 0
   updated_at: '2023-03-20'
   visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: bdsp-opendata-registry
+  description: No description provided.
+  url: https://github.com/bdsp-core/bdsp-opendata-registry
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2022-11-18'
+  visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
   topics: []
@@ -962,6 +1509,374 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
+- name: bdsp-reports-search-web-app
+  description: No description provided.
+  url: https://github.com/bdsp-core/bdsp-reports-search-web-app
+  language: HTML
+  stars: 1
+  forks: 0
+  updated_at: '2023-03-27'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: bdsp_aws_athena_db_connection_code
+  description: This is the repository for getting started with connecting with AWS
+    Athena.
+  url: https://github.com/bdsp-core/bdsp_aws_athena_db_connection_code
+  language: Python
+  stars: 3
+  forks: 0
+  updated_at: '2023-07-23'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BDSP_BIDS_Conversion_withAnnotationStaging_from_XLTEK_raw
+  description: No description provided.
+  url: https://github.com/bdsp-core/BDSP_BIDS_Conversion_withAnnotationStaging_from_XLTEK_raw
+  language: ''
+  stars: 1
+  forks: 0
+  updated_at: '2023-12-27'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BDSPAWSScripts
+  description: This is the repository to store all the AWS Scripts related to BDSP.
+  url: https://github.com/bdsp-core/BDSPAWSScripts
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2022-12-18'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Bedmaster-ICU-tools
+  description: Documentation and tools for the Bedmaster ICU project.
+  url: https://github.com/bdsp-core/Bedmaster-ICU-tools
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Bedmaster-Patient-Matching
+  description: This is the repository for the Bedmaster Patient Matching Pipeline.
+  url: https://github.com/bdsp-core/Bedmaster-Patient-Matching
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: bedmaster_pipeline_code
+  description: pipeline - after deidentification portion
+  url: https://github.com/bdsp-core/bedmaster_pipeline_code
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDMC-EEG-Reports-Deidentification
+  description: This is the repository to store all the code used to deidentify all
+    the BIDMC EEG Reports.
+  url: https://github.com/bdsp-core/BIDMC-EEG-Reports-Deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-12-06'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDMC-Notes-Deidentification
+  description: This is the repository to store all the code used to deidentify all
+    the BIDMC Notes.
+  url: https://github.com/bdsp-core/BIDMC-Notes-Deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2024-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDMCDatabase
+  description: This is the repository created to share sample code and examples for
+    the Data Science Team to access the BIDMC database.
+  url: https://github.com/bdsp-core/BIDMCDatabase
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-09-08'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDS-Conversion
+  description: BIDS-Conversion
+  url: https://github.com/bdsp-core/BIDS-Conversion
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-08-15'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDS-EEG
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS-EEG
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2023-06-08'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDS_Conversion
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS_Conversion
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-10-04'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDS_EDF_to_BidsFormat_Conversion
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS_EDF_to_BidsFormat_Conversion
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2024-09-06'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: BIDS_Sessions_Creations
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS_Sessions_Creations
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2024-07-03'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: CDAC_Data_Portal
+  description: No description provided.
+  url: https://github.com/bdsp-core/CDAC_Data_Portal
+  language: PHP
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: cdac_google
+  description: No description provided.
+  url: https://github.com/bdsp-core/cdac_google
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: DailyUpdates
+  description: This is the repository to store the daily updates for the different
+    pipeline that we are using at CDAC.
+  url: https://github.com/bdsp-core/DailyUpdates
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2022-12-18'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: dicom_deidentify
+  description: No description provided.
+  url: https://github.com/bdsp-core/dicom_deidentify
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: ECG-deidentification-pipeline
+  description: No description provided.
+  url: https://github.com/bdsp-core/ECG-deidentification-pipeline
+  language: Python
+  stars: 2
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: ECG_HD5_Plots
+  description: No description provided.
+  url: https://github.com/bdsp-core/ECG_HD5_Plots
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-05'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: edfio
+  description: convenience function to write edf from python, e.g. from prepared data
+  url: https://github.com/bdsp-core/edfio
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2024-04-17'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEG-Archiving-Pipeline
+  description: Copy xltek from multiple xltek archives to LM4
+  url: https://github.com/bdsp-core/EEG-Archiving-Pipeline
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEG-Archiving-Pipeline-BIDMC
+  description: 'This is the repository setup to store all the code related to Step
+    1 of the EEG Pipeline at BIDMC. '
+  url: https://github.com/bdsp-core/EEG-Archiving-Pipeline-BIDMC
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-04-22'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEG-deidentification
+  description: No description provided.
+  url: https://github.com/bdsp-core/EEG-deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEG-Indexing-Pipeline
+  description: This is the repository to store the code related to indexing all the
+    EEG's from MGH and BWH.
+  url: https://github.com/bdsp-core/EEG-Indexing-Pipeline
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-10-04'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEG_Fuzzy_Patient_Matching
+  description: No description provided.
+  url: https://github.com/bdsp-core/EEG_Fuzzy_Patient_Matching
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEG_Report_Wrangling
+  description: No description provided.
+  url: https://github.com/bdsp-core/EEG_Report_Wrangling
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-01-22'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEGNormalization
+  description: No description provided.
+  url: https://github.com/bdsp-core/EEGNormalization
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2022-12-18'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: EEGReportsDeidentification
+  description: This is the repository to store the code related to the deidentification
+    for Neurology Reports.
+  url: https://github.com/bdsp-core/EEGReportsDeidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-04'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
 - name: epilepsy-algolia-sync
   description: Epilepsy.Science
   url: https://github.com/bdsp-core/epilepsy-algolia-sync
@@ -974,6 +1889,32 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
+- name: general-scripts
+  description: This is a repository to store all the scripts for use cases that might
+    be useful to many people in the CDAC lab.
+  url: https://github.com/bdsp-core/general-scripts
+  language: Python
+  stars: 1
+  forks: 1
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: GeneralScripts
+  description: This is the repository to store all the scripts that we use for our
+    projects.
+  url: https://github.com/bdsp-core/GeneralScripts
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2022-12-19'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
 - name: Harvard-EEG-Database-Tools
   description: No description provided.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
@@ -982,6 +1923,155 @@
   forks: 1
   updated_at: '2026-02-23'
   visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: IDEA_Platform_MGB
+  description: This is the repository to store all the code that I used on the IDEA
+    platform.
+  url: https://github.com/bdsp-core/IDEA_Platform_MGB
+  language: ''
+  stars: 1
+  forks: 0
+  updated_at: '2023-12-26'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Imaging-Reports-Deidentification
+  description: This is the repository to store all the code used to deidentify all
+    the MGB Imaging Reports.
+  url: https://github.com/bdsp-core/Imaging-Reports-Deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2024-01-09'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: interrater_analysis
+  description: inter rater analysis
+  url: https://github.com/bdsp-core/interrater_analysis
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2025-03-25'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: LabMeetingDemo
+  description: This is a repository that will contain the code for the lab demo.
+  url: https://github.com/bdsp-core/LabMeetingDemo
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: mbw-zettelkasten
+  description: No description provided.
+  url: https://github.com/bdsp-core/mbw-zettelkasten
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2023-11-18'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: medications_mgh
+  description: No description provided.
+  url: https://github.com/bdsp-core/medications_mgh
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2023-10-18'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: MGB-Neurology-Reports-Deidentification
+  description: This is the repository to store all the code used to deidentify all
+    the MGB Neurology Reports.
+  url: https://github.com/bdsp-core/MGB-Neurology-Reports-Deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-11-21'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: MGB-Notes-Deidentification
+  description: This is the repository to store all the code used to deidentify all
+    the MGB Notes.
+  url: https://github.com/bdsp-core/MGB-Notes-Deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-12-14'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: natus2json
+  description: No description provided.
+  url: https://github.com/bdsp-core/natus2json
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2024-05-08'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Omega
+  description: No description provided.
+  url: https://github.com/bdsp-core/Omega
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2024-02-20'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Persyst_Spike_Detection
+  description: 'Detect annotation '
+  url: https://github.com/bdsp-core/Persyst_Spike_Detection
+  language: MATLAB
+  stars: 1
+  forks: 0
+  updated_at: '2022-12-18'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: philter-plus-deidentification
+  description: 'This is the repository to store the code related to deidentifying
+    unstructured clinical data. '
+  url: https://github.com/bdsp-core/philter-plus-deidentification
+  language: Python
+  stars: 2
+  forks: 0
+  updated_at: '2024-09-11'
+  visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
   topics: []
@@ -1010,3 +2100,584 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
+- name: Sleep-Indexing-Pipeline
+  description: This is the repository to store the code related to indexing all the
+    Sleep PSG's from MGH.
+  url: https://github.com/bdsp-core/Sleep-Indexing-Pipeline
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-10-04'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: streaming_pipeline_code
+  description: No description provided.
+  url: https://github.com/bdsp-core/streaming_pipeline_code
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: tensorizer
+  description: No description provided.
+  url: https://github.com/bdsp-core/tensorizer
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2022-06-29'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: text-annotator
+  description: Annotator app to label freetext
+  url: https://github.com/bdsp-core/text-annotator
+  language: Vue
+  stars: 0
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Thunderpack
+  description: No description provided.
+  url: https://github.com/bdsp-core/Thunderpack
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2023-12-21'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Thunderpack_WranglingCode
+  description: No description provided.
+  url: https://github.com/bdsp-core/Thunderpack_WranglingCode
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2024-05-21'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Xltek_Annotation_Extraction
+  description: No description provided.
+  url: https://github.com/bdsp-core/Xltek_Annotation_Extraction
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2023-01-01'
+  visibility: private
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: AD-PD-EEG
+  description: No description provided.
+  url: https://github.com/bdsp-core/AD-PD-EEG
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2024-12-06'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: BCH-SleepStaging
+  description: No description provided.
+  url: https://github.com/bdsp-core/BCH-SleepStaging
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2025-08-06'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: bdsp.io_webapp_dev
+  description: No description provided.
+  url: https://github.com/bdsp-core/bdsp.io_webapp_dev
+  language: JavaScript
+  stars: 0
+  forks: 0
+  updated_at: '2025-05-29'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: bdsp.io_webapp_prod
+  description: No description provided.
+  url: https://github.com/bdsp-core/bdsp.io_webapp_prod
+  language: HTML
+  stars: 1
+  forks: 0
+  updated_at: '2026-02-26'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: bdsp_bidmc
+  description: No description provided.
+  url: https://github.com/bdsp-core/bdsp_bidmc
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2024-08-29'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: BIDS_Annotations_Deidentification
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS_Annotations_Deidentification
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2024-09-12'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: BIDS_Cleanup_delete_no_edf_sessions
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS_Cleanup_delete_no_edf_sessions
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2024-09-25'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: BIDS_EDF_to_BidsFormat_Conversion_EMORY
+  description: code to convert Emory .edfs -> BIDS
+  url: https://github.com/bdsp-core/BIDS_EDF_to_BidsFormat_Conversion_EMORY
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2025-11-21'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: BIDS_EDF_to_BidsFormat_Conversion_STANFORD
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS_EDF_to_BidsFormat_Conversion_STANFORD
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2024-09-06'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: BIDS_StartTime_Extraction
+  description: No description provided.
+  url: https://github.com/bdsp-core/BIDS_StartTime_Extraction
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-01-06'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: brain_age_koges
+  description: No description provided.
+  url: https://github.com/bdsp-core/brain_age_koges
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2024-12-10'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: brandons-labyrinth
+  description: No description provided.
+  url: https://github.com/bdsp-core/brandons-labyrinth
+  language: TypeScript
+  stars: 0
+  forks: 0
+  updated_at: '2026-01-19'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: breathing_stability_index
+  description: No description provided.
+  url: https://github.com/bdsp-core/breathing_stability_index
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2025-09-15'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: CAISR_internal
+  description: sleep analysis powered by AI.
+  url: https://github.com/bdsp-core/CAISR_internal
+  language: Python
+  stars: 2
+  forks: 0
+  updated_at: '2025-04-24'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: demo-repository
+  description: A code repository designed to show the best GitHub has to offer.
+  url: https://github.com/bdsp-core/demo-repository
+  language: HTML
+  stars: 0
+  forks: 0
+  updated_at: '2025-11-12'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: discontinuous-edf-to-bids-
+  description: Pipeline for converting discontinuous EDF + recordings to BIDS format,
+    supporting MATLAB and Python implementations.
+  url: https://github.com/bdsp-core/discontinuous-edf-to-bids-
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-02-26'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: ECGFounder
+  description: No description provided.
+  url: https://github.com/bdsp-core/ECGFounder
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2024-09-21'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: Epilepsy_Detection_Lr
+  description: No description provided.
+  url: https://github.com/bdsp-core/Epilepsy_Detection_Lr
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2025-01-14'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: frankenstein-sleep
+  description: No description provided.
+  url: https://github.com/bdsp-core/frankenstein-sleep
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-02-26'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: grant-banana
+  description: No description provided.
+  url: https://github.com/bdsp-core/grant-banana
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-02-15'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: ICU_EEG_PKPD_EmulatedTrial
+  description: No description provided.
+  url: https://github.com/bdsp-core/ICU_EEG_PKPD_EmulatedTrial
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2025-06-15'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: ICU_EEG_PKPD_SIMS
+  description: No description provided.
+  url: https://github.com/bdsp-core/ICU_EEG_PKPD_SIMS
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2025-05-21'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: ICU_SLEEP
+  description: No description provided.
+  url: https://github.com/bdsp-core/ICU_SLEEP
+  language: HTML
+  stars: 0
+  forks: 0
+  updated_at: '2026-02-24'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: ISR-IRR
+  description: No description provided.
+  url: https://github.com/bdsp-core/ISR-IRR
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2025-01-28'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: MGBNatusToBIDSConversion
+  description: This is the code used for converting raw natus files to BIDS format.
+  url: https://github.com/bdsp-core/MGBNatusToBIDSConversion
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-02-18'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: morgoth-viewer
+  description: No description provided.
+  url: https://github.com/bdsp-core/morgoth-viewer
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-02-28'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: muse
+  description: No description provided.
+  url: https://github.com/bdsp-core/muse
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2025-07-07'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: NAX-BrainTumors
+  description: No description provided.
+  url: https://github.com/bdsp-core/NAX-BrainTumors
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2024-10-16'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: NAX-CardiacArrest
+  description: 'Algorithm to automatically read clinical notes to determine whether
+    a patient has a diagnosis of coma following cardiac arrest '
+  url: https://github.com/bdsp-core/NAX-CardiacArrest
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2024-08-01'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: NAX-HemorrhagicStroke
+  description: No description provided.
+  url: https://github.com/bdsp-core/NAX-HemorrhagicStroke
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2024-08-01'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: NAX-Ischemic-Stroke
+  description: No description provided.
+  url: https://github.com/bdsp-core/NAX-Ischemic-Stroke
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2024-08-01'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: NAX-SAH
+  description: No description provided.
+  url: https://github.com/bdsp-core/NAX-SAH
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2024-08-15'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: NAX-TBI
+  description: No description provided.
+  url: https://github.com/bdsp-core/NAX-TBI
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2024-08-17'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: prophet
+  description: No description provided.
+  url: https://github.com/bdsp-core/prophet
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2025-10-07'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: saurons_eye
+  description: No description provided.
+  url: https://github.com/bdsp-core/saurons_eye
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2025-03-01'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: sleep-clinic-tools
+  description: No description provided.
+  url: https://github.com/bdsp-core/sleep-clinic-tools
+  language: AMPL
+  stars: 0
+  forks: 0
+  updated_at: '2026-02-25'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: sleep-philosophers-stone
+  description: 'Sleep Philosopher''s Stone: Brain health from sleep EEG. Multitask
+    model learned to infer cognitive functioning, disease risk and mortality odds
+    from sleep EEG data.'
+  url: https://github.com/bdsp-core/sleep-philosophers-stone
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2025-03-29'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: sleep-yoda
+  description: No description provided.
+  url: https://github.com/bdsp-core/sleep-yoda
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-02'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: spin
+  description: SPiN — Spindle–Oscillation Physiomarkers of Neurohealth
+  url: https://github.com/bdsp-core/spin
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2025-05-05'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: Whole-Brain-Modeling
+  description: No description provided.
+  url: https://github.com/bdsp-core/Whole-Brain-Modeling
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2025-04-30'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: YAMA
+  description: No description provided.
+  url: https://github.com/bdsp-core/YAMA
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-02-25'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
