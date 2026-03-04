@@ -76,7 +76,13 @@ jobs:
       run: |
         # Run the PubMed scraping script
         python scrape_pubmed_auto.py
-    
+
+    - name: Sync GitHub Repos
+      env:
+        GITHUB_TOKEN: ${{ secrets.ORG_PAT }}
+      run: |
+        python sync_repos.py
+
     - name: Check for changes
       id: verify-changed-files
       run: |

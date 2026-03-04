@@ -1,197 +1,535 @@
 ---
 title: "CDAC - Code"
 layout: textlay
-excerpt: "CDAC - Code"
+excerpt: "CDAC Code Catalog"
 sitemap: false
 permalink: /code/
 ---
 
+<style>
+/* Sticky search bar */
+.sticky-search {
+ position: sticky;
+ top: 0;
+ background: white;
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 8px;
+ margin-bottom: 20px;
+ box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+ z-index: 1000;
+}
+.repo-search {
+ width: 100%;
+ padding: 12px;
+ margin-bottom: 10px;
+ border: 2px solid #ddd;
+ border-radius: 6px;
+ font-size: 16px;
+ transition: border-color 0.3s ease;
+}
+.repo-search:focus {
+ outline: none;
+ border-color: #3498db;
+}
+.search-stats {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ font-size: 14px;
+ color: #7f8c8d;
+}
+
+/* Category navigation */
+.category-nav {
+ background: white;
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 8px;
+ margin-bottom: 30px;
+ box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.category-nav h3 {
+ margin-top: 0;
+ margin-bottom: 15px;
+ color: #2c3e50;
+}
+.toc-grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+ gap: 8px;
+}
+.toc-link {
+ padding: 8px 12px;
+ background: #f8f9fa;
+ border: 1px solid #e9ecef;
+ border-radius: 4px;
+ text-decoration: none;
+ transition: all 0.2s ease;
+ display: block;
+ cursor: pointer;
+ color: #333;
+}
+.toc-link:hover {
+ background: #3498db;
+ color: white;
+ text-decoration: none;
+}
+.toc-link.active {
+ background: #3498db;
+ color: white;
+ border-color: #3498db;
+}
+
+/* Section headers */
+.section-header {
+ background: linear-gradient(135deg, #34495e, #2c3e50);
+ color: white;
+ padding: 15px 20px;
+ margin: 40px 0 20px 0;
+ border-radius: 8px;
+ box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+ position: relative;
+}
+.section-header:first-of-type {
+ margin-top: 0;
+}
+.section-header::before {
+ content: '';
+ position: absolute;
+ left: 0;
+ top: 0;
+ height: 100%;
+ width: 4px;
+ background: #3498db;
+ border-radius: 8px 0 0 8px;
+}
+
+/* Repo count badge */
+.repo-count {
+ font-size: 12px;
+ color: #7f8c8d;
+ margin-left: 8px;
+ background: #ecf0f1;
+ padding: 2px 8px;
+ border-radius: 12px;
+}
+.section-header .repo-count {
+ color: rgba(255,255,255,0.8);
+ background: rgba(255,255,255,0.15);
+}
+
+/* Repo cards */
+.repo-card {
+ padding: 15px 20px;
+ margin: 0 0 12px;
+ background-color: #f8f9fa;
+ border-left: 4px solid #3498db;
+ border-radius: 5px;
+ box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.repo-card:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+.repo-card-header {
+ display: flex;
+ align-items: center;
+ flex-wrap: wrap;
+ gap: 8px;
+ margin-bottom: 6px;
+}
+.repo-card-header h4 {
+ margin: 0;
+ font-size: 17px;
+}
+.repo-card-header h4 a {
+ color: #2c3e50;
+ text-decoration: none;
+}
+.repo-card-header h4 a:hover {
+ color: #3498db;
+ text-decoration: underline;
+}
+.repo-description {
+ margin: 0 0 8px;
+ color: #555;
+ font-size: 14px;
+ line-height: 1.4;
+}
+.repo-meta {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 10px;
+ align-items: center;
+}
+
+/* Language badges */
+.language-badge {
+ display: inline-block;
+ padding: 2px 8px;
+ border-radius: 12px;
+ font-size: 11px;
+ font-weight: 600;
+ color: white;
+}
+.language-python { background-color: #3572A5; }
+.language-matlab { background-color: #e16737; }
+.language-r { background-color: #198CE7; }
+.language-jupyter-notebook { background-color: #DA5B0B; }
+.language-javascript { background-color: #f1e05a; color: #333; }
+.language-html { background-color: #e34c26; }
+.language-shell { background-color: #89e051; color: #333; }
+.language-default { background-color: #6c757d; }
+
+/* Stat badges */
+.stat-badge {
+ font-size: 12px;
+ color: #7f8c8d;
+}
+.stat-badge.updated {
+ color: #95a5a6;
+}
+
+/* Private badge */
+.private-badge {
+ display: inline-block;
+ padding: 2px 8px;
+ border-radius: 12px;
+ font-size: 11px;
+ font-weight: 600;
+ background-color: #e9ecef;
+ color: #6c757d;
+ border: 1px solid #ced4da;
+}
+
+/* Search highlighting */
+.highlight {
+ background-color: #ffeb3b;
+ padding: 1px 2px;
+ border-radius: 2px;
+}
+
+/* Back to top button */
+.back-to-top {
+ position: fixed;
+ bottom: 30px;
+ right: 30px;
+ background: #3498db;
+ color: white;
+ padding: 12px 16px;
+ border-radius: 50%;
+ text-decoration: none;
+ box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+ opacity: 0;
+ visibility: hidden;
+ transition: all 0.3s ease;
+ z-index: 1000;
+ cursor: pointer;
+ border: none;
+ font-size: 18px;
+}
+.back-to-top.visible {
+ opacity: 1;
+ visibility: visible;
+}
+.back-to-top:hover {
+ background: #2980b9;
+ transform: translateY(-2px);
+ text-decoration: none;
+ color: white;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+ .sticky-search {
+  padding: 15px;
+ }
+ .category-nav {
+  padding: 15px;
+ }
+ .toc-grid {
+  grid-template-columns: 1fr;
+ }
+ .repo-card {
+  padding: 12px 15px;
+ }
+ .repo-card-header h4 {
+  font-size: 15px;
+ }
+ .back-to-top {
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 14px;
+ }
+}
+</style>
+
+<script>
+function searchRepos() {
+ var searchTerm = document.getElementById('repoSearch').value.toLowerCase().trim();
+ var allCards = document.querySelectorAll('.repo-card');
+ var sections = document.querySelectorAll('.category-section');
+ var totalVisible = 0;
+
+ // Clear previous highlights
+ var highlights = document.querySelectorAll('.highlight');
+ for (var i = 0; i < highlights.length; i++) {
+  highlights[i].outerHTML = highlights[i].innerHTML;
+ }
+
+ // Filter cards
+ for (var j = 0; j < allCards.length; j++) {
+  var card = allCards[j];
+  var name = card.getAttribute('data-name');
+  var desc = card.getAttribute('data-description');
+  var lang = card.getAttribute('data-language');
+  var cat = card.getAttribute('data-category');
+  var matches = searchTerm === '' ||
+                name.indexOf(searchTerm) !== -1 ||
+                desc.indexOf(searchTerm) !== -1 ||
+                lang.indexOf(searchTerm) !== -1 ||
+                cat.indexOf(searchTerm) !== -1;
+
+  if (matches) {
+   card.style.display = '';
+   totalVisible++;
+   if (searchTerm !== '') {
+    highlightText(card, searchTerm);
+   }
+  } else {
+   card.style.display = 'none';
+  }
+ }
+
+ // Hide/show category sections based on visible cards
+ for (var k = 0; k < sections.length; k++) {
+  var section = sections[k];
+  var cards = section.querySelectorAll('.repo-card');
+  var hasVisible = false;
+  for (var m = 0; m < cards.length; m++) {
+   if (cards[m].style.display !== 'none') {
+    hasVisible = true;
+    break;
+   }
+  }
+  section.style.display = (hasVisible || searchTerm === '') ? '' : 'none';
+ }
+
+ // Update search info
+ var searchInfo = document.getElementById('searchInfo');
+ if (searchTerm !== '') {
+  searchInfo.textContent = 'Found ' + totalVisible + ' repo' + (totalVisible !== 1 ? 's' : '') + ' matching "' + searchTerm + '"';
+ } else {
+  searchInfo.textContent = '';
+ }
+
+ // Clear category filter active state when searching
+ if (searchTerm !== '') {
+  var links = document.querySelectorAll('.toc-link');
+  for (var n = 0; n < links.length; n++) {
+   links[n].classList.remove('active');
+  }
+ }
+}
+
+function filterByCategory(slug) {
+ var sections = document.querySelectorAll('.category-section');
+
+ // Clear search
+ document.getElementById('repoSearch').value = '';
+ var highlights = document.querySelectorAll('.highlight');
+ for (var i = 0; i < highlights.length; i++) {
+  highlights[i].outerHTML = highlights[i].innerHTML;
+ }
+ document.getElementById('searchInfo').textContent = '';
+
+ // Update active nav
+ var links = document.querySelectorAll('.toc-link');
+ for (var j = 0; j < links.length; j++) {
+  links[j].classList.remove('active');
+ }
+ var activeLink = document.getElementById('filter-' + slug);
+ if (activeLink) activeLink.classList.add('active');
+
+ // Show/hide sections
+ for (var k = 0; k < sections.length; k++) {
+  var section = sections[k];
+  if (section.getAttribute('data-category') === slug) {
+   section.style.display = '';
+   var cards = section.querySelectorAll('.repo-card');
+   for (var m = 0; m < cards.length; m++) {
+    cards[m].style.display = '';
+   }
+  } else {
+   section.style.display = 'none';
+  }
+ }
+
+ // Scroll to category
+ var target = document.getElementById('category-' + slug);
+ if (target) {
+  target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+ }
+}
+
+function showAllRepos() {
+ var sections = document.querySelectorAll('.category-section');
+ var cards = document.querySelectorAll('.repo-card');
+
+ // Clear search
+ document.getElementById('repoSearch').value = '';
+ var highlights = document.querySelectorAll('.highlight');
+ for (var i = 0; i < highlights.length; i++) {
+  highlights[i].outerHTML = highlights[i].innerHTML;
+ }
+ document.getElementById('searchInfo').textContent = '';
+
+ // Update active nav
+ var links = document.querySelectorAll('.toc-link');
+ for (var j = 0; j < links.length; j++) {
+  links[j].classList.remove('active');
+ }
+ document.getElementById('filter-all').classList.add('active');
+
+ // Show everything
+ for (var k = 0; k < sections.length; k++) {
+  sections[k].style.display = '';
+ }
+ for (var m = 0; m < cards.length; m++) {
+  cards[m].style.display = '';
+ }
+}
+
+function highlightText(element, searchTerm) {
+ var walker = document.createTreeWalker(
+  element,
+  NodeFilter.SHOW_TEXT,
+  null,
+  false
+ );
+
+ var textNodes = [];
+ var node;
+ while (node = walker.nextNode()) {
+  if (node.parentElement && node.parentElement.classList &&
+      node.parentElement.classList.contains('highlight')) continue;
+  if (node.textContent.toLowerCase().indexOf(searchTerm) !== -1) {
+   textNodes.push(node);
+  }
+ }
+
+ for (var i = 0; i < textNodes.length; i++) {
+  var tNode = textNodes[i];
+  var text = tNode.textContent;
+  var lowerText = text.toLowerCase();
+  var idx = lowerText.indexOf(searchTerm);
+  if (idx === -1) continue;
+
+  var fragment = document.createDocumentFragment();
+  var lastIdx = 0;
+
+  while (idx !== -1) {
+   fragment.appendChild(document.createTextNode(text.substring(lastIdx, idx)));
+   var span = document.createElement('span');
+   span.className = 'highlight';
+   span.textContent = text.substring(idx, idx + searchTerm.length);
+   fragment.appendChild(span);
+   lastIdx = idx + searchTerm.length;
+   idx = lowerText.indexOf(searchTerm, lastIdx);
+  }
+  fragment.appendChild(document.createTextNode(text.substring(lastIdx)));
+  tNode.parentNode.replaceChild(fragment, tNode);
+ }
+}
+
+// Back to top button
+document.addEventListener('DOMContentLoaded', function() {
+ var btn = document.getElementById('backToTop');
+ if (btn) {
+  window.addEventListener('scroll', function() {
+   if (window.scrollY > 400) {
+    btn.classList.add('visible');
+   } else {
+    btn.classList.remove('visible');
+   }
+  });
+  btn.addEventListener('click', function() {
+   window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+ }
+
+ // Ctrl+F / Cmd+F to focus search
+ document.addEventListener('keydown', function(e) {
+  if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
+   e.preventDefault();
+   document.getElementById('repoSearch').focus();
+  }
+ });
+});
+</script>
+
 # CDAC Code Catalog
-This lists code that is publicly available from CDAC.
 
-**Last revised:  2024-07-12**
+This catalog lists all code repositories from CDAC, auto-synced from GitHub.
 
-## Table of Contents
+<!-- Sticky Search Bar -->
+<div class="sticky-search">
+ <input type="text" id="repoSearch" class="repo-search"
+        placeholder="Search repositories by name, description, language, or topic..."
+        onkeyup="searchRepos()">
+ <div class="search-stats">
+  <span id="searchInfo"></span>
+  <span>{{ site.data.repos | size }} repositories total</span>
+ </div>
+</div>
 
-- [MISC](#misc)
-- [ICU](#icu)
-- [SLEEP](#sleep)
-- [DELIRIUM](#delirium)
-- [ENGINEERING](#engineering)
-- [EEG](#eeg)
+<!-- Category Navigation -->
+<div class="category-nav">
+ <h3>Browse by Research Topic</h3>
+ <div class="toc-grid">
+  <a href="javascript:void(0)" onclick="showAllRepos()" class="toc-link active" id="filter-all">
+   All <span class="repo-count">({{ site.data.repos | size }})</span>
+  </a>
+  {% assign grouped_for_nav = site.data.repos | group_by: "category" | sort: "name" %}
+  {% for cat in grouped_for_nav %}
+  {% assign first_repo = cat.items | first %}
+  <a href="javascript:void(0)" onclick="filterByCategory('{{ first_repo.category_slug }}')" class="toc-link" id="filter-{{ first_repo.category_slug }}">
+   {{ cat.name }} <span class="repo-count">({{ cat.size }})</span>
+  </a>
+  {% endfor %}
+ </div>
+</div>
 
-## MISC
+{::nomarkdown}
+<!-- Repo Cards, grouped by category -->
+{% assign sorted_repos = site.data.repos | sort: "sort_order" %}
+{% assign grouped = sorted_repos | group_by: "category" %}
+{% for cat in grouped %}
+{% assign first_repo = cat.items | first %}
+<div class="category-section" data-category="{{ first_repo.category_slug }}" id="category-{{ first_repo.category_slug }}">
+<div class="section-header">
+<h3 style="margin: 0; color: white;">{{ cat.name }} <span class="repo-count">({{ cat.size }})</span></h3>
+</div>
+{% for repo in cat.items %}
+<div class="repo-card" data-category="{{ repo.category_slug }}" data-name="{{ repo.name | downcase }}" data-description="{{ repo.description | downcase | escape }}" data-language="{{ repo.language | downcase }}" data-stars="{{ repo.stars }}" data-updated="{{ repo.updated_at }}">
+<div class="repo-card-header">
+<h4><a href="{{ repo.url }}" target="_blank" rel="noopener">{{ repo.name }}</a></h4>
+{% if repo.language != "" %}{% assign lang_class = repo.language | downcase | replace: " ", "-" %}<span class="language-badge language-{{ lang_class }}">{{ repo.language }}</span>{% endif %}
+{% if repo.visibility == "private" %}<span class="private-badge">&#128274; Private</span>{% endif %}
+</div>
+<p class="repo-description">{{ repo.description }}</p>
+<div class="repo-meta">
+{% if repo.stars > 0 %}<span class="stat-badge">&#9733; {{ repo.stars }}</span>{% endif %}
+{% if repo.forks > 0 %}<span class="stat-badge">&#128276; {{ repo.forks }}</span>{% endif %}
+<span class="stat-badge updated">Updated: {{ repo.updated_at }}</span>
+</div>
+</div>
+{% endfor %}
+</div>
+{% endfor %}
 
-- [**cdac_google.**](https://github.com/bdsp-core/cdac_google) No description provided.
-- [**Physionet2018_Challenge_Submission.**](https://github.com/bdsp-core/Physionet2018_Challenge_Submission) The code and trained models that were submitted for the official winning entry of the Physionet 2018: You Snooze You Win challenge
-- [**Covid19_Respiration.**](https://github.com/bdsp-core/Covid19_Respiration) Code to analyze AirGo and other ICU signals data for Covid-19 patients.
-- [**covid_acuity_score.**](https://github.com/bdsp-core/covid_acuity_score) No description provided.
-- [**NLP_GUI.**](https://github.com/bdsp-core/NLP_GUI) No description provided.
-- [**tensorizer.**](https://github.com/bdsp-core/tensorizer) No description provided.
-- [**ECG-Philter-DeIdentification.**](https://github.com/bdsp-core/ECG-Philter-DeIdentification) No description provided.
-- [**bdsp-core.github.io.**](https://github.com/bdsp-core/bdsp-core.github.io) CCNL / BDSP in progress
-- [**plot-ecg.**](https://github.com/bdsp-core/plot-ecg) No description provided.
-- [**interrater_analysis.**](https://github.com/bdsp-core/interrater_analysis) inter rater analysis
-- [**ELUCID.**](https://github.com/bdsp-core/ELUCID) No description provided.
-- [**CCI_SOFA.**](https://github.com/bdsp-core/CCI_SOFA) code to compute CCI and SOFA scores
-- [**mbw-zettelkasten.**](https://github.com/bdsp-core/mbw-zettelkasten) No description provided.
-- [**Omega.**](https://github.com/bdsp-core/Omega) No description provided.
-- [**Noise-in-Diagnosing-Epilepsy.**](https://github.com/bdsp-core/Noise-in-Diagnosing-Epilepsy) Code and data to reproduce results in our paper about noise in the diagnosis of epilepsy
-- [**Noise_in_Diagnosing_Epilepsy.**](https://github.com/bdsp-core/Noise_in_Diagnosing_Epilepsy) Code and data to reproduce results in our paper about noise in the diagnosis of epilepsy
-- [**EHR-phenotyping-NAX.**](https://github.com/bdsp-core/EHR-phenotyping-NAX) No description provided.
-
-## ICU
-
-- [**cdac-burst-suppression-data.**](https://github.com/bdsp-core/cdac-burst-suppression-data) Variability in Pharmacologically-induced Coma for Treatment of Refractory Status Epilepticus
-- [**eeg_multitask_embedding.**](https://github.com/bdsp-core/eeg_multitask_embedding) No description provided.
-- [**ICU-Sleep.**](https://github.com/bdsp-core/ICU-Sleep) Code, Datatables, Tools related to ICU-Sleep trial.
-- [**SAH_DCI_Prediction_EEG.**](https://github.com/bdsp-core/SAH_DCI_Prediction_EEG) The repository contains the implementation for automated prediction of delayed cerebral ischemia after subarachnoid hemorrhage from EEG
-- [**SOFA.**](https://github.com/bdsp-core/SOFA) computing the Sequential Organ Failure Assessment score
-- [**icare-dl.**](https://github.com/bdsp-core/icare-dl) Predicting Neurological Outcome in Comatose Patients after Cardiac Arrest with Deep Neural Networks
-- [**pkpd-causal-matching.**](https://github.com/bdsp-core/pkpd-causal-matching) No description provided.
-- [**VE-CAM-S.**](https://github.com/bdsp-core/VE-CAM-S) No description provided.
-- [**IIC_DTR.**](https://github.com/bdsp-core/IIC_DTR) No description provided.
-- [**time-varying-causal-inference-simulation-tutorial.**](https://github.com/bdsp-core/time-varying-causal-inference-simulation-tutorial) No description provided.
-- [**VE-ICANS.**](https://github.com/bdsp-core/VE-ICANS) Code for the VE-ICANS research project
-- [**ICANS-forecasting-after-CAR-T-cell-therapy.**](https://github.com/bdsp-core/ICANS-forecasting-after-CAR-T-cell-therapy) MATLAB Code for the CAR-T project
-- [**delirium-nlp-colaboration.**](https://github.com/bdsp-core/delirium-nlp-colaboration) No description provided.
-- [**MOCA.**](https://github.com/bdsp-core/MOCA) This is the repository to store the code related to the MOCA project.
-- [**ABIEE.**](https://github.com/bdsp-core/ABIEE) No description provided.
-- [**Rapid_IIIC_Labeling_GUI.**](https://github.com/bdsp-core/Rapid_IIIC_Labeling_GUI) No description provided.
-- [**Rapid_IIIC_Labeling_GUI_MultipleEEGs.**](https://github.com/bdsp-core/Rapid_IIIC_Labeling_GUI_MultipleEEGs) GUI for rapid labeling of segments from multiple EEGs, and instructions for preparing data for these labeling tasks
-- [**kimchi_delirium_2019.**](https://github.com/bdsp-core/kimchi_delirium_2019) No description provided.
-- [**ICU_EEG_Neuro_Prognosis.**](https://github.com/bdsp-core/ICU_EEG_Neuro_Prognosis) No description provided.
-- [**DeliriumToDementia_CausalSurvivalAnalysis.**](https://github.com/bdsp-core/DeliriumToDementia_CausalSurvivalAnalysis) No description provided.
-- [**MGHNursingCAMsDataset.**](https://github.com/bdsp-core/MGHNursingCAMsDataset) No description provided.
-- [**IIIC-IRR.**](https://github.com/bdsp-core/IIIC-IRR) Code to reproduce figures in "Interrater Reliability of Expert Electroencephalographers Identifying Seizures and Rhythmic and Periodic Patterns in EEGs"
-- [**icare-dl-lstm.**](https://github.com/bdsp-core/icare-dl-lstm) No description provided.
-- [**SOFA-LR.**](https://github.com/bdsp-core/SOFA-LR) SOFA-LR: a logistic regression based improvement on the SOFA score that accommodates missing data
-- [**E-CAM-S.**](https://github.com/bdsp-core/E-CAM-S) Code and data to accompany "Physiological Assessment of Delirium Severity: The Electroencephalographic Confusion Assessment Method Severity Score (E-CAM-S)"
-- [**Burst-Suppression-Segmentation.**](https://github.com/bdsp-core/Burst-Suppression-Segmentation) Code to automatically detect periods of suppression in critically ill ICU patients. 
-- [**Hypothermia-EEG.**](https://github.com/bdsp-core/Hypothermia-EEG) No description provided.
-
-## SLEEP
-
-- [**sleep_staging_2000pts.**](https://github.com/bdsp-core/sleep_staging_2000pts) No description provided.
-- [**ecg_respiration_sleep_staging.**](https://github.com/bdsp-core/ecg_respiration_sleep_staging) No description provided.
-- [**SleepBreathing-DL.**](https://github.com/bdsp-core/SleepBreathing-DL) develop multi-task model that can classify stages, apneas, arousals based on respiration signal.
-- [**AirGo_SleepStaging.**](https://github.com/bdsp-core/AirGo_SleepStaging) Code and Data related to aim 'Sleep Staging with AirGo'
-- [**noiselight.**](https://github.com/bdsp-core/noiselight) noise and light in the ICU analysis
-- [**AirGoSleepPyT0-.**](https://github.com/bdsp-core/AirGoSleepPyT0-) AirGo repo for PyT0 version
-- [**sleep_research_io.**](https://github.com/bdsp-core/sleep_research_io) convenient function that format (sleep) biosignals data to common h5 format. used for ICU-Sleep and SleepLab data.
-- [**spindle_detection.**](https://github.com/bdsp-core/spindle_detection) No description provided.
-- [**AirGo_ApneaDetection.**](https://github.com/bdsp-core/AirGo_ApneaDetection) Detecting Apneas from AirGo (and additional) signals
-- [**BrainAgeExercise.**](https://github.com/bdsp-core/BrainAgeExercise) No description provided.
-- [**Undiagnosed_Apnea.**](https://github.com/bdsp-core/Undiagnosed_Apnea) Undiagnosed Apnea in the ICU
-- [**self_similarity.**](https://github.com/bdsp-core/self_similarity) Computing self-similarity for high loop gain and central apnea analysis.
-- [**respiratory_event_detection_wearable.**](https://github.com/bdsp-core/respiratory_event_detection_wearable) This repo contains code, data, and models to detect apnea events from a wearable respiratory band with or without oxygen saturation signals, as described in:
-- [**Auto_PSG_Respiration.**](https://github.com/bdsp-core/Auto_PSG_Respiration) automating respiration analysis for PSGs
-- [**CAISR_might_be_junk.**](https://github.com/bdsp-core/CAISR_might_be_junk) Complete AI Sleep Reporting
-- [**ICU-sleep-vitals.**](https://github.com/bdsp-core/ICU-sleep-vitals) This is a repository set up to create plots for vitals of all the patients in the ICU Sleep Cohort.
-- [**sleep_eeg_age_norm.**](https://github.com/bdsp-core/sleep_eeg_age_norm) No description provided.
-- [**sleep_general.**](https://github.com/bdsp-core/sleep_general) General functions for sleep data, reserach etc.
-- [**self-similarity-dev.**](https://github.com/bdsp-core/self-similarity-dev) self-similarity code development. For internal use.
-- [**SleepEEGBasedBrainAge.**](https://github.com/bdsp-core/SleepEEGBasedBrainAge) No description provided.
-- [**BrainHealthExercise_Dataset.**](https://github.com/bdsp-core/BrainHealthExercise_Dataset) No description provided.
-- [**sleep_cognition.**](https://github.com/bdsp-core/sleep_cognition) predict cognitive function from sleep using deep learning
-- [**ecg_respiration_sleep_staging_icu.**](https://github.com/bdsp-core/ecg_respiration_sleep_staging_icu) Repository for "Sleep in the Intensive Care Unit through the Lens of Breathing and Heart Rate Variability: A Cross-Sectional Study"
-- [**Sleep-deidentification.**](https://github.com/bdsp-core/Sleep-deidentification) No description provided.
-- [**spindle_optimization.**](https://github.com/bdsp-core/spindle_optimization) No description provided.
-- [**sleep-outcome-prediction.**](https://github.com/bdsp-core/sleep-outcome-prediction) No description provided.
-- [**sleep_eeg_mri.**](https://github.com/bdsp-core/sleep_eeg_mri) Code for "Sleep EEG and MRI" project 2022.
-- [**caisr_dev.**](https://github.com/bdsp-core/caisr_dev) caisr development, 2022
-- [**CAISR.**](https://github.com/bdsp-core/CAISR) sleep analysis powered by AI.
-- [**HIV-BAI.**](https://github.com/bdsp-core/HIV-BAI) No description provided.
-- [**outcome-oriented-sleep-staging.**](https://github.com/bdsp-core/outcome-oriented-sleep-staging) No description provided.
-- [**sleep-conversion.**](https://github.com/bdsp-core/sleep-conversion) This is the repository to store the code related to EDF to .MAT conversion in the sleep pipeline.
-- [**BCH-Sleep-Step1.**](https://github.com/bdsp-core/BCH-Sleep-Step1) This is the repository set up to store all the code related to Step 1 for the BCH sleep pipeline.
-- [**AFib-sleep-cognition.**](https://github.com/bdsp-core/AFib-sleep-cognition) No description provided.
-- [**koges_sleep_staging.**](https://github.com/bdsp-core/koges_sleep_staging) No description provided.
-- [**CAISR2.**](https://github.com/bdsp-core/CAISR2) CAISR1+1
-- [**meditation-sleep-brain-age.**](https://github.com/bdsp-core/meditation-sleep-brain-age) The code repository for the meditation and sleep EEG-based brain age project.
-
-## DELIRIUM
-
-- [**rass_delirium_eeg_prediction.**](https://github.com/bdsp-core/rass_delirium_eeg_prediction) No description provided.
-
-## ENGINEERING
-
-- [**Bedmaster-ICU-tools.**](https://github.com/bdsp-core/Bedmaster-ICU-tools) Documentation and tools for the Bedmaster ICU project.
-- [**CDAC_Data_Portal.**](https://github.com/bdsp-core/CDAC_Data_Portal) No description provided.
-- [**text-annotator.**](https://github.com/bdsp-core/text-annotator) Annotator app to label freetext
-- [**bedmaster_pipeline_code.**](https://github.com/bdsp-core/bedmaster_pipeline_code) pipeline - after deidentification portion
-- [**streaming_pipeline_code.**](https://github.com/bdsp-core/streaming_pipeline_code) No description provided.
-- [**Bedmaster-Patient-Matching.**](https://github.com/bdsp-core/Bedmaster-Patient-Matching) This is the repository for the Bedmaster Patient Matching Pipeline.
-- [**general-scripts.**](https://github.com/bdsp-core/general-scripts) This is a repository to store all the scripts for use cases that might be useful to many people in the CDAC lab.
-- [**DailyUpdates.**](https://github.com/bdsp-core/DailyUpdates) This is the repository to store the daily updates for the different pipeline that we are using at CDAC.
-- [**dicom_deidentify.**](https://github.com/bdsp-core/dicom_deidentify) No description provided.
-- [**ECG-deidentification-pipeline.**](https://github.com/bdsp-core/ECG-deidentification-pipeline) No description provided.
-- [**EEG-Archiving-Pipeline.**](https://github.com/bdsp-core/EEG-Archiving-Pipeline) Copy xltek from multiple xltek archives to LM4
-- [**EEGNormalization.**](https://github.com/bdsp-core/EEGNormalization) No description provided.
-- [**EEG_Fuzzy_Patient_Matching.**](https://github.com/bdsp-core/EEG_Fuzzy_Patient_Matching) No description provided.
-- [**Xltek_Annotation_Extraction.**](https://github.com/bdsp-core/Xltek_Annotation_Extraction) No description provided.
-- [**Persyst_Spike_Detection.**](https://github.com/bdsp-core/Persyst_Spike_Detection) Detect annotation 
-- [**EEG-deidentification.**](https://github.com/bdsp-core/EEG-deidentification) No description provided.
-- [**BDSPAWSScripts.**](https://github.com/bdsp-core/BDSPAWSScripts) This is the repository to store all the AWS Scripts related to BDSP.
-- [**LabMeetingDemo.**](https://github.com/bdsp-core/LabMeetingDemo) This is a repository that will contain the code for the lab demo.
-- [**bdsp-opendata-registry.**](https://github.com/bdsp-core/bdsp-opendata-registry) No description provided.
-- [**GeneralScripts.**](https://github.com/bdsp-core/GeneralScripts) This is the repository to store all the scripts that we use for our projects.
-- [**Physionet_build_forked.**](https://github.com/bdsp-core/Physionet_build_forked) BDSP Website - adapted from Physionet Website
-- [**ECG_HD5_Plots.**](https://github.com/bdsp-core/ECG_HD5_Plots) No description provided.
-- [**bdsp.io_webapp.**](https://github.com/bdsp-core/bdsp.io_webapp) No description provided.
-- [**delphi-deidentification.**](https://github.com/bdsp-core/delphi-deidentification) This is the repository to store all the code related to deidentification using Philter+.
-- [**awesome-aws-research.**](https://github.com/bdsp-core/awesome-aws-research) A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources for Academic Researchers new to AWS
-- [**bdsp-emr-tools.**](https://github.com/bdsp-core/bdsp-emr-tools) Tools for extracting EMR data for use in BDSP
-- [**bdsp-license-and-dua.**](https://github.com/bdsp-core/bdsp-license-and-dua) No description provided.
-- [**bdsp-reports-search-web-app.**](https://github.com/bdsp-core/bdsp-reports-search-web-app) No description provided.
-- [**bdsp-boto3-example.**](https://github.com/bdsp-core/bdsp-boto3-example) No description provided.
-- [**EEG-Archiving-Pipeline-BIDMC.**](https://github.com/bdsp-core/EEG-Archiving-Pipeline-BIDMC) This is the repository setup to store all the code related to Step 1 of the EEG Pipeline at BIDMC. 
-- [**bdsp_aws_athena_db_connection_code.**](https://github.com/bdsp-core/bdsp_aws_athena_db_connection_code) This is the repository for getting started with connecting with AWS Athena.
-- [**Harvard-EEG-Database-Tools.**](https://github.com/bdsp-core/Harvard-EEG-Database-Tools) No description provided.
-- [**aws-open-data-registry-browser.**](https://github.com/bdsp-core/aws-open-data-registry-browser) A browser for open-data-registry: https://github.com/awslabs/open-data-registry
-- [**bdsp-reports-opensearch.**](https://github.com/bdsp-core/bdsp-reports-opensearch) all text reports search using elastic opensearch and deploy in AWS Beanstalk
-- [**BIDS-EEG.**](https://github.com/bdsp-core/BIDS-EEG) No description provided.
-- [**BIDS-Conversion.**](https://github.com/bdsp-core/BIDS-Conversion) BIDS-Conversion
-- [**BIDMCDatabase.**](https://github.com/bdsp-core/BIDMCDatabase) This is the repository created to share sample code and examples for the Data Science Team to access the BIDMC database.
-- [**BIDS_Conversion.**](https://github.com/bdsp-core/BIDS_Conversion) No description provided.
-- [**EEG-Indexing-Pipeline.**](https://github.com/bdsp-core/EEG-Indexing-Pipeline) This is the repository to store the code related to indexing all the EEG's from MGH and BWH.
-- [**Sleep-Indexing-Pipeline.**](https://github.com/bdsp-core/Sleep-Indexing-Pipeline) This is the repository to store the code related to indexing all the Sleep PSG's from MGH.
-- [**medications_mgh.**](https://github.com/bdsp-core/medications_mgh) No description provided.
-- [**philter-plus-deidentification.**](https://github.com/bdsp-core/philter-plus-deidentification) This is the repository to store the code related to deidentifying unstructured clinical data. 
-- [**MGB-Neurology-Reports-Deidentification.**](https://github.com/bdsp-core/MGB-Neurology-Reports-Deidentification) This is the repository to store all the code used to deidentify all the MGB Neurology Reports.
-- [**BIDMC-EEG-Reports-Deidentification.**](https://github.com/bdsp-core/BIDMC-EEG-Reports-Deidentification) This is the repository to store all the code used to deidentify all the BIDMC EEG Reports.
-- [**natus2json.**](https://github.com/bdsp-core/natus2json) No description provided.
-- [**aws-open-data-registry.**](https://github.com/bdsp-core/aws-open-data-registry) A registry of publicly available datasets on AWS
-- [**MGB-Notes-Deidentification.**](https://github.com/bdsp-core/MGB-Notes-Deidentification) This is the repository to store all the code used to deidentify all the MGB Notes.
-- [**Thunderpack.**](https://github.com/bdsp-core/Thunderpack) No description provided.
-- [**IDEA_Platform_MGB.**](https://github.com/bdsp-core/IDEA_Platform_MGB) This is the repository to store all the code that I used on the IDEA platform.
-- [**BDSP_BIDS_Conversion_withAnnotationStaging_from_XLTEK_raw.**](https://github.com/bdsp-core/BDSP_BIDS_Conversion_withAnnotationStaging_from_XLTEK_raw) No description provided.
-- [**epilepsy-algolia-sync.**](https://github.com/bdsp-core/epilepsy-algolia-sync) Epilepsy.Science
-- [**BIDMC-Notes-Deidentification.**](https://github.com/bdsp-core/BIDMC-Notes-Deidentification) This is the repository to store all the code used to deidentify all the BIDMC Notes.
-- [**Imaging-Reports-Deidentification.**](https://github.com/bdsp-core/Imaging-Reports-Deidentification) This is the repository to store all the code used to deidentify all the MGB Imaging Reports.
-- [**PHIlter-deID-pipeline-mbw-modified.**](https://github.com/bdsp-core/PHIlter-deID-pipeline-mbw-modified) modified version of PHIlter+ pipeline -- brandon made this initially for ECG report deID
-- [**Thunderpack_WranglingCode.**](https://github.com/bdsp-core/Thunderpack_WranglingCode) No description provided.
-- [**edfio.**](https://github.com/bdsp-core/edfio) convenience function to write edf from python, e.g. from prepared data
-- [**BIDS_EDF_to_BidsFormat_Conversion.**](https://github.com/bdsp-core/BIDS_EDF_to_BidsFormat_Conversion) No description provided.
-- [**bdsp-sleep-data.**](https://github.com/bdsp-core/bdsp-sleep-data) general code for handling sleep data on BDSP platform.
-- [**BIDS_Sessions_Creations.**](https://github.com/bdsp-core/BIDS_Sessions_Creations) No description provided.
-
-## EEG
-
-- [**IIIC_big_map.**](https://github.com/bdsp-core/IIIC_big_map) No description provided.
-- [**AL_IIIC.**](https://github.com/bdsp-core/AL_IIIC) No description provided.
-- [**EEG_mulitmodal_sedation.**](https://github.com/bdsp-core/EEG_mulitmodal_sedation) No description provided.
-- [**epilepsy-project.**](https://github.com/bdsp-core/epilepsy-project) This is a repository that will contain all the information regarding the epilepsy project.
-- [**IFCN6.**](https://github.com/bdsp-core/IFCN6) This is a graphical user interface that allows spike annotations.
-- [**EEG-Pipeline.**](https://github.com/bdsp-core/EEG-Pipeline) No description provided.
-- [**EEGReportsDeidentification.**](https://github.com/bdsp-core/EEGReportsDeidentification) This is the repository to store the code related to the deidentification for Neurology Reports.
-- [**spike-test-pilot-trial.**](https://github.com/bdsp-core/spike-test-pilot-trial) No description provided.
-- [**IIIC-SPaRCNet.**](https://github.com/bdsp-core/IIIC-SPaRCNet) No description provided.
-- [**Seizures-and-Harmful-Brain-Activity.**](https://github.com/bdsp-core/Seizures-and-Harmful-Brain-Activity) No description provided.
-- [**EEG_Report_Wrangling.**](https://github.com/bdsp-core/EEG_Report_Wrangling) No description provided.
-- [**IIIC-Frequency-Analysis.**](https://github.com/bdsp-core/IIIC-Frequency-Analysis) Calculates frequency, spatial extent, location, evolution, and other parameters for rhythmic and periodic EEG patterns
-- [**SpikeNet1.**](https://github.com/bdsp-core/SpikeNet1) No description provided.
-- [**morgoth.**](https://github.com/bdsp-core/morgoth) No description provided.
-- [**cyclops.**](https://github.com/bdsp-core/cyclops) No description provided.
-
-[Back to Top](#  )
+<!-- Back to Top Button -->
+<button id="backToTop" class="back-to-top" title="Back to top">&#9650;</button>
+{:/nomarkdown}
