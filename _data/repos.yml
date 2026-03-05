@@ -102,7 +102,7 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 11
+  stars: 12
   forks: 4
   updated_at: '2026-03-04'
   visibility: public
@@ -1398,7 +1398,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-03-04'
+  updated_at: '2026-03-05'
   visibility: public
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
@@ -2361,3 +2361,15 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
+- name: figure-review-agents
+  description: Multi-agent pipeline for reviewing scientific manuscript figures
+  url: https://github.com/bdsp-core/figure-review-agents
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-05'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
