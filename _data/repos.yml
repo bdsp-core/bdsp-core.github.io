@@ -751,7 +751,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-01-08'
+  updated_at: '2026-03-07'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1398,7 +1398,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-03-05'
+  updated_at: '2026-03-06'
   visibility: public
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 1
   forks: 5
-  updated_at: '2026-03-05'
+  updated_at: '2026-03-06'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2361,14 +2361,14 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
-- name: figure-review-agents
-  description: Multi-agent pipeline for reviewing scientific manuscript figures
-  url: https://github.com/bdsp-core/figure-review-agents
-  language: Python
+- name: IIIC-Frequency-Functions-For-Morgoth
+  description: No description provided.
+  url: https://github.com/bdsp-core/IIIC-Frequency-Functions-For-Morgoth
+  language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-03-05'
-  visibility: public
+  updated_at: '2026-03-07'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2381,6 +2381,30 @@
   forks: 0
   updated_at: '2026-03-06'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: paper-agents-figures
+  description: Multi-agent pipeline for reviewing scientific manuscript figures
+  url: https://github.com/bdsp-core/paper-agents-figures
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-06'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: paper-agents-manuscript
+  description: No description provided.
+  url: https://github.com/bdsp-core/paper-agents-manuscript
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-06'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
