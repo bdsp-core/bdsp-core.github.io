@@ -1,3 +1,14 @@
+- title: '"Pediatric SleepNet: A Deep Learning Network for Reliable Pediatric Sleep
+    Staging Across Developmental Stages."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Gupta A, Ganglberger W, Waters S, Sun H, Nasiri S, Mitra A,
+    Stone KL, Mignot E, Hwang D, Reyna MA, Trotti LM, Clifford GD, Maski K, Katwa
+    U, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41804802
+    display: 'Sleep. 2026. doi: 10.1093/sleep/zsag064. PMID: 41804802.'
+  highlight: 0
 - title: '"Artificial intelligence without restriction surpassing human intelligence
     with probability one: Theoretical insight into secrets of the brain with AI twins
     of the brain."'
