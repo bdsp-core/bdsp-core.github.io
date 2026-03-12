@@ -911,9 +911,9 @@
     (version 2).
   url: https://github.com/bdsp-core/SpikeNet2
   language: Python
-  stars: 9
+  stars: 10
   forks: 2
-  updated_at: '2026-03-05'
+  updated_at: '2026-03-11'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 1
   forks: 5
-  updated_at: '2026-03-10'
+  updated_at: '2026-03-11'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2108,9 +2108,9 @@
   description: Tools for managing and querying the Harvard EEG Database.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
   language: Jupyter Notebook
-  stars: 6
+  stars: 7
   forks: 1
-  updated_at: '2026-02-23'
+  updated_at: '2026-03-11'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2379,7 +2379,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-03-06'
+  updated_at: '2026-03-11'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
