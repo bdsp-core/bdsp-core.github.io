@@ -574,9 +574,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 5
+  stars: 6
   forks: 1
-  updated_at: '2026-02-26'
+  updated_at: '2026-03-15'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -814,7 +814,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-02-28'
+  updated_at: '2026-03-16'
   visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 1
   forks: 5
-  updated_at: '2026-03-14'
+  updated_at: '2026-03-15'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
