@@ -1096,9 +1096,9 @@
   description: VE-CAM-S score for assessing delirium severity from visual EEG features
   url: https://github.com/bdsp-core/VE-CAM-S
   language: Python
-  stars: 2
+  stars: 3
   forks: 0
-  updated_at: '2024-07-13'
+  updated_at: '2026-03-24'
   visibility: public
   category: Delirium, Encephalopathy & CAR-T Neurotoxicity
   category_slug: delirium-encephalopathy-car-t-neurotoxicity
@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-03-23'
+  updated_at: '2026-03-24'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2367,7 +2367,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-03-24'
+  updated_at: '2026-03-25'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
