@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-03-25'
+  updated_at: '2026-03-26'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2361,6 +2361,18 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
+- name: chocolate-bananas
+  description: No description provided.
+  url: https://github.com/bdsp-core/chocolate-bananas
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-26'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
 - name: IIIC-Frequency-Functions-For-Morgoth
   description: No description provided.
   url: https://github.com/bdsp-core/IIIC-Frequency-Functions-For-Morgoth
@@ -2405,6 +2417,18 @@
   forks: 0
   updated_at: '2026-03-06'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: PAT-PaperAssessmentTool
+  description: No description provided.
+  url: https://github.com/bdsp-core/PAT-PaperAssessmentTool
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-26'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
