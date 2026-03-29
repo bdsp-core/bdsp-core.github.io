@@ -459,6 +459,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#faith" class="toc-link">Faith <span class="quote-count">(5)</span></a>
 <a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(22)</span></a>
 <a href="#happiness" class="toc-link">Happiness <span class="quote-count">(1)</span></a>
+<a href="#humor" class="toc-link">Humor <span class="quote-count">(2)</span></a>
+<a href="#joy" class="toc-link">Joy <span class="quote-count">(1)</span></a>
 <a href="#logic" class="toc-link">Logic <span class="quote-count">(6)</span></a>
 <a href="#longing" class="toc-link">Longing <span class="quote-count">(4)</span></a>
 <a href="#love" class="toc-link">Love <span class="quote-count">(3)</span></a>
@@ -883,6 +885,31 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 > The true secret of happiness lies in taking a genuine interest in all the details of daily life.  
 > **--_William Morris_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+<div class="section-header" id="humor">
+<h3 style="margin: 0; color: white;">Humor <span class="quote-count">(2 quotes)</span></h3>
+</div>
+> Humor was another of the soul’s weapons in the fight for self-preservation. It is well known that humor, more than anything else in the human make-up, can afford an aloofness and an ability to rise above any situation, even if only for a few seconds.  
+> **--_Viktor E. Frankl, Man's Search for Meaning, 1946_**
+
+> Seriousness is not a virtue. It would be a heresy, but a much more sensible heresy, to say that seriousness is a vice. It is really a natural trend or lapse into taking one's self gravely, because it is the easiest thing to do. It is much easier to write a good Times leading article than a good joke in Punch. For solemnity flows out of men naturally; but laughter is a leap. It is easy to be heavy: hard to be light. Satan fell by the force of gravity.”  
+> **--_GK Chesterton, Orthodoxy, 1908_**
+
+[Back to Top](# )
+
+
+[Back to Brandon's page](/brandon/)
+
+<div class="section-header" id="joy">
+<h3 style="margin: 0; color: white;">Joy <span class="quote-count">(1 quotes)</span></h3>
+</div>
+> But the “consolation” of fairy-tales has another aspect than the imaginative satisfaction of ancient desires. Far more important is the Consolation of the Happy Ending. Almost I would venture to assert that all complete fairy-stories must have it. At least I would say that Tragedy is the true form of Drama, its highest function; but the opposite is true of Fairy-story. Since we do not appear to possess a word that expresses this opposite—I will call it Eucatastrophe. The eucatastrophic tale is the true form of fairy-tale, and its highest function...The consolation of fairy-stories, the joy of the happy ending: or more correctly of the good catastrophe, the sudden joyous “turn” (for there is no true end to any fairy-tale): this joy, which is one of the things which fairy-stories can produce supremely well, is not essentially “escapist,” nor “fugitive.” In its fairy-tale—or otherworld—setting, it is a sudden and miraculous grace: never to be counted on to recur. It does not deny the existence of dyscatastrophe, of sorrow and failure: the possibility of these is necessary to the joy of deliverance; it denies (in the face of much evidence, if you will) universal final defeat and in so far is evangelium, giving a fleeting glimpse of Joy, Joy beyond the walls of the world, poignant as grief.  
+> **--_J.R.R. Tolkien, On Fairy Stories, 1947_**
 
 [Back to Top](# )
 

@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-03-27'
+  updated_at: '2026-03-28'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2397,6 +2397,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 9
+- name: Neurotech-EEG-Wrangling
+  description: No description provided.
+  url: https://github.com/bdsp-core/Neurotech-EEG-Wrangling
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-29'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
 - name: paper-agents-figures
   description: Multi-agent pipeline for reviewing scientific manuscript figures
   url: https://github.com/bdsp-core/paper-agents-figures
@@ -2427,7 +2439,7 @@
   language: ''
   stars: 0
   forks: 0
-  updated_at: '2026-03-26'
+  updated_at: '2026-03-29'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
