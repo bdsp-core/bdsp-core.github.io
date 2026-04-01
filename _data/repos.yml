@@ -576,7 +576,7 @@
   language: Python
   stars: 9
   forks: 1
-  updated_at: '2026-03-20'
+  updated_at: '2026-04-01'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -826,8 +826,8 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2025-10-07'
-  visibility: private
+  updated_at: '2026-04-01'
+  visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
   topics: []
@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-03-30'
+  updated_at: '2026-03-31'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
