@@ -102,9 +102,9 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 14
+  stars: 15
   forks: 5
-  updated_at: '2026-03-20'
+  updated_at: '2026-04-08'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -802,7 +802,7 @@
   language: Python
   stars: 14
   forks: 4
-  updated_at: '2026-03-05'
+  updated_at: '2026-04-08'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1535,7 +1535,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-07'
+  updated_at: '2026-04-08'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2108,9 +2108,9 @@
   description: Tools for managing and querying the Harvard EEG Database.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
   language: Jupyter Notebook
-  stars: 9
+  stars: 10
   forks: 1
-  updated_at: '2026-03-27'
+  updated_at: '2026-04-08'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2373,13 +2373,13 @@
   category_slug: uncategorized
   topics: []
   sort_order: 9
-- name: IIIC-Frequency-Functions-For-Morgoth
+- name: grond
   description: No description provided.
-  url: https://github.com/bdsp-core/IIIC-Frequency-Functions-For-Morgoth
-  language: Jupyter Notebook
+  url: https://github.com/bdsp-core/grond
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-08'
+  updated_at: '2026-04-09'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2391,7 +2391,19 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-07'
+  updated_at: '2026-04-08'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: nax_llm_batch_processing
+  description: No description provided.
+  url: https://github.com/bdsp-core/nax_llm_batch_processing
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-08'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2403,7 +2415,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-03-30'
+  updated_at: '2026-04-09'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2427,7 +2439,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-03-06'
+  updated_at: '2026-04-08'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
