@@ -1,3 +1,15 @@
+- title: '"Brain Health from Sleep EEG: A Multicohort, Deep Learning Biomarker for
+    Cognition, Disease, and Mortality."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Sun H, Turley N, Tripathi A, Hadar P, Gupta A, Gallagher
+    K, Tesh R, Kim S, Nasiri S, Leng Y, Harrison S, Stone KL, Hughes T, Redline S,
+    Au R, Manoach DS, Landolt HP, Huber R, Mignot E, Shin C, Cash SS, Thomas RJ, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41953210
+    display: 'NEJM AI. 2026. 3. doi: 10.1056/aioa2500487. PMID: 41953210.'
+  highlight: 0
 - title: '"Machine Learning-Based Sleep Electroencephalographic Brain Age Index and
     Dementia Risk: An Individual Participant Data Meta-Analysis."'
   image: ''
