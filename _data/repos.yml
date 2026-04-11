@@ -336,12 +336,13 @@
   topics: []
   sort_order: 0
 - name: sleep-yoda
-  description: YODA (Your Optimized Data Analyzer) framework for sleep data analysis.
+  description: PSG viewer and sleep analysis platform with staging, respiratory, and
+    report views
   url: https://github.com/bdsp-core/sleep-yoda
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-03-02'
+  updated_at: '2026-04-11'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1535,7 +1536,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-09'
+  updated_at: '2026-04-10'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2367,7 +2368,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-07'
+  updated_at: '2026-04-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2381,6 +2382,18 @@
   forks: 0
   updated_at: '2026-04-09'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: icon-diagrams
+  description: No description provided.
+  url: https://github.com/bdsp-core/icon-diagrams
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-11'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2403,7 +2416,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-04-08'
+  updated_at: '2026-04-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
