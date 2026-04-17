@@ -1488,7 +1488,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2025-06-05'
+  updated_at: '2026-04-16'
   visibility: public
   category: Noise & Diagnostic Variability
   category_slug: noise-diagnostic-variability
@@ -1536,7 +1536,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-15'
+  updated_at: '2026-04-16'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2368,7 +2368,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-04-15'
+  updated_at: '2026-04-17'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2453,6 +2453,18 @@
   stars: 0
   forks: 0
   updated_at: '2026-04-10'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: Noise_in_Diagnosing_Epilepsy_KILT_Technical
+  description: No description provided.
+  url: https://github.com/bdsp-core/Noise_in_Diagnosing_Epilepsy_KILT_Technical
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-16'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
