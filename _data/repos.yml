@@ -1209,23 +1209,10 @@
     Arrest with Deep Neural Networks
   url: https://github.com/bdsp-core/icare-dl
   language: MATLAB
-  stars: 15
+  stars: 16
   forks: 6
-  updated_at: '2025-12-29'
+  updated_at: '2026-04-19'
   visibility: public
-  category: ICU & Critical Care
-  category_slug: icu-critical-care
-  topics: []
-  sort_order: 5
-- name: ICU_EEG_PKPD_EmulatedTrial
-  description: Emulated clinical trial for ICU EEG pharmacokinetic-pharmacodynamic
-    analysis.
-  url: https://github.com/bdsp-core/ICU_EEG_PKPD_EmulatedTrial
-  language: MATLAB
-  stars: 0
-  forks: 0
-  updated_at: '2025-06-15'
-  visibility: private
   category: ICU & Critical Care
   category_slug: icu-critical-care
   topics: []
@@ -1536,7 +1523,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-17'
+  updated_at: '2026-04-18'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2386,6 +2373,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 9
+- name: cicadas
+  description: No description provided.
+  url: https://github.com/bdsp-core/cicadas
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-19'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
 - name: grond
   description: No description provided.
   url: https://github.com/bdsp-core/grond
@@ -2522,10 +2521,22 @@
   description: No description provided.
   url: https://github.com/bdsp-core/PAT-PaperAssessmentTool
   language: Python
-  stars: 4
+  stars: 5
   forks: 0
-  updated_at: '2026-04-16'
+  updated_at: '2026-04-18'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: spike-learning-game
+  description: No description provided.
+  url: https://github.com/bdsp-core/spike-learning-game
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-18'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
