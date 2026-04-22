@@ -78,9 +78,9 @@
     data.
   url: https://github.com/bdsp-core/BCH-SleepStaging
   language: Python
-  stars: 0
+  stars: 1
   forks: 0
-  updated_at: '2026-03-16'
+  updated_at: '2026-04-21'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -90,9 +90,9 @@
   description: general code for handling sleep data on BDSP platform.
   url: https://github.com/bdsp-core/bdsp-sleep-data
   language: Jupyter Notebook
-  stars: 1
+  stars: 2
   forks: 1
-  updated_at: '2025-06-05'
+  updated_at: '2026-04-21'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -342,7 +342,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-20'
+  updated_at: '2026-04-22'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -888,7 +888,7 @@
   language: MATLAB
   stars: 0
   forks: 0
-  updated_at: '2023-04-21'
+  updated_at: '2026-04-22'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1523,7 +1523,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-20'
+  updated_at: '2026-04-21'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2355,7 +2355,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-04-20'
+  updated_at: '2026-04-21'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2412,10 +2412,10 @@
 - name: ilae-skill-certification-test
   description: No description provided.
   url: https://github.com/bdsp-core/ilae-skill-certification-test
-  language: Python
+  language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-04-21'
+  updated_at: '2026-04-22'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
