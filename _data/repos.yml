@@ -802,7 +802,7 @@
   url: https://github.com/bdsp-core/morgoth
   language: Python
   stars: 14
-  forks: 4
+  forks: 5
   updated_at: '2026-04-08'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
@@ -912,9 +912,9 @@
     (version 2).
   url: https://github.com/bdsp-core/SpikeNet2
   language: Python
-  stars: 13
+  stars: 14
   forks: 2
-  updated_at: '2026-03-31'
+  updated_at: '2026-04-25'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1523,7 +1523,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-23'
+  updated_at: '2026-04-24'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2355,7 +2355,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-04-23'
+  updated_at: '2026-04-24'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2380,6 +2380,18 @@
   stars: 0
   forks: 0
   updated_at: '2026-04-20'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: dementia-detection-from-sleep
+  description: No description provided.
+  url: https://github.com/bdsp-core/dementia-detection-from-sleep
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-25'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
