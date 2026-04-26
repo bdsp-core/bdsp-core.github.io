@@ -280,7 +280,7 @@
   description: ''
   authors: Fischer BJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32153319
+    url: https://bdsp-core.github.io/cdac-downloads/2003_Fischer_Neurocomputing_32153319.pdf
     display: 'Neurocomputing. 2003. 52-54. 511-518. doi: 10.1016/s0925-2312(02)00762-2.
       PMID: 32153319.'
   highlight: 0
@@ -426,7 +426,7 @@
   description: ''
   authors: Johansen AR, Jin J, Maszczyk T, Dauwels J, Cash SS, Westover MB.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/29527131
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Johansen_ProcIEEEIntConfAcoustSpeechSig_29527131.pdf
     display: 'Proc IEEE Int Conf Acoust Speech Signal Process 2016 Mar; 2016 :754-758
       doi: 10.1109/ICASSP.2016.7471776. Epub 2016 May 19. PMID:29527131 ; PMCID:PMC5842703 '
   highlight: 0
@@ -458,7 +458,7 @@
   description: ''
   authors: Shafi MM, Westover MB, Fox MD, Pascual-Leone A.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/22429242
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Shafi_EurJNeurosci_22429242.pdf
     display: 'Eur J Neurosci 2012 Mar; 35 (6) :805-25 doi: 10.1111/j.1460-9568.2012.08035.x.
       PMID:22429242 ; PMCID:PMC3313459 '
   highlight: 0
@@ -479,7 +479,7 @@
   authors: Pascual-Leone A, Freitas C, Oberman L, Horvath JC, Halko M, Eldaief M,
     Bashir S, Vernet M, Shafi M, Westover B, Vahabzadeh-Hagh AM, Rotenberg A.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/21842407
+    url: https://bdsp-core.github.io/cdac-downloads/2011_PascualLeone_BrainTopogr_21842407.pdf
     display: 'Brain Topogr 2011 Oct; 24 (3-4) :302-15 doi: 10.1007/s10548-011-0196-8.
       Epub 2011 Aug 14. PMID:21842407 ; PMCID:PMC3374641 '
   highlight: 0
