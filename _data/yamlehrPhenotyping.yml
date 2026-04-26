@@ -4,7 +4,7 @@
   description: ''
   authors: Zafar SF, Park H, Letourneau AR, Rock AE, Westover MB, Mukerji SS
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/41670408
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Zafar_CritCareExplor_41670408.pdf
     display: 'Critical care explorations. 2026. 8(2). e1380. doi: 10.1097/CCE.0000000000001380.
       PMID: 41670408.'
   highlight: 0
@@ -15,7 +15,7 @@
   authors: Wheelock JR, Fernandes MB, Chen Y, Ayvaz BB, Jin DS, Zubair A, Wan M, Appleton
     J, Zafar SF, Struck AF, Hirsch LJ, Sivaraju A, Gilmore EJ, Westover MB, Kim JA
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/41282888
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Wheelock_medRxiv_41282888.pdf
     display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.11.04.25339484.
       PMID: 41282888.'
   highlight: 0
@@ -26,7 +26,7 @@
   authors: Singh A, Sartipi S, Sun H, Milde R, Turley N, Quinn C, Harrold GK, Gillani
     RL, Turbett SE, Das S, Zafar S, Fernandes M, Westover MB, Mukerji SS
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40882236
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Singh_JMIRMedInform_40882236.pdf
     display: 'JMIR medical informatics. 2025. 13. e63157. doi: 10.2196/63157. PMID:
       40882236.'
   highlight: 0
@@ -37,7 +37,7 @@
   authors: Leng Y, He Y, Amini S, Magdamo C, Paschalidis I, Mukerji SS, Moura LMVR,
     Westover MB, Vranceanu AM, Ritchie CS, Blacker D, Dickson JR, Das S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40610683
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Leng_NPJDigitMed_40610683.pdf
     display: 'NPJ digital medicine. 2025. 8(1). 401. doi: 10.1038/s41746-025-01834-5.
       PMID: 40610683.'
   highlight: 0
@@ -50,7 +50,7 @@
     S, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Stone K, Mignot E, Hwang D, Trotti
     LM, Clifford GD, Katwa U, Thomas R, Westover MB, Sun H
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40208662
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sumsion_JMIRMedInform_40208662.pdf
     display: 'JMIR medical informatics. 2025. 13. e64113. doi: 10.2196/64113. PMID:
       40208662.'
   highlight: 0
@@ -61,7 +61,7 @@
   authors: Fernandes M, Gallagher K, Turley N, Gupta A, Westover MB, Singhal AB, Zafar
     SF
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39838914
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Fernandes_EurStrokeJ_39838914.pdf
     display: 'European stroke journal. 2025. 10(3). 829-836. doi: 10.1177/23969873251314340.
       PMID: 39838914.'
   highlight: 0
@@ -71,7 +71,7 @@
   description: ''
   authors: Fernandes M, Westover MB, Singhal AB, Zafar SF
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39450737
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Fernandes_JAmHeartAssoc_39450737.pdf
     display: 'Journal of the American Heart Association. 2024. 13(21). e036386. doi:
       10.1161/JAHA.124.036386. PMID: 39450737.'
   highlight: 0
@@ -83,7 +83,7 @@
     VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM,
     Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39315274
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Wei_ResSq_39315274.pdf
     display: 'Research square. 2024. doi: 10.21203/rs.3.rs-5046441/v2. PMID: 39315274.'
   highlight: 0
 - title: '"Extracting seizure control metrics from clinic notes of patients with epilepsy:
@@ -92,7 +92,7 @@
   description: ''
   authors: Fernandes M, Cardall A, Moura LM, McGraw C, Zafar SF, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39276641
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Fernandes_EpilepsyRes_39276641.pdf
     display: 'Epilepsy research. 2024. 207. 107451. doi: 10.1016/j.eplepsyres.2024.107451.
       PMID: 39276641.'
   highlight: 0
@@ -102,7 +102,7 @@
   description: ''
   authors: Fernandes M, Westover MB, Singhal AB, Zafar SF
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/38559062
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Fernandes_medRxiv_38559062.pdf
     display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.03.08.24304011.
       PMID: 38559062.'
   highlight: 0
@@ -111,7 +111,7 @@
   description: ''
   authors: Ge W, Rice HJ, Sheikh IS, Westover MB, Weathers AL, Jones LK, Moura L
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/37816638
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Ge_Neurology_37816638.pdf
     display: 'Neurology. 2023. 101(22). 1010-1018. doi: 10.1212/WNL.0000000000207853.
       PMID: 37816638.'
   highlight: 0
@@ -124,7 +124,7 @@
     E, Wilcox D, Brenner L, Robbins GK, Moura L, Zafar S, Benson NM, Hsu J, R Dickson
     J, Serrano-Pozo A, Hyman BT, Blacker D, Westover MB, Mukerji SS, Das S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36040790
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Noori_JMedInternetRes_36040790.pdf
     display: 'Journal of medical Internet research. 2022. 24(8). e40384. doi: 10.2196/40384.
       PMID: 36040790.'
   highlight: 0
@@ -136,7 +136,7 @@
     A, Gaiser E, Acosta J, Herman AL, Kuohn LR, Leary M, Soto AL, Zhang Q, Fatima
     S, Falcone GJ, Payabvash MS, Sharma R, Struck AF, Sheth KN, Westover MB, Kim JA
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35972739
+    url: https://bdsp-core.github.io/cdac-downloads/2022_TorresLopez_JAMANetwOpen_35972739.pdf
     display: 'JAMA network open. 2022. 5(8). e2227109. doi: 10.1001/jamanetworkopen.2022.27109.
       PMID: 35972739.'
   highlight: 0
@@ -148,7 +148,7 @@
     SI, Newhouse A, Mvr Moura L, Zafar S, Hsu J, Akeju O, Robbins GK, Mukerji SS,
     Das S, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35749214
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Ge_JMIRFormRes_35749214.pdf
     display: 'JMIR formative research. 2022. 6(6). e33834. doi: 10.2196/33834. PMID:
       35749214.'
   highlight: 0
@@ -159,7 +159,7 @@
   authors: Fernandes M, Sun H, Jain A, Alabsi HS, Brenner LN, Ye E, Ge W, Collens
     SI, Leone MJ, Das S, Robbins GK, Mukerji SS, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/33449908
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Fernandes_JMIRMedInform_33449908.pdf
     display: 'JMIR medical informatics. 2021. 9(2). e25457. doi: 10.2196/25457. PMID:
       33449908.'
   highlight: 0
@@ -168,7 +168,7 @@
   description: ''
   authors: Bianchi MT, Russo K, Gabbidon H, Smith T, Goparaju B, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/28243157
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Bianchi_NatSciSleep_28243157.pdf
     display: 'Nature and science of sleep. 2017. 9. 11-29. doi: 10.2147/NSS.S130141.
       PMID: 28243157.'
   highlight: 0

@@ -5,7 +5,7 @@
   authors: Suen C, Ma J, Lin X, Thomas RJ, Westover MB, Stone K, Yaffe K, Ensrud KE,
     Redline S, Tanzi RE, Sun H, Zhang C
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40515807
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Suen_Geroscience_40515807.pdf
     display: 'GeroScience. 2026. 48(1). 1277-1289. doi: 10.1007/s11357-025-01730-6.
       PMID: 40515807.'
   highlight: 0
@@ -17,7 +17,7 @@
   authors: Palepu K, Sadeghi K, Kleinschmidt DF, Donoghue J, Chapman S, Arslan AR,
     Westover MB, Cash SS, Pathmanathan J
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/37803266
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Palepu_BMCNeurol_37803266.pdf
     display: 'BMC neurology. 2023. 23(1). 359. doi: 10.1186/s12883-023-03376-3. PMID:
       37803266.'
   highlight: 0
@@ -28,7 +28,7 @@
     Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas RJ, Westover
     MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34984446
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Adra_Sleep_34984446.pdf
     display: 'Sleep. 2022. 45(4). doi: 10.1093/sleep/zsac001. PMID: 34984446.'
   highlight: 0
 - title: '"Computational Evidence for a Competitive Thalamocortical Model of Spikes
@@ -37,7 +37,7 @@
   description: ''
   authors: Li Q, Westover MB, Zhang R, Chu CJ
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34220477
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Li_FrontComputNeurosci_34220477.pdf
     display: 'Frontiers in computational neuroscience. 2021. 15. 680549. doi: 10.3389/fncom.2021.680549.
       PMID: 34220477.'
   highlight: 0
@@ -48,7 +48,7 @@
   authors: Kramer MA, Stoyell SM, Chinappen D, Ostrowski LM, Spencer ER, Morgan AK,
     Emerton BC, Jing J, Westover MB, Eden UT, Stickgold R, Manoach DS, Chu CJ
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/33468567
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Kramer_JNeurosci_33468567.pdf
     display: 'The Journal of neuroscience : the official journal of the Society for
       Neuroscience. 2021. 41(8). 1816-1829. doi: 10.1523/JNEUROSCI.2009-20.2020. PMID:
       33468567.'
@@ -59,7 +59,7 @@
   description: ''
   authors: Li Q, Song JL, Li SH, Westover MB, Zhang R
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32038215
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Li_FrontComputNeurosci_32038215.pdf
     display: 'Frontiers in computational neuroscience. 2019. 13. 100. doi: 10.3389/fncom.2019.00100.
       PMID: 32038215.'
   highlight: 0

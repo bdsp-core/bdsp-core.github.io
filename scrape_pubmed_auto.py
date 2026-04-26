@@ -9,20 +9,49 @@ This script:
 4. Can be run periodically to keep publications up to date
 """
 
+import json
 import os
 import re
 import time
 import yaml
 from datetime import datetime
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
 from urllib.parse import urlencode
 import xml.etree.ElementTree as ET
+
+
+CDAC_DOWNLOADS_API = "https://api.github.com/repos/bdsp-core/cdac-downloads/contents/"
+CDAC_DOWNLOADS_BASE = "https://bdsp-core.github.io/cdac-downloads/"
+PDF_PMID_RE = re.compile(r"_(\d{7,9})\.pdf$", re.IGNORECASE)
+
+
+def fetch_pdf_pmid_map():
+    """Return {PMID: download_url} for PDFs in the cdac-downloads repo whose
+    filename ends with _<PMID>.pdf. Falls back to {} on any network error."""
+    try:
+        req = Request(CDAC_DOWNLOADS_API, headers={"Accept": "application/vnd.github+json"})
+        with urlopen(req, timeout=30) as resp:
+            items = json.loads(resp.read())
+    except Exception as e:
+        print(f"WARN: could not fetch cdac-downloads listing ({e}); new entries will link to PubMed only.")
+        return {}
+    out = {}
+    for it in items:
+        if it.get("type") != "file":
+            continue
+        name = it.get("name", "")
+        m = PDF_PMID_RE.search(name)
+        if m:
+            out[m.group(1)] = CDAC_DOWNLOADS_BASE + name
+    print(f"Loaded PMID→PDF map with {len(out)} entries from cdac-downloads")
+    return out
 
 
 class PubMedScraper:
     def __init__(self):
         self.base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
         self.email = "westover@mgh.harvard.edu"  # Required for API usage
+        self.pdf_pmid_map = fetch_pdf_pmid_map()
         
         # Define category mappings based on keywords
         self.category_keywords = {
@@ -222,6 +251,10 @@ class PubMedScraper:
             
             display = '. '.join(display_parts) + '.'
             
+            # Prefer a local PDF in the cdac-downloads repo (_PMID.pdf naming)
+            # over the bare PubMed URL when one is available.
+            link_url = self.pdf_pmid_map.get(pmid) or f'https://pubmed.ncbi.nlm.nih.gov/{pmid}'
+
             # Build publication object
             publication = {
                 'title': f'"{title}"',
@@ -229,7 +262,7 @@ class PubMedScraper:
                 'description': '',
                 'authors': authors_str,
                 'link': {
-                    'url': f'https://pubmed.ncbi.nlm.nih.gov/{pmid}',
+                    'url': link_url,
                     'display': display
                 },
                 'highlight': 0,
