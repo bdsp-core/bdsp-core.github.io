@@ -1,3 +1,22 @@
+- title: '"Stimulus information stored in lasting active and hidden network states
+    is destroyed by network bursts."'
+  image: ''
+  description: ''
+  authors: Dranias MR, Westover MB, Cash S, VanDongen AM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25755638
+    display: 'Frontiers in integrative neuroscience. 2015. 9. 14. doi: 10.3389/fnint.2015.00014.
+      PMID: 25755638.'
+  highlight: 0
+- title: '"Information theoretic quantification of diagnostic uncertainty."'
+  image: ''
+  description: ''
+  authors: Westover MB, Eiseman NA, Cash SS, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23304251
+    display: 'The open medical informatics journal. 2012. 6. 36-50. doi: 10.2174/1874431101206010036.
+      PMID: 23304251.'
+  highlight: 0
 - title: '"EEG Functional Connectivity is a Weak Predictor of Causal Brain Interactions."'
   image: ''
   description: ''

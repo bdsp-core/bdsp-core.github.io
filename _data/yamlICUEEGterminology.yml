@@ -1,3 +1,68 @@
+- title: '"Using electronic health data to explore effectiveness of ICU EEG and anti-seizure
+    treatment."'
+  image: ''
+  description: ''
+  authors: Amerineni R, Sun H, Lee H, Hsu J, Patorno E, Westover MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34802196
+    display: 'Annals of clinical and translational neurology. 2021. 8(12). 2270-2279.
+      doi: 10.1002/acn3.51478. PMID: 34802196.'
+  highlight: 0
+- title: '"American Clinical Neurophysiology Society''s Standardized Critical Care
+    EEG Terminology: 2021 Version."'
+  image: ''
+  description: ''
+  authors: Hirsch LJ, Fong MWK, Leitinger M, LaRoche SM, Beniczky S, Abend NS, Lee
+    JW, Wusthoff CJ, Hahn CD, Westover MB, Gerard EE, Herman ST, Haider HA, Osman
+    G, Rodriguez-Ruiz A, Maciel CB, Gilmore EJ, Fernandez A, Rosenthal ES, Claassen
+    J, Husain AM, Yoo JY, So EL, Kaplan PW, Nuwer MR, van Putten M, Sutter R, Drislane
+    FW, Trinka E, Gaspard N
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33475321
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2021. 38(1). 1-29. doi: 10.1097/WNP.0000000000000806.
+      PMID: 33475321.'
+  highlight: 0
+- title: '"Development and Feasibility Testing of a Critical Care EEG Monitoring Database
+    for Standardized Clinical Reporting and Multicenter Collaborative Research."'
+  image: ''
+  description: ''
+  authors: Lee JW, LaRoche S, Choi H, Rodriguez Ruiz AA, Fertig E, Politsky JM, Herman
+    ST, Loddenkemper T, Sansevere AJ, Korb PJ, Abend NS, Goldstein JL, Sinha SR, Dombrowski
+    KE, Ritzl EK, Westover MB, Gavvala JR, Gerard EE, Schmitt SE, Szaflarski JP, Ding
+    K, Haas KF, Buchsbaum R, Hirsch LJ, Wusthoff CJ, Hopp JL, Hahn CD
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26943901
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2016. 33(2). 133-40. doi: 10.1097/WNP.0000000000000230.
+      PMID: 26943901.'
+  highlight: 0
+- title: '"The standardization debate: A conflation trap in critical care electroencephalography."'
+  image: ''
+  description: ''
+  authors: Ng MC, Gaspard N, Cole AJ, Hoch DB, Cash SS, Bianchi M, O'Rourke DA, Rosenthal
+    ES, Chu CJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25457454
+    display: 'Seizure. 2015. 24. 52-8. doi: 10.1016/j.seizure.2014.09.017. PMID: 25457454.'
+  highlight: 0
+- title: '"Interrater agreement for Critical Care EEG Terminology."'
+  image: ''
+  description: ''
+  authors: Gaspard N, Hirsch LJ, LaRoche SM, Hahn CD, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24888711
+    display: 'Epilepsia. 2014. 55(9). 1366-73. doi: 10.1111/epi.12653. PMID: 24888711.'
+  highlight: 0
+- title: '"Information theoretic quantification of diagnostic uncertainty."'
+  image: ''
+  description: ''
+  authors: Westover MB, Eiseman NA, Cash SS, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23304251
+    display: 'The open medical informatics journal. 2012. 6. 36-50. doi: 10.2174/1874431101206010036.
+      PMID: 23304251.'
+  highlight: 0
 - title: '"Evaluating crowdsourcing for ICU EEG annotation: A comparison with expert
     performance."'
   image: ''

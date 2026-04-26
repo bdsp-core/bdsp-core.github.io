@@ -3,6 +3,79 @@
   description: ''
   authors: Goldenholz DM, Cheng JC, Chang CY, Moss R, Westover MB
   link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41489031
+    display: 'Annals of neurology. 2026. 99(4). 1076-1082. doi: 10.1002/ana.78134.
+      PMID: 41489031.'
+  highlight: 0
+- title: '"Does missing medication acutely change seizure risk? A prospective study."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Cheng JC, Chang CY, Moss R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40502567
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.06.06.25329144.
+      PMID: 40502567.'
+  highlight: 0
+- title: '"Prospective validation of a seizure diary forecasting falls short."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Eccleston C, Moss R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38260666
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.01.11.24301175.
+      PMID: 38260666.'
+  highlight: 0
+- title: '"Association of Early Seizure Prophylaxis With Posttraumatic Seizures and
+    Mortality: A Meta-analysis With Evidence Quality Assessment."'
+  image: ''
+  description: ''
+  authors: Coelho LMG, Blacker D, Hsu J, Newhouse JP, Westover MB, Zafar SF, Moura
+    LMVR
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37066107
+    display: 'Neurology. Clinical practice. 2023. 13(3). e200145. doi: 10.1212/CPJ.0000000000200145.
+      PMID: 37066107.'
+  highlight: 0
+- title: '"Assessment of the Validity of the 2HELPS2B Score for Inpatient Seizure
+    Risk Prediction."'
+  image: ''
+  description: ''
+  authors: Struck AF, Tabaeizadeh M, Schmitt SE, Ruiz AR, Swisher CB, Subramaniam
+    T, Hernandez C, Kaleem S, Haider HA, Cissé AF, Dhakar MB, Hirsch LJ, Rosenthal
+    ES, Zafar SF, Gaspard N, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31930362
+    display: 'JAMA neurology. 2020. 77(4). 500-507. doi: 10.1001/jamaneurol.2019.4656.
+      PMID: 31930362.'
+  highlight: 0
+- title: '"Development of Expert-Level Automated Detection of Epileptiform Discharges
+    During Electroencephalogram Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D,
+    Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J,
+    Lam A, Cole AJ, Cash SS, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31633740
+    display: 'JAMA neurology. 2020. 77(1). 103-108. doi: 10.1001/jamaneurol.2019.3485.
+      PMID: 31633740.'
+  highlight: 0
+- title: '"Comparison of machine learning models for seizure prediction in hospitalized
+    patients."'
+  image: ''
+  description: ''
+  authors: Struck AF, Rodriguez-Ruiz AA, Osman G, Gilmore EJ, Haider HA, Dhakar MB,
+    Schrettner M, Lee JW, Gaspard N, Hirsch LJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31353866
+    display: 'Annals of clinical and translational neurology. 2019. 6(7). 1239-1247.
+      doi: 10.1002/acn3.50817. PMID: 31353866.'
+  highlight: 0
+- title: '"Does Missing Medication Acutely Change Seizure Risk? A Prospective Study."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Cheng JC, Chang CY, Moss R, Westover MB
+  link:
     url: /downloads/2026_Goldenholz_AnnNeurol_41489031.pdf
     display: 'Annals of neurology. 2026. doi: 10.1002/ana.78134. PMID: 41489031.'
   highlight: 0
