@@ -15,7 +15,7 @@ Office: BIDMC, 444 Kirstein, 330 Brookline Ave, Boston, MA 02215, USA
 
 [Affiliations | ](#affiliations)
 [Bio | ](#bio)
-[CV | ]({{ site.baseurl }}/downloads/1-Westover_HMS_CV-2023-01-06.pdf)
+[CV | ](https://bdsp-core.github.io/cdac-downloads/1-Westover_HMS_CV-2023-01-06.pdf)
 [Funding | ](#research-funding)
 [Disclosures | ](#disclosures)
 [Quotes | ](/quotes/)

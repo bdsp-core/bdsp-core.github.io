@@ -169,7 +169,7 @@ It can be difficult to define the threshold between simply assisting and making 
 [Back to Top](#  )
 
 ### Responding to Reviews
-Most papers require revisions before being accepted for publication. Editors rely on volunteer experts to donate their time to critique your paper. Respect the reviewers! While you might feel at times like writing a response like [this]({{ site.baseurl }}/downloads/frustrated_author.pdf), it is best to assume reviewers mean well and are doing their best. In any case, your manuscript will not be accepted unless you can satisfy the reviewers.
+Most papers require revisions before being accepted for publication. Editors rely on volunteer experts to donate their time to critique your paper. Respect the reviewers! While you might feel at times like writing a response like [this](https://bdsp-core.github.io/cdac-downloads/frustrated_author.pdf), it is best to assume reviewers mean well and are doing their best. In any case, your manuscript will not be accepted unless you can satisfy the reviewers.
 
 Some helpful general rules for responding to reviewers are:
 1. Provide an overview, then quote the full set of reviews
