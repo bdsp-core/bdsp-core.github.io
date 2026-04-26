@@ -171,39 +171,15 @@
   category_slug: sleep-staging-sleep-ai
   topics: []
   sort_order: 0
-- name: ICU-Sleep
-  description: Code, Datatables, Tools related to ICU-Sleep trial.
-  url: https://github.com/bdsp-core/ICU-Sleep
+- name: ICU_SLEEP
+  description: 'ICU-SLEEP (NCT03355053): randomized trial of nocturnal dexmedetomidine
+    in ICU patients — analysis code, deidentification pipeline, and ancillary materials.'
+  url: https://github.com/bdsp-core/ICU_SLEEP
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2023-01-01'
-  visibility: private
-  category: Sleep Staging & Sleep AI
-  category_slug: sleep-staging-sleep-ai
-  topics: []
-  sort_order: 0
-- name: ICU-sleep-vitals
-  description: This is a repository set up to create plots for vitals of all the patients
-    in the ICU Sleep Cohort.
-  url: https://github.com/bdsp-core/ICU-sleep-vitals
-  language: Python
-  stars: 1
-  forks: 0
-  updated_at: '2023-01-01'
-  visibility: private
-  category: Sleep Staging & Sleep AI
-  category_slug: sleep-staging-sleep-ai
-  topics: []
-  sort_order: 0
-- name: ICU_SLEEP
-  description: Sleep analysis tools for ICU patient EEG recordings.
-  url: https://github.com/bdsp-core/ICU_SLEEP
-  language: HTML
-  stars: 0
-  forks: 0
-  updated_at: '2026-02-24'
-  visibility: private
+  updated_at: '2026-04-25'
+  visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
   topics: []
@@ -1523,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-24'
+  updated_at: '2026-04-25'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2361,6 +2337,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 9
+- name: bai-dementia
+  description: No description provided.
+  url: https://github.com/bdsp-core/bai-dementia
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-26'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
 - name: chocolate-bananas
   description: No description provided.
   url: https://github.com/bdsp-core/chocolate-bananas
@@ -2388,11 +2376,11 @@
 - name: dementia-detection-from-sleep
   description: No description provided.
   url: https://github.com/bdsp-core/dementia-detection-from-sleep
-  language: ''
+  language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-04-25'
-  visibility: private
+  updated_at: '2026-04-26'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
