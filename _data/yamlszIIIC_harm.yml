@@ -2,6 +2,113 @@
     epileptiform activity from continuous electroencephalography data."'
   image: ''
   description: ''
+  authors: Tautan A, Jing J, Basovic L, Hadar PN, Sartipi S, Bento Fernandes M, Kim
+    JA, Struck AF, Westover MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40492064
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.05.29.25328582.
+      PMID: 40492064.'
+  highlight: 0
+- title: '"How many patients do you need? Investigating trial designs for anti-seizure
+    treatment in acute brain injury patients."'
+  image: ''
+  description: ''
+  authors: Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, Westover
+    MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38867375
+    display: 'Annals of clinical and translational neurology. 2024. 11(7). 1681-1690.
+      doi: 10.1002/acn3.52059. PMID: 38867375.'
+  highlight: 0
+- title: '"How accurate do self-reported seizures need to be for effective medication
+    management in epilepsy?"'
+  image: ''
+  description: ''
+  authors: Goldenholz D, Brinkmann BH, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38776216
+    display: 'Epilepsia. 2024. 65(7). e104-e112. doi: 10.1111/epi.18019. PMID: 38776216.'
+  highlight: 0
+- title: '"The International Cardiac Arrest Research Consortium Electroencephalography
+    Database."'
+  image: ''
+  description: ''
+  authors: Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V,
+    Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni
+    R, Reyna MA, Clifford GD, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37855659
+    display: 'Critical care medicine. 2023. 51(12). 1802-1811. doi: 10.1097/CCM.0000000000006074.
+      PMID: 37855659.'
+  highlight: 0
+- title: '"The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography
+    Database."'
+  image: ''
+  description: ''
+  authors: Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V,
+    Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni
+    R, Reyna MA, Clifford GD, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37693458
+    display: 'medRxiv : the preprint server for health sciences. 2023. doi: 10.1101/2023.08.28.23294672.
+      PMID: 37693458.'
+  highlight: 0
+- title: '"Unknown Title"'
+  image: ''
+  description: ''
+  authors: Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, Westover
+    MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37662339
+    display: 'medRxiv : the preprint server for health sciences. 2023. doi: 10.1101/2023.08.21.23294339.
+      PMID: 37662339.'
+  highlight: 0
+- title: '"Development of Expert-Level Classification of Seizures and Rhythmic and
+    Periodic Patterns During EEG Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Ge W, Hong S, Fernandes MB, Lin Z, Yang C, An S, Struck AF, Herlopian
+    A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan
+    PW, Dhakar MB, Arcot Jayagopal L, Sheikh Z, Taraschenko O, Schmitt S, Haider HA,
+    Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh
+    M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan
+    J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal
+    ES, Zafar SF, Sun J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36878708
+    display: 'Neurology. 2023. 100(17). e1750-e1762. doi: 10.1212/WNL.0000000000207127.
+      PMID: 36878708.'
+  highlight: 0
+- title: '"Interrater Reliability of Expert Electroencephalographers Identifying Seizures
+    and Rhythmic and Periodic Patterns in EEGs."'
+  image: ''
+  description: ''
+  authors: Jing J, Ge W, Struck AF, Fernandes MB, Hong S, An S, Fatima S, Herlopian
+    A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan
+    PW, Dhakar MB, Jayagopal LA, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim
+    JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh
+    M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan
+    J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal
+    ES, Zafar SF, Sun J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36460472
+    display: 'Neurology. 2023. 100(17). e1737-e1749. doi: 10.1212/WNL.0000000000201670.
+      PMID: 36460472.'
+  highlight: 0
+- title: '"Variability in pharmacologically-induced coma for treatment of refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30379935
+    display: 'PloS one. 2018. 13(10). e0205789. doi: 10.1371/journal.pone.0205789.
+      PMID: 30379935.'
+  highlight: 0
+- title: '"Automated estimation of frequency and spatial extent of periodic and rhythmic
+    epileptiform activity from continuous electroencephalography data."'
+  image: ''
+  description: ''
   authors: Tăuțan AM, Jing J, Basovic L, Hadar PN, Sartipi S, Fernandes MP, Kim J,
     Struck AF, Westover MB, Zafar SF
   link:

@@ -1,3 +1,229 @@
+- title: '"A multimodal sleep foundation model for disease prediction."'
+  image: ''
+  description: ''
+  authors: Thapa R, Kjaer MR, He B, Covert I, Moore Iv H, Hanif U, Ganjoo G, Westover
+    MB, Jennum P, Brink-Kjaer A, Mignot E, Zou J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41495409
+    display: 'Nature medicine. 2026. 32(2). 752-762. doi: 10.1038/s41591-025-04133-4.
+      PMID: 41495409.'
+  highlight: 0
+- title: '"Late-onset unexplained epilepsy as a risk factor for cognitive impairment
+    and dementia: Protocol for a multi-center prospective longitudinal observational
+    study (ELUCID)."'
+  image: ''
+  description: ''
+  authors: Lam AD, Johnson EL, Sarkis RA, Blank LJ, Gaston TE, Shafi MM, Zepeda R,
+    Pellerin KR, Jette N, Greve DN, Chibnik LB, Amariglio RE, Marshall GA, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41317246
+    display: 'Epilepsia open. 2026. 11(1). 363-375. doi: 10.1002/epi4.70184. PMID:
+      41317246.'
+  highlight: 0
+- title: '"Dementia Risk and Machine Learning-Derived Brain Age Index from Sleep Electroencephalography:
+    A Pooled Cohort Analysis of Over 7,000 Individuals Across Five Community Cohorts."'
+  image: ''
+  description: ''
+  authors: Sun H, Milton S, Fang Y, Taha HB, Shiju S, Thomas RJ, Ganglberger W, Pase
+    MP, Hughes T, Purcell S, Redline S, Stone KL, Yaffe K, Westover MB, Leng Y
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41040733
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.09.21.25336255.
+      PMID: 41040733.'
+  highlight: 0
+- title: '"A GPT-4o-powered framework for identifying cognitive impairment stages
+    in electronic health records."'
+  image: ''
+  description: ''
+  authors: Leng Y, He Y, Amini S, Magdamo C, Paschalidis I, Mukerji SS, Moura LMVR,
+    Westover MB, Vranceanu AM, Ritchie CS, Blacker D, Dickson JR, Das S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40610683
+    display: 'NPJ digital medicine. 2025. 8(1). 401. doi: 10.1038/s41746-025-01834-5.
+      PMID: 40610683.'
+  highlight: 0
+- title: '"Late-onset unexplained epilepsy as a risk factor for cognitive impairment
+    and dementia: Protocol for a multi-center prospective longitudinal observational
+    study (ELUCID)."'
+  image: ''
+  description: ''
+  authors: Lam AD, Johnson EL, Sarkis RA, Blank LJ, Gaston TE, Shafi MM, Zepeda R,
+    Pellerin KR, Jette N, Greve DN, Chibnik LB, Amariglio RE, Marshall GA, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40585165
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.06.16.25329698.
+      PMID: 40585165.'
+  highlight: 0
+- title: '"The role of sleep in Alzheimer''s disease: a mini review."'
+  image: ''
+  description: ''
+  authors: Pathmanathan J, Westover MB, Sivakumaran S, Donoghue J, Puryear CB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39975973
+    display: 'Frontiers in neuroscience. 2025. 19. 1428733. doi: 10.3389/fnins.2025.1428733.
+      PMID: 39975973.'
+  highlight: 0
+- title: '"A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep
+    Recordings for Disease Predictions."'
+  image: ''
+  description: ''
+  authors: Thapa R, Kjær MR, He B, Covert I, Moore H, Hanif U, Ganjoo G, Westover
+    MB, Jennum P, Brink-Kjær A, Mignot E, Zou J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39974074
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.04.25321675.
+      PMID: 39974074.'
+  highlight: 0
+- title: '"Sleep as a window to understand and regulate Alzheimer''s disease: emerging
+    roles of thalamic reticular nucleus."'
+  image: ''
+  description: ''
+  authors: Sun H, Shen S, Thomas RJ, Westover MB, Zhang C
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39104106
+    display: 'Neural regeneration research. 2025. 20(6). 1711-1712. doi: 10.4103/NRR.NRR-D-24-00351.
+      PMID: 39104106.'
+  highlight: 0
+- title: '"Epilepsy is associated with the accelerated aging of brain activity in
+    sleep."'
+  image: ''
+  description: ''
+  authors: Hadar PN, Westmeijer M, Sun H, Meulenbrugge EJ, Jing J, Paixao L, Tesh
+    RA, Da Silva Cardoso M, Arnal P, Au R, Shin C, Kim S, Thomas RJ, Cash SS, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39668843
+    display: 'Frontiers in physiology. 2024. 15. 1458592. doi: 10.3389/fphys.2024.1458592.
+      PMID: 39668843.'
+  highlight: 0
+- title: '"Corrigendum: The predictive validity of a Brain Care Score for late-life
+    depression and a composite outcome of dementia, stroke, and late-life depression:
+    data from the UK Biobank cohort."'
+  image: ''
+  description: ''
+  authors: Singh SD, Rivier CA, Papier K, Chemali Z, Gutierrez-Martinez L, Parodi
+    L, Mayerhofer E, Senff J, Clocchiatti-Tuozzo S, Nunley C, Newhouse A, Ouyang A,
+    Westover MB, Tanzi RE, Lazar RM, Pikula A, Ibrahim S, Brouwers HB, Howard VJ,
+    Howard G, Yechoor N, Littlejohns T, Sheth KN, Rosand J, Fricchione G, Anderson
+    CD, Falcone GJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39600788
+    display: 'Frontiers in psychiatry. 2024. 15. 1502482. doi: 10.3389/fpsyt.2024.1502482.
+      PMID: 39600788.'
+  highlight: 0
+- title: '"Automated Medical Records Review for Mild Cognitive Impairment and Dementia."'
+  image: ''
+  description: ''
+  authors: Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong WY, Xiong
+    Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior
+    VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM,
+    Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39315274
+    display: 'Research square. 2024. doi: 10.21203/rs.3.rs-5046441/v2. PMID: 39315274.'
+  highlight: 0
+- title: '"The predictive validity of a Brain Care Score for late-life depression
+    and a composite outcome of dementia, stroke, and late-life depression: data from
+    the UK Biobank cohort."'
+  image: ''
+  description: ''
+  authors: Singh SD, Rivier CA, Papier K, Chemali Z, Gutierrez-Martinez L, Parodi
+    L, Mayerhofer E, Senff J, Clocchiatti-Tuozzo S, Nunley C, Newhouse A, Ouyang A,
+    Westover MB, Tanzi RE, Lazar RM, Pikula A, Ibrahim S, Brouwers HB, Howard VJ,
+    Howard G, Yechoor N, Littlejohns T, Sheth KN, Rosand J, Fricchione G, Anderson
+    CD, Falcone GJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39109366
+    display: 'Frontiers in psychiatry. 2024. 15. 1373797. doi: 10.3389/fpsyt.2024.1373797.
+      PMID: 39109366.'
+  highlight: 0
+- title: '"Altered Motor Activity Patterns within 10-Minute Timescale Predict Incident
+    Clinical Alzheimer''s Disease."'
+  image: ''
+  description: ''
+  authors: Sun H, Li P, Gao L, Yang J, Yu L, Buchman AS, Bennett DA, Westover MB,
+    Hu K
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38393904
+    display: 'Journal of Alzheimer''s disease : JAD. 2024. 98(1). 209-220. doi: 10.3233/JAD-230928.
+      PMID: 38393904.'
+  highlight: 0
+- title: '"A Real-Time Neurophysiologic Stress Test for the Aging Brain: Novel Perioperative
+    and ICU Applications of EEG in Older Surgical Patients."'
+  image: ''
+  description: ''
+  authors: Berger M, Ryu D, Reese M, McGuigan S, Evered LA, Price CC, Scott DA, Westover
+    MB, Eckenhoff R, Bonanni L, Sweeney A, Babiloni C
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37436580
+    display: 'Neurotherapeutics : the journal of the American Society for Experimental
+      NeuroTherapeutics. 2023. 20(4). 975-1000. doi: 10.1007/s13311-023-01401-4. PMID:
+      37436580.'
+  highlight: 0
+- title: '"Estimating the number of cases of dementia that might be prevented by preventing
+    delirium."'
+  image: ''
+  description: ''
+  authors: Rathmell CS, Akeju O, Inouye SK, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37031027
+    display: 'British journal of anaesthesia. 2023. 130(6). e477-e478. doi: 10.1016/j.bja.2023.03.001.
+      PMID: 37031027.'
+  highlight: 0
+- title: '"Dementia detection from brain activity during sleep."'
+  image: ''
+  description: ''
+  authors: Ye EM, Sun H, Krishnamurthy PV, Adra N, Ganglberger W, Thomas RJ, Lam AD,
+    Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36448766
+    display: 'Sleep. 2023. 46(3). doi: 10.1093/sleep/zsac286. PMID: 36448766.'
+  highlight: 0
+- title: '"Development and Evaluation of a Natural Language Processing Annotation
+    Tool to Facilitate Phenotyping of Cognitive Status in Electronic Health Records:
+    Diagnostic Study."'
+  image: ''
+  description: ''
+  authors: Noori A, Magdamo C, Liu X, Tyagi T, Li Z, Kondepudi A, Alabsi H, Rudmann
+    E, Wilcox D, Brenner L, Robbins GK, Moura L, Zafar S, Benson NM, Hsu J, R Dickson
+    J, Serrano-Pozo A, Hyman BT, Blacker D, Westover MB, Mukerji SS, Das S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36040790
+    display: 'Journal of medical Internet research. 2022. 24(8). e40384. doi: 10.2196/40384.
+      PMID: 36040790.'
+  highlight: 0
+- title: '"Association of Sleep Electroencephalography-Based Brain Age Index With
+    Dementia."'
+  image: ''
+  description: ''
+  authors: Ye E, Sun H, Leone MJ, Paixao L, Thomas RJ, Lam AD, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32986106
+    display: 'JAMA network open. 2020. 3(9). e2017357. doi: 10.1001/jamanetworkopen.2020.17357.
+      PMID: 32986106.'
+  highlight: 0
+- title: '"Association of epileptiform abnormalities and seizures in Alzheimer disease."'
+  image: ''
+  description: ''
+  authors: Lam AD, Sarkis RA, Pellerin KR, Jing J, Dworetzky BA, Hoch DB, Jacobs CS,
+    Lee JW, Weisholtz DS, Zepeda R, Westover MB, Cole AJ, Cash SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32764101
+    display: 'Neurology. 2020. 95(16). e2259-e2270. doi: 10.1212/WNL.0000000000010612.
+      PMID: 32764101.'
+  highlight: 0
+- title: '"Causal inference as an emerging statistical approach in neurology: an example
+    for epilepsy in the elderly."'
+  image: ''
+  description: ''
+  authors: Moura LM, Westover MB, Kwasnik D, Cole AJ, Hsu J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28115873
+    display: 'Clinical epidemiology. 2017. 9. 9-18. doi: 10.2147/CLEP.S121023. PMID:
+      28115873.'
+  highlight: 0
 - title: '"Machine Learning-Based Sleep Electroencephalographic Brain Age Index and
     Dementia Risk: An Individual Participant Data Meta-Analysis."'
   image: ''

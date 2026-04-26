@@ -5,6 +5,433 @@
     AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna
     MA, Westover MB, Clifford GD
   link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41741499
+    display: 'Scientific data. 2026. 13(1). doi: 10.1038/s41597-026-06861-9. PMID:
+      41741499.'
+  highlight: 0
+- title: '"Linking sleep microstructure, blood markers of inflammation and metabolism,
+    and cognition: mediation analysis in the osteoporotic fractures in men study."'
+  image: ''
+  description: ''
+  authors: Suen C, Ma J, Lin X, Thomas RJ, Westover MB, Stone K, Yaffe K, Ensrud KE,
+    Redline S, Tanzi RE, Sun H, Zhang C
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40515807
+    display: 'GeroScience. 2026. 48(1). 1277-1289. doi: 10.1007/s11357-025-01730-6.
+      PMID: 40515807.'
+  highlight: 0
+- title: '"From Clinical Narrative to Diagnosis: Scalable Identification of Acquired
+    Epilepsy."'
+  image: ''
+  description: ''
+  authors: Wheelock JR, Fernandes MB, Chen Y, Ayvaz BB, Jin DS, Zubair A, Wan M, Appleton
+    J, Zafar SF, Struck AF, Hirsch LJ, Sivaraju A, Gilmore EJ, Westover MB, Kim JA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41282888
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.11.04.25339484.
+      PMID: 41282888.'
+  highlight: 0
+- title: '"The Brain Imaging and Neurophysiology Database: BINDing multimodal neural
+    data into a large-scale repository."'
+  image: ''
+  description: ''
+  authors: Maschke C, Hadar P, Zhang Y, Li J, Ganjoo G, Hoopes A, Guazzo A, Gupta
+    A, Ghanta M, Nearing B, Silvers CT, Gunapati B, Thomas R, Kim JA, Mukerji SS,
+    Dalca A, Zafar S, Lam AD, Mignot E, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41256149
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.10.01.25337054.
+      PMID: 41256149.'
+  highlight: 0
+- title: '"Claims-Based Machine Learning Classifier of Modified Rankin Scale in Acute
+    Ischemic Stroke."'
+  image: ''
+  description: ''
+  authors: Habib M, Cazé de Medeiros R, Ahsan SM, McDonald Wojciechowski A, Donahue
+    MA, Blacker D, Newhouse JP, Schwamm LH, Westover MB, Moura LMVR
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41085187
+    display: 'Journal of the American Heart Association. 2025. 14(20). e041635. doi:
+      10.1161/JAHA.125.041635. PMID: 41085187.'
+  highlight: 0
+- title: '"Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales."'
+  image: ''
+  description: ''
+  authors: Li J, Goldenholz DM, Alkofer M, Sun C, Nascimento FA, Halford JJ, Dean
+    BC, Galanti M, Struck AF, Greenblatt AS, Lam AD, Herlopian A, Nwankwo C, Weber
+    D, Maus D, Haider HA, Karakis I, Yoo JY, Ng MC, Selioutski O, Taraschenko O, Osman
+    G, Katyal R, Schmitt SE, Benbadis S, Cash SS, Tatum WO, Sheikh Z, Kong WY, Bayas
+    G, Turley N, Hong S, Westover MB, Jing J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40689158
+    display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401221. PMID: 40689158.'
+  highlight: 0
+- title: '"Harvard Electroencephalography Database: A comprehensive clinical electroencephalographic
+    resource from four Boston hospitals."'
+  image: ''
+  description: ''
+  authors: Sun C, Jing J, Turley N, Alcott C, Kang WY, Cole AJ, Goldenholz DM, Lam
+    A, Amorim E, Chu C, Cash S, Junior VM, Gupta A, Ghanta M, Nearing B, Nascimento
+    FA, Struck A, Kim J, Sartipi S, Tauton AM, Fernandes M, Sun H, Bayas G, Gallagher
+    K, Wagenaar JB, Sinha N, Lee-Messer C, Silvers CT, Gunapati B, Rosand J, Peters
+    J, Loddenkemper T, Lee JW, Zafar S, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40464151
+    display: 'Epilepsia. 2025. 66(9). 3411-3425. doi: 10.1111/epi.18487. PMID: 40464151.'
+  highlight: 0
+- title: '"Facility-measured nocturnal hypoxemia and sleep among adults with long
+    COVID versus age- and sex-matched healthy adults: a preliminary observational
+    study."'
+  image: ''
+  description: ''
+  authors: Sun H, Dang R, Haack M, Hauser K, Scott-Sutherland J, Westover MB, Parthasarathy
+    S, Redline S, Thomas RJ, Mullington JM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40365527
+    display: 'Sleep advances : a journal of the Sleep Research Society. 2025. 6(2).
+      zpaf017. doi: 10.1093/sleepadvances/zpaf017. PMID: 40365527.'
+  highlight: 0
+- title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
+    channels."'
+  image: ''
+  description: ''
+  authors: Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand
+    MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E,
+    Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
+    D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40317534
+    display: 'Epilepsia. 2025. 66(7). e114-20. doi: 10.1111/epi.18431. PMID: 40317534.'
+  highlight: 0
+- title: '"Continuous sleep depth index annotation with deep learning yields novel
+    digital biomarkers for sleep health."'
+  image: ''
+  description: ''
+  authors: Zhou S, Song G, Sun H, Zhang D, Leng Y, Westover MB, Hong S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40216900
+    display: 'NPJ digital medicine. 2025. 8(1). 203. doi: 10.1038/s41746-025-01607-0.
+      PMID: 40216900.'
+  highlight: 0
+- title: '"Utility of the IFCN criteria for identifying interictal epileptiform discharges
+    by experts: A decision hygiene approach to improve inter-rater reliability."'
+  image: ''
+  description: ''
+  authors: Yuan D, Katyal R, Sheikh I, Karakis I, Benbadis S, Amin U, Vinayan KP,
+    Barot N, Weber D, Greenblatt A, Beniczky S, Westover MB, Nascimento FA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40117757
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2025. 173. 138-146. doi: 10.1016/j.clinph.2025.02.275.
+      PMID: 40117757.'
+  highlight: 0
+- title: '"A Claims-Based Machine Learning Classifier of Modified Rankin Scale in
+    Acute Ischemic Stroke."'
+  image: ''
+  description: ''
+  authors: Habib M, de Medeiros RC, Ahsan SM, Wojciechowski AM, Donahue MA, Blacker
+    D, Newhouse JP, Schwamm LH, Westover MB, Moura LM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39990546
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.06.25321827.
+      PMID: 39990546.'
+  highlight: 0
+- title: '"Automated extraction of post-stroke functional outcomes from unstructured
+    electronic health records."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Gallagher K, Turley N, Gupta A, Westover MB, Singhal AB, Zafar
+    SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39838914
+    display: 'European stroke journal. 2025. 10(3). 829-836. doi: 10.1177/23969873251314340.
+      PMID: 39838914.'
+  highlight: 0
+- title: '"Effects of Aerobic Exercise on Brain Age and Health in Middle-Aged and
+    Older Adults: A Single-Arm Pilot Clinical Trial."'
+  image: ''
+  description: ''
+  authors: Ouyang A, Zhang C, Adra N, Tesh RA, Sun H, Lei D, Jing J, Fan P, Paixao
+    L, Ganglberger W, Briggs L, Salinas J, Bevers MB, Wrann CD, Chemali Z, Fricchione
+    G, Thomas RJ, Rosand J, Tanzi RE, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39063609
+    display: 'Life (Basel, Switzerland). 2024. 14(7). doi: 10.3390/life14070855. PMID:
+      39063609.'
+  highlight: 0
+- title: '"A randomized controlled educational pilot trial of interictal epileptiform
+    discharge identification for neurology residents."'
+  image: ''
+  description: ''
+  authors: Nascimento FA, Jing J, Traner C, Kong WY, Olandoski M, Kapur S, Duhaime
+    E, Strowd R, Moeller J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38669007
+    display: 'Epileptic disorders : international epilepsy journal with videotape.
+      2024. 26(4). 444-459. doi: 10.1002/epd2.20229. PMID: 38669007.'
+  highlight: 0
+- title: '"Development of Expert-Level Classification of Seizures and Rhythmic and
+    Periodic Patterns During EEG Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Ge W, Hong S, Fernandes MB, Lin Z, Yang C, An S, Struck AF, Herlopian
+    A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan
+    PW, Dhakar MB, Arcot Jayagopal L, Sheikh Z, Taraschenko O, Schmitt S, Haider HA,
+    Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh
+    M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan
+    J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal
+    ES, Zafar SF, Sun J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36878708
+    display: 'Neurology. 2023. 100(17). e1750-e1762. doi: 10.1212/WNL.0000000000207127.
+      PMID: 36878708.'
+  highlight: 0
+- title: '"Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated
+    patients after cardiac surgery (MINDDS): A single-centre, parallel-arm, randomised,
+    placebo-controlled superiority trial."'
+  image: ''
+  description: ''
+  authors: Qu JZ, Mueller A, McKay TB, Westover MB, Shelton KT, Shaefi S, D'Alessandro
+    DA, Berra L, Brown EN, Houle TT, Akeju O
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36590787
+    display: 'EClinicalMedicine. 2023. 56. 101796. doi: 10.1016/j.eclinm.2022.101796.
+      PMID: 36590787.'
+  highlight: 0
+- title: '"EEG-based grading of immune effector cell-associated neurotoxicity syndrome."'
+  image: ''
+  description: ''
+  authors: Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van
+    Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C,
+    Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36414694
+    display: 'Scientific reports. 2022. 12(1). 20011. doi: 10.1038/s41598-022-24010-1.
+      PMID: 36414694.'
+  highlight: 0
+- title: '"Journal Club: Criteria for Defining Interictal Epileptiform Discharges
+    in EEG."'
+  image: ''
+  description: ''
+  authors: McLaren JR, Jing J, Westover MB, Nascimento FA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35853743
+    display: 'Neurology. 2022. 99(10). 430-432. doi: 10.1212/WNL.0000000000200991.
+      PMID: 35853743.'
+  highlight: 0
+- title: '"Noninvasive Detection of Hippocampal Epileptiform Activity on Scalp Electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Jacobs CS, Sarkis RA, Jing J, Pellerin KR, Cole AJ, Cash
+    SS, Westover MB, Lam AD
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35499837
+    display: 'JAMA neurology. 2022. 79(6). 614-622. doi: 10.1001/jamaneurol.2022.0888.
+      PMID: 35499837.'
+  highlight: 0
+- title: '"How Machine Learning is Powering Neuroimaging to Improve Brain Health."'
+  image: ''
+  description: ''
+  authors: Singh NM, Harrod JB, Subramanian S, Robinson M, Chang K, Cetin-Karayumak
+    S, Dalca AV, Eickhoff S, Fox M, Franke L, Golland P, Haehn D, Iglesias JE, O'Donnell
+    LJ, Ou Y, Rathi Y, Siddiqi SH, Sun H, Westover MB, Whitfield-Gabrieli S, Gollub
+    RL
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35347570
+    display: 'Neuroinformatics. 2022. 20(4). 943-964. doi: 10.1007/s12021-022-09572-9.
+      PMID: 35347570.'
+  highlight: 0
+- title: '"Accurate identification of EEG recordings with interictal epileptiform
+    discharges using a hybrid approach: Artificial intelligence supervised by human
+    experts."'
+  image: ''
+  description: ''
+  authors: Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, Westover
+    MB, Beniczky S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35184276
+    display: 'Epilepsia. 2022. 63(5). 1064-1073. doi: 10.1111/epi.17206. PMID: 35184276.'
+  highlight: 0
+- title: '"A model of metabolic supply-demand mismatch leading to secondary brain
+    injury."'
+  image: ''
+  description: ''
+  authors: Song JL, Kim JA, Struck AF, Zhang R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34232754
+    display: 'Journal of neurophysiology. 2021. 126(2). 653-667. doi: 10.1152/jn.00674.2020.
+      PMID: 34232754.'
+  highlight: 0
+- title: '"Susceptibility-weighted imaging reveals cerebral microvascular injury in
+    severe COVID-19."'
+  image: ''
+  description: ''
+  authors: Conklin J, Frosch MP, Mukerji SS, Rapalino O, Maher MD, Schaefer PW, Lev
+    MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin
+    E, Shaw B, Lemieux JE, Sabeti PC, Branda JA, Brown EN, Westover MB, Huang SY,
+    Edlow BL
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33497950
+    display: 'Journal of the neurological sciences. 2021. 421. 117308. doi: 10.1016/j.jns.2021.117308.
+      PMID: 33497950.'
+  highlight: 0
+- title: '"Focal Sleep Spindle Deficits Reveal Focal Thalamocortical Dysfunction and
+    Predict Cognitive Deficits in Sleep Activated Developmental Epilepsy."'
+  image: ''
+  description: ''
+  authors: Kramer MA, Stoyell SM, Chinappen D, Ostrowski LM, Spencer ER, Morgan AK,
+    Emerton BC, Jing J, Westover MB, Eden UT, Stickgold R, Manoach DS, Chu CJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33468567
+    display: 'The Journal of neuroscience : the official journal of the Society for
+      Neuroscience. 2021. 41(8). 1816-1829. doi: 10.1523/JNEUROSCI.2009-20.2020. PMID:
+      33468567.'
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients with Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32699855
+    display: 'medRxiv : the preprint server for health sciences. 2020. doi: 10.1101/2020.07.13.20152207.
+      PMID: 32699855.'
+  highlight: 0
+- title: '"Expert-level automated sleep staging of long-term scalp electroencephalography
+    recordings using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, Westover
+    MB, Lam AD
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32478820
+    display: 'Sleep. 2020. 43(11). doi: 10.1093/sleep/zsaa112. PMID: 32478820.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32268366
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Development of Expert-Level Automated Detection of Epileptiform Discharges
+    During Electroencephalogram Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D,
+    Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J,
+    Lam A, Cole AJ, Cash SS, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31633740
+    display: 'JAMA neurology. 2020. 77(1). 103-108. doi: 10.1001/jamaneurol.2019.3485.
+      PMID: 31633740.'
+  highlight: 0
+- title: '"ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit."'
+  image: ''
+  description: ''
+  authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28210934
+    display: 'Journal of clinical monitoring and computing. 2018. 32(1). 53-61. doi:
+      10.1007/s10877-017-9999-9. PMID: 28210934.'
+  highlight: 0
+- title: '"Large-Scale Automated Sleep Staging."'
+  image: ''
+  description: ''
+  authors: Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/29029305
+    display: 'Sleep. 2017. 40(10). doi: 10.1093/sleep/zsx139. PMID: 29029305.'
+  highlight: 0
+- title: '"Alternative remedies for insomnia: a proposed method for personalized therapeutic
+    trials."'
+  image: ''
+  description: ''
+  authors: Romero K, Goparaju B, Russo K, Westover MB, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28360539
+    display: 'Nature and science of sleep. 2017. 9. 97-108. doi: 10.2147/NSS.S128095.
+      PMID: 28360539.'
+  highlight: 0
+- title: '"Recording, analysis, and interpretation of spreading depolarizations in
+    neurointensive care: Review and recommendations of the COSBID research group."'
+  image: ''
+  description: ''
+  authors: Dreier JP, Fabricius M, Ayata C, Sakowitz OW, Shuttleworth CW, Dohmen C,
+    Graf R, Vajkoczy P, Helbok R, Suzuki M, Schiefecker AJ, Major S, Winkler MK, Kang
+    EJ, Milakara D, Oliveira-Ferreira AI, Reiffurth C, Revankar GS, Sugimoto K, Dengler
+    NF, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg CK, Piilgaard H, Rosenthal
+    ES, Westover MB, Maslarova A, Santos E, Hertle D, Sánchez-Porras R, Jewell SL,
+    Balança B, Platz J, Hinzman JM, Lückl J, Schoknecht K, Schöll M, Drenckhahn C,
+    Feuerstein D, Eriksen N, Horst V, Bretz JS, Jahnke P, Scheel M, Bohner G, Rostrup
+    E, Pakkenberg B, Heinemann U, Claassen J, Carlson AP, Kowoll CM, Lublinsky S,
+    Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov SA, Andrew RD, Farkas
+    E, Güresir E, Vatter H, Chung LS, Brennan KC, Lieutaud T, Marinesco S, Maas AI,
+    Sahuquillo J, Dahlem MA, Richter F, Herreras O, Boutelle MG, Okonkwo DO, Bullock
+    MR, Witte OW, Martus P, van den Maagdenberg AM, Ferrari MD, Dijkhuizen RM, Shutter
+    LA, Andaluz N, Schulte AP, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong
+    AJ, Hartings JA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27317657
+    display: 'Journal of cerebral blood flow and metabolism : official journal of
+      the International Society of Cerebral Blood Flow and Metabolism. 2017. 37(5).
+      1595-1625. doi: 10.1177/0271678X16654496. PMID: 27317657.'
+  highlight: 0
+- title: '"Automation of Classical QEEG Trending Methods for Early Detection of Delayed
+    Cerebral Ischemia: More Work to Do."'
+  image: ''
+  description: ''
+  authors: Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor
+    K, Rosenthal ES, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27258446
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2016. 33(3). 227-34. doi: 10.1097/WNP.0000000000000278.
+      PMID: 27258446.'
+  highlight: 0
+- title: '"Stimulus information stored in lasting active and hidden network states
+    is destroyed by network bursts."'
+  image: ''
+  description: ''
+  authors: Dranias MR, Westover MB, Cash S, VanDongen AM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25755638
+    display: 'Frontiers in integrative neuroscience. 2015. 9. 14. doi: 10.3389/fnint.2015.00014.
+      PMID: 25755638.'
+  highlight: 0
+- title: '"Automated sleep apnea quantification based on respiratory movement."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Lipoma T, Darling C, Alameddine Y, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24936142
+    display: 'International journal of medical sciences. 2014. 11(8). 796-802. doi:
+      10.7150/ijms.9303. PMID: 24936142.'
+  highlight: 0
+- title: '"Inferring seizure frequency from brief EEG recordings."'
+  image: ''
+  description: ''
+  authors: Westover MB, Bianchi MT, Shafi M, Hoch DB, Cole AJ, Chiappa K, Cash SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/23545768
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2013. 30(2). 174-7. doi: 10.1097/WNP.0b013e3182767c35.
+      PMID: 23545768.'
+  highlight: 0
+- title: '"The Harvard-Emory ECG Database."'
+  image: ''
+  description: ''
+  authors: Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre
+    AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna
+    MA, Westover MB, Clifford GD
+  link:
     url: /downloads/2026_Koscova_SciData_41741499.pdf
     display: 'Scientific data. 2026. doi: 10.1038/s41597-026-06861-9. PMID: 41741499.'
   highlight: 0
