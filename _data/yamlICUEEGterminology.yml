@@ -4,7 +4,7 @@
   description: ''
   authors: Amerineni R, Sun H, Lee H, Hsu J, Patorno E, Westover MB, Zafar SF
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34802196
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Amerineni_AnnClinTranslNeurol_34802196.pdf
     display: 'Annals of clinical and translational neurology. 2021. 8(12). 2270-2279.
       doi: 10.1002/acn3.51478. PMID: 34802196.'
   highlight: 0
@@ -18,7 +18,7 @@
     J, Husain AM, Yoo JY, So EL, Kaplan PW, Nuwer MR, van Putten M, Sutter R, Drislane
     FW, Trinka E, Gaspard N
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/33475321
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Hirsch_JClinNeurophysiol_33475321.pdf
     display: 'Journal of clinical neurophysiology : official publication of the American
       Electroencephalographic Society. 2021. 38(1). 1-29. doi: 10.1097/WNP.0000000000000806.
       PMID: 33475321.'
@@ -32,7 +32,7 @@
     KE, Ritzl EK, Westover MB, Gavvala JR, Gerard EE, Schmitt SE, Szaflarski JP, Ding
     K, Haas KF, Buchsbaum R, Hirsch LJ, Wusthoff CJ, Hopp JL, Hahn CD
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/26943901
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Lee_JClinNeurophysiol_26943901.pdf
     display: 'Journal of clinical neurophysiology : official publication of the American
       Electroencephalographic Society. 2016. 33(2). 133-40. doi: 10.1097/WNP.0000000000000230.
       PMID: 26943901.'
@@ -43,7 +43,7 @@
   authors: Ng MC, Gaspard N, Cole AJ, Hoch DB, Cash SS, Bianchi M, O'Rourke DA, Rosenthal
     ES, Chu CJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/25457454
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Ng_Seizure_25457454.pdf
     display: 'Seizure. 2015. 24. 52-8. doi: 10.1016/j.seizure.2014.09.017. PMID: 25457454.'
   highlight: 0
 - title: '"Interrater agreement for Critical Care EEG Terminology."'
@@ -51,7 +51,7 @@
   description: ''
   authors: Gaspard N, Hirsch LJ, LaRoche SM, Hahn CD, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/24888711
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Gaspard_Epilepsia_24888711.pdf
     display: 'Epilepsia. 2014. 55(9). 1366-73. doi: 10.1111/epi.12653. PMID: 24888711.'
   highlight: 0
 - title: '"Information theoretic quantification of diagnostic uncertainty."'
@@ -59,7 +59,7 @@
   description: ''
   authors: Westover MB, Eiseman NA, Cash SS, Bianchi MT
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/23304251
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Westover_OpenMedInformJ_23304251.pdf
     display: 'The open medical informatics journal. 2012. 6. 36-50. doi: 10.2174/1874431101206010036.
       PMID: 23304251.'
   highlight: 0

@@ -4,7 +4,7 @@
   description: ''
   authors: Zafar SF, Park H, Letourneau AR, Rock AE, Westover MB, Mukerji SS
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/41670408
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Zafar_CritCareExplor_41670408.pdf
     display: 'Critical care explorations. 2026. 8(2). e1380. doi: 10.1097/CCE.0000000000001380.
       PMID: 41670408.'
   highlight: 0
@@ -16,7 +16,7 @@
   authors: Huang GB, Westover MB, Tan EK, Wang H, Cui D, Ma WY, Wang T, He Q, Wei
     H, Wang N, Tian Q, Lam KY, Yao X, Wong TY
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/41312528
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Huang_NeurocomputingAmst_41312528.pdf
     display: 'Neurocomputing. 2025. 619. doi: 10.1016/j.neucom.2024.129053. PMID:
       41312528.'
   highlight: 0
@@ -28,7 +28,7 @@
     A, Ghanta M, Nearing B, Silvers CT, Gunapati B, Thomas R, Kim JA, Mukerji SS,
     Dalca A, Zafar S, Lam AD, Mignot E, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/41256149
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Maschke_medRxiv_41256149.pdf
     display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.10.01.25337054.
       PMID: 41256149.'
   highlight: 0
@@ -39,7 +39,7 @@
   authors: Habib M, Cazé de Medeiros R, Ahsan SM, McDonald Wojciechowski A, Donahue
     MA, Blacker D, Newhouse JP, Schwamm LH, Westover MB, Moura LMVR
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/41085187
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Habib_JAmHeartAssoc_41085187.pdf
     display: 'Journal of the American Heart Association. 2025. 14(20). e041635. doi:
       10.1161/JAHA.125.041635. PMID: 41085187.'
   highlight: 0
@@ -50,7 +50,7 @@
   authors: Sun H, Milton S, Fang Y, Taha HB, Shiju S, Thomas RJ, Ganglberger W, Pase
     MP, Hughes T, Purcell S, Redline S, Stone KL, Yaffe K, Westover MB, Leng Y
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/41040733
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_medRxiv_41040733.pdf
     display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.09.21.25336255.
       PMID: 41040733.'
   highlight: 0
@@ -61,7 +61,7 @@
   authors: Singh A, Sartipi S, Sun H, Milde R, Turley N, Quinn C, Harrold GK, Gillani
     RL, Turbett SE, Das S, Zafar S, Fernandes M, Westover MB, Mukerji SS
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40882236
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Singh_JMIRMedInform_40882236.pdf
     display: 'JMIR medical informatics. 2025. 13. e63157. doi: 10.2196/63157. PMID:
       40882236.'
   highlight: 0
@@ -73,7 +73,7 @@
     KL, Mignot E, Hwang D, Trotti LM, Reyna MA, Clifford GD, Katwa U, Thomas RJ, Westover
     MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40790924
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_JClinSleepMed_40790924.pdf
     display: 'Journal of clinical sleep medicine : JCSM : official publication of
       the American Academy of Sleep Medicine. 2025. 21(11). 1821-1829. doi: 10.5664/jcsm.11848.
       PMID: 40790924.'
@@ -84,7 +84,7 @@
   authors: Li J, Aguirre AD, Moura V, Jin J, Liu C, Zhong L, Sun C, Clifford G, Westover
     MB, Hong S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40771651
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Li_NEJMAI_40771651.pdf
     display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401033. PMID: 40771651.'
   highlight: 0
 - title: '"Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales."'
@@ -96,7 +96,7 @@
     G, Katyal R, Schmitt SE, Benbadis S, Cash SS, Tatum WO, Sheikh Z, Kong WY, Bayas
     G, Turley N, Hong S, Westover MB, Jing J
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40689158
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Li_NEJMAI_40689158.pdf
     display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401221. PMID: 40689158.'
   highlight: 0
 - title: '"CAISR: achieving human-level performance in automated sleep analysis across
@@ -107,7 +107,7 @@
     M, Gupta A, Stone KL, Kjaer MR, Sum-Ping O, Mignot E, Hwang D, Trotti LM, Clifford
     GD, Katwa U, Sun H, Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40554678
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Nasiri_Sleep_40554678.pdf
     display: 'Sleep. 2025. 48(8). doi: 10.1093/sleep/zsaf134. PMID: 40554678.'
   highlight: 0
 - title: '"Harvard Electroencephalography Database: A comprehensive clinical electroencephalographic
@@ -120,7 +120,7 @@
     K, Wagenaar JB, Sinha N, Lee-Messer C, Silvers CT, Gunapati B, Rosand J, Peters
     J, Loddenkemper T, Lee JW, Zafar S, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40464151
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_Epilepsia_40464151.pdf
     display: 'Epilepsia. 2025. 66(9). 3411-3425. doi: 10.1111/epi.18487. PMID: 40464151.'
   highlight: 0
 - title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
@@ -132,7 +132,7 @@
     Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
     D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40317534
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Alkofer_Epilepsia_40317534.pdf
     display: 'Epilepsia. 2025. 66(7). e114-20. doi: 10.1111/epi.18431. PMID: 40317534.'
   highlight: 0
 - title: '"Continuous sleep depth index annotation with deep learning yields novel
@@ -141,7 +141,7 @@
   description: ''
   authors: Zhou S, Song G, Sun H, Zhang D, Leng Y, Westover MB, Hong S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40216900
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Zhou_NPJDigitMed_40216900.pdf
     display: 'NPJ digital medicine. 2025. 8(1). 203. doi: 10.1038/s41746-025-01607-0.
       PMID: 40216900.'
   highlight: 0
@@ -150,7 +150,7 @@
   description: ''
   authors: McLaren JR, Yuan D, Beniczky S, Westover MB, Nascimento FA
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40035709
+    url: https://bdsp-core.github.io/cdac-downloads/2025_McLaren_Epilepsia_40035709.pdf
     display: 'Epilepsia. 2025. 66(6). 1838-1842. doi: 10.1111/epi.18326. PMID: 40035709.'
   highlight: 0
 - title: '"Inductive reasoning with large language models: A simulated randomized
@@ -159,7 +159,7 @@
   description: ''
   authors: Goldenholz DM, Goldenholz SR, Habib S, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40020525
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Goldenholz_EpilepsyRes_40020525.pdf
     display: 'Epilepsy research. 2025. 211. 107532. doi: 10.1016/j.eplepsyres.2025.107532.
       PMID: 40020525.'
   highlight: 0
@@ -170,7 +170,7 @@
   authors: Habib M, de Medeiros RC, Ahsan SM, Wojciechowski AM, Donahue MA, Blacker
     D, Newhouse JP, Schwamm LH, Westover MB, Moura LM
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39990546
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Habib_medRxiv_39990546.pdf
     display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.06.25321827.
       PMID: 39990546.'
   highlight: 0
@@ -183,7 +183,7 @@
     K, Mazzotti DR, Lee S, Katabi D, Kiss O, Spira AP, Morris J, Seixas A, Kioumourtzoglou
     MA, Bridges JFP, Brown M, Hale L, Purcell S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39945146
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Baizer_Sleep_39945146.pdf
     display: 'Sleep. 2025. 48(6). doi: 10.1093/sleep/zsaf035. PMID: 39945146.'
   highlight: 0
 - title: '"Epilepsy is associated with the accelerated aging of brain activity in
@@ -194,7 +194,7 @@
     RA, Da Silva Cardoso M, Arnal P, Au R, Shin C, Kim S, Thomas RJ, Cash SS, Westover
     MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39668843
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Hadar_FrontPhysiol_39668843.pdf
     display: 'Frontiers in physiology. 2024. 15. 1458592. doi: 10.3389/fphys.2024.1458592.
       PMID: 39668843.'
   highlight: 0
@@ -206,7 +206,7 @@
     L, Ganglberger W, Briggs L, Salinas J, Bevers MB, Wrann CD, Chemali Z, Fricchione
     G, Thomas RJ, Rosand J, Tanzi RE, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39063609
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Ouyang_LifeBasel_39063609.pdf
     display: 'Life (Basel, Switzerland). 2024. 14(7). doi: 10.3390/life14070855. PMID:
       39063609.'
   highlight: 0
@@ -216,7 +216,7 @@
   description: ''
   authors: Goldenholz DM, Goldenholz SR, Habib S, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/38562831
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_medRxiv_38562831.pdf
     display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.03.18.24304493.
       PMID: 38562831.'
   highlight: 0
@@ -227,7 +227,7 @@
   authors: Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, Westover MB, Xu H, Kong
     XJ
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/38332856
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Ke_FrontNeurosci_38332856.pdf
     display: 'Frontiers in neuroscience. 2024. 18. 1330556. doi: 10.3389/fnins.2024.1330556.
       PMID: 38332856.'
   highlight: 0
@@ -236,7 +236,7 @@
   description: ''
   authors: Goldenholz DM, Eccleston C, Moss R, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/38260666
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_medRxiv_38260666.pdf
     display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.01.11.24301175.
       PMID: 38260666.'
   highlight: 0
@@ -246,7 +246,7 @@
   description: ''
   authors: Yang C, Xiao C, Westover MB, Sun J
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/38090533
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Yang_JMIRAI_38090533.pdf
     display: 'JMIR AI. 2023. 2(1). e46769. doi: 10.2196/46769. PMID: 38090533.'
   highlight: 0
 - title: '"Decoding information about cognitive health from the brainwaves of sleep."'
@@ -256,7 +256,7 @@
     M, Da Silva Cardoso M, Kumar A, Ye E, Henry J, Cash SS, Kitchener E, Leveroni
     CL, Au R, Rosand J, Salinas J, Lam AD, Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/37454163
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Adra_SciRep_37454163.pdf
     display: 'Scientific reports. 2023. 13(1). 11448. doi: 10.1038/s41598-023-37128-7.
       PMID: 37454163.'
   highlight: 0
@@ -265,7 +265,7 @@
   description: ''
   authors: Goldenholz DM, Sun H, Ganglberger W, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36979665
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Goldenholz_Biomedicines_36979665.pdf
     display: 'Biomedicines. 2023. 11(3). doi: 10.3390/biomedicines11030685. PMID:
       36979665.'
   highlight: 0
@@ -278,7 +278,7 @@
     J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
     Kuller D, Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36926545
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Ganglberger_FrontNetwPhysiol_36926545.pdf
     display: 'Frontiers in network physiology. 2023. 3. 1120390. doi: 10.3389/fnetp.2023.1120390.
       PMID: 36926545.'
   highlight: 0
@@ -289,7 +289,7 @@
     Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C,
     Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36414694
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Jones_SciRep_36414694.pdf
     display: 'Scientific reports. 2022. 12(1). 20011. doi: 10.1038/s41598-022-24010-1.
       PMID: 36414694.'
   highlight: 0
@@ -299,7 +299,7 @@
   authors: Brink-Kjaer A, Leary EB, Sun H, Westover MB, Stone KL, Peppard PE, Lane
     NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35869169
+    url: https://bdsp-core.github.io/cdac-downloads/2022_BrinkKjaer_NPJDigitMed_35869169.pdf
     display: 'NPJ digital medicine. 2022. 5(1). 103. doi: 10.1038/s41746-022-00630-9.
       PMID: 35869169.'
   highlight: 0
@@ -311,7 +311,7 @@
     LJ, Ou Y, Rathi Y, Siddiqi SH, Sun H, Westover MB, Whitfield-Gabrieli S, Gollub
     RL
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35347570
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Singh_Neuroinformatics_35347570.pdf
     display: 'Neuroinformatics. 2022. 20(4). 943-964. doi: 10.1007/s12021-022-09572-9.
       PMID: 35347570.'
   highlight: 0
@@ -323,7 +323,7 @@
   authors: Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, Westover
     MB, Beniczky S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/35184276
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Kural_Epilepsia_35184276.pdf
     display: 'Epilepsia. 2022. 63(5). 1064-1073. doi: 10.1111/epi.17206. PMID: 35184276.'
   highlight: 0
 - title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
@@ -333,7 +333,7 @@
   authors: Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM,
     Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34928786
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Nassi_IEEETransBiomedEng_34928786.pdf
     display: 'IEEE transactions on bio-medical engineering. 2022. 69(6). 2094-2104.
       doi: 10.1109/TBME.2021.3136753. PMID: 34928786.'
   highlight: 0
@@ -343,7 +343,7 @@
   authors: Leone MJ, Sun H, Boutros CL, Liu L, Ye E, Sullivan L, Thomas RJ, Robbins
     GK, Mukerji SS, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/33783511
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Leone_Sleep_33783511.pdf
     display: 'Sleep. 2021. 44(8). doi: 10.1093/sleep/zsab058. PMID: 33783511.'
   highlight: 0
 - title: '"Development and Prospective Validation of a Deep Learning Algorithm for
@@ -353,7 +353,7 @@
   authors: Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North
     CM, Mukerji SS, Robbins GK, Shao YP, Westover MB, Nemati S, Malhotra A
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/33345948
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Shashikumar_Chest_33345948.pdf
     display: 'Chest. 2021. 159(6). 2264-2273. doi: 10.1016/j.chest.2020.12.009. PMID:
       33345948.'
   highlight: 0
@@ -364,7 +364,7 @@
   authors: Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, Westover
     MB, Lam AD
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32478820
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Abou_Sleep_32478820.pdf
     display: 'Sleep. 2020. 43(11). doi: 10.1093/sleep/zsaa112. PMID: 32478820.'
   highlight: 0
 - title: '"Artificial intelligence in sleep medicine: background and implications
@@ -374,7 +374,7 @@
   authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
     MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32065113
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Goldstein_JClinSleepMed_32065113.pdf
     display: 'Journal of clinical sleep medicine : JCSM : official publication of
       the American Academy of Sleep Medicine. 2020. 16(4). 609-618. doi: 10.5664/jcsm.8388.
       PMID: 32065113.'
@@ -387,7 +387,7 @@
     MB, Abbasi-Feinberg F, Aurora RN, Carden KA, Kirsch DB, Malhotra RK, Martin JL,
     Olson EJ, Ramar K, Rosen CL, Rowley JA, Shelgikar AV
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32022674
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Goldstein_JClinSleepMed_32022674.pdf
     display: 'Journal of clinical sleep medicine : JCSM : official publication of
       the American Academy of Sleep Medicine. 2020. 16(4). 605-607. doi: 10.5664/jcsm.8288.
       PMID: 32022674.'
@@ -398,7 +398,7 @@
   authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
     Tesh RA, Akeju O, Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/31863111
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Sun_Sleep_31863111.pdf
     display: 'Sleep. 2020. 43(7). doi: 10.1093/sleep/zsz306. PMID: 31863111.'
   highlight: 0
 - title: '"Automated tracking of level of consciousness and delirium in critical illness
@@ -408,7 +408,7 @@
   authors: Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng
     WL, Ge W, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/31508499
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Sun_NPJDigitMed_31508499.pdf
     display: 'NPJ digital medicine. 2019. 2. 89. doi: 10.1038/s41746-019-0167-0. PMID:
       31508499.'
   highlight: 0
@@ -419,7 +419,7 @@
   authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
     Scirica BM, Lee JW, Cash SS, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/31419742
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Amorim_ClinNeurophysiol_31419742.pdf
     display: 'Clinical neurophysiology : official journal of the International Federation
       of Clinical Neurophysiology. 2019. 130(10). 1908-1916. doi: 10.1016/j.clinph.2019.07.014.
       PMID: 31419742.'
@@ -431,7 +431,7 @@
   authors: Struck AF, Rodriguez-Ruiz AA, Osman G, Gilmore EJ, Haider HA, Dhakar MB,
     Schrettner M, Lee JW, Gaspard N, Hirsch LJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/31353866
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Struck_AnnClinTranslNeurol_31353866.pdf
     display: 'Annals of clinical and translational neurology. 2019. 6(7). 1239-1247.
       doi: 10.1002/acn3.50817. PMID: 31353866.'
   highlight: 0
@@ -440,7 +440,7 @@
   description: ''
   authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/30445569
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Biswal_JAmMedInformAssoc_30445569.pdf
     display: 'Journal of the American Medical Informatics Association : JAMIA. 2018.
       25(12). 1643-1650. doi: 10.1093/jamia/ocy131. PMID: 30445569.'
   highlight: 0
@@ -449,7 +449,7 @@
   description: ''
   authors: Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/29029305
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Sun_Sleep_29029305.pdf
     display: 'Sleep. 2017. 40(10). doi: 10.1093/sleep/zsx139. PMID: 29029305.'
   highlight: 0
 - title: '"Clinical Prediction Models for Sleep Apnea: The Importance of Medical History
@@ -458,7 +458,7 @@
   description: ''
   authors: Ustun B, Westover MB, Rudin C, Bianchi MT
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/26350602
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Ustun_JClinSleepMed_26350602.pdf
     display: 'Journal of clinical sleep medicine : JCSM : official publication of
       the American Academy of Sleep Medicine. 2016. 12(2). 161-8. doi: 10.5664/jcsm.5476.
       PMID: 26350602.'

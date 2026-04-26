@@ -6,7 +6,7 @@
     KL, Mignot E, Hwang D, Trotti LM, Reyna MA, Clifford GD, Katwa U, Thomas RJ, Westover
     MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40790924
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_JClinSleepMed_40790924.pdf
     display: 'Journal of clinical sleep medicine : JCSM : official publication of
       the American Academy of Sleep Medicine. 2025. 21(11). 1821-1829. doi: 10.5664/jcsm.11848.
       PMID: 40790924.'
@@ -19,7 +19,7 @@
     M, Gupta A, Stone KL, Kjaer MR, Sum-Ping O, Mignot E, Hwang D, Trotti LM, Clifford
     GD, Katwa U, Sun H, Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40554678
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Nasiri_Sleep_40554678.pdf
     display: 'Sleep. 2025. 48(8). doi: 10.1093/sleep/zsaf134. PMID: 40554678.'
   highlight: 0
 - title: '"Continuous sleep depth index annotation with deep learning yields novel
@@ -28,7 +28,7 @@
   description: ''
   authors: Zhou S, Song G, Sun H, Zhang D, Leng Y, Westover MB, Hong S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/40216900
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Zhou_NPJDigitMed_40216900.pdf
     display: 'NPJ digital medicine. 2025. 8(1). 203. doi: 10.1038/s41746-025-01607-0.
       PMID: 40216900.'
   highlight: 0
@@ -39,7 +39,7 @@
   authors: Thapa R, Kjær MR, He B, Covert I, Moore H, Hanif U, Ganjoo G, Westover
     MB, Jennum P, Brink-Kjær A, Mignot E, Zou J
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/39974074
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Thapa_medRxiv_39974074.pdf
     display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.04.25321675.
       PMID: 39974074.'
   highlight: 0
@@ -49,7 +49,7 @@
   description: ''
   authors: Yang C, Xiao C, Westover MB, Sun J
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/38090533
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Yang_JMIRAI_38090533.pdf
     display: 'JMIR AI. 2023. 2(1). e46769. doi: 10.2196/46769. PMID: 38090533.'
   highlight: 0
 - title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
@@ -61,7 +61,7 @@
     J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
     Kuller D, Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36926545
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Ganglberger_FrontNetwPhysiol_36926545.pdf
     display: 'Frontiers in network physiology. 2023. 3. 1120390. doi: 10.3389/fnetp.2023.1120390.
       PMID: 36926545.'
   highlight: 0
@@ -71,7 +71,7 @@
   description: ''
   authors: Li Q, Westover MB, Zhang R, Chu CJ
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/34220477
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Li_FrontComputNeurosci_34220477.pdf
     display: 'Frontiers in computational neuroscience. 2021. 15. 680549. doi: 10.3389/fncom.2021.680549.
       PMID: 34220477.'
   highlight: 0
@@ -82,7 +82,7 @@
   authors: Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, Westover
     MB, Lam AD
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32478820
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Abou_Sleep_32478820.pdf
     display: 'Sleep. 2020. 43(11). doi: 10.1093/sleep/zsaa112. PMID: 32478820.'
   highlight: 0
 - title: '"Reactivation of Motor-Related Gamma Activity in Human NREM Sleep."'
@@ -91,7 +91,7 @@
   authors: Eichenlaub JB, Biswal S, Peled N, Rivilis N, Golby AJ, Lee JW, Westover
     MB, Halgren E, Cash SS
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32477056
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Eichenlaub_FrontNeurosci_32477056.pdf
     display: 'Frontiers in neuroscience. 2020. 14. 449. doi: 10.3389/fnins.2020.00449.
       PMID: 32477056.'
   highlight: 0
@@ -101,7 +101,7 @@
   authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
     Tesh RA, Akeju O, Thomas RJ, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/31863111
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Sun_Sleep_31863111.pdf
     display: 'Sleep. 2020. 43(7). doi: 10.1093/sleep/zsz306. PMID: 31863111.'
   highlight: 0
 - title: '"Effects of Cholinergic Neuromodulation on Thalamocortical Rhythms During
@@ -110,7 +110,7 @@
   description: ''
   authors: Li Q, Song JL, Li SH, Westover MB, Zhang R
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32038215
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Li_FrontComputNeurosci_32038215.pdf
     display: 'Frontiers in computational neuroscience. 2019. 13. 100. doi: 10.3389/fncom.2019.00100.
       PMID: 32038215.'
   highlight: 0
@@ -119,7 +119,7 @@
   description: ''
   authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/30445569
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Biswal_JAmMedInformAssoc_30445569.pdf
     display: 'Journal of the American Medical Informatics Association : JAMIA. 2018.
       25(12). 1643-1650. doi: 10.1093/jamia/ocy131. PMID: 30445569.'
   highlight: 0
@@ -132,7 +132,7 @@
     H, DiBiasio A, Gitlin JA, Hahm EY, Hobbs LE, Houle TT, Ibala R, Loggia ML, Pavone
     KJ, Shaefi S, Tolis G, Westover MB, Akeju O
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/29678977
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Shelton_BMJOpen_29678977.pdf
     display: 'BMJ open. 2018. 8(4). e020316. doi: 10.1136/bmjopen-2017-020316. PMID:
       29678977.'
   highlight: 0
@@ -141,7 +141,7 @@
   description: ''
   authors: Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, Westover MB
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/29029305
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Sun_Sleep_29029305.pdf
     display: 'Sleep. 2017. 40(10). doi: 10.1093/sleep/zsx139. PMID: 29029305.'
   highlight: 0
 - title: '"The impact of body posture and sleep stages on sleep apnea severity in
@@ -150,7 +150,7 @@
   description: ''
   authors: Eiseman NA, Westover MB, Ellenbogen JM, Bianchi MT
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/23243399
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Eiseman_JClinSleepMed_23243399.pdf
     display: 'Journal of clinical sleep medicine : JCSM : official publication of
       the American Academy of Sleep Medicine. 2012. 8(6). 655-66A. doi: 10.5664/jcsm.2258.
       PMID: 23243399.'
