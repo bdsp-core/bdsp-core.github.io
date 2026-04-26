@@ -31,23 +31,23 @@ Instructions for setting up an AWS EC2 instance are [here](https://docs.google.c
 [Back to Top](#cdac-lab-resources)
 
 ### Snowflake instructions
-Instructions for using [Snowflake]({{ site.baseurl }}/downloads/SnowflakeDataHub_User_Guide_V1.2.pdf). Request an account by emailing Junior Moura. BIDMC internal use only.  
+Instructions for using [Snowflake](https://bdsp-core.github.io/cdac-downloads/SnowflakeDataHub_User_Guide_V1.2.pdf). Request an account by emailing Junior Moura. BIDMC internal use only.  
 [Back to Top](#cdac-lab-resources)
 
 ### Checklists for writing papers  
 [STROBE checklist](https://www.strobe-statement.org/checklists/) - Strengthening The Reporting of Observational studies in Epidemiology  
-[CLAIM checklist]({{ site.baseurl }}/downloads/CLAIM.docx) and [paper]({{ site.baseurl }}/downloads/CLAIM.pdf) - Checklist for Artificial Intelligence in Medical Imaging  
-[IJMEDI/ChAMAI checklist]({{ site.baseurl }}/downloads/CHAMAI.pdf) and [paper]({{ site.baseurl }}/downloads/CHAMAI_Paper.pdf) - Checklist for Assessment of Medical AI   
-[TRIPOD checklist]({{ site.baseurl }}/downloads/TRIPOD_checklist.docx) and [paper]({{ site.baseurl }}/downloads/TRIPOD_paper.pdf) - Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis  
-[TRIPOD+ paper]({{ site.baseurl }}/downloads/Development_and_Reporting_of_Prediction_Models_CCM_2020.pdf) Guidance for reporting validation studies of predictive models (**highly recommended**)    
-[CONSORT checklist]({{ site.baseurl }}/downloads/consort-2010-checklist.doc)  - CONsolidated Standards Of Reporting Trials  
-[CONSORT diagram template]({{ site.baseurl }}/downloads/CONSORT 2010 Flow Diagram.doc) - flow diagram for study inclusion / exclusion  
+[CLAIM checklist](https://bdsp-core.github.io/cdac-downloads/CLAIM.docx) and [paper](https://bdsp-core.github.io/cdac-downloads/CLAIM.pdf) - Checklist for Artificial Intelligence in Medical Imaging  
+[IJMEDI/ChAMAI checklist](https://bdsp-core.github.io/cdac-downloads/CHAMAI.pdf) and [paper](https://bdsp-core.github.io/cdac-downloads/CHAMAI_Paper.pdf) - Checklist for Assessment of Medical AI   
+[TRIPOD checklist](https://bdsp-core.github.io/cdac-downloads/TRIPOD_checklist.docx) and [paper](https://bdsp-core.github.io/cdac-downloads/TRIPOD_paper.pdf) - Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis  
+[TRIPOD+ paper](https://bdsp-core.github.io/cdac-downloads/Development_and_Reporting_of_Prediction_Models_CCM_2020.pdf) Guidance for reporting validation studies of predictive models (**highly recommended**)    
+[CONSORT checklist](https://bdsp-core.github.io/cdac-downloads/consort-2010-checklist.doc)  - CONsolidated Standards Of Reporting Trials  
+[CONSORT diagram template](https://bdsp-core.github.io/cdac-downloads/CONSORT 2010 Flow Diagram.doc) - flow diagram for study inclusion / exclusion  
 [Back to Top](#cdac-lab-resources)
 
 ### EEG Report writing templates 
-[Seizure Monitoring (default)]({{site.baseurl}}/downloads/ICU-EEG-SeizureMonitoring.docx)  
-[Coma after cardiac arrest]({{site.baseurl}}/downloads/ICU-EEG-ComaCardiacArrest.docx)  
-[SAH]({{site.baseurl}}/downloads/ICU-EEG-SAH.docx)  
-[2HELPS2B: Recommended duration of EEG monitoring]({{site.baseurl}}/downloads/ICU-EEG-2helps2b-RecommendedDuration_of_EEG Monitoring.pdf)  
-[Triphasic Waves - TOAST]({{site.baseurl}}/downloads/Triphasic-TOAST.docx)  
+[Seizure Monitoring (default)](https://bdsp-core.github.io/cdac-downloads/ICU-EEG-SeizureMonitoring.docx)  
+[Coma after cardiac arrest](https://bdsp-core.github.io/cdac-downloads/ICU-EEG-ComaCardiacArrest.docx)  
+[SAH](https://bdsp-core.github.io/cdac-downloads/ICU-EEG-SAH.docx)  
+[2HELPS2B: Recommended duration of EEG monitoring](https://bdsp-core.github.io/cdac-downloads/ICU-EEG-2helps2b-RecommendedDuration_of_EEG Monitoring.pdf)  
+[Triphasic Waves - TOAST](https://bdsp-core.github.io/cdac-downloads/Triphasic-TOAST.docx)  
 [Back to Top](#cdac-lab-resources)
