@@ -1,3 +1,112 @@
+- title: '"Erratum: Teaching the 6 EEG Spectrogram Patterns Using an Infographic."'
+  image: ''
+  description: ''
+  authors: Marcinski Nascimento KJ, Westover MB, Nascimento FA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40083392
+    display: 'Neurology. Education. 2025. 4(1). e200171. doi: 10.1212/NE9.0000000000200171.
+      PMID: 40083392.'
+  highlight: 0
+- title: '"Teaching the 6 EEG Spectrogram Patterns Using an Infographic."'
+  image: ''
+  description: ''
+  authors: Marcinski Nascimento KJ, Westover MB, Nascimento FA
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39360183
+    display: 'Neurology. Education. 2024. 3(4). e200158. doi: 10.1212/NE9.0000000000200158.
+      PMID: 39360183.'
+  highlight: 0
+- title: '"Classification of autism spectrum disorder using electroencephalography
+    in Chinese children: a cross-sectional retrospective study."'
+  image: ''
+  description: ''
+  authors: Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, Westover MB, Xu H, Kong
+    XJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38332856
+    display: 'Frontiers in neuroscience. 2024. 18. 1330556. doi: 10.3389/fnins.2024.1330556.
+      PMID: 38332856.'
+  highlight: 0
+- title: '"An examination of sleep spindle metrics in the Sleep Heart Health Study:
+    superiority of automated spindle detection over total sigma power in assessing
+    age-related spindle decline."'
+  image: ''
+  description: ''
+  authors: Palepu K, Sadeghi K, Kleinschmidt DF, Donoghue J, Chapman S, Arslan AR,
+    Westover MB, Cash SS, Pathmanathan J
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37803266
+    display: 'BMC neurology. 2023. 23(1). 359. doi: 10.1186/s12883-023-03376-3. PMID:
+      37803266.'
+  highlight: 0
+- title: '"Automated detection of immune effector cell-associated neurotoxicity syndrome
+    via quantitative EEG."'
+  image: ''
+  description: ''
+  authors: Eckhardt CA, Sun H, Malik P, Quadri S, Santana Firme M, Jones DK, van Sleuwen
+    M, Jain A, Fan Z, Jing J, Ge W, Danish HH, Jacobson CA, Rubin DB, Kimchi EY, Cash
+    SS, Frigault MJ, Lee JW, Dietrich J, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37545104
+    display: 'Annals of clinical and translational neurology. 2023. 10(10). 1776-1789.
+      doi: 10.1002/acn3.51866. PMID: 37545104.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32268366
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Quantitative EEG reactivity and machine learning for prognostication in
+    hypoxic-ischemic brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
+    Scirica BM, Lee JW, Cash SS, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31419742
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2019. 130(10). 1908-1916. doi: 10.1016/j.clinph.2019.07.014.
+      PMID: 31419742.'
+  highlight: 0
+- title: '"Sensitivity of quantitative EEG for seizure identification in the intensive
+    care unit."'
+  image: ''
+  description: ''
+  authors: Haider HA, Esteller R, Hahn CD, Westover MB, Halford JJ, Lee JW, Shafi
+    MM, Gaspard N, Herman ST, Gerard EE, Hirsch LJ, Ehrenberg JA, LaRoche SM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27466474
+    display: 'Neurology. 2016. 87(9). 935-44. doi: 10.1212/WNL.0000000000003034. PMID:
+      27466474.'
+  highlight: 0
+- title: '"Automation of Classical QEEG Trending Methods for Early Detection of Delayed
+    Cerebral Ischemia: More Work to Do."'
+  image: ''
+  description: ''
+  authors: Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor
+    K, Rosenthal ES, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27258446
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2016. 33(3). 227-34. doi: 10.1097/WNP.0000000000000278.
+      PMID: 27258446.'
+  highlight: 0
+- title: '"Spectrogram screening of adult EEGs is sensitive and efficient."'
+  image: ''
+  description: ''
+  authors: Moura LM, Shafi MM, Ng M, Pati S, Cash SS, Cole AJ, Hoch DB, Rosenthal
+    ES, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/24857926
+    display: 'Neurology. 2014. 83(1). 56-64. doi: 10.1212/WNL.0000000000000537. PMID:
+      24857926.'
+  highlight: 0
 - title: '"The insomnia EEG score (IES): a new tool for the classification of people
     with poor sleep."'
   image: ''

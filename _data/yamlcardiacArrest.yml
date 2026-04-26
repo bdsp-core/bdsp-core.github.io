@@ -4,6 +4,172 @@
   description: ''
   authors: Zafar SF, Park H, Letourneau AR, Rock AE, Westover MB, Mukerji SS
   link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41670408
+    display: 'Critical care explorations. 2026. 8(2). e1380. doi: 10.1097/CCE.0000000000001380.
+      PMID: 41670408.'
+  highlight: 0
+- title: '"Toward a Universal Map of EEG: A Semantic, Low-Dimensional Manifold for
+    EEG Classification, Clustering, and Prognostication."'
+  image: ''
+  description: ''
+  authors: Krumm L, Kranz DD, Halimeh M, Nelde A, Amorim E, Zafar S, Jing J, Thomas
+    RJ, Westover MB, Meisel C
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40539771
+    display: 'Annals of neurology. 2025. 98(2). 357-368. doi: 10.1002/ana.27260. PMID:
+      40539771.'
+  highlight: 0
+- title: '"Early Burst Suppression Similarity Association with Structural Brain Injury
+    Severity on MRI After Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Shivdat S, Zhan T, De Palma A, Zheng WL, Krishnamurthy P, Paneerselvam
+    E, Snider S, Bevers M, O'Reilly UM, Lee JW, Westover MB, Amorim E
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/39043984
+    display: 'Neurocritical care. 2025. 42(1). 175-184. doi: 10.1007/s12028-024-02047-6.
+      PMID: 39043984.'
+  highlight: 0
+- title: '"The International Cardiac Arrest Research Consortium Electroencephalography
+    Database."'
+  image: ''
+  description: ''
+  authors: Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V,
+    Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni
+    R, Reyna MA, Clifford GD, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37855659
+    display: 'Critical care medicine. 2023. 51(12). 1802-1811. doi: 10.1097/CCM.0000000000006074.
+      PMID: 37855659.'
+  highlight: 0
+- title: '"The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography
+    Database."'
+  image: ''
+  description: ''
+  authors: Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V,
+    Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni
+    R, Reyna MA, Clifford GD, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37693458
+    display: 'medRxiv : the preprint server for health sciences. 2023. doi: 10.1101/2023.08.28.23294672.
+      PMID: 37693458.'
+  highlight: 0
+- title: '"Neurophysiology State Dynamics Underlying Acute Neurologic Recovery After
+    Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Amorim E, Zheng WL, Jing J, Ghassemi MM, Lee JW, Wu O, Herman ST, Pang
+    T, Sivaraju A, Gaspard N, Hirsch L, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer
+    J, van Putten MJAM, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/37414565
+    display: 'Neurology. 2023. 101(9). e940-e952. doi: 10.1212/WNL.0000000000207537.
+      PMID: 37414565.'
+  highlight: 0
+- title: '"VE-CAM-S: Visual EEG-Based Grading of Delirium Severity and Associations
+    With Clinical Outcomes."'
+  image: ''
+  description: ''
+  authors: Tesh RA, Sun H, Jing J, Westmeijer M, Neelagiri A, Rajan S, Krishnamurthy
+    PV, Sikka P, Quadri SA, Leone MJ, Paixao L, Panneerselvam E, Eckhardt C, Struck
+    AF, Kaplan PW, Akeju O, Jones D, Kimchi EY, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35072078
+    display: 'Critical care explorations. 2022. 4(1). e0611. doi: 10.1097/CCE.0000000000000611.
+      PMID: 35072078.'
+  highlight: 0
+- title: '"Susceptibility-weighted imaging reveals cerebral microvascular injury in
+    severe COVID-19."'
+  image: ''
+  description: ''
+  authors: Conklin J, Frosch MP, Mukerji SS, Rapalino O, Maher MD, Schaefer PW, Lev
+    MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin
+    E, Shaw B, Lemieux JE, Sabeti PC, Branda JA, Brown EN, Westover MB, Huang SY,
+    Edlow BL
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33497950
+    display: 'Journal of the neurological sciences. 2021. 421. 117308. doi: 10.1016/j.jns.2021.117308.
+      PMID: 33497950.'
+  highlight: 0
+- title: '"Cost-effectiveness analysis of multimodal prognostication in cardiac arrest
+    with EEG monitoring."'
+  image: ''
+  description: ''
+  authors: Amorim E, Mo SS, Palacios S, Ghassemi MM, Weng WH, Cash SS, Bianchi MT,
+    Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32661097
+    display: 'Neurology. 2020. 95(5). e563-e575. doi: 10.1212/WNL.0000000000009916.
+      PMID: 32661097.'
+  highlight: 0
+- title: '"MRI-EEG correlation for outcome prediction in postanoxic myoclonus: A multicenter
+    study."'
+  image: ''
+  description: ''
+  authors: Beuchat I, Sivaraju A, Amorim E, Gilmore EJ, Dunet V, Rossetti AO, Westover
+    MB, Hsu L, Scirica BM, Silva D, Tang K, Lee JW
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32482841
+    display: 'Neurology. 2020. 95(4). e335-e341. doi: 10.1212/WNL.0000000000009610.
+      PMID: 32482841.'
+  highlight: 0
+- title: '"Quantitative EEG reactivity and machine learning for prognostication in
+    hypoxic-ischemic brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
+    Scirica BM, Lee JW, Cash SS, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31419742
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2019. 130(10). 1908-1916. doi: 10.1016/j.clinph.2019.07.014.
+      PMID: 31419742.'
+  highlight: 0
+- title: '"Variability in pharmacologically-induced coma for treatment of refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30379935
+    display: 'PloS one. 2018. 13(10). e0205789. doi: 10.1371/journal.pone.0205789.
+      PMID: 30379935.'
+  highlight: 0
+- title: '"Therapeutic coma for status epilepticus: Differing practices in a prospective
+    multicenter study."'
+  image: ''
+  description: ''
+  authors: Alvarez V, Lee JW, Westover MB, Drislane FW, Novy J, Faouzi M, Marchi NA,
+    Dworetzky BA, Rossetti AO
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27664985
+    display: 'Neurology. 2016. 87(16). 1650-1659. PMID: 27664985.'
+  highlight: 0
+- title: '"Quantification of EEG reactivity in comatose patients."'
+  image: ''
+  description: ''
+  authors: Hermans MC, Westover MB, van Putten MJAM, Hirsch LJ, Gaspard N
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26183757
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2016. 127(1). 571-580. doi: 10.1016/j.clinph.2015.06.024.
+      PMID: 26183757.'
+  highlight: 0
+- title: '"Burst suppression in sleep in a routine outpatient EEG."'
+  image: ''
+  description: ''
+  authors: Kheder A, Bianchi MT, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25667874
+    display: 'Epilepsy & behavior case reports. 2014. 2. 71-4. doi: 10.1016/j.ebcr.2014.01.003.
+      PMID: 25667874.'
+  highlight: 0
+- title: '"Strategies for Safer Cefepime Use to Prevent Neurotoxicity Using the Electronic
+    Health Record."'
+  image: ''
+  description: ''
+  authors: Zafar SF, Park H, Letourneau AR, Rock AE, Westover MB, Mukerji SS
+  link:
     url: /downloads/2026_Zafar_CritCareExplor_41670408.pdf
     display: 'Critical care explorations. 2026. 8(2). e1380. doi: 10.1097/CCE.0000000000001380.
       PMID: 41670408.'

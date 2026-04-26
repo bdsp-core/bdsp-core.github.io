@@ -178,7 +178,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-04-25'
+  updated_at: '2026-04-26'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-25'
+  updated_at: '2026-04-26'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2331,7 +2331,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-04-24'
+  updated_at: '2026-04-26'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2393,6 +2393,18 @@
   forks: 0
   updated_at: '2026-04-09'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: horrible-things-automator
+  description: No description provided.
+  url: https://github.com/bdsp-core/horrible-things-automator
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-26'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []

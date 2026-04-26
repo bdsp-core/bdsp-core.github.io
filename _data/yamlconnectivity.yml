@@ -1,3 +1,153 @@
+- title: '"Artificial intelligence without restriction surpassing human intelligence
+    with probability one: Theoretical insight into secrets of the brain with AI twins
+    of the brain."'
+  image: ''
+  description: ''
+  authors: Huang GB, Westover MB, Tan EK, Wang H, Cui D, Ma WY, Wang T, He Q, Wei
+    H, Wang N, Tian Q, Lam KY, Yao X, Wong TY
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41312528
+    display: 'Neurocomputing. 2025. 619. doi: 10.1016/j.neucom.2024.129053. PMID:
+      41312528.'
+  highlight: 0
+- title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
+    channels."'
+  image: ''
+  description: ''
+  authors: Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand
+    MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E,
+    Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
+    D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40317534
+    display: 'Epilepsia. 2025. 66(7). e114-20. doi: 10.1111/epi.18431. PMID: 40317534.'
+  highlight: 0
+- title: '"Classification of autism spectrum disorder using electroencephalography
+    in Chinese children: a cross-sectional retrospective study."'
+  image: ''
+  description: ''
+  authors: Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, Westover MB, Xu H, Kong
+    XJ
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/38332856
+    display: 'Frontiers in neuroscience. 2024. 18. 1330556. doi: 10.3389/fnins.2024.1330556.
+      PMID: 38332856.'
+  highlight: 0
+- title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
+    An exploratory cross-sectional study using deep neural networks."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N,
+    Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins
+    J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
+    Kuller D, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36926545
+    display: 'Frontiers in network physiology. 2023. 3. 1120390. doi: 10.3389/fnetp.2023.1120390.
+      PMID: 36926545.'
+  highlight: 0
+- title: '"Age estimation from sleep studies using deep learning predicts life expectancy."'
+  image: ''
+  description: ''
+  authors: Brink-Kjaer A, Leary EB, Sun H, Westover MB, Stone KL, Peppard PE, Lane
+    NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35869169
+    display: 'NPJ digital medicine. 2022. 5(1). 103. doi: 10.1038/s41746-022-00630-9.
+      PMID: 35869169.'
+  highlight: 0
+- title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
+    and Deep Neural Networks."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM,
+    Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34928786
+    display: 'IEEE transactions on bio-medical engineering. 2022. 69(6). 2094-2104.
+      doi: 10.1109/TBME.2021.3136753. PMID: 34928786.'
+  highlight: 0
+- title: '"Responsive neurostimulation for focal motor status epilepticus."'
+  image: ''
+  description: ''
+  authors: Yang JC, Harid NM, Nascimento FA, Kokkinos V, Shaughnessy A, Lam AD, Westover
+    MB, Leslie-Mazwi TM, Hochberg LR, Rosenthal ES, Cole AJ, Richardson RM, Cash SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33955717
+    display: 'Annals of clinical and translational neurology. 2021. 8(6). 1353-1361.
+      doi: 10.1002/acn3.51318. PMID: 33955717.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32268366
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Effects of Cholinergic Neuromodulation on Thalamocortical Rhythms During
+    NREM Sleep: A Model Study."'
+  image: ''
+  description: ''
+  authors: Li Q, Song JL, Li SH, Westover MB, Zhang R
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/32038215
+    display: 'Frontiers in computational neuroscience. 2019. 13. 100. doi: 10.3389/fncom.2019.00100.
+      PMID: 32038215.'
+  highlight: 0
+- title: '"Automated tracking of level of consciousness and delirium in critical illness
+    using deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng
+    WL, Ge W, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31508499
+    display: 'NPJ digital medicine. 2019. 2. 89. doi: 10.1038/s41746-019-0167-0. PMID:
+      31508499.'
+  highlight: 0
+- title: '"Expert-level sleep scoring with deep neural networks."'
+  image: ''
+  description: ''
+  authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/30445569
+    display: 'Journal of the American Medical Informatics Association : JAMIA. 2018.
+      25(12). 1643-1650. doi: 10.1093/jamia/ocy131. PMID: 30445569.'
+  highlight: 0
+- title: '"Default Mode Network Perfusion in Aneurysmal Subarachnoid Hemorrhage."'
+  image: ''
+  description: ''
+  authors: Nelson S, Edlow BL, Wu O, Rosenthal ES, Westover MB, Rordorf G
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/26800697
+    display: 'Neurocritical care. 2016. 25(2). 237-42. doi: 10.1007/s12028-016-0244-z.
+      PMID: 26800697.'
+  highlight: 0
+- title: '"Stimulus information stored in lasting active and hidden network states
+    is destroyed by network bursts."'
+  image: ''
+  description: ''
+  authors: Dranias MR, Westover MB, Cash S, VanDongen AM
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/25755638
+    display: 'Frontiers in integrative neuroscience. 2015. 9. 14. doi: 10.3389/fnint.2015.00014.
+      PMID: 25755638.'
+  highlight: 0
+- title: '"Emergence of stable functional networks in long-term human electroencephalography."'
+  image: ''
+  description: ''
+  authors: Chu CJ, Kramer MA, Pathmanathan J, Bianchi MT, Westover MB, Wizon L, Cash
+    SS
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/22357854
+    display: 'The Journal of neuroscience : the official journal of the Society for
+      Neuroscience. 2012. 32(8). 2703-13. doi: 10.1523/JNEUROSCI.5669-11.2012. PMID:
+      22357854.'
+  highlight: 0
 - title: '"Pediatric SleepNet: A Deep Learning Network for Reliable Pediatric Sleep
     Staging Across Developmental Stages."'
   image: ''
