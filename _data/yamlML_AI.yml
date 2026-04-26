@@ -944,7 +944,7 @@
   description: ''
   authors: Westover MB, Anderson CH
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/32153320
+    url: https://bdsp-core.github.io/cdac-downloads/2003_Westover_Neurocomputing_32153320.pdf
     display: 'Neurocomputing. 2003. 52-54. 671-676. doi: 10.1016/s0925-2312(02)00863-9.
       PMID: 32153320.'
   highlight: 0
@@ -1071,7 +1071,7 @@
     Karia S, Jing J, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, Westover
     B, Dauwels J.
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36270485
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Thangavel_JNeuralEng_36270485.pdf
     display: 'J Neural Eng 2022 Nov 24; 19 (6) doi: 10.1088/1741-2552/ac9c93. PMID:36270485 '
   highlight: 0
 - title: '"Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid
