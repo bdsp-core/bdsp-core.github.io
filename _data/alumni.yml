@@ -10,7 +10,7 @@
   education1: In lab 2011-2012
 - name: <a href="https://medicine.umich.edu/dept/neurosurgery/craig-williamson-md">Craig
     Williamson, MD<a/>
-  photo: williamson_2021.png
+  photo: williamson_2021.jpg
   info: Associate Professor, University of Michigan
   number_educ: 1
   education1: In lab 2011-2012
@@ -122,7 +122,7 @@
   number_educ: 1
   education1: In lab 2015-2019
 - name: <a href="https://github.com/sidsearch">Siddharth Biswal, PhD<a/>
-  photo: siddharth.png
+  photo: siddharth.jpg
   info: Amazon
   number_educ: 1
   education1: In lab 2015-2016
@@ -401,7 +401,7 @@
   number_educ: 1
   education1: In lab 2019-2020
 - name: Avinash Rao Sagi, MD
-  photo: AvinashSagi.png
+  photo: AvinashSagi.jpg
   info: Neurologist, Kaiser Permanente
   number_educ: 1
   education1: In lab 2019-2020
@@ -432,7 +432,7 @@
   number_educ: 1
   education1: In lab 2018-2021
 - name: Zi-Wei Fan, MSc
-  photo: ziwei.png
+  photo: ziwei.jpg
   info: Software engineer
   number_educ: 1
   education1: In lab 2019-2022
@@ -558,7 +558,7 @@
   number_educ: 1
   education1: In lab 2023
 - name: Yalda Amidi, PhD
-  photo: yalda.png
+  photo: yalda.jpg
   info: Postdoctoral fellow
   email: yamidi@bidmc.harvard.edu
   number_educ: 2
@@ -616,7 +616,7 @@
   number_educ: 1
   education1: In lab 2024
 - name: Jauke Reinders
-  photo: jauke.png
+  photo: jauke.jpg
   info: Research Student Intern
   number_educ: 1
   education1: In lab 2024

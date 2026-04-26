@@ -55,19 +55,37 @@ def fetch_sheet_data(service):
     
     return data
 
+def normalize_photo(photo):
+    """If the referenced photo file doesn't exist but a same-stem file with a
+    different image extension does, return that name. Lets us rename files in
+    images/teampic/ (e.g. .png → .jpg) without needing to edit the source
+    Google Sheet."""
+    if not photo:
+        return photo
+    teampic_dir = os.path.join('images', 'teampic')
+    if os.path.exists(os.path.join(teampic_dir, photo)):
+        return photo
+    base, _ = os.path.splitext(photo)
+    for alt_ext in ('.jpg', '.jpeg', '.JPG', '.JPEG', '.png', '.PNG', '.webp'):
+        alt = base + alt_ext
+        if os.path.exists(os.path.join(teampic_dir, alt)):
+            return alt
+    return photo  # leave as-is if nothing better found
+
+
 def format_team_member(row):
     """Format a row from sheets into YAML structure."""
     member = {}
-    
+
     # Handle name with optional link
     if row.get('Link'):
         member['name'] = f'<a href="{row["Link"]}">{row["Name"]}<a/>'
     else:
         member['name'] = row['Name']
-    
+
     # Add other fields
     if row.get('Photo'):
-        member['photo'] = row['Photo']
+        member['photo'] = normalize_photo(row['Photo'])
     if row.get('Position'):
         member['info'] = row['Position']
     if row.get('Email'):
