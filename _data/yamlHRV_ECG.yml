@@ -90,7 +90,7 @@
     AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna
     MA, Westover MB, Clifford GD
   link:
-    url: /downloads/2026_Koscova_SciData_41741499.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Koscova_SciData_41741499.pdf
     display: 'Scientific data. 2026. doi: 10.1038/s41597-026-06861-9. PMID: 41741499.'
   highlight: 0
 - title: '"An Electrocardiogram Foundation Model Built on over 10 Million Recordings."'
@@ -99,7 +99,7 @@
   authors: Li J, Aguirre AD, Moura V, Jin J, Liu C, Zhong L, Sun C, Clifford G, Westover
     MB, Hong S
   link:
-    url: /downloads/2025_Li_NEJMAI_40771651.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Li_NEJMAI_40771651.pdf
     display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401033. PMID: 40771651.'
   highlight: 0
 - title: '"Sleep staging from electrocardiography and respiration with deep learning."'
@@ -108,7 +108,7 @@
   authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
     Tesh RA, Akeju O, Thomas RJ, Westover MB
   link:
-    url: /downloads/2020_Sun_Sleep_31863111.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Sun_Sleep_31863111.pdf
     display: 'Sleep. 2020. 43(7). doi: 10.1093/sleep/zsz306. PMID: 31863111.'
   highlight: 0
 - title: '"You Snooze, You Win: the PhysioNet/Computing in Cardiology Challenge 2018."'
@@ -117,7 +117,7 @@
   authors: Ghassemi MM, Moody BE, Lehman LH, Song C, Li Q, Sun H, Mark RG, Westover
     MB, Clifford GD
   link:
-    url: /downloads/2018_Ghassemi_ComputCardiol2010_34796237.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Ghassemi_ComputCardiol2010_34796237.pdf
     display: 'Computing in cardiology. 2018. 45. doi: 10.22489/cinc.2018.049. PMID:
       34796237.'
   highlight: 0
@@ -137,7 +137,7 @@
     A, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna MA, Westover MB, Cliford
     GD
   link:
-    url: /downloads/2025_Koscova_medRxiv_40385443.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Koscova_medRxiv_40385443.pdf
     display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2024.09.27.24314503.
       PMID: 40385443.'
   highlight: 0
@@ -150,7 +150,7 @@
     J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
     Kuller D, Thomas RJ, Westover MB.
   link:
-    url: /downloads/2023_Ganglberger_FrontNetwPhysiol_36926545.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Ganglberger_FrontNetwPhysiol_36926545.pdf
     display: 'Front Netw Physiol 2023; 3 :1120390 doi: 10.3389/fnetp.2023.1120390.
       eCollection 2023. PMID:36926545 ; PMCID:PMC10013021 '
   highlight: 0
@@ -172,7 +172,7 @@
   authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
     MB.
   link:
-    url: /downloads/2018_Rebergen_JClinMonitComput_28210934.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Rebergen_JClinMonitComput_28210934.pdf
     display: 'J Clin Monit Comput 2018 Feb; 32 (1) :53-61 doi: 10.1007/s10877-017-9999-9.
       Epub 2017 Feb 16. PMID:28210934 ; PMCID:PMC5559344 '
   highlight: 0
@@ -194,7 +194,7 @@
   authors: Nagaraj SB, McClain LM, Zhou DW, Biswal S, Rosenthal ES, Purdon PL, Westover
     MB.
   link:
-    url: /downloads/2016_Nagaraj_CritCareMed_27035240.pdf
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Nagaraj_CritCareMed_27035240.pdf
     display: 'Crit Care Med 2016 Sep; 44 (9) :e782-9 doi: 10.1097/CCM.0000000000001708.
       PMID:27035240 ; PMCID:PMC4987179 '
   highlight: 0
