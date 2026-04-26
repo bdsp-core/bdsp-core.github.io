@@ -19,55 +19,55 @@ Transforming clinical data into life-saving insights for brain health.
 
 <div class="carousel-inner" markdown="0">
     <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flames.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flames.png_resized.jpg" alt="Flames visualization" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wordcloud.png" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wordcloud.png" alt="Word cloud of CDAC research topics" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starfish.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starfish.png_resized.jpg" alt="Starfish visualization" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDzoo.png_resized.jpg" alt="Slide 1" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDzoo.png_resized.jpg" alt="IED zoo: examples of interictal epileptiform discharges" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="CDAC mascot" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSamples_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSamples_resized.jpg" alt="UMAP embedding with sample EEG patterns" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDfeatures.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDfeatures.png_resized.jpg" alt="IED features visualization" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CPDspreading.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CPDspreading.png_resized.jpg" alt="Spreading of cortical phenomena" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_model_180K.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_model_180K.png_resized.jpg" alt="PACMAP embedding of SSD model on 180K samples" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_model_180K_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_model_180K_resized.jpg" alt="UMAP embedding of SSD model on 180K samples" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="BDSP spectrogram example" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_spikeBurden_180K.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_spikeBurden_180K.png_resized.jpg" alt="PACMAP embedding colored by spike burden" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDwithVotes.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDwithVotes.png_resized.jpg" alt="IED examples with annotator votes" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IIICqualitative.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IIICqualitative.png_resized.jpg" alt="Qualitative IIIC patterns" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_spikeBurden_180K_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_spikeBurden_180K_resized.jpg" alt="UMAP embedding colored by spike burden" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPspreading.png_resized.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPspreading.png_resized.jpg" alt="UMAP showing spreading patterns" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="Slide 3" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="ProtoEEG interface screenshot" style="height: 300px !important" />
     </div>
 </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
