@@ -22,7 +22,7 @@ Transforming clinical data into life-saving insights for brain health.
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flames.png_resized.jpg" alt="Flames visualization" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wordcloud.png" alt="Word cloud of CDAC research topics" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wordcloud.jpg" alt="Word cloud of CDAC research topics" style="height: 300px !important" />
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starfish.png_resized.jpg" alt="Starfish visualization" style="height: 300px !important" />
@@ -31,7 +31,7 @@ Transforming clinical data into life-saving insights for brain health.
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDzoo.png_resized.jpg" alt="IED zoo: examples of interictal epileptiform discharges" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.png" alt="CDAC mascot" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.jpg" alt="CDAC mascot" style="height: 300px !important" />
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSamples_resized.jpg" alt="UMAP embedding with sample EEG patterns" style="height: 300px !important" />
@@ -49,7 +49,7 @@ Transforming clinical data into life-saving insights for brain health.
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_model_180K_resized.jpg" alt="UMAP embedding of SSD model on 180K samples" style="height: 300px !important" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.png" alt="BDSP spectrogram example" style="height: 300px !important" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.jpg" alt="BDSP spectrogram example" style="height: 300px !important" />
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_spikeBurden_180K.png_resized.jpg" alt="PACMAP embedding colored by spike burden" style="height: 300px !important" />
