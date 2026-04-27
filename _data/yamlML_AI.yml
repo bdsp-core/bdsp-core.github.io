@@ -1015,16 +1015,6 @@
     display: 'JMIR AI 2023 Jan-Dec; 2 (1) doi: 10.2196/46769. Epub 2023 Jul 26. PMID:38090533
       ; PMCID:PMC10715804 '
   highlight: 0
-- title: '"ProductGraphSleepNet: Sleep staging using product spatio-temporal graph
-    learning with attentive temporal aggregation."'
-  image: ''
-  description: ''
-  authors: Einizade A, Nasiri S, Sardouie SH, Clifford GD.
-  link:
-    url: https://pubmed.ncbi.nlm.nih.gov/37245479
-    display: 'Neural Netw 2023 Jul; 164 :667-680 doi: 10.1016/j.neunet.2023.05.016.
-      Epub 2023 May 13. PMID:37245479 '
-  highlight: 0
 - title: '"Identification of patients with epilepsy using automated electronic health
     records phenotyping."'
   image: ''
@@ -1096,16 +1086,6 @@
     url: https://bdsp-core.github.io/cdac-downloads/2022_Singh_Neuroinformatics_35347570.pdf
     display: 'Neuroinformatics 2022 Oct; 20 (4) :943-964 doi: 10.1007/s12021-022-09572-9.
       Epub 2022 Mar 28. PMID:35347570 ; PMCID:PMC9515245 '
-  highlight: 0
-- title: '"Artificial intelligence foundation for therapeutic science."'
-  image: ''
-  description: ''
-  authors: Huang K, Fu T, Gao W, Zhao Y, Roohani Y, Leskovec J, Coley CW, Xiao C,
-    Sun J, Zitnik M.
-  link:
-    url: https://pubmed.ncbi.nlm.nih.gov/36131149
-    display: 'Nat Chem Biol 2022 Oct; 18 (10) :1033-1036 doi: 10.1038/s41589-022-01131-2.
-      PMID:36131149 ; PMCID:PMC9529840 '
   highlight: 0
 - title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
     and Deep Neural Networks."'
