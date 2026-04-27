@@ -24,6 +24,15 @@ CDAC_DOWNLOADS_API = "https://api.github.com/repos/bdsp-core/cdac-downloads/cont
 CDAC_DOWNLOADS_BASE = "https://bdsp-core.github.io/cdac-downloads/"
 PDF_PMID_RE = re.compile(r"_(\d{7,9})\.pdf$", re.IGNORECASE)
 
+# PMIDs that PubMed's "Westover MB[Author]" search returns but do not actually
+# belong to Brandon Westover (different M. Westover, ambiguous author records,
+# etc.). Confirmed with the PI; never add these to the publication YAMLs.
+EXCLUDE_PMIDS = {
+    "37245479",  # Einizade et al, ProductGraphSleepNet (no Westover author)
+    "36131149",  # Huang et al, AI foundation for therapeutic science (no Westover)
+    "34889311",  # Kanth et al, Cancer Risk in Serrated Polyposis (different M Westover)
+}
+
 
 def fetch_pdf_pmid_map():
     """Return {PMID: download_url} for PDFs in the cdac-downloads repo whose
@@ -159,7 +168,7 @@ class PubMedScraper:
                 # Parse publications
                 for article in root.findall('.//PubmedArticle'):
                     pub = self.parse_article(article)
-                    if pub:
+                    if pub and pub.get('pmid') not in EXCLUDE_PMIDS:
                         all_publications.append(pub)
                         
                 # Rate limiting
