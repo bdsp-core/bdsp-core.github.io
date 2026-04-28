@@ -176,9 +176,9 @@
     in ICU patients — analysis code, deidentification pipeline, and ancillary materials.'
   url: https://github.com/bdsp-core/ICU_SLEEP
   language: Jupyter Notebook
-  stars: 0
+  stars: 1
   forks: 0
-  updated_at: '2026-04-26'
+  updated_at: '2026-04-27'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -318,7 +318,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-23'
+  updated_at: '2026-04-27'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -975,9 +975,9 @@
   description: Inter-rater reliability of EEG-based encephalopathy grading
   url: https://github.com/bdsp-core/EGG-IRR-1.0
   language: MATLAB
-  stars: 0
+  stars: 1
   forks: 0
-  updated_at: '2025-06-05'
+  updated_at: '2026-04-26'
   visibility: public
   category: Delirium, Encephalopathy & CAR-T Neurotoxicity
   category_slug: delirium-encephalopathy-car-t-neurotoxicity
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-26'
+  updated_at: '2026-04-27'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2319,7 +2319,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-24'
+  updated_at: '2026-04-27'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2331,7 +2331,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-04-26'
+  updated_at: '2026-04-27'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2344,6 +2344,19 @@
   stars: 0
   forks: 0
   updated_at: '2026-04-26'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: cdac-downloads
+  description: Downloadable assets (PDFs, slides, checklists, manuscripts) linked
+    from the CDAC / BDSP website
+  url: https://github.com/bdsp-core/cdac-downloads
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-27'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2391,7 +2404,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-09'
+  updated_at: '2026-04-27'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2472,10 +2485,10 @@
 - name: nax_llm_batch_processing
   description: No description provided.
   url: https://github.com/bdsp-core/nax_llm_batch_processing
-  language: Jupyter Notebook
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-10'
+  updated_at: '2026-04-28'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
