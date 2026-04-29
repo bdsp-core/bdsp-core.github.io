@@ -233,6 +233,241 @@
     display: 'Journal of sleep research. 2012. 21(1). 101-12. doi: 10.1111/j.1365-2869.2011.00935.x.
       PMID: 21752133.'
   highlight: 0
+- title: '"The Boston Children''s Hospital Sleep Corpus: A Collection of 15,695 Annotated
+    Pediatric Polysomnograms."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra
+    A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone
+    KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo
+    G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski
+    K, Katwa U
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_Unknown_40971987.pdf
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf273. PMID: 40971987.'
+  highlight: 0
+- title: '"Associations between anaesthetic dose-adjusted intraoperative EEG alpha
+    power, processing speed, and postoperative delirium: analysis of data from three
+    prospective studies."'
+  image: ''
+  description: ''
+  authors: Reese M, Wright MC, Roberts KC, Browndyke JN, Bennett M, Acker L, Devinney
+    MJ, Reekes TH, Waligorska T, Shaw LM, Blennow K, Zetterberg H, Cohen HJ, Mathew
+    JP, Whitson HE, Westover MB, Woldorff MG, Berger M
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Reese_Unknown_40221315.pdf
+    display: 'British journal of anaesthesia. 2025. 135(1). 109-120. doi: 10.1016/j.bja.2024.12.041.
+      PMID: 40221315.'
+  highlight: 0
+- title: '"Erratum: Teaching the 6 EEG Spectrogram Patterns Using an Infographic."'
+  image: ''
+  description: ''
+  authors: Marcinski Nascimento KJ, Westover MB, Nascimento FA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Marcinski_NeurolEduc_40083392.pdf
+    display: 'Neurology. Education. 2025. 4(1). e200171. doi: 10.1212/NE9.0000000000200171.
+      PMID: 40083392.'
+  highlight: 0
+- title: '"Teaching the 6 EEG Spectrogram Patterns Using an Infographic."'
+  image: ''
+  description: ''
+  authors: Marcinski Nascimento KJ, Westover MB, Nascimento FA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Marcinski_NeurolEduc_39360183.pdf
+    display: 'Neurology. Education. 2024. 3(4). e200158. doi: 10.1212/NE9.0000000000200158.
+      PMID: 39360183.'
+  highlight: 0
+- title: '"Classification of autism spectrum disorder using electroencephalography
+    in Chinese children: a cross-sectional retrospective study."'
+  image: ''
+  description: ''
+  authors: Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, Westover MB, Xu H, Kong
+    XJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Ke_FrontNeurosci_38332856.pdf
+    display: 'Frontiers in neuroscience. 2024. 18. 1330556. doi: 10.3389/fnins.2024.1330556.
+      PMID: 38332856.'
+  highlight: 0
+- title: '"An examination of sleep spindle metrics in the Sleep Heart Health Study:
+    superiority of automated spindle detection over total sigma power in assessing
+    age-related spindle decline."'
+  image: ''
+  description: ''
+  authors: Palepu K, Sadeghi K, Kleinschmidt DF, Donoghue J, Chapman S, Arslan AR,
+    Westover MB, Cash SS, Pathmanathan J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Palepu_BMCNeurol_37803266.pdf
+    display: 'BMC neurology. 2023. 23(1). 359. doi: 10.1186/s12883-023-03376-3. PMID:
+      37803266.'
+  highlight: 0
+- title: '"Automated detection of immune effector cell-associated neurotoxicity syndrome
+    via quantitative EEG."'
+  image: ''
+  description: ''
+  authors: Eckhardt CA, Sun H, Malik P, Quadri S, Santana Firme M, Jones DK, van Sleuwen
+    M, Jain A, Fan Z, Jing J, Ge W, Danish HH, Jacobson CA, Rubin DB, Kimchi EY, Cash
+    SS, Frigault MJ, Lee JW, Dietrich J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Eckhardt_AnnClinTranslNeurol_37545104.pdf
+    display: 'Annals of clinical and translational neurology. 2023. 10(10). 1776-1789.
+      doi: 10.1002/acn3.51866. PMID: 37545104.'
+  highlight: 0
+- title: '"A Primer on EEG Spectrograms."'
+  image: ''
+  description: ''
+  authors: Ng MC, Jing J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Ng_JClinNeurophysiol_34510095.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2022. 39(3). 177-183. doi: 10.1097/WNP.0000000000000736.
+      PMID: 34510095.'
+  highlight: 0
+- title: '"Decoding the Spectrogram Rainbow."'
+  image: ''
+  description: ''
+  authors: Ng MC, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Ng_JClinNeurophysiol_34510094.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2022. 39(3). 176. doi: 10.1097/WNP.0000000000000741.
+      PMID: 34510094.'
+  highlight: 0
+- title: '"The Utility of Quantitative EEG in Detecting Delayed Cerebral Ischemia
+    After Aneurysmal Subarachnoid Hemorrhage."'
+  image: ''
+  description: ''
+  authors: Baang HY, Chen HY, Herman AL, Gilmore EJ, Hirsch LJ, Sheth KN, Petersen
+    NH, Zafar SF, Rosenthal ES, Westover MB, Kim JA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Baang_JClinNeurophysiol_34510093.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2022. 39(3). 207-215. doi: 10.1097/WNP.0000000000000754.
+      PMID: 34510093.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Rubin_Brain_32268366.pdf
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Quantitative EEG reactivity and machine learning for prognostication in
+    hypoxic-ischemic brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
+    Scirica BM, Lee JW, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Amorim_ClinNeurophysiol_31419742.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2019. 130(10). 1908-1916. doi: 10.1016/j.clinph.2019.07.014.
+      PMID: 31419742.'
+  highlight: 0
+- title: '"Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns."'
+  image: ''
+  description: ''
+  authors: Jing J, d’Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim S,
+    Dauwels J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Jing_AnnuIntConfIEEEEngMedBiolSoc_30441116.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2018. 2018. 3394-3397. doi: 10.1109/EMBC.2018.8513059.
+      PMID: 30441116.'
+  highlight: 0
+- title: '"Performance of Spectrogram-Based Seizure Identification of Adult EEGs by
+    Critical Care Nurses and Neurophysiologists."'
+  image: ''
+  description: ''
+  authors: Amorim E, Williamson CA, Moura LMVR, Shafi MM, Gaspard N, Rosenthal ES,
+    Guanci MM, Rajajee V, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Amorim_JClinNeurophysiol_27930420.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2017. 34(4). 359-364. doi: 10.1097/WNP.0000000000000368.
+      PMID: 27930420.'
+  highlight: 0
+- title: '"Sensitivity of quantitative EEG for seizure identification in the intensive
+    care unit."'
+  image: ''
+  description: ''
+  authors: Haider HA, Esteller R, Hahn CD, Westover MB, Halford JJ, Lee JW, Shafi
+    MM, Gaspard N, Herman ST, Gerard EE, Hirsch LJ, Ehrenberg JA, LaRoche SM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Haider_Neurology_27466474.pdf
+    display: 'Neurology. 2016. 87(9). 935-44. doi: 10.1212/WNL.0000000000003034. PMID:
+      27466474.'
+  highlight: 0
+- title: '"Automation of Classical QEEG Trending Methods for Early Detection of Delayed
+    Cerebral Ischemia: More Work to Do."'
+  image: ''
+  description: ''
+  authors: Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor
+    K, Rosenthal ES, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Wickering_JClinNeurophysiol_27258446.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2016. 33(3). 227-34. doi: 10.1097/WNP.0000000000000278.
+      PMID: 27258446.'
+  highlight: 0
+- title: '"Clustering analysis to identify distinct spectral components of encephalogram
+    burst suppression in critically ill patients."'
+  image: ''
+  description: ''
+  authors: Zhou DW, Westover MB, McClain LM, Nagaraj SB, Bajwa EK, Quraishi SA, Akeju
+    O, Cobb JP, Purdon PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Zhou_AnnuIntConfIEEEEngMedBiolSoc_26737967.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7258-61. doi: 10.1109/EMBC.2015.7320067.
+      PMID: 26737967.'
+  highlight: 0
+- title: '"A comparison of propofol- and dexmedetomidine-induced electroencephalogram
+    dynamics using spectral and coherence analysis."'
+  image: ''
+  description: ''
+  authors: Akeju O, Pavone KJ, Westover MB, Vazquez R, Prerau MJ, Harrell PG, Hartnack
+    KE, Rhee J, Sampson AL, Habeeb K, Gao L, Pierce ET, Walsh JL, Brown EN, Purdon
+    PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Akeju_Anesthesiology_25187999.pdf
+    display: 'Anesthesiology. 2014. 121(5). 978-89. doi: 10.1097/ALN.0000000000000419.
+      PMID: 25187999.'
+  highlight: 0
+- title: '"Spectrogram screening of adult EEGs is sensitive and efficient."'
+  image: ''
+  description: ''
+  authors: Moura LM, Shafi MM, Ng M, Pati S, Cash SS, Cole AJ, Hoch DB, Rosenthal
+    ES, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Moura_Neurology_24857926.pdf
+    display: 'Neurology. 2014. 83(1). 56-64. doi: 10.1212/WNL.0000000000000537. PMID:
+      24857926.'
+  highlight: 0
+- title: '"Sensitivity of compressed spectral arrays for detecting seizures in acutely
+    ill adults."'
+  image: ''
+  description: ''
+  authors: Williamson CA, Wahlster S, Shafi MM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Williamson_NeurocritCare_24052456.pdf
+    display: 'Neurocritical care. 2014. 20(1). 32-9. doi: 10.1007/s12028-013-9912-4.
+      PMID: 24052456.'
+  highlight: 0
+- title: '"Classification algorithms for predicting sleepiness and sleep apnea severity."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Mietus JE, Thomas RJ, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Eiseman_JSleepRes_21752133.pdf
+    display: 'Journal of sleep research. 2012. 21(1). 101-12. doi: 10.1111/j.1365-2869.2011.00935.x.
+      PMID: 21752133.'
+  highlight: 0
 - title: '"Erratum: Teaching the 6 EEG Spectrogram Patterns Using an Infographic."'
   image: ''
   description: ''
