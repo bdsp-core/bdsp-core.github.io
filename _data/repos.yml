@@ -318,7 +318,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-27'
+  updated_at: '2026-04-30'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-04-29'
+  updated_at: '2026-04-30'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2319,7 +2319,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-29'
+  updated_at: '2026-04-30'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2404,7 +2404,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-30'
+  updated_at: '2026-05-01'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2418,6 +2418,18 @@
   forks: 0
   updated_at: '2026-04-26'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: hrv-tools
+  description: ECG, RR intervals, Heart Rate Variability & Co
+  url: https://github.com/bdsp-core/hrv-tools
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-30'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2488,7 +2500,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-28'
+  updated_at: '2026-04-30'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
