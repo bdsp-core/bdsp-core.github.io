@@ -861,6 +861,174 @@
     display: 'Neurology. 2023. 101(9). e940-e952. doi: 10.1212/WNL.0000000000207537.
       PMID: 37414565.'
   highlight: 0
+- title: '"Electroencephalogram Burst-suppression during Cardiopulmonary Bypass in
+    Elderly Patients Mediates Postoperative Delirium."'
+  image: ''
+  description: ''
+  authors: Pedemonte JC, Plummer GS, Chamadia S, Locascio JJ, Hahm E, Ethridge B,
+    Gitlin J, Ibala R, Mekonnen J, Colon KM, Westover MB, D'Alessandro DA, Tolis G,
+    Houle T, Shelton KT, Qu J, Akeju O
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Pedemonte_Anesthesiology_32349072.pdf
+    display: 'Anesthesiology. 2020. 133(2). 280-292. doi: 10.1097/ALN.0000000000003328.
+      PMID: 32349072.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Rubin_Brain_32268366.pdf
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Burst Suppression: Causes and Effects on Mortality in Critical Illness."'
+  image: ''
+  description: ''
+  authors: Hogan J, Sun H, Aboul Nour H, Jing J, Tabaeizadeh M, Shoukat M, Javed F,
+    Kassa S, Edhi MM, Bordbar E, Gallagher J, Junior VM, Ghanta M, Shao YP, Akeju
+    O, Cole AJ, Rosenthal ES, Zafar S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Hogan_NeurocritCare_32096120.pdf
+    display: 'Neurocritical care. 2020. 33(2). 565-574. doi: 10.1007/s12028-020-00932-4.
+      PMID: 32096120.'
+  highlight: 0
+- title: '"Design, implementation, and evaluation of a physiological closed-loop control
+    device for medically-induced coma."'
+  image: ''
+  description: ''
+  authors: Purdon PL, Solt K, Sims NM, Brown EN, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Jingzhi_AnnuIntConfIEEEEngMedBiolSoc_29060851.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2017. 2017. 4313-4316. doi: 10.1109/EMBC.2017.8037810.
+      PMID: 29060851.'
+  highlight: 0
+- title: '"Monitoring burst suppression in critically ill patients: Multi-centric
+    evaluation of a novel method."'
+  image: ''
+  description: ''
+  authors: Fürbass F, Herta J, Koren J, Westover MB, Hartmann MM, Gruber A, Baumgartner
+    C, Kluge T
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Furbass_ClinNeurophysiol_26971487.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2016. 127(4). 2038-46. doi: 10.1016/j.clinph.2016.02.001.
+      PMID: 26971487.'
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_An_AnnuIntConfIEEEEngMedBiolSoc_26738009.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7430-3. doi: 10.1109/EMBC.2015.7320109.
+      PMID: 26738009.'
+  highlight: 0
+- title: '"Clustering analysis to identify distinct spectral components of encephalogram
+    burst suppression in critically ill patients."'
+  image: ''
+  description: ''
+  authors: Zhou DW, Westover MB, McClain LM, Nagaraj SB, Bajwa EK, Quraishi SA, Akeju
+    O, Cobb JP, Purdon PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Zhou_AnnuIntConfIEEEEngMedBiolSoc_26737967.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7258-61. doi: 10.1109/EMBC.2015.7320067.
+      PMID: 26737967.'
+  highlight: 0
+- title: '"Robust control of burst suppression for medical coma."'
+  image: ''
+  description: ''
+  authors: Westover MB, Kim SE, Ching S, Purdon PL, Brown EN
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Westover_JNeuralEng_26020243.pdf
+    display: 'Journal of neural engineering. 2015. 12(4). 046004. doi: 10.1088/1741-2560/12/4/046004.
+      PMID: 26020243.'
+  highlight: 0
+- title: '"The human burst suppression electroencephalogram of deep hypothermia."'
+  image: ''
+  description: ''
+  authors: Westover MB, Ching S, Kumaraswamy VM, Akeju SO, Pierce E, Cash SS, Kilbride
+    R, Brown EN, Purdon PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Westover_ClinNeurophysiol_25649968.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2015. 126(10). 1901-1914. doi: 10.1016/j.clinph.2014.12.022.
+      PMID: 25649968.'
+  highlight: 0
+- title: '"Burst suppression in sleep in a routine outpatient EEG."'
+  image: ''
+  description: ''
+  authors: Kheder A, Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Kheder_EpilepsyBehavCaseRep_25667874.pdf
+    display: 'Epilepsy & behavior case reports. 2014. 2. 71-4. doi: 10.1016/j.ebcr.2014.01.003.
+      PMID: 25667874.'
+  highlight: 0
+- title: '"Propofol and sevoflurane induce distinct burst suppression patterns in
+    rats."'
+  image: ''
+  description: ''
+  authors: Kenny JD, Westover MB, Ching S, Brown EN, Solt K
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Kenny_FrontSystNeurosci_25565990.pdf
+    display: 'Frontiers in systems neuroscience. 2014. 8. 237. doi: 10.3389/fnsys.2014.00237.
+      PMID: 25565990.'
+  highlight: 0
+- title: '"Real-time segmentation and tracking of brain metabolic state in ICU EEG
+    recordings of burst suppression."'
+  image: ''
+  description: ''
+  authors: Westover MB, Ching S, Shafi MM, Cash SS, Brown EN
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2013_Westover_AnnuIntConfIEEEEngMedBiolSoc_24111383.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2013. 2013. 7108-11. doi: 10.1109/EMBC.2013.6611196.
+      PMID: 24111383.'
+  highlight: 0
+- title: '"Real-time closed-loop control in a rodent model of medically induced coma
+    using burst suppression."'
+  image: ''
+  description: ''
+  authors: Ching S, Liberman MY, Chemali JJ, Westover MB, Kenny JD, Solt K, Purdon
+    PL, Brown EN
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2013_Ching_Anesthesiology_23770601.pdf
+    display: 'Anesthesiology. 2013. 119(4). 848-60. doi: 10.1097/ALN.0b013e31829d4ab4.
+      PMID: 23770601.'
+  highlight: 0
+- title: '"Early Burst Suppression Similarity Association with Structural Brain Injury
+    Severity on MRI After Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Shivdat S, Zhan T, De Palma A, Zheng WL, Krishnamurthy P, Paneerselvam
+    E, Snider S, Bevers M, O'Reilly UM, Lee JW, Westover MB, Amorim E
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Shivdat_NeurocritCare_39043984.pdf
+    display: 'Neurocritical care. 2025. 42(1). 175-184. doi: 10.1007/s12028-024-02047-6.
+      PMID: 39043984.'
+  highlight: 0
+- title: '"Neurophysiology State Dynamics Underlying Acute Neurologic Recovery After
+    Cardiac Arrest."'
+  image: ''
+  description: ''
+  authors: Amorim E, Zheng WL, Jing J, Ghassemi MM, Lee JW, Wu O, Herman ST, Pang
+    T, Sivaraju A, Gaspard N, Hirsch L, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer
+    J, van Putten MJAM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Amorim_Neurology_37414565.pdf
+    display: 'Neurology. 2023. 101(9). e940-e952. doi: 10.1212/WNL.0000000000207537.
+      PMID: 37414565.'
+  highlight: 0
 - title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
     status epilepticus."'
   image: ''
