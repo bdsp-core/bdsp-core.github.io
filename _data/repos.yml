@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-02'
+  updated_at: '2026-05-03'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2319,7 +2319,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-30'
+  updated_at: '2026-05-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2331,7 +2331,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-02'
+  updated_at: '2026-05-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2404,8 +2404,21 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-02'
+  updated_at: '2026-05-03'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: grond-manuscript
+  description: GROND manuscript (TeX + figures); imported into Overleaf. Code lives
+    in bdsp-core/grond.
+  url: https://github.com/bdsp-core/grond-manuscript
+  language: TeX
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-03'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
