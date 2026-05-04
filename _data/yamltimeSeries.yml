@@ -158,6 +158,26 @@
     display: 'Data mining and knowledge discovery. 2011. 22(1-2). 73-105. doi: 10.1007/s10618-010-0176-8.
       PMID: 32153346.'
   highlight: 0
+- title: '"ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit."'
+  image: ''
+  description: ''
+  authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Rebergen_JClinMonitComput_28210934.pdf
+    display: 'Journal of clinical monitoring and computing. 2018. 32(1). 53-61. doi:
+      10.1007/s10877-017-9999-9. PMID: 28210934.'
+  highlight: 0
+- title: '"A disk-aware algorithm for time series motif discovery."'
+  image: ''
+  description: ''
+  authors: Mueen A, Keogh E, Zhu Q, Cash SS, Westover MB, Bigdely-Shamlo N
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2011_Mueen_DataMinKnowlDiscov_32153346.pdf
+    display: 'Data mining and knowledge discovery. 2011. 22(1-2). 73-105. doi: 10.1007/s10618-010-0176-8.
+      PMID: 32153346.'
+  highlight: 0
 - title: '"Addressing Big Data Time Series: Mining Trillions of Time Series Subsequences
     Under Dynamic Time Warping."'
   image: ''
