@@ -299,6 +299,49 @@
     display: 'Neurocritical care. 2016. 24(2). 233-9. doi: 10.1007/s12028-015-0151-8.
       PMID: 26013921.'
   highlight: 0
+- title: '"Do Triphasic Waves and Nonconvulsive Status Epilepticus Arise From Similar
+    Mechanisms? A Computational Model."'
+  image: ''
+  description: ''
+  authors: Ligtenstein S, Song J, Jin J, Sun H, Paixao L, Zafar S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Ligtenstein_JClinNeurophysiol_34155185.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2021. 38(5). 366-375. doi: 10.1097/WNP.0000000000000719.
+      PMID: 34155185.'
+  highlight: 0
+- title: '"A novel neural computational model of generalized periodic discharges in
+    acute hepatic encephalopathy."'
+  image: ''
+  description: ''
+  authors: Song JL, Paixao L, Li Q, Li SH, Zhang R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Song_JComputNeurosci_31506807.pdf
+    display: 'Journal of computational neuroscience. 2019. 47(2-3). 109-124. doi:
+      10.1007/s10827-019-00727-3. PMID: 31506807.'
+  highlight: 0
+- title: '"A Mean Field Model of Acute Hepatic Encephalopathy."'
+  image: ''
+  description: ''
+  authors: Song J, Sun H, Jing J, Carlos L, Chao L, Cash SS, Zhang R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Song_AnnuIntConfIEEEEngMedBiolSoc_30440882.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2018. 2018. 2366-2369. doi: 10.1109/EMBC.2018.8512786.
+      PMID: 30440882.'
+  highlight: 0
+- title: '"Response Rates to Anticonvulsant Trials in Patients with Triphasic-Wave
+    EEG Patterns of Uncertain Significance."'
+  image: ''
+  description: ''
+  authors: O'Rourke D, Chen PM, Gaspard N, Foreman B, McClain L, Karakis I, Mahulikar
+    A, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_ORourke_NeurocritCare_26013921.pdf
+    display: 'Neurocritical care. 2016. 24(2). 233-9. doi: 10.1007/s12028-015-0151-8.
+      PMID: 26013921.'
+  highlight: 0
 - title: '"Response Rates to Anticonvulsant Trials in Patients with Triphasic-Wave
     EEG Patterns of Uncertain Significance."'
   image: ''
