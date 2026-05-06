@@ -103,8 +103,8 @@
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
   stars: 15
-  forks: 5
-  updated_at: '2026-04-20'
+  forks: 6
+  updated_at: '2026-05-05'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-04'
+  updated_at: '2026-05-05'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2331,7 +2331,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-04'
+  updated_at: '2026-05-05'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2574,6 +2574,18 @@
   stars: 5
   forks: 0
   updated_at: '2026-04-18'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: sleep-phenomics-automation
+  description: Sleep Phenomics Automation
+  url: https://github.com/bdsp-core/sleep-phenomics-automation
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-06'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
