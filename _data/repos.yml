@@ -366,7 +366,7 @@
   language: Jupyter Notebook
   stars: 3
   forks: 0
-  updated_at: '2026-05-05'
+  updated_at: '2026-05-07'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -577,7 +577,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2025-09-15'
+  updated_at: '2026-05-07'
   visibility: private
   category: Breathing & Respiratory
   category_slug: breathing-respiratory
@@ -777,10 +777,10 @@
     detection.
   url: https://github.com/bdsp-core/morgoth
   language: Python
-  stars: 15
-  forks: 5
-  updated_at: '2026-05-03'
-  visibility: public
+  stars: 3
+  forks: 0
+  updated_at: '2026-05-06'
+  visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
   topics: []
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-05'
+  updated_at: '2026-05-06'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2072,9 +2072,9 @@
   description: Tools for managing and querying the Harvard EEG Database.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
   language: Jupyter Notebook
-  stars: 11
+  stars: 12
   forks: 1
-  updated_at: '2026-04-09'
+  updated_at: '2026-05-07'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2331,7 +2331,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-05'
+  updated_at: '2026-05-06'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
