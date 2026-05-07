@@ -385,6 +385,44 @@
   authors: Chang CY, Moss R, Westover MB, Goldenholz DM
   link:
     url: https://bdsp-core.github.io/cdac-downloads/2026_Chang_Epilepsia_41474369.pdf
+    display: 'Epilepsia. 2026. 67(4). 1587-1588. doi: 10.1002/epi.70083. PMID: 41474369.'
+  highlight: 0
+- title: '"Rigorous evaluation of five models for e-diary-only seizure forecasting:
+    Retrospective and prospective datasets do not outperform the Napkin method."'
+  image: ''
+  description: ''
+  authors: Chang CY, Moss R, Westover MB, Goldenholz DM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Chang_Epilepsia_41085335.pdf
+    display: 'Epilepsia. 2026. 67(2). 753-761. doi: 10.1111/epi.18677. PMID: 41085335.'
+  highlight: 0
+- title: '"Necessary for seizure forecasting outcome metrics: Seizure frequency and
+    benchmark model."'
+  image: ''
+  description: ''
+  authors: Chang CY, Zhang B, Moss R, Picard R, Westover MB, Goldenholz D
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Chang_EpilepsyRes_39522392.pdf
+    display: 'Epilepsy research. 2024. 208. 107474. doi: 10.1016/j.eplepsyres.2024.107474.
+      PMID: 39522392.'
+  highlight: 0
+- title: '"Necessary for seizure forecasting outcome metrics: seizure frequency and
+    benchmark model."'
+  image: ''
+  description: ''
+  authors: Chang CY, Zhang B, Moss R, Picard R, Westover MB, Goldenholz D
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Chang_medRxiv_38798669.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.05.15.24307446.
+      PMID: 38798669.'
+  highlight: 0
+- title: '"Deployable seizure forecasting requires clinically meaningful performance:
+    Response to Stirling et al."'
+  image: ''
+  description: ''
+  authors: Chang CY, Moss R, Westover MB, Goldenholz DM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Chang_Epilepsia_41474369.pdf
     display: 'Epilepsia. 2025. doi: 10.1002/epi.70083. PMID: 41474369.'
   highlight: 0
 - title: '"Rigorous evaluation of five models for e-diary-only seizure forecasting:
