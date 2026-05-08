@@ -318,7 +318,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-05'
+  updated_at: '2026-05-07'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -551,9 +551,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 9
+  stars: 10
   forks: 1
-  updated_at: '2026-05-04'
+  updated_at: '2026-05-07'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-06'
+  updated_at: '2026-05-07'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2331,7 +2331,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-06'
+  updated_at: '2026-05-07'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2471,6 +2471,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 9
+- name: ilae-skill-certification-test-multi
+  description: No description provided.
+  url: https://github.com/bdsp-core/ilae-skill-certification-test-multi
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-08'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
 - name: Measuring-Expertise-in-Identifying-Interictal-Epileptiform-Discharges
   description: No description provided.
   url: https://github.com/bdsp-core/Measuring-Expertise-in-Identifying-Interictal-Epileptiform-Discharges
@@ -2478,6 +2490,18 @@
   stars: 0
   forks: 0
   updated_at: '2026-04-17'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: morgoth2
+  description: No description provided.
+  url: https://github.com/bdsp-core/morgoth2
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-07'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
