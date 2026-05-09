@@ -176,9 +176,9 @@
     in ICU patients — analysis code, deidentification pipeline, and ancillary materials.'
   url: https://github.com/bdsp-core/ICU_SLEEP
   language: Jupyter Notebook
-  stars: 1
+  stars: 2
   forks: 0
-  updated_at: '2026-04-27'
+  updated_at: '2026-05-08'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-07'
+  updated_at: '2026-05-08'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2331,7 +2331,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-07'
+  updated_at: '2026-05-08'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2345,6 +2345,18 @@
   forks: 0
   updated_at: '2026-04-26'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: bidmc-eeg-archive-pipeline
+  description: This is the code for the BIDMC EEG Archive Pipeline on the Natus Machine.
+  url: https://github.com/bdsp-core/bidmc-eeg-archive-pipeline
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-08'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2495,6 +2507,19 @@
   category_slug: uncategorized
   topics: []
   sort_order: 9
+- name: mgb-eeg-indexing-pipeline
+  description: This is the pipeline for indexing EEG's from BWH and MGH currently
+    being run on the Megatron Machine.
+  url: https://github.com/bdsp-core/mgb-eeg-indexing-pipeline
+  language: ''
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-08'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
 - name: morgoth2
   description: No description provided.
   url: https://github.com/bdsp-core/morgoth2
@@ -2562,6 +2587,19 @@
   stars: 0
   forks: 0
   updated_at: '2026-04-16'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 9
+- name: OMOP-MGB
+  description: This repository is for all the OMOP related code for processing MGB
+    parquet files.
+  url: https://github.com/bdsp-core/OMOP-MGB
+  language: ''
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-08'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
