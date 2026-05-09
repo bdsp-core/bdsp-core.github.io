@@ -80,7 +80,7 @@ Transforming clinical data into life-saving insights for brain health.
   </a>
 </div>
 
-The Clinical Data Animation Center (CDAC) conducts research to preserve and enhance brain health through advanced data science. Affiliated with [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), [Massachusetts General Hospital](https://www.massgeneral.org/), and [MIT](https://www.mit.edu/), we focus on critical neurological conditions including sleep disorders, dementia, epilepsy, and acute brain injuries.
+The Clinical Data Animation Center (CDAC) conducts research to preserve and enhance brain health through advanced data science. Affiliated with [Stanford University](https://med.stanford.edu/), [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), and [Massachusetts General Hospital](https://www.massgeneral.org/), we focus on critical neurological conditions including sleep disorders, dementia, epilepsy, and acute brain injuries.
 
 **Our Approach:** We develop AI models that help doctors clarify risk-benefit tradeoffs in medical decisions, predict neurological outcomes in critical care, and automate complex clinical tasks. Working with diverse patient populations ensures our models perform effectively in real-world settings.
 
