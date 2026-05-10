@@ -1306,6 +1306,115 @@
     display: 'Journal of clinical psychopharmacology. 2014. 34(3). 400-2. doi: 10.1097/JCP.0000000000000134.
       PMID: 24743722.'
   highlight: 0
+- title: '"Multicenter evaluation of the Waveband System for automated sleep assessment
+    in patients with insomnia symptoms."'
+  image: ''
+  description: ''
+  authors: Savietto SF, Guillot A, Harris M, Pathmanathan J, Chan AM, Westover MB,
+    Hill D, Bertaina-Anglade V, Viardot G, Arnal P, Donoghue J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Savietto_Unknown_41903179.pdf
+    display: 'Sleep. 2026. doi: 10.1093/sleep/zsag069. PMID: 41903179.'
+  highlight: 0
+- title: '"Usability and stability of longitudinal at-home sleep evaluation using
+    the Waveband electroencephalogram headband in an insomnia population."'
+  image: ''
+  description: ''
+  authors: Savietto SF, Guillot A, Pathmanathan J, Harris M, Nordstrom K, Westover
+    MB, Lemoine D, Donoghue J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Savietto_SleepAdv_41710032.pdf
+    display: 'Sleep advances : a journal of the Sleep Research Society. 2026. 7(1).
+      zpag001. doi: 10.1093/sleepadvances/zpag001. PMID: 41710032.'
+  highlight: 0
+- title: '"The Boston Children''s Hospital Sleep Corpus: A Collection of 15,695 Annotated
+    Pediatric Polysomnograms."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra
+    A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone
+    KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo
+    G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski
+    K, Katwa U
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_Unknown_40971987.pdf
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf273. PMID: 40971987.'
+  highlight: 0
+- title: '"Big data approaches for novel mechanistic insights on sleep and circadian
+    rhythms: a workshop summary."'
+  image: ''
+  description: ''
+  authors: Baizer L, Bures R, Nadkarni G, Reyes-Guzman C, Ladwa S, Cade B, Westover
+    MB, Durmer J, de Zambotti M, Desai M, Parekh A, Si B, Fernandez-Mendoza J, Minor
+    K, Mazzotti DR, Lee S, Katabi D, Kiss O, Spira AP, Morris J, Seixas A, Kioumourtzoglou
+    MA, Bridges JFP, Brown M, Hale L, Purcell S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Baizer_Sleep_39945146.pdf
+    display: 'Sleep. 2025. 48(6). doi: 10.1093/sleep/zsaf035. PMID: 39945146.'
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: background and implications
+    for clinicians."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Goldstein_JClinSleepMed_32065113.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2020. 16(4). 609-618. doi: 10.5664/jcsm.8388.
+      PMID: 32065113.'
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: an American Academy of Sleep
+    Medicine position statement."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB, Abbasi-Feinberg F, Aurora RN, Carden KA, Kirsch DB, Malhotra RK, Martin JL,
+    Olson EJ, Ramar K, Rosen CL, Rowley JA, Shelgikar AV
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Goldstein_JClinSleepMed_32022674.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2020. 16(4). 605-607. doi: 10.5664/jcsm.8288.
+      PMID: 32022674.'
+  highlight: 0
+- title: '"Expert-level sleep scoring with deep neural networks."'
+  image: ''
+  description: ''
+  authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Biswal_JAmMedInformAssoc_30445569.pdf
+    display: 'Journal of the American Medical Informatics Association : JAMIA. 2018.
+      25(12). 1643-1650. doi: 10.1093/jamia/ocy131. PMID: 30445569.'
+  highlight: 0
+- title: '"Alternative remedies for insomnia: a proposed method for personalized therapeutic
+    trials."'
+  image: ''
+  description: ''
+  authors: Romero K, Goparaju B, Russo K, Westover MB, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Romero_NatSciSleep_28360539.pdf
+    display: 'Nature and science of sleep. 2017. 9. 97-108. doi: 10.2147/NSS.S128095.
+      PMID: 28360539.'
+  highlight: 0
+- title: '"Big data in sleep medicine: prospects and pitfalls in phenotyping."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Russo K, Gabbidon H, Smith T, Goparaju B, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Bianchi_NatSciSleep_28243157.pdf
+    display: 'Nature and science of sleep. 2017. 9. 11-29. doi: 10.2147/NSS.S130141.
+      PMID: 28243157.'
+  highlight: 0
+- title: '"Insomnia and morning motor vehicle accidents: a decision analysis of the
+    risk of hypnotics versus the risk of untreated insomnia."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bianchi_JClinPsychopharmacol_24743722.pdf
+    display: 'Journal of clinical psychopharmacology. 2014. 34(3). 400-2. doi: 10.1097/JCP.0000000000000134.
+      PMID: 24743722.'
+  highlight: 0
 - title: '"Usability and stability of longitudinal at-home sleep evaluation using
     the Waveband electroencephalogram headband in an insomnia population."'
   image: ''

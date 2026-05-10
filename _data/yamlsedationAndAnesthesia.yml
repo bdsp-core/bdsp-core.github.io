@@ -3598,6 +3598,306 @@
     display: 'Anesthesiology. 2013. 119(4). 848-60. doi: 10.1097/ALN.0b013e31829d4ab4.
       PMID: 23770601.'
   highlight: 0
+- title: '"Inferring preoperative cognitive function from intraoperative electroencephalography
+    in elderly patients using machine learning."'
+  image: ''
+  description: ''
+  authors: Pedemonte JC, Sun H, Freedman IG, Turco I, Wiredu K, Penna A, Egana JI,
+    Gutierrez R, Ibacache M, Cortinez LI, Westover MB, Akeju O, Boncompte G
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Pedemonte_Unknown_41790820.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2026. PP. doi: 10.1109/TBME.2026.3671187.
+      PMID: 41790820.'
+  highlight: 0
+- title: '"Association of Time to Continuous EEG Initiation With Outcomes in Critically
+    Ill Patients."'
+  image: ''
+  description: ''
+  authors: Haider MA, Khalil MH, Fernandes MB, Westover MB, Zafar SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Haider_Unknown_40237584.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2026. 43(1). 17-22. doi: 10.1097/WNP.0000000000001161.
+      PMID: 40237584.'
+  highlight: 0
+- title: '"Anesthesia-induced electroencephalogram oscillations and perioperative
+    outcomes in older adults undergoing cardiac surgery."'
+  image: ''
+  description: ''
+  authors: Freedman IG, Boncompte G, Qu JZ, Khawaja ZQ, Turco I, Mueller A, Wiredu
+    K, McKay TB, Westover MB, Pedemonte JC, Akeju O
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Freedman_JClinAnesth_39921932.pdf
+    display: 'Journal of clinical anesthesia. 2025. 102. 111770. doi: 10.1016/j.jclinane.2025.111770.
+      PMID: 39921932.'
+  highlight: 0
+- title: '"A Real-Time Neurophysiologic Stress Test for the Aging Brain: Novel Perioperative
+    and ICU Applications of EEG in Older Surgical Patients."'
+  image: ''
+  description: ''
+  authors: Berger M, Ryu D, Reese M, McGuigan S, Evered LA, Price CC, Scott DA, Westover
+    MB, Eckenhoff R, Bonanni L, Sweeney A, Babiloni C
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Berger_Neurotherapeutics_37436580.pdf
+    display: 'Neurotherapeutics : the journal of the American Society for Experimental
+      NeuroTherapeutics. 2023. 20(4). 975-1000. doi: 10.1007/s13311-023-01401-4. PMID:
+      37436580.'
+  highlight: 0
+- title: '"Monitoring of sedation in mechanically ventilated patients using remote
+    technology."'
+  image: ''
+  description: ''
+  authors: Hanidziar D, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Hanidziar_Unknown_35653256.pdf
+    display: 'Current opinion in critical care. 2022. 28(3). 360-366. doi: 10.1097/MCC.0000000000000940.
+      PMID: 35653256.'
+  highlight: 0
+- title: '"Responsive neurostimulation for focal motor status epilepticus."'
+  image: ''
+  description: ''
+  authors: Yang JC, Harid NM, Nascimento FA, Kokkinos V, Shaughnessy A, Lam AD, Westover
+    MB, Leslie-Mazwi TM, Hochberg LR, Rosenthal ES, Cole AJ, Richardson RM, Cash SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Yang_AnnClinTranslNeurol_33955717.pdf
+    display: 'Annals of clinical and translational neurology. 2021. 8(6). 1353-1361.
+      doi: 10.1002/acn3.51318. PMID: 33955717.'
+  highlight: 0
+- title: '"A Theoretical Paradigm for Evaluating Risk-Benefit of Status Epilepticus
+    Treatment."'
+  image: ''
+  description: ''
+  authors: Amorim E, McGraw CM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Amorim_JClinNeurophysiol_32890059.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2020. 37(5). 385-392. doi: 10.1097/WNP.0000000000000753.
+      PMID: 32890059.'
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients with Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Ayub_medRxiv_32699855.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2020. doi: 10.1101/2020.07.13.20152207.
+      PMID: 32699855.'
+  highlight: 0
+- title: '"Improved tracking of sevoflurane anesthetic states with drug-specific machine
+    learning models."'
+  image: ''
+  description: ''
+  authors: Kashkooli K, Polk SL, Hahm EY, Murphy J, Ethridge BR, Gitlin J, Ibala R,
+    Mekonnen J, Pedemonte JC, Sun H, Westover MB, Barbieri R, Akeju O, Chamadia S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Kashkooli_JNeuralEng_32485685.pdf
+    display: 'Journal of neural engineering. 2020. 17(4). 046020. doi: 10.1088/1741-2552/ab98da.
+      PMID: 32485685.'
+  highlight: 0
+- title: '"Adaptive Sedation Monitoring From EEG in ICU Patients With Online Learning."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Sun H, Akeju O, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Zheng_IEEETransBiomedEng_31545708.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2020. 67(6). 1696-1706.
+      doi: 10.1109/TBME.2019.2943062. PMID: 31545708.'
+  highlight: 0
+- title: '"Drug-Specific Models Improve the Performance of an EEG-based Automated
+    Brain-State Prediction System."'
+  image: ''
+  description: ''
+  authors: Kashkooli K, Polk SL, Chamadia S, Hahm E, Ethridge B, Gitlin J, Ibala R,
+    Mekonnen J, Pedemonte J, Murphy JM, Sun H, Westover MB, Akeju O
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Kashkooli_AnnuIntConfIEEEEngMedBiolSoc_31947172.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2019. 2019. 5808-5811. doi: 10.1109/EMBC.2019.8856935.
+      PMID: 31947172.'
+  highlight: 0
+- title: '"Automatic Detection of General Anesthetic-States using ECG-Derived Autonomic
+    Nervous System Features."'
+  image: ''
+  description: ''
+  authors: Polk SL, Kashkooli K, Nagaraj SB, Chamadia S, Murphy JM, Sun H, Westover
+    MB, Barbieri R, Akeju O
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Polk_AnnuIntConfIEEEEngMedBiolSoc_31946297.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2019. 2019. 2019-2022. doi: 10.1109/EMBC.2019.8857704.
+      PMID: 31946297.'
+  highlight: 0
+- title: '"Automated tracking of level of consciousness and delirium in critical illness
+    using deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng
+    WL, Ge W, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Sun_NPJDigitMed_31508499.pdf
+    display: 'NPJ digital medicine. 2019. 2. 89. doi: 10.1038/s41746-019-0167-0. PMID:
+      31508499.'
+  highlight: 0
+- title: '"Electroencephalogram Based Detection of Deep Sedation in ICU Patients Using
+    Atomic Decomposition."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, McClain LM, Boyle EJ, Zhou DW, Ramaswamy SM, Biswal S, Akeju
+    O, Purdon PL, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Nagaraj_IEEETransBiomedEng_29993386.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2018. 65(12). 2684-2691.
+      doi: 10.1109/TBME.2018.2813265. PMID: 29993386.'
+  highlight: 0
+- title: '"Design, implementation, and evaluation of a physiological closed-loop control
+    device for medically-induced coma."'
+  image: ''
+  description: ''
+  authors: Purdon PL, Solt K, Sims NM, Brown EN, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Jingzhi_AnnuIntConfIEEEEngMedBiolSoc_29060851.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2017. 2017. 4313-4316. doi: 10.1109/EMBC.2017.8037810.
+      PMID: 29060851.'
+  highlight: 0
+- title: '"Patient-Specific Classification of ICU Sedation Levels From Heart Rate
+    Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Biswal S, Boyle EJ, Zhou DW, McClain LM, Bajwa EK, Quraishi
+    SA, Akeju O, Barbieri R, Purdon PL, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Nagaraj_CritCareMed_28441231.pdf
+    display: 'Critical care medicine. 2017. 45(7). e683-e690. doi: 10.1097/CCM.0000000000002364.
+      PMID: 28441231.'
+  highlight: 0
+- title: '"Heart rate variability as a biomarker for sedation depth estimation in
+    ICU patients."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Ramaswamy SM, Biswal S, Boyle EJ, Zhou DW, Mcclain LM, Rosenthal
+    ES, Purdon PL, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Nagaraj_AnnuIntConfIEEEEngMedBiolSoc_28269712.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2016. 2016. 6397-6400. doi: 10.1109/EMBC.2016.7592192.
+      PMID: 28269712.'
+  highlight: 0
+- title: '"Automatic Classification of Sedation Levels in ICU Patients Using Heart
+    Rate Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, McClain LM, Zhou DW, Biswal S, Rosenthal ES, Purdon PL, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Nagaraj_CritCareMed_27035240.pdf
+    display: 'Critical care medicine. 2016. 44(9). e782-9. doi: 10.1097/CCM.0000000000001708.
+      PMID: 27035240.'
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_An_AnnuIntConfIEEEEngMedBiolSoc_26738009.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7430-3. doi: 10.1109/EMBC.2015.7320109.
+      PMID: 26738009.'
+  highlight: 0
+- title: '"Clustering analysis to identify distinct spectral components of encephalogram
+    burst suppression in critically ill patients."'
+  image: ''
+  description: ''
+  authors: Zhou DW, Westover MB, McClain LM, Nagaraj SB, Bajwa EK, Quraishi SA, Akeju
+    O, Cobb JP, Purdon PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Zhou_AnnuIntConfIEEEEngMedBiolSoc_26737967.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7258-61. doi: 10.1109/EMBC.2015.7320067.
+      PMID: 26737967.'
+  highlight: 0
+- title: '"Robust control of burst suppression for medical coma."'
+  image: ''
+  description: ''
+  authors: Westover MB, Kim SE, Ching S, Purdon PL, Brown EN
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Westover_JNeuralEng_26020243.pdf
+    display: 'Journal of neural engineering. 2015. 12(4). 046004. doi: 10.1088/1741-2560/12/4/046004.
+      PMID: 26020243.'
+  highlight: 0
+- title: '"The human burst suppression electroencephalogram of deep hypothermia."'
+  image: ''
+  description: ''
+  authors: Westover MB, Ching S, Kumaraswamy VM, Akeju SO, Pierce E, Cash SS, Kilbride
+    R, Brown EN, Purdon PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Westover_ClinNeurophysiol_25649968.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2015. 126(10). 1901-1914. doi: 10.1016/j.clinph.2014.12.022.
+      PMID: 25649968.'
+  highlight: 0
+- title: '"Burst suppression in sleep in a routine outpatient EEG."'
+  image: ''
+  description: ''
+  authors: Kheder A, Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Kheder_EpilepsyBehavCaseRep_25667874.pdf
+    display: 'Epilepsy & behavior case reports. 2014. 2. 71-4. doi: 10.1016/j.ebcr.2014.01.003.
+      PMID: 25667874.'
+  highlight: 0
+- title: '"Propofol and sevoflurane induce distinct burst suppression patterns in
+    rats."'
+  image: ''
+  description: ''
+  authors: Kenny JD, Westover MB, Ching S, Brown EN, Solt K
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Kenny_FrontSystNeurosci_25565990.pdf
+    display: 'Frontiers in systems neuroscience. 2014. 8. 237. doi: 10.3389/fnsys.2014.00237.
+      PMID: 25565990.'
+  highlight: 0
+- title: '"Effects of sevoflurane and propofol on frontal electroencephalogram power
+    and coherence."'
+  image: ''
+  description: ''
+  authors: Akeju O, Westover MB, Pavone KJ, Sampson AL, Hartnack KE, Brown EN, Purdon
+    PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Akeju_Anesthesiology_25233374.pdf
+    display: 'Anesthesiology. 2014. 121(5). 990-8. doi: 10.1097/ALN.0000000000000436.
+      PMID: 25233374.'
+  highlight: 0
+- title: '"A comparison of propofol- and dexmedetomidine-induced electroencephalogram
+    dynamics using spectral and coherence analysis."'
+  image: ''
+  description: ''
+  authors: Akeju O, Pavone KJ, Westover MB, Vazquez R, Prerau MJ, Harrell PG, Hartnack
+    KE, Rhee J, Sampson AL, Habeeb K, Gao L, Pierce ET, Walsh JL, Brown EN, Purdon
+    PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Akeju_Anesthesiology_25187999.pdf
+    display: 'Anesthesiology. 2014. 121(5). 978-89. doi: 10.1097/ALN.0000000000000419.
+      PMID: 25187999.'
+  highlight: 0
+- title: '"Real-time closed-loop control in a rodent model of medically induced coma
+    using burst suppression."'
+  image: ''
+  description: ''
+  authors: Ching S, Liberman MY, Chemali JJ, Westover MB, Kenny JD, Solt K, Purdon
+    PL, Brown EN
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2013_Ching_Anesthesiology_23770601.pdf
+    display: 'Anesthesiology. 2013. 119(4). 848-60. doi: 10.1097/ALN.0b013e31829d4ab4.
+      PMID: 23770601.'
+  highlight: 0
 - title: '"Anesthesia-induced electroencephalogram oscillations and perioperative
     outcomes in older adults undergoing cardiac surgery."'
   image: ''
