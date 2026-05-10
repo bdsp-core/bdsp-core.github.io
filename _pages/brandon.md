@@ -8,6 +8,7 @@ permalink: /brandon/
 <img style="float: right;" src="/images/teampic/mbw_gretchenPic_2022_12_17.jpeg"  height="400">
 ## M. Brandon Westover, MD, PhD
 Professor of Neurology, Stanford University  
+Director, Stanford Epilepsy Center  
 PI, Clinical Data Animation Center (CDAC)  
 Office: Center for Academic Medicine (CAM), 453 Quarry Road, Floor 2, Room 221B, Palo Alto, CA 94304, USA
 
@@ -29,7 +30,7 @@ Office: Center for Academic Medicine (CAM), 453 Quarry Road, Floor 2, Room 221B,
 [Beacon Biosignals, co-founder](https://beacon.bio/)  
 
 ### Bio
-M. Brandon Westover, MD, PhD is the Emily Fisher Landau Professor of Neurology at Harvard Medical School. He earned his PhD in Physics working in the field of information theory. He is a board-certified Neurologist and Clinical Neurophysiologist practicing at Beth Israel Deaconess Medical Center, where he directs the Critical Care EEG Monitoring Service. His research group, the Clinical Data Animation Center, develops machine learning approaches to improve medical care for patients with neurological problems including anoxic brain injury, seizures, cerebral ischemia, delirium, and sleep disorders. He is a co-producer of EEGTalk, author of Pocket Neurology and Atlas of Intensive Care Quantitative EEG, and co-founder of Beacon Biosignals.  
+M. Brandon Westover, MD, PhD is Professor of Neurology at Stanford University and Director of the Stanford Epilepsy Center. He earned his PhD in Physics working in the field of information theory. He is a board-certified Neurologist and Clinical Neurophysiologist. His research group, the Clinical Data Animation Center, develops machine learning approaches to improve medical care for patients with neurological problems including anoxic brain injury, seizures, cerebral ischemia, delirium, and sleep disorders. He is a co-producer of EEGTalk, author of Pocket Neurology and Atlas of Intensive Care Quantitative EEG, and co-founder of Beacon Biosignals.  
 
 ### Research funding
 _CDAC research is funded by the following grants_:   
@@ -54,4 +55,4 @@ Dr. Westover's laboratory is supported by grants from the NIH (R01AG073410, R01H
 [Back to Top](#  )
 
 ### Disclosures
-Disclosures / COI statement: Dr. Westover is a co-founder, serves as a scientific advisor and consultant to, and has a personal equity interest in [Beacon Biosignals](https://beacon.bio/). If you have concerns about Dr. Westover's relationship with Beacon Biosignals, you can contact a Co-Chair of the BIDMC Conflict of Interest Committee, BIDMC Department of Integrity and Compliance, or the BIDMC Speak Up Hotline. Dr. Westover receives royalties for authoring Pocket Neurology from Wolters Kluwer and Atlas of Intensive Care Quantitative EEG by Demos Medical. 
+Disclosures / COI statement: Dr. Westover is a co-founder, serves as a scientific advisor and consultant to, and has a personal equity interest in [Beacon Biosignals](https://beacon.bio/). He receives royalties for authoring Pocket Neurology from Wolters Kluwer and Atlas of Intensive Care Quantitative EEG by Demos Medical.
