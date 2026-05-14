@@ -7,8 +7,10 @@ permalink: /brandon/
 ---
 <img style="float: right;" src="/images/teampic/mbw_gretchenPic_2022_12_17.jpeg"  height="400">
 ## M. Brandon Westover, MD, PhD
-Professor of Neurology, Stanford University  
+Professor, Department of Neurology and Neurological Sciences, Stanford University School of Medicine  
 Director, Stanford Epilepsy Center  
+Director, Neurologic Artificial Intelligence Center  
+Associate Vice Chair for Biostatistical and Bioinformatics Neurosciences  
 PI, Clinical Data Animation Center (CDAC)  
 Office: Center for Academic Medicine (CAM), 453 Quarry Road, Floor 2, Room 221B, Palo Alto, CA 94304, USA
 
@@ -23,11 +25,12 @@ Office: Center for Academic Medicine (CAM), 453 Quarry Road, Floor 2, Room 221B,
 [Blog-AGT](/encrypted-blog-agt/)
 
 ### Affiliations
-[Stanford Medicine, Department of Neurology](https://med.stanford.edu/neurology.html)  
-[BIDMC Neurology Department](https://www.bidmc.org/centers-and-departments/neurology/)  
-[MGH McCance Center for Brain Health, Director of Data Science](https://www.massgeneral.org/neurology/mccance-center/)  
-[Harvard Medical School](https://hms.harvard.edu/)  
+[Stanford Medicine, Department of Neurology and Neurological Sciences](https://med.stanford.edu/neurology.html)  
 [Beacon Biosignals, co-founder](https://beacon.bio/)  
+
+**Affiliate appointments**  
+Department of Biomedical Data Science  
+Department of Psychiatry and Behavioral Sciences / Sleep Medicine  
 
 ### Bio
 M. Brandon Westover, MD, PhD is Professor of Neurology at Stanford University and Director of the Stanford Epilepsy Center. He earned his PhD in Physics working in the field of information theory. He is a board-certified Neurologist and Clinical Neurophysiologist. His research group, the Clinical Data Animation Center, develops machine learning approaches to improve medical care for patients with neurological problems including anoxic brain injury, seizures, cerebral ischemia, delirium, and sleep disorders. He is a co-producer of EEGTalk, author of Pocket Neurology and Atlas of Intensive Care Quantitative EEG, and co-founder of Beacon Biosignals.  
