@@ -14,7 +14,7 @@ Office: Center for Academic Medicine (CAM), 453 Quarry Road, Floor 2, Room 221B,
 
 [Affiliations | ](#affiliations)
 [Bio | ](#bio)
-[CV | ](https://bdsp-core.github.io/cdac-downloads/1-Westover_HMS_CV-2023-01-06.pdf)
+[CV | ](/cv/1-Westover_CV.pdf)
 [Funding | ](#research-funding)
 [Disclosures | ](#disclosures)
 [Quotes | ](/quotes/)
