@@ -178,7 +178,7 @@
   language: Jupyter Notebook
   stars: 2
   forks: 0
-  updated_at: '2026-05-10'
+  updated_at: '2026-05-16'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1499,7 +1499,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-15'
+  updated_at: '2026-05-16'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2416,7 +2416,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-03'
+  updated_at: '2026-05-17'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2429,7 +2429,7 @@
   language: TeX
   stars: 0
   forks: 0
-  updated_at: '2026-05-03'
+  updated_at: '2026-05-17'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2471,13 +2471,32 @@
   category_slug: uncategorized
   topics: []
   sort_order: 9
+- name: iiic-crowdsourcing-wanyee
+  description: Code and data pointers for Kong et al. 2025 (Epilepsia, doi:10.1111/epi.18547)
+    — Evaluating crowdsourcing for ICU EEG annotation
+  url: https://github.com/bdsp-core/iiic-crowdsourcing-wanyee
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-17'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - bdsp
+  - clinical-neurophysiology
+  - crowdsourcing
+  - eeg
+  - epilepsia
+  - iiic
+  sort_order: 9
 - name: ilae-skill-certification-test
   description: No description provided.
   url: https://github.com/bdsp-core/ilae-skill-certification-test
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-05-14'
+  updated_at: '2026-05-17'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2489,7 +2508,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-05-15'
+  updated_at: '2026-05-17'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
