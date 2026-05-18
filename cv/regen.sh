@@ -1,7 +1,18 @@
 #!/usr/bin/env bash
 # Regenerate cv/pages/*.jpg from cv/1-Westover_CV.pdf and update the page
-# count in cv/index.html. Run this whenever the CV PDF is updated.
+# count in cv/index.html.
 #
+# === FOR LOCAL TESTING ONLY ===
+# The production CV pipeline (private repo: mb-westover/cv-build) runs every
+# Sunday, rebuilds the PDF + DOCX, regenerates the 44 JPEGs in this folder,
+# and updates the page count in index.html automatically. You do NOT need to
+# run this script after editing the source Google Docs/Sheets — the cloud
+# workflow handles it.
+#
+# Use this script when you want to verify locally how an updated PDF will
+# render before pushing, e.g. after testing a pipeline change in build_cv/.
+#
+# Usage:
 #   ./cv/regen.sh
 #
 # Requires: pdftoppm (brew install poppler).
