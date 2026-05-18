@@ -61,10 +61,13 @@ sitemap: false
   .cv ol > li { margin-bottom: 18px; }
   .cv ol > li::marker { color: #888; font-weight: 600; }
 
-  /* Pandoc emits the "section heading" digits as numbered list items.
-     Strong children inside top-level <ol><li> are de-facto section titles. */
-  .cv > ol > li > p > strong:first-child,
-  .cv > ol > li > strong:first-child {
+  /* Pandoc emits CV section titles ("Identifying Data", "Bibliography", etc.)
+     as numbered list items containing <strong><span class="smallcaps">...</span></strong>.
+     Style THOSE (the smallcaps span specifically) as section headers — NOT
+     every bold child, since publication citations also use <strong> for the
+     bolded author name and would otherwise be matched. */
+  .cv > ol > li > strong > .smallcaps,
+  .cv > ol > li > p > strong > .smallcaps {
     display: block;
     font-size: 17px;
     text-transform: uppercase;
@@ -72,8 +75,11 @@ sitemap: false
     border-bottom: 2px solid #333;
     padding-bottom: 4px;
     margin-bottom: 10px;
+    font-variant: normal;
+    font-weight: 700;
   }
 
+  /* Fallback small-caps for any other use (none today, but keep for safety). */
   .smallcaps {
     font-variant: small-caps;
     text-transform: lowercase;
