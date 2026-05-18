@@ -1,7 +1,7 @@
 ---
 title: "CDAC - Home"
 layout: homelay
-excerpt: "Clinical Data Animation Center (CDAC) at Harvard Medical School."
+excerpt: "Clinical Data Animation Center (CDAC) — brain-health AI research at Stanford University School of Medicine."
 sitemap: false
 permalink: /
 ---

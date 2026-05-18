@@ -526,6 +526,12 @@ def process_repos(raw_repos):
     repos = []
 
     for r in raw_repos:
+        # Skip private repos — they appear as broken links to public visitors
+        # and clutter the catalog. The GitHub API field is "private": true/false
+        # for the org-listing endpoint; "visibility": "private" for some others.
+        if r.get("private") is True or r.get("visibility") == "private":
+            continue
+
         name = r["name"]
         category = REPO_CATEGORIES.get(name, "Uncategorized")
 
