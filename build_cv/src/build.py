@@ -26,6 +26,7 @@ sys.path.insert(0, str(ROOT / "src"))
 from pubmed import fetch_publications, read_pmid_file
 from assemble import assemble
 from export_pdf import export_pdf
+from export_md import export_md
 from fetch_sections import fetch_all as fetch_gdoc_sections
 from publish import publish as publish_to_website
 from fetch_sheets import fetch_all as fetch_sheet_sections
@@ -93,11 +94,15 @@ def main():
             pdf = export_pdf(out_docx)
             logging.info(f"Wrote {pdf}")
 
+        logging.info("Exporting Markdown for the web viewer...")
+        md = export_md(out_docx)
+        logging.info(f"Wrote {md}")
+
         if args.publish:
             if pdf is None:
                 raise RuntimeError("--publish requires PDF export (don't combine with --no-pdf)")
             logging.info("Publishing to bdsp-core.github.io...")
-            publish_to_website(pdf)
+            publish_to_website(pdf, docx=out_docx, md=md)
 
         logging.info("Build complete.")
     except Exception:

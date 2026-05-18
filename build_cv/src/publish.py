@@ -1,11 +1,17 @@
 """Publish the latest built CV to bdsp-core.github.io.
 
-Drops it in as cv/1-Westover_CV.pdf (stable filename — no need to update the
-brandon.md link on each run). Pulls latest, copies, commits, pushes.
+Pushes three artifacts to stable paths under cv/ on the gh-pages branch:
+  cv/1-Westover_CV.pdf    — authoritative download
+  cv/1-Westover_CV.docx   — Word download
+  cv/cv-content.md        — Jekyll-rendered web view (semantic HTML)
 
-Safety gates: refuses to publish if the new PDF is < 50KB or < 10 pages, since
-that strongly suggests a botched build. Refuses to push to a branch other than
-gh-pages. Refuses if the working tree has unrelated changes staged.
+Stable filenames mean the brandon.md "View CV" / "Download PDF" /
+"Download Word" links never need updating.
+
+Safety gates:
+  - PDF must be >= MIN_BYTES and >= MIN_PAGES (catches botched builds).
+  - Refuses to push to a branch other than gh-pages.
+  - Refuses if the working tree has unrelated staged/unstaged changes.
 """
 
 import logging
@@ -16,9 +22,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO = Path.home() / "GithubRepos" / "bdsp-core.github.io"
-CV_PATH_IN_REPO = "cv/1-Westover_CV.pdf"
+CV_DIR_IN_REPO = "cv"
+PDF_NAME = "1-Westover_CV.pdf"
+DOCX_NAME = "1-Westover_CV.docx"
+MD_NAME = "cv-content.md"
 
-MIN_BYTES = 50_000  # smaller than this means something is wrong
+MIN_BYTES = 50_000  # smaller PDF than this means something is wrong
 MIN_PAGES = 10
 
 
@@ -35,8 +44,13 @@ def _pdf_page_count(pdf_path):
         return -1
 
 
-def publish(pdf_path=None):
-    pdf_path = Path(pdf_path) if pdf_path else _latest_pdf()
+def publish(pdf_path=None, docx=None, md=None):
+    """Copy pdf/docx/md into the website repo, commit, and push.
+
+    For backwards compatibility, only pdf_path is required; docx and md are
+    optional kwargs. The expected caller is build.py, which passes all three.
+    """
+    pdf_path = Path(pdf_path) if pdf_path else _latest_output("*.pdf")
     if not pdf_path.exists():
         raise FileNotFoundError(f"No PDF to publish at {pdf_path}")
 
@@ -48,6 +62,9 @@ def publish(pdf_path=None):
         raise RuntimeError(f"PDF only {pages} pages — refusing to publish.")
     logging.info(f"Publishing {pdf_path.name} ({size} bytes, {pages} pages)")
 
+    docx_path = Path(docx) if docx else _latest_output("*.docx")
+    md_path = Path(md) if md else _latest_output("*.md")
+
     if not REPO.exists():
         raise FileNotFoundError(f"Repo clone not found at {REPO}. See SETUP.md.")
 
@@ -55,38 +72,56 @@ def publish(pdf_path=None):
     if branch != "gh-pages":
         raise RuntimeError(f"Repo is on branch '{branch}', expected 'gh-pages'. Aborting.")
 
-    # Reject if there are unstaged/staged changes to anything OTHER than our target file.
+    targets = {
+        f"{CV_DIR_IN_REPO}/{PDF_NAME}": pdf_path,
+        f"{CV_DIR_IN_REPO}/{DOCX_NAME}": docx_path if docx_path and docx_path.exists() else None,
+        f"{CV_DIR_IN_REPO}/{MD_NAME}":   md_path   if md_path   and md_path.exists()   else None,
+    }
+    paths_in_repo = {p for p in targets.keys()}
+
+    # Reject if there are unstaged/staged changes to anything OTHER than our target files.
     status = _run(["git", "status", "--porcelain"], cwd=REPO).stdout.strip().splitlines()
     untracked_dirs = (".bundle/", "__pycache__/", "vendor/", "venv/", "_site/")
-    foreign = [l for l in status if not (l[3:] == CV_PATH_IN_REPO or any(l[3:].startswith(p) for p in untracked_dirs))]
+    foreign = [
+        l for l in status
+        if not (l[3:] in paths_in_repo or any(l[3:].startswith(p) for p in untracked_dirs))
+    ]
     if foreign:
         raise RuntimeError("Repo has unrelated working-tree changes:\n  " + "\n  ".join(foreign))
 
     _run(["git", "pull", "--ff-only"], cwd=REPO)
 
-    dst = REPO / CV_PATH_IN_REPO
-    dst.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(pdf_path, dst)
+    # Copy each artifact into place
+    changed = []
+    for rel_path, src in targets.items():
+        if src is None:
+            continue
+        dst = REPO / rel_path
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dst)
+        diff_stat = _run(["git", "diff", "--shortstat", "--", rel_path], cwd=REPO).stdout.strip()
+        if diff_stat:
+            _run(["git", "add", rel_path], cwd=REPO)
+            changed.append(rel_path)
+            logging.info(f"  changed: {rel_path}  ({diff_stat})")
+        else:
+            logging.info(f"  no change: {rel_path}")
 
-    diff_stat = _run(["git", "diff", "--shortstat", "--", CV_PATH_IN_REPO], cwd=REPO).stdout.strip()
-    if not diff_stat:
-        logging.info("No changes to publish (PDF is identical to current).")
+    if not changed:
+        logging.info("Nothing to publish (all artifacts unchanged).")
         return
 
-    _run(["git", "add", CV_PATH_IN_REPO], cwd=REPO)
     from datetime import date
     msg = f"CV update {date.today().isoformat()}\n\nAutomated build via build_cv pipeline."
     _run(["git", "commit", "-m", msg], cwd=REPO)
     _run(["git", "push", "origin", "gh-pages"], cwd=REPO)
-    logging.info(f"Pushed CV update — {diff_stat}")
+    logging.info(f"Pushed CV update — {len(changed)} file(s): {', '.join(changed)}")
 
 
-def _latest_pdf():
+def _latest_output(glob):
     out_dir = ROOT / "output"
-    pdfs = sorted(out_dir.glob("*.pdf"))
-    if not pdfs:
-        raise FileNotFoundError(f"No PDFs in {out_dir}")
-    return pdfs[-1]
+    matches = sorted(out_dir.glob(glob))
+    return matches[-1] if matches else None
 
 
 if __name__ == "__main__":

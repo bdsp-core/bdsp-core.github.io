@@ -20,10 +20,12 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - name: Install LibreOffice (for PDF export)
+      - name: Install LibreOffice (PDF export) + pandoc (DOCX→Markdown export)
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-core
+          sudo apt-get install -y --no-install-recommends \
+            libreoffice-writer libreoffice-core \
+            pandoc
 
       - name: Install Python deps
         run: pip install -r requirements.txt
@@ -50,6 +52,7 @@ jobs:
           path: |
             output/*.docx
             output/*.pdf
+            output/*.md
             logs/*.log
 
       - name: Check out website repo
@@ -64,13 +67,17 @@ jobs:
         run: |
           mkdir -p website/cv
           cp output/*.pdf  website/cv/1-Westover_CV.pdf
+          cp output/*.docx website/cv/1-Westover_CV.docx
+          # The .md gets a stable filename so the Jekyll viewer at /cv/
+          # always finds it via {% include_relative cv-content.md %}.
+          cp output/*.md   website/cv/cv-content.md
 
       - name: Commit + push to website
         run: |
           cd website
           git config user.name  "cv-bot"
           git config user.email "cv-bot@users.noreply.github.com"
-          git add cv/1-Westover_CV.pdf
+          git add cv/1-Westover_CV.pdf cv/1-Westover_CV.docx cv/cv-content.md
           if git diff --cached --quiet; then
             echo "No CV changes — nothing to deploy."
             exit 0
