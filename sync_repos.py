@@ -27,6 +27,18 @@ from urllib.error import HTTPError
 # ============================================================
 
 REPO_CATEGORIES = {
+    # --- Manually assigned (May 2026 cleanup pass) ---
+    "bai-dementia": "Brain Age & Brain Health",
+    "dementia-detection-from-sleep": "Brain Age & Brain Health",
+    "sleep-phenomics-automation": "Sleep Staging & Sleep AI",
+    "grond": "Seizures, IIIC Patterns & Spike Detection",
+    "hrv-tools": "ICU & Critical Care",
+    "nax-gcs": "ICU & Critical Care",
+    "cdac-downloads": "Data Platforms & Infrastructure",
+    "paper-agents-figures": "Research Tools & Manuscript AI",
+    "paper-agents-manuscript": "Research Tools & Manuscript AI",
+    "PAT-PaperAssessmentTool": "Research Tools & Manuscript AI",
+
     # --- Sleep Staging & Sleep AI ---
     "sleep_staging_2000pts": "Sleep Staging & Sleep AI",
     "ecg_respiration_sleep_staging": "Sleep Staging & Sleep AI",
@@ -458,6 +470,7 @@ CATEGORY_ORDER = [
     "EHR Phenotyping & Clinical NLP",
     "Noise & Diagnostic Variability",
     "Data Platforms & Infrastructure",
+    "Research Tools & Manuscript AI",
     "Uncategorized",
 ]
 
