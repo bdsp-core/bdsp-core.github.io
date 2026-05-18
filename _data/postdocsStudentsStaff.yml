@@ -18,20 +18,6 @@
   email: nturley1@bidmc.harvard.edu
   number_educ: 1
   education1: Brigham Young University
-- name: Ryan Tesh, BSc
-  photo: Ryan-Tesh.jpeg
-  info: Research coordinator
-  email: tnassi@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Samuel Waters, PhD
-  photo: Waters_Sam_CDAC.JPG
-  info: Postdoctoral Research Fellow
-  email: swaters@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
 - name: Chenxi Sun (孙陈希), PhD
   photo: Sun_Chenxi_CDAC.jpeg
   info: Postdoctoral Research Fellow
@@ -60,18 +46,6 @@
   email: msarami@bidmc.harvard.edu
   number_educ: 1
   education1: Beth Israel Deaconess Medical Center
-- name: <a href="www.linkedin.com/in/imad-akbar-972b79278">Imad Akbar, MD<a/>
-  photo: Akbar_Imad_CDAC.jpeg
-  info: Postdoctoral Research Fellow Intern
-  email: iakbar@bidmc.harvard.edu
-  number_educ: 1
-  education1: Beth Israel Deaconess Medical Center
-- name: Ali Han Yaramis, MD
-  photo: yaramis_alihan_CDAC.jpeg
-  info: Postdoctoral Research Fellow Intern
-  email: ayaramis@bidmc.harvard.edu
-  number_educ: 1
-  education1: Beth Israel Deaconess Medical Center
 - name: Callison Alcott, MD, PhD
   photo: callisonAlcott.jpeg
   info: Child Neurology Resident
@@ -79,32 +53,12 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Boston Children's Hospital
-- name: Wan Yee Kong, MD, MSc
-  photo: wanYeeKong.jpg
-  info: Epilepsy fellow
-  email: wkong@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Katelyn M. Surrao, BS
-  photo: Surrao_Katelyn_CDAC.jpg
-  info: Research Assistant
-  email: ksurrao@bidmc.harvard.edu
-  number_educ: 1
-  education1: Beth Israel Deaconess Medical Center
 - name: Han Wu, MS
   photo: Wu_Han_CDAC.jpg
   info: Bioinformatician
   email: hwu9@bidmc.harvard.edu
   number_educ: 1
   education1: Beth Israel Deaconess Medical Center
-- name: <a href="https://www.linkedin.com/in/tomas-j-maia/">Tomas Maia<a/>
-  photo: Maia_Tomas_photo.jpg
-  info: Research Student Intern
-  email: tmaia@bidmc.harvard.edu
-  number_educ: 2
-  education1: University of Twente
-  education2: Beth Israel Deaconess Medical Center
 - name: Zade Akras
   photo: Zade-Akras.jpeg
   info: Harvard HST Student
@@ -112,13 +66,6 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Harvard-MIT HST Program
-- name: Amber Peng
-  photo: amber_peng_150x150.jpeg
-  info: Undergraduate Research Intern
-  number_educ: 3
-  education1: Massachusetts Institute of Technology
-  education2: EECS
-  education3: Beth Israel Deaconess Medical Center
 - name: Alexandra Tautan, PhD
   photo: alexandraTautan.jpeg
   info: Postdoctoral Research Fellow
@@ -127,14 +74,3 @@
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
   education3: Beth Israel Deaconess Medical Center
-- name: <a href="https://www.linkedin.com/in/carlos-nunez-sosa/">Carlos (宋爱思) Nuñez-Sosa<a/>
-  photo: carlos_nunez_150x150_cropped_enhanced.jpg
-  info: Undergraduate Research Intern
-  number_educ: 2
-  education1: MIT
-  education2: Electrical Engineering and Computer Science & Brain and Cognitive Sciences
-- name: Dan Sumsion
-  photo: danSumsion.jpeg
-  info: Undergraduate - NAX project
-  number_educ: 1
-  education1: Brigham Young University
