@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 # Publications
-[**Higlighted publications**](#highlights)
+[**Highlighted publications**](#highlights)
 
 **A full list of lab publications is available on [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/m.%20brandon.westover.1/bibliography/public/) or [Google scholar](https://scholar.google.com/citations?hl=en&user=helCG6IAAAAJ).**
 
