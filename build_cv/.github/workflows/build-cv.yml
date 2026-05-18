@@ -1,0 +1,80 @@
+name: Build CV
+
+on:
+  schedule:
+    - cron: "0 13 * * 0"     # Sundays at 13:00 UTC (~8am ET)
+  workflow_dispatch:          # manual trigger button in GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out cv-build repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install LibreOffice (for PDF export)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-core
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Write service-account credentials
+        env:
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+        run: |
+          mkdir -p .secrets
+          printf '%s' "$GOOGLE_SA_JSON" > .secrets/sa.json
+
+      - name: Build CV
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/.secrets/sa.json
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+        run: python src/build.py
+
+      - name: Upload build artifacts (debugging)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv-${{ github.run_number }}
+          path: |
+            output/*.docx
+            output/*.pdf
+            logs/*.log
+
+      - name: Check out website repo
+        uses: actions/checkout@v4
+        with:
+          repository: bdsp-core/bdsp-core.github.io
+          ssh-key: ${{ secrets.WEBSITE_DEPLOY_KEY }}
+          path: website
+          persist-credentials: true
+
+      - name: Copy artifacts into website
+        run: |
+          mkdir -p website/cv
+          cp output/*.pdf  website/cv/1-Westover_CV.pdf
+
+      - name: Commit + push to website
+        run: |
+          cd website
+          git config user.name  "cv-bot"
+          git config user.email "cv-bot@users.noreply.github.com"
+          git add cv/1-Westover_CV.pdf
+          if git diff --cached --quiet; then
+            echo "No CV changes — nothing to deploy."
+            exit 0
+          fi
+          git commit -m "Auto-update Westover CV ($(date -u +%Y-%m-%d))"
+          git push
+

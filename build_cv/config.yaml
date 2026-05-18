@@ -1,0 +1,104 @@
+google:
+  credentials: credentials.json
+  token: token.json
+  drive_folder_id: 12TEpcwRVS9paUzP2z-GvIqgn2OnWUxNr
+default_source: local
+sections:
+  honors_awards:
+    sheet_id: 1ynUaEIkHbvTFRm_FrJ3nAXjeyVpFuRKYzdsWWTKRM-U
+    source: sheet
+  academic_appointments:
+    sheet_id: 1nnsUPGY3NsyDX4WYWEw6yR7kmEXqrLibivWBC96VbLM
+    source: sheet
+  other_appointments:
+    sheet_id: 1DdB1wges2xP7_epV8Yq1BSO0PmokX6m1Chhambo5AOA
+    source: sheet
+  colleges:
+    sheet_id: 1R1nzafWWQrl-GGqQNN9AUo5UjVxVSuv7RS_f3bLFVpA
+    source: sheet
+  residency_fellowship:
+    sheet_id: 1VP8Q8BOTWMUpyx3IB-jXwnPFsbFGJA0vFhQfFOpUN6c
+    source: sheet
+  board_certification:
+    sheet_id: 1AxljPoTNFcxPtUV4N_GJI9WzuJ138fPgDaAMHbr4-HU
+    source: sheet
+  grants_current:
+    sheet_id: 19Fqi027lY7mH-FwqCsIeSRkU55xsCWrQIcB4iTBTAVw
+    source: sheet
+  grants_submitted:
+    sheet_id: 1-ogkn8PZ1Wbhue364eeYCE9g0VImgo9iK2pJutTRO-o
+    source: sheet
+  grants_completed:
+    sheet_id: 16qh15Qu9m7BFh5jhiU1h8O-jqNo__GoaLwf6YepoLt0
+    source: sheet
+  editorial_service:
+    sheet_id: 1c_7oI4t7a0POBjMSTM4J7g3IFwVEkDR1HjDNLyi7Uls
+    source: sheet
+  ad_hoc_reviewer:
+    sheet_id: 1Qtsm16dNBTbXioKRYkInCgB1z4380JsxE9zmLmCi1XQ
+    source: sheet
+  grant_reviewer:
+    sheet_id: 12UuaymZqWQlY3GObzgGp52b_XItXRSPWq9DOwYT3XVY
+    source: sheet
+  university_admin_service:
+    sheet_id: 11QE_0hqHyJUCYww_YNdvGrfLl4SlU_Yj1DX2uHdveE4
+    source: sheet
+  service_professional_orgs:
+    sheet_id: 1hi2EeQPVlnKRbcl4ai8_MUbDLMu8USZrqQZuKKFgUVA
+    source: sheet
+  community_service:
+    sheet_id: 1p6cuJwzKjEUwVYO0K42GPfBkQ7mAsG7KapQSb2I-axQ
+    source: sheet
+  invited_grand_rounds:
+    sheet_id: 18P_rpxG_r9PKsF3fAWFoOairb1JlNfLvBUcvxmCOcZc
+    source: sheet
+  invited_local:
+    sheet_id: 1MMo6j759stERVfUEC4znLm8hirS5YZCRtLktYmrC_kk
+    source: sheet
+  invited_national:
+    sheet_id: 1Z3Au7IPiabgKWsY-6_uFFEUHKZkvw6TRAydU4HDj70g
+    source: sheet
+  invited_international:
+    sheet_id: 1x5EFFtQ5lHtZCkLAOgZ1JWEsV-vr_9yZ2T5smyQGmrI
+    source: sheet
+  teaching_stanford:
+    sheet_id: 1DqEretiDtdVZUIeXEFrku8pn1SWfxKvuGqTzEZi4Uis
+    source: sheet
+  teaching_pre_stanford:
+    sheet_id: 1NOgt7ucESitKaFbZ4_uUcwnzApaINoFO3CCIoSPBCek
+    source: sheet
+  trainees_postdoc:
+    sheet_id: 1zlNwggUJoiiRMnfdZGr5_fSRkXlMFd0bnV6itVKAoU4
+    source: sheet
+  trainees_graduate:
+    sheet_id: 1BCvOmNaK2KhgdgtP-zQ_wzlVIgvZG7xqVEn4da0x738
+    source: sheet
+  trainees_med:
+    sheet_id: 1nD3BTbReNFA5E6MMIr97YSVj-s4zVlA9-CiMAN12tVU
+    source: sheet
+  trainees_undergrad:
+    sheet_id: 1IyofyXIDf1q1D_xr-FVtnQ9ZAnBs3sKUBHpMLmaN1m4
+    source: sheet
+  trainees_highschool:
+    sheet_id: 1fjMGRpezgv2s65PhGhovmq5dJn6dbOnse9q55-Xtkfc
+    source: sheet
+  identifying_data:
+    sheet_id: 18AC4TJ9XFTH4znFhgilFThltcAumdHcVlJCkQOZFrDs
+    source: sheet
+  peer_reviewed_in_press:
+    doc_id: 1b9D2dQOCEdaUJR_pI1Mwvxti9fS4cBDtKzNqTi7Y6mg
+    source: gdoc
+  peer_reviewed_other:
+    doc_id: 1PmEcd7rxH9o_p1uGPy_Ldzyw8PpOeW6AbP6LI6IUB8w
+    source: gdoc
+  non_peer_reviewed_articles:
+    doc_id: 1nFu6nYmUVPgofwYXpVyj7qxYBRGP4ZwXqJSr5IRF5OU
+    source: gdoc
+  book_chapters:
+    doc_id: 1vDFGObwx3BTiUVJLIeviABc3UQt6popiedSwvE3jK1g
+    source: gdoc
+publications:
+  source: pmid_file
+  pmid_file: cache/pmids_from_seed.txt
+  mybib_url: ''
+  pubmed_query: ''
