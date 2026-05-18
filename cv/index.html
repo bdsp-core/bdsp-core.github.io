@@ -13,8 +13,9 @@ sitemap: false
   html, body { margin: 0; padding: 0; }
   body {
     font-family: -apple-system, system-ui, "Segoe UI", sans-serif;
-    background: #ececec;
+    background: #f7f7f5;
     color: #222;
+    line-height: 1.55;
   }
   .topbar {
     position: sticky; top: 0; z-index: 10;
@@ -26,20 +27,68 @@ sitemap: false
   }
   .topbar a { color: #6cf; text-decoration: none; margin-left: 18px; }
   .topbar a:hover { text-decoration: underline; }
-  .pages { max-width: 900px; margin: 24px auto; padding: 0 12px; }
-  .pages img {
-    display: block;
-    width: 100%;
-    height: auto;
-    margin-bottom: 16px;
-    background: #fff;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    border: 1px solid #ddd;
+  @media (max-width: 600px) {
+    .topbar { flex-direction: column; align-items: flex-start; gap: 6px; }
+    .topbar a { margin-left: 0; margin-right: 14px; }
   }
-  .pageno {
-    color: #888; font-size: 12px;
-    text-align: right;
-    margin: -10px 4px 18px 0;
+
+  .cv {
+    max-width: 880px;
+    margin: 32px auto 64px;
+    padding: 40px 48px;
+    background: #fff;
+    border: 1px solid #e0e0dc;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+    font-size: 15px;
+  }
+  @media (max-width: 700px) {
+    .cv { padding: 24px 18px; margin: 12px; }
+  }
+
+  .cv h1 { font-size: 22px; margin: 0 0 8px; }
+  .cv h2 {
+    font-size: 17px;
+    margin: 36px 0 10px;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #333;
+    letter-spacing: 0.02em;
+  }
+  .cv h3 { font-size: 15px; margin: 20px 0 6px; color: #333; }
+  .cv h4, .cv h5 { font-size: 14px; margin: 14px 0 4px; }
+
+  .cv p { margin: 6px 0; }
+  .cv ol, .cv ul { padding-left: 22px; margin: 6px 0 18px; }
+  .cv ol > li { margin-bottom: 18px; }
+  .cv ol > li::marker { color: #888; font-weight: 600; }
+
+  /* Pandoc emits the "section heading" digits as numbered list items.
+     Strong children inside top-level <ol><li> are de-facto section titles. */
+  .cv > ol > li > p > strong:first-child,
+  .cv > ol > li > strong:first-child {
+    display: block;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border-bottom: 2px solid #333;
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
+
+  .smallcaps {
+    font-variant: small-caps;
+    text-transform: lowercase;
+    font-weight: 600;
+  }
+
+  .cv a { color: #1466a8; text-decoration: none; }
+  .cv a:hover { text-decoration: underline; }
+  .cv hr { border: 0; border-top: 1px solid #ddd; margin: 24px 0; }
+  .cv table { border-collapse: collapse; margin: 12px 0; }
+  .cv table th, .cv table td { padding: 4px 12px 4px 0; text-align: left; vertical-align: top; }
+
+  .lastbuilt {
+    text-align: center; color: #888; font-size: 12px;
+    margin: 0 0 30px;
   }
 </style>
 </head>
@@ -53,13 +102,12 @@ sitemap: false
   </span>
 </div>
 
-<div class="pages">
-{% for i in (1..44) %}
-  {% assign n = i | prepend: '00' | slice: -2, 2 %}
-  <img src="/cv/pages/page-{{ n }}.jpg" alt="CV page {{ i }}" loading="lazy">
-  <div class="pageno">page {{ i }} / 44</div>
-{% endfor %}
+<div class="cv">
+  {% capture cv_md %}{% include_relative cv-content.md %}{% endcapture %}
+  {{ cv_md | markdownify }}
 </div>
+
+<p class="lastbuilt">Rendered from <code>cv/1-Westover_CV.docx</code>. The Word and PDF downloads above are the authoritative copies.</p>
 
 </body>
 </html>
