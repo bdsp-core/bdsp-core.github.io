@@ -38,3 +38,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+# Plugins (GitHub Pages-whitelisted only)
+plugins:
+  - jekyll-sitemap   # generates /sitemap.xml for SEO discoverability

@@ -1,7 +1,7 @@
 ---
 title: "CDAC - Publications"
 layout: gridlay
-excerpt: "CDAC - Publications."
+excerpt: "Publications of the Clinical Data Animation Center — peer-reviewed research across critical care neurology, sleep medicine, epilepsy, and clinical AI."
 sitemap: false
 permalink: /publications/
 ---
