@@ -1,14 +1,16 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "CDAC Lab at Harvard / BIDMC."
+excerpt: "CDAC news archive."
 sitemap: false
 permalink: /allnews.html
 ---
 
 # News
 
+<div markdown="0">
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline | markdownify}}</em></p>
+<p><strong>{{ article.date }}</strong><br>
+{{ article.headline | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</p>
 {% endfor %}
+</div>
