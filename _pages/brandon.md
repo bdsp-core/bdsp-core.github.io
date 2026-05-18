@@ -1,7 +1,7 @@
 ---
 title: "CDAC - Brandon"
 layout: textlay
-excerpt: "CDAC - brandon webpage"
+excerpt: "M. Brandon Westover, MD, PhD — Professor of Neurology and Director of the Stanford Epilepsy Center, Stanford University School of Medicine."
 sitemap: false
 permalink: /brandon/
 ---
@@ -16,7 +16,7 @@ Office: Center for Academic Medicine (CAM), 453 Quarry Road, Floor 2, Room 221B,
 
 [Affiliations | ](#affiliations)
 [Bio | ](#bio)
-[CV | ](/cv/1-Westover_CV.pdf)
+<a href="/cv/1-Westover_CV.pdf" target="_blank">View CV</a> | <a href="/cv/1-Westover_CV.pdf" download="Westover_CV.pdf">Download CV</a> | 
 [Funding | ](#research-funding)
 [Disclosures | ](#disclosures)
 [Quotes | ](/quotes/)
