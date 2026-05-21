@@ -13372,6 +13372,749 @@
     display: 'Neurocomputing. 2003. 52-54. 671-676. doi: 10.1016/s0925-2312(02)00863-9.
       PMID: 32153320.'
   highlight: 0
+- title: '"Brain Health from Sleep EEG: A Multicohort, Deep Learning Biomarker for
+    Cognition, Disease, and Mortality."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Sun H, Turley N, Tripathi A, Hadar P, Gupta A, Gallagher
+    K, Tesh R, Kim S, Nasiri S, Leng Y, Harrison S, Stone KL, Hughes T, Redline S,
+    Au R, Manoach DS, Landolt HP, Huber R, Mignot E, Shin C, Cash SS, Thomas RJ, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Ganglberger_Unknown_41953210.pdf
+    display: 'NEJM AI. 2026. 3. doi: 10.1056/aioa2500487. PMID: 41953210.'
+  highlight: 0
+- title: '"Machine Learning-Based Sleep Electroencephalographic Brain Age Index and
+    Dementia Risk: An Individual Participant Data Meta-Analysis."'
+  image: ''
+  description: ''
+  authors: Sun H, Milton S, Fang Y, Taha HB, Shiju S, Thomas RJ, Ganglberger W, Pase
+    MP, Hughes T, Purcell S, Redline S, Stone KL, Yaffe K, Westover MB, Leng Y
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Sun_Unknown_41854616.pdf
+    display: 'JAMA network open. 2026. 9(3). e261521. doi: 10.1001/jamanetworkopen.2026.1521.
+      PMID: 41854616.'
+  highlight: 0
+- title: '"Pediatric SleepNet: A Deep Learning Network for Reliable Pediatric Sleep
+    Staging Across Developmental Stages."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Gupta A, Ganglberger W, Waters S, Sun H, Nasiri S, Mitra A,
+    Stone KL, Mignot E, Hwang D, Reyna MA, Trotti LM, Clifford GD, Maski K, Katwa
+    U, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Tripathi_Unknown_41804802.pdf
+    display: 'Sleep. 2026. doi: 10.1093/sleep/zsag064. PMID: 41804802.'
+  highlight: 0
+- title: '"Inferring preoperative cognitive function from intraoperative electroencephalography
+    in elderly patients using machine learning."'
+  image: ''
+  description: ''
+  authors: Pedemonte JC, Sun H, Freedman IG, Turco I, Wiredu K, Penna A, Egana JI,
+    Gutierrez R, Ibacache M, Cortinez LI, Westover MB, Akeju O, Boncompte G
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Pedemonte_Unknown_41790820.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2026. PP. doi: 10.1109/TBME.2026.3671187.
+      PMID: 41790820.'
+  highlight: 0
+- title: '"Strategies for Safer Cefepime Use to Prevent Neurotoxicity Using the Electronic
+    Health Record."'
+  image: ''
+  description: ''
+  authors: Zafar SF, Park H, Letourneau AR, Rock AE, Westover MB, Mukerji SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Zafar_CritCareExplor_41670408.pdf
+    display: 'Critical care explorations. 2026. 8(2). e1380. doi: 10.1097/CCE.0000000000001380.
+      PMID: 41670408.'
+  highlight: 0
+- title: '"The indispensable human factor in EEG-based artificial intelligence."'
+  image: ''
+  description: ''
+  authors: Nascimento FA, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41579049.pdf
+    display: 'Epilepsia. 2026. 67(3). 1517-1518. doi: 10.1002/epi.70085. PMID: 41579049.'
+  highlight: 0
+- title: '"Large-scale automated phenotyping of cardiac arrest and withdrawal of life-sustaining
+    therapy using electronic health record data."'
+  image: ''
+  description: ''
+  authors: Clive C, Singh A, Overmeer B, Boris S, Peterson L, Searle J, Hooke G, Turley
+    N, Fernandes M, Gupta A, Ghanta M, Junior VM, Mukeriji S, Zafar S, Amorim E, Westover
+    MB, Sun H
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Clive_Unknown_41371332.pdf
+    display: 'Resuscitation. 2026. 218. 110919. doi: 10.1016/j.resuscitation.2025.110919.
+      PMID: 41371332.'
+  highlight: 0
+- title: '"Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth."'
+  image: ''
+  description: ''
+  authors: Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Meulenbrugge_Unknown_40276961.pdf
+    display: 'Journal of sleep research. 2026. 35(1). e70074. doi: 10.1111/jsr.70074.
+      PMID: 40276961.'
+  highlight: 0
+- title: '"Artificial intelligence without restriction surpassing human intelligence
+    with probability one: Theoretical insight into secrets of the brain with AI twins
+    of the brain."'
+  image: ''
+  description: ''
+  authors: Huang GB, Westover MB, Tan EK, Wang H, Cui D, Ma WY, Wang T, He Q, Wei
+    H, Wang N, Tian Q, Lam KY, Yao X, Wong TY
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Huang_NeurocomputingAmst_41312528.pdf
+    display: 'Neurocomputing. 2025. 619. doi: 10.1016/j.neucom.2024.129053. PMID:
+      41312528.'
+  highlight: 0
+- title: '"The Brain Imaging and Neurophysiology Database: BINDing multimodal neural
+    data into a large-scale repository."'
+  image: ''
+  description: ''
+  authors: Maschke C, Hadar P, Zhang Y, Li J, Ganjoo G, Hoopes A, Guazzo A, Gupta
+    A, Ghanta M, Nearing B, Silvers CT, Gunapati B, Thomas R, Kim JA, Mukerji SS,
+    Dalca A, Zafar S, Lam AD, Mignot E, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Maschke_medRxiv_41256149.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.10.01.25337054.
+      PMID: 41256149.'
+  highlight: 0
+- title: '"Claims-Based Machine Learning Classifier of Modified Rankin Scale in Acute
+    Ischemic Stroke."'
+  image: ''
+  description: ''
+  authors: Habib M, Cazé de Medeiros R, Ahsan SM, McDonald Wojciechowski A, Donahue
+    MA, Blacker D, Newhouse JP, Schwamm LH, Westover MB, Moura LMVR
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Habib_JAmHeartAssoc_41085187.pdf
+    display: 'Journal of the American Heart Association. 2025. 14(20). e041635. doi:
+      10.1161/JAHA.125.041635. PMID: 41085187.'
+  highlight: 0
+- title: '"Dementia Risk and Machine Learning-Derived Brain Age Index from Sleep Electroencephalography:
+    A Pooled Cohort Analysis of Over 7,000 Individuals Across Five Community Cohorts."'
+  image: ''
+  description: ''
+  authors: Sun H, Milton S, Fang Y, Taha HB, Shiju S, Thomas RJ, Ganglberger W, Pase
+    MP, Hughes T, Purcell S, Redline S, Stone KL, Yaffe K, Westover MB, Leng Y
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_medRxiv_41040733.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.09.21.25336255.
+      PMID: 41040733.'
+  highlight: 0
+- title: '"The Boston Children''s Hospital Sleep Corpus: A Collection of 15,695 Annotated
+    Pediatric Polysomnograms."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra
+    A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone
+    KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo
+    G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski
+    K, Katwa U
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_Unknown_40971987.pdf
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf273. PMID: 40971987.'
+  highlight: 0
+- title: '"A Machine Learning Approach for Identifying People With Neuroinfectious
+    Diseases in Electronic Health Records: Algorithm Development and Validation."'
+  image: ''
+  description: ''
+  authors: Singh A, Sartipi S, Sun H, Milde R, Turley N, Quinn C, Harrold GK, Gillani
+    RL, Turbett SE, Das S, Zafar S, Fernandes M, Westover MB, Mukerji SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Singh_JMIRMedInform_40882236.pdf
+    display: 'JMIR medical informatics. 2025. 13. e63157. doi: 10.2196/63157. PMID:
+      40882236.'
+  highlight: 0
+- title: '"Automated analysis of the American Academy of Sleep Medicine Inter-Scorer
+    Reliability gold-standard polysomnogram dataset."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Sun H, Stone
+    KL, Mignot E, Hwang D, Trotti LM, Reyna MA, Clifford GD, Katwa U, Thomas RJ, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_JClinSleepMed_40790924.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2025. 21(11). 1821-1829. doi: 10.5664/jcsm.11848.
+      PMID: 40790924.'
+  highlight: 0
+- title: '"An Electrocardiogram Foundation Model Built on over 10 Million Recordings."'
+  image: ''
+  description: ''
+  authors: Li J, Aguirre AD, Moura V, Jin J, Liu C, Zhong L, Sun C, Clifford G, Westover
+    MB, Hong S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Li_NEJMAI_40771651.pdf
+    display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401033. PMID: 40771651.'
+  highlight: 0
+- title: '"Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales."'
+  image: ''
+  description: ''
+  authors: Li J, Goldenholz DM, Alkofer M, Sun C, Nascimento FA, Halford JJ, Dean
+    BC, Galanti M, Struck AF, Greenblatt AS, Lam AD, Herlopian A, Nwankwo C, Weber
+    D, Maus D, Haider HA, Karakis I, Yoo JY, Ng MC, Selioutski O, Taraschenko O, Osman
+    G, Katyal R, Schmitt SE, Benbadis S, Cash SS, Tatum WO, Sheikh Z, Kong WY, Bayas
+    G, Turley N, Hong S, Westover MB, Jing J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Li_NEJMAI_40689158.pdf
+    display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401221. PMID: 40689158.'
+  highlight: 0
+- title: '"CAISR: achieving human-level performance in automated sleep analysis across
+    all clinical sleep metrics."'
+  image: ''
+  description: ''
+  authors: Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Moura Junior V, Ghanta
+    M, Gupta A, Stone KL, Kjaer MR, Sum-Ping O, Mignot E, Hwang D, Trotti LM, Clifford
+    GD, Katwa U, Sun H, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Nasiri_Sleep_40554678.pdf
+    display: 'Sleep. 2025. 48(8). doi: 10.1093/sleep/zsaf134. PMID: 40554678.'
+  highlight: 0
+- title: '"Harvard Electroencephalography Database: A comprehensive clinical electroencephalographic
+    resource from four Boston hospitals."'
+  image: ''
+  description: ''
+  authors: Sun C, Jing J, Turley N, Alcott C, Kang WY, Cole AJ, Goldenholz DM, Lam
+    A, Amorim E, Chu C, Cash S, Junior VM, Gupta A, Ghanta M, Nearing B, Nascimento
+    FA, Struck A, Kim J, Sartipi S, Tauton AM, Fernandes M, Sun H, Bayas G, Gallagher
+    K, Wagenaar JB, Sinha N, Lee-Messer C, Silvers CT, Gunapati B, Rosand J, Peters
+    J, Loddenkemper T, Lee JW, Zafar S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_Epilepsia_40464151.pdf
+    display: 'Epilepsia. 2025. 66(9). 3411-3425. doi: 10.1111/epi.18487. PMID: 40464151.'
+  highlight: 0
+- title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
+    channels."'
+  image: ''
+  description: ''
+  authors: Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand
+    MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E,
+    Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
+    D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Alkofer_Epilepsia_40317534.pdf
+    display: 'Epilepsia. 2025. 66(7). e114-20. doi: 10.1111/epi.18431. PMID: 40317534.'
+  highlight: 0
+- title: '"Continuous sleep depth index annotation with deep learning yields novel
+    digital biomarkers for sleep health."'
+  image: ''
+  description: ''
+  authors: Zhou S, Song G, Sun H, Zhang D, Leng Y, Westover MB, Hong S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Zhou_NPJDigitMed_40216900.pdf
+    display: 'NPJ digital medicine. 2025. 8(1). 203. doi: 10.1038/s41746-025-01607-0.
+      PMID: 40216900.'
+  highlight: 0
+- title: '"The future of EEG education in the era of artificial intelligence."'
+  image: ''
+  description: ''
+  authors: McLaren JR, Yuan D, Beniczky S, Westover MB, Nascimento FA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_McLaren_Epilepsia_40035709.pdf
+    display: 'Epilepsia. 2025. 66(6). 1838-1842. doi: 10.1111/epi.18326. PMID: 40035709.'
+  highlight: 0
+- title: '"Inductive reasoning with large language models: A simulated randomized
+    controlled trial for epilepsy."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Goldenholz SR, Habib S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Goldenholz_EpilepsyRes_40020525.pdf
+    display: 'Epilepsy research. 2025. 211. 107532. doi: 10.1016/j.eplepsyres.2025.107532.
+      PMID: 40020525.'
+  highlight: 0
+- title: '"A Claims-Based Machine Learning Classifier of Modified Rankin Scale in
+    Acute Ischemic Stroke."'
+  image: ''
+  description: ''
+  authors: Habib M, de Medeiros RC, Ahsan SM, Wojciechowski AM, Donahue MA, Blacker
+    D, Newhouse JP, Schwamm LH, Westover MB, Moura LM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Habib_medRxiv_39990546.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.06.25321827.
+      PMID: 39990546.'
+  highlight: 0
+- title: '"Big data approaches for novel mechanistic insights on sleep and circadian
+    rhythms: a workshop summary."'
+  image: ''
+  description: ''
+  authors: Baizer L, Bures R, Nadkarni G, Reyes-Guzman C, Ladwa S, Cade B, Westover
+    MB, Durmer J, de Zambotti M, Desai M, Parekh A, Si B, Fernandez-Mendoza J, Minor
+    K, Mazzotti DR, Lee S, Katabi D, Kiss O, Spira AP, Morris J, Seixas A, Kioumourtzoglou
+    MA, Bridges JFP, Brown M, Hale L, Purcell S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Baizer_Sleep_39945146.pdf
+    display: 'Sleep. 2025. 48(6). doi: 10.1093/sleep/zsaf035. PMID: 39945146.'
+  highlight: 0
+- title: '"Using artificial intelligence to optimize anti-seizure treatment and EEG-guided
+    decisions in severe brain injury."'
+  image: ''
+  description: ''
+  authors: Akras Z, Jing J, Westover MB, Zafar SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Akras_Unknown_39855915.pdf
+    display: 'Neurotherapeutics : the journal of the American Society for Experimental
+      NeuroTherapeutics. 2025. 22(1). e00524. doi: 10.1016/j.neurot.2025.e00524. PMID:
+      39855915.'
+  highlight: 0
+- title: '"Epilepsy is associated with the accelerated aging of brain activity in
+    sleep."'
+  image: ''
+  description: ''
+  authors: Hadar PN, Westmeijer M, Sun H, Meulenbrugge EJ, Jing J, Paixao L, Tesh
+    RA, Da Silva Cardoso M, Arnal P, Au R, Shin C, Kim S, Thomas RJ, Cash SS, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Hadar_FrontPhysiol_39668843.pdf
+    display: 'Frontiers in physiology. 2024. 15. 1458592. doi: 10.3389/fphys.2024.1458592.
+      PMID: 39668843.'
+  highlight: 0
+- title: '"Effects of Aerobic Exercise on Brain Age and Health in Middle-Aged and
+    Older Adults: A Single-Arm Pilot Clinical Trial."'
+  image: ''
+  description: ''
+  authors: Ouyang A, Zhang C, Adra N, Tesh RA, Sun H, Lei D, Jing J, Fan P, Paixao
+    L, Ganglberger W, Briggs L, Salinas J, Bevers MB, Wrann CD, Chemali Z, Fricchione
+    G, Thomas RJ, Rosand J, Tanzi RE, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Ouyang_LifeBasel_39063609.pdf
+    display: 'Life (Basel, Switzerland). 2024. 14(7). doi: 10.3390/life14070855. PMID:
+      39063609.'
+  highlight: 0
+- title: '"Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal
+    Injury Continuum Using Interpretable Machine Learning."'
+  image: ''
+  description: ''
+  authors: Barnett AJ, Guo Z, Jing J, Ge W, Kaplan PW, Kong WY, Karakis I, Herlopian
+    A, Jayagopal LA, Taraschenko O, Selioutski O, Osman G, Goldenholz D, Rudin C,
+    Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Barnett_NEJMAI_38872809.pdf
+    display: 'NEJM AI. 2024. 1(6). doi: 10.1056/aioa2300331. PMID: 38872809.'
+  highlight: 0
+- title: '"Prospective validation of a seizure diary forecasting falls short."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Eccleston C, Moss R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_Unknown_38606580.pdf
+    display: 'Epilepsia. 2024. 65(6). 1730-1736. doi: 10.1111/epi.17984. PMID: 38606580.'
+  highlight: 0
+- title: '"Inductive reasoning with large language models: a simulated randomized
+    controlled trial for epilepsy."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Goldenholz SR, Habib S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_medRxiv_38562831.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.03.18.24304493.
+      PMID: 38562831.'
+  highlight: 0
+- title: '"Classification of autism spectrum disorder using electroencephalography
+    in Chinese children: a cross-sectional retrospective study."'
+  image: ''
+  description: ''
+  authors: Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, Westover MB, Xu H, Kong
+    XJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Ke_FrontNeurosci_38332856.pdf
+    display: 'Frontiers in neuroscience. 2024. 18. 1330556. doi: 10.3389/fnins.2024.1330556.
+      PMID: 38332856.'
+  highlight: 0
+- title: '"Prospective validation of a seizure diary forecasting falls short."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Eccleston C, Moss R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_medRxiv_38260666.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.01.11.24301175.
+      PMID: 38260666.'
+  highlight: 0
+- title: '"Self-Supervised Electroencephalogram Representation Learning for Automatic
+    Sleep Staging: Model Development and Evaluation Study."'
+  image: ''
+  description: ''
+  authors: Yang C, Xiao C, Westover MB, Sun J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Yang_JMIRAI_38090533.pdf
+    display: 'JMIR AI. 2023. 2(1). e46769. doi: 10.2196/46769. PMID: 38090533.'
+  highlight: 0
+- title: '"Decoding information about cognitive health from the brainwaves of sleep."'
+  image: ''
+  description: ''
+  authors: Adra N, Dümmer LW, Paixao L, Tesh RA, Sun H, Ganglberger W, Westmeijer
+    M, Da Silva Cardoso M, Kumar A, Ye E, Henry J, Cash SS, Kitchener E, Leveroni
+    CL, Au R, Rosand J, Salinas J, Lam AD, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Adra_SciRep_37454163.pdf
+    display: 'Scientific reports. 2023. 13(1). 11448. doi: 10.1038/s41598-023-37128-7.
+      PMID: 37454163.'
+  highlight: 0
+- title: '"Sample Size Analysis for Machine Learning Clinical Validation Studies."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Sun H, Ganglberger W, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Goldenholz_Biomedicines_36979665.pdf
+    display: 'Biomedicines. 2023. 11(3). doi: 10.3390/biomedicines11030685. PMID:
+      36979665.'
+  highlight: 0
+- title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
+    An exploratory cross-sectional study using deep neural networks."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N,
+    Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins
+    J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
+    Kuller D, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Ganglberger_FrontNetwPhysiol_36926545.pdf
+    display: 'Frontiers in network physiology. 2023. 3. 1120390. doi: 10.3389/fnetp.2023.1120390.
+      PMID: 36926545.'
+  highlight: 0
+- title: '"EEG-based grading of immune effector cell-associated neurotoxicity syndrome."'
+  image: ''
+  description: ''
+  authors: Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van
+    Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C,
+    Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Jones_SciRep_36414694.pdf
+    display: 'Scientific reports. 2022. 12(1). 20011. doi: 10.1038/s41598-022-24010-1.
+      PMID: 36414694.'
+  highlight: 0
+- title: '"Age estimation from sleep studies using deep learning predicts life expectancy."'
+  image: ''
+  description: ''
+  authors: Brink-Kjaer A, Leary EB, Sun H, Westover MB, Stone KL, Peppard PE, Lane
+    NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_BrinkKjaer_NPJDigitMed_35869169.pdf
+    display: 'NPJ digital medicine. 2022. 5(1). 103. doi: 10.1038/s41746-022-00630-9.
+      PMID: 35869169.'
+  highlight: 0
+- title: '"How Machine Learning is Powering Neuroimaging to Improve Brain Health."'
+  image: ''
+  description: ''
+  authors: Singh NM, Harrod JB, Subramanian S, Robinson M, Chang K, Cetin-Karayumak
+    S, Dalca AV, Eickhoff S, Fox M, Franke L, Golland P, Haehn D, Iglesias JE, O'Donnell
+    LJ, Ou Y, Rathi Y, Siddiqi SH, Sun H, Westover MB, Whitfield-Gabrieli S, Gollub
+    RL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Singh_Neuroinformatics_35347570.pdf
+    display: 'Neuroinformatics. 2022. 20(4). 943-964. doi: 10.1007/s12021-022-09572-9.
+      PMID: 35347570.'
+  highlight: 0
+- title: '"Accurate identification of EEG recordings with interictal epileptiform
+    discharges using a hybrid approach: Artificial intelligence supervised by human
+    experts."'
+  image: ''
+  description: ''
+  authors: Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, Westover
+    MB, Beniczky S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Kural_Epilepsia_35184276.pdf
+    display: 'Epilepsia. 2022. 63(5). 1064-1073. doi: 10.1111/epi.17206. PMID: 35184276.'
+  highlight: 0
+- title: '"Predicting Neurological Outcome From Electroencephalogram Dynamics in Comatose
+    Patients After Cardiac Arrest With Deep Learning."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Amorim E, Jing J, Wu O, Ghassemi M, Lee JW, Sivaraju A, Pang
+    T, Herman ST, Gaspard N, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer J, van
+    Putten MJAM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Zheng_IEEETransBiomedEng_34962860.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2022. 69(5). 1813-1825.
+      doi: 10.1109/TBME.2021.3139007. PMID: 34962860.'
+  highlight: 0
+- title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
+    and Deep Neural Networks."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM,
+    Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Nassi_IEEETransBiomedEng_34928786.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2022. 69(6). 2094-2104.
+      doi: 10.1109/TBME.2021.3136753. PMID: 34928786.'
+  highlight: 0
+- title: '"Predicting neurological outcome in comatose patients after cardiac arrest
+    with multiscale deep neural networks."'
+  image: ''
+  description: ''
+  authors: Zheng WL, Amorim E, Jing J, Ge W, Hong S, Wu O, Ghassemi M, Lee JW, Sivaraju
+    A, Pang T, Herman ST, Gaspard N, Ruijter BJ, Sun J, Tjepkema-Cloostermans MC,
+    Hofmeijer J, van Putten MJAM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Zheng_Resuscitation_34699925.pdf
+    display: 'Resuscitation. 2021. 169. 86-94. doi: 10.1016/j.resuscitation.2021.10.034.
+      PMID: 34699925.'
+  highlight: 0
+- title: '"HIV increases sleep-based brain age despite antiretroviral therapy."'
+  image: ''
+  description: ''
+  authors: Leone MJ, Sun H, Boutros CL, Liu L, Ye E, Sullivan L, Thomas RJ, Robbins
+    GK, Mukerji SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Leone_Sleep_33783511.pdf
+    display: 'Sleep. 2021. 44(8). doi: 10.1093/sleep/zsab058. PMID: 33783511.'
+  highlight: 0
+- title: '"Development and Prospective Validation of a Deep Learning Algorithm for
+    Predicting Need for Mechanical Ventilation."'
+  image: ''
+  description: ''
+  authors: Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North
+    CM, Mukerji SS, Robbins GK, Shao YP, Westover MB, Nemati S, Malhotra A
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Shashikumar_Chest_33345948.pdf
+    display: 'Chest. 2021. 159(6). 2264-2273. doi: 10.1016/j.chest.2020.12.009. PMID:
+      33345948.'
+  highlight: 0
+- title: '"Improved tracking of sevoflurane anesthetic states with drug-specific machine
+    learning models."'
+  image: ''
+  description: ''
+  authors: Kashkooli K, Polk SL, Hahm EY, Murphy J, Ethridge BR, Gitlin J, Ibala R,
+    Mekonnen J, Pedemonte JC, Sun H, Westover MB, Barbieri R, Akeju O, Chamadia S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Kashkooli_JNeuralEng_32485685.pdf
+    display: 'Journal of neural engineering. 2020. 17(4). 046020. doi: 10.1088/1741-2552/ab98da.
+      PMID: 32485685.'
+  highlight: 0
+- title: '"Expert-level automated sleep staging of long-term scalp electroencephalography
+    recordings using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, Westover
+    MB, Lam AD
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Abou_Sleep_32478820.pdf
+    display: 'Sleep. 2020. 43(11). doi: 10.1093/sleep/zsaa112. PMID: 32478820.'
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: background and implications
+    for clinicians."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Goldstein_JClinSleepMed_32065113.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2020. 16(4). 609-618. doi: 10.5664/jcsm.8388.
+      PMID: 32065113.'
+  highlight: 0
+- title: '"Artificial intelligence in sleep medicine: an American Academy of Sleep
+    Medicine position statement."'
+  image: ''
+  description: ''
+  authors: Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, Westover
+    MB, Abbasi-Feinberg F, Aurora RN, Carden KA, Kirsch DB, Malhotra RK, Martin JL,
+    Olson EJ, Ramar K, Rosen CL, Rowley JA, Shelgikar AV
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Goldstein_JClinSleepMed_32022674.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2020. 16(4). 605-607. doi: 10.5664/jcsm.8288.
+      PMID: 32022674.'
+  highlight: 0
+- title: '"Excess brain age in the sleep electroencephalogram predicts reduced life
+    expectancy."'
+  image: ''
+  description: ''
+  authors: Paixao L, Sikka P, Sun H, Jain A, Hogan J, Thomas R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Paixao_NeurobiolAging_31932049.pdf
+    display: 'Neurobiology of aging. 2020. 88. 150-155. doi: 10.1016/j.neurobiolaging.2019.12.015.
+      PMID: 31932049.'
+  highlight: 0
+- title: '"Sleep staging from electrocardiography and respiration with deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
+    Tesh RA, Akeju O, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Sun_Sleep_31863111.pdf
+    display: 'Sleep. 2020. 43(7). doi: 10.1093/sleep/zsz306. PMID: 31863111.'
+  highlight: 0
+- title: '"Detection of mesial temporal lobe epileptiform discharges on intracranial
+    electrodes using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Jing J, Sun H, Jacobs CS, Pellerin KR, Westover MB, Cash
+    SS, Lam AD
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Abou_ClinNeurophysiol_31760212.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2020. 131(1). 133-141. doi: 10.1016/j.clinph.2019.09.031.
+      PMID: 31760212.'
+  highlight: 0
+- title: '"Automated tracking of level of consciousness and delirium in critical illness
+    using deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng
+    WL, Ge W, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Sun_NPJDigitMed_31508499.pdf
+    display: 'NPJ digital medicine. 2019. 2. 89. doi: 10.1038/s41746-019-0167-0. PMID:
+      31508499.'
+  highlight: 0
+- title: '"Quantitative EEG reactivity and machine learning for prognostication in
+    hypoxic-ischemic brain injury."'
+  image: ''
+  description: ''
+  authors: Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM,
+    Scirica BM, Lee JW, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Amorim_ClinNeurophysiol_31419742.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2019. 130(10). 1908-1916. doi: 10.1016/j.clinph.2019.07.014.
+      PMID: 31419742.'
+  highlight: 0
+- title: '"Comparison of machine learning models for seizure prediction in hospitalized
+    patients."'
+  image: ''
+  description: ''
+  authors: Struck AF, Rodriguez-Ruiz AA, Osman G, Gilmore EJ, Haider HA, Dhakar MB,
+    Schrettner M, Lee JW, Gaspard N, Hirsch LJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Struck_AnnClinTranslNeurol_31353866.pdf
+    display: 'Annals of clinical and translational neurology. 2019. 6(7). 1239-1247.
+      doi: 10.1002/acn3.50817. PMID: 31353866.'
+  highlight: 0
+- title: '"A fast machine learning approach to facilitate the detection of interictal
+    epileptiform discharges in the scalp electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Bagheri_JNeurosciMethods_31310822.pdf
+    display: 'Journal of neuroscience methods. 2019. 326. 108362. doi: 10.1016/j.jneumeth.2019.108362.
+      PMID: 31310822.'
+  highlight: 0
+- title: '"Detecting abnormal electroencephalograms using deep convolutional networks."'
+  image: ''
+  description: ''
+  authors: van Leeuwen KG, Sun H, Tabaeizadeh M, Struck AF, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_van_ClinNeurophysiol_30481649.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2019. 130(1). 77-84. doi: 10.1016/j.clinph.2018.10.012.
+      PMID: 30481649.'
+  highlight: 0
+- title: '"Brain age from the electroencephalogram of sleep."'
+  image: ''
+  description: ''
+  authors: Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju
+    O, Thomas RJ, Cash SS, Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Sun_Unknown_30448611.pdf
+    display: 'Neurobiology of aging. 2019. 74. 112-120. doi: 10.1016/j.neurobiolaging.2018.10.016.
+      PMID: 30448611.'
+  highlight: 0
+- title: '"Expert-level sleep scoring with deep neural networks."'
+  image: ''
+  description: ''
+  authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Biswal_JAmMedInformAssoc_30445569.pdf
+    display: 'Journal of the American Medical Informatics Association : JAMIA. 2018.
+      25(12). 1643-1650. doi: 10.1093/jamia/ocy131. PMID: 30445569.'
+  highlight: 0
+- title: '"EEG CLassification Via Convolutional Neural Network-Based Interictal Epileptiform
+    Event Detection."'
+  image: ''
+  description: ''
+  authors: Thomas J, Comoretto L, Jin J, Dauwels J, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Thomas_AnnuIntConfIEEEEngMedBiolSoc_30441062.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2018. 2018. 3148-3151. doi: 10.1109/EMBC.2018.8512930.
+      PMID: 30441062.'
+  highlight: 0
+- title: '"Predicting drug-resistant epilepsy - A machine learning approach based
+    on administrative claims data."'
+  image: ''
+  description: ''
+  authors: An S, Malhotra K, Dilley C, Han-Burgess E, Valdez JN, Robertson J, Clark
+    C, Westover MB, Sun J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_An_EpilepsyBehav_30412924.pdf
+    display: 'Epilepsy & behavior : E&B. 2018. 89. 118-125. doi: 10.1016/j.yebeh.2018.10.013.
+      PMID: 30412924.'
+  highlight: 0
+- title: '"Large-Scale Automated Sleep Staging."'
+  image: ''
+  description: ''
+  authors: Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Sun_Sleep_29029305.pdf
+    display: 'Sleep. 2017. 40(10). doi: 10.1093/sleep/zsx139. PMID: 29029305.'
+  highlight: 0
+- title: '"EPILEPTIFORM SPIKE DETECTION VIA CONVOLUTIONAL NEURAL NETWORKS."'
+  image: ''
+  description: ''
+  authors: Johansen AR, Jin J, Maszczyk T, Dauwels J, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Johansen_ProcIEEEIntConfAcoustSpeechSig_29527131.pdf
+    display: 'Proceedings of the ... IEEE International Conference on Acoustics, Speech,
+      and Signal Processing. ICASSP (Conference). 2016. 2016. 754-758. doi: 10.1109/ICASSP.2016.7471776.
+      PMID: 29527131.'
+  highlight: 0
+- title: '"FAST AND EFFICIENT REJECTION OF BACKGROUND WAVEFORMS IN INTERICTAL EEG."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Bagheri_ProcIEEEIntConfAcoustSpeechSig_29507536.pdf
+    display: 'Proceedings of the ... IEEE International Conference on Acoustics, Speech,
+      and Signal Processing. ICASSP (Conference). 2016. 2016. 744-748. doi: 10.1109/ICASSP.2016.7471774.
+      PMID: 29507536.'
+  highlight: 0
+- title: '"Clinical Prediction Models for Sleep Apnea: The Importance of Medical History
+    over Symptoms."'
+  image: ''
+  description: ''
+  authors: Ustun B, Westover MB, Rudin C, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Ustun_JClinSleepMed_26350602.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2016. 12(2). 161-8. doi: 10.5664/jcsm.5476.
+      PMID: 26350602.'
+  highlight: 0
+- title: '"SpikeGUI: software for rapid interictal discharge annotation via template
+    matching and online machine learning."'
+  image: ''
+  description: ''
+  authors: Dauwels J, Cash S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Jing_AnnuIntConfIEEEEngMedBiolSoc_25570976.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2014. 2014. 4435-8. doi: 10.1109/EMBC.2014.6944608.
+      PMID: 25570976.'
+  highlight: 0
+- title: '"Sparse extreme learning machine for classification."'
+  image: ''
+  description: ''
+  authors: Bai Z, Huang GB, Wang D, Wang H, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bai_IEEETransCybern_25222727.pdf
+    display: 'IEEE transactions on cybernetics. 2014. 44(10). 1858-70. doi: 10.1109/TCYB.2014.2298235.
+      PMID: 25222727.'
+  highlight: 0
+- title: '"Layer 4C in monkey V1 may linearize the output of the LGN."'
+  image: ''
+  description: ''
+  authors: Westover MB, Anderson CH
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2003_Westover_Neurocomputing_32153320.pdf
+    display: 'Neurocomputing. 2003. 52-54. 671-676. doi: 10.1016/s0925-2312(02)00863-9.
+      PMID: 32153320.'
+  highlight: 0
 - title: '"IFCN position statement: use of artificial intelligence in clinical neurophysiology."'
   image: ''
   description: ''
