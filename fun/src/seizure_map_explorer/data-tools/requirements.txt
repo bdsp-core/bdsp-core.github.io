@@ -1,0 +1,5 @@
+# For regenerating src/data/{curves,regions}.json from the upstream .mat files.
+# Only needed if you want to re-derive the data; the committed JSONs are enough
+# to rebuild the app. Versions are the ones used to produce the committed data.
+numpy==2.4.2
+scipy==1.17.1

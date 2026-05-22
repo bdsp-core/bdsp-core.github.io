@@ -20,12 +20,14 @@ sources here, then rebuild**, don't hand-edit the HTML.
   Bistable), downsampled from the MATLAB tutorial's `testmesh.mat`, used to shade
   the sphere. Built in the model frame (mesh y negated to match the curve frame).
 
-## Rebuild
+## Rebuild the app
+
+Dependencies are pinned in `package.json` / `package-lock.json` (React 18.3.1,
+esbuild 0.28). The committed `src/` + `src/data/*.json` are all you need.
 
 ```bash
 cd fun/src/seizure_map_explorer
-npm init -y >/dev/null
-npm install react@18.3.1 react-dom@18.3.1 esbuild
+npm ci                     # or: npm install
 ./build.sh                 # emits seizure_map_explorer.html
 cp seizure_map_explorer.html ../../seizure_map_explorer.html
 ```
@@ -33,3 +35,24 @@ cp seizure_map_explorer.html ../../seizure_map_explorer.html
 `build.sh` bundles `src/main.jsx` with esbuild (`--bundle --minify
 --format=iife --jsx=automatic --loader:.json=json`) and wraps the result in the
 self-contained HTML shell.
+
+## Regenerating the data (optional)
+
+`src/data/curves.json` and `src/data/regions.json` are committed, so you only
+need this if you want to re-derive them from the upstream MATLAB tutorial. The
+scripts in `data-tools/` reproduce the committed files byte-for-byte.
+
+```bash
+# clone the upstream data source (the .mat files are NOT vendored here):
+#   https://github.com/Dynamotypes-for-Dummies
+pip install -r data-tools/requirements.txt          # numpy, scipy
+MAT=/path/to/dynamotypes-for-dummies-tutorial/Python-scripts
+python data-tools/make_curves.py  "$MAT"            -o src/data/curves.json
+python data-tools/make_regions.py "$MAT/testmesh.mat" -o src/data/regions.json
+```
+
+- `make_curves.py` — extracts and tags the bifurcation curves from
+  `curves.mat` / `curves2.mat` (which `.mat` key maps to which dynamotype/role,
+  and the decimation, are documented in the script's `SPEC`).
+- `make_regions.py` — downsamples the dense region meshes in `testmesh.mat`
+  into the lat/lon shading grid, flipping the mesh y-axis into our frame.
