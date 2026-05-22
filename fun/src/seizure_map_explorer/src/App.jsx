@@ -78,7 +78,7 @@ function arc(p1, p2, n = 48) {
   return out;
 }
 
-function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions }) {
+function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions, opaque }) {
   const ref = useRef(null);
   const off = useRef(null); // offscreen buffer for the per-pixel region layer
   const rot = useRef({ yaw: 0.6, pitch: -0.35 });
@@ -134,11 +134,11 @@ function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions }) {
       g.beginPath(); g.arc(cx, cy, rad, 0, 2 * Math.PI);
       g.fillStyle = "#12151d"; g.fill(); g.strokeStyle = "#222732"; g.lineWidth = 1; g.stroke();
     }
-    // graticule (faint)
+    // graticule (faint). When opaque, draw only the front-facing half.
     g.strokeStyle = "rgba(120,130,150,0.10)"; g.lineWidth = 1;
-    for (let lat=-60; lat<=60; lat+=30){ g.beginPath(); for(let lo=0;lo<=360;lo+=8){const la=lat*Math.PI/180,l=lo*Math.PI/180;const pt=[R*Math.cos(la)*Math.cos(l),R*Math.sin(la),R*Math.cos(la)*Math.sin(l)];const s=P(pt);lo===0?g.moveTo(s[0],s[1]):g.lineTo(s[0],s[1]);} g.stroke(); }
-    // curves (back dim, front bright); some segments dashed (subcritical branches)
-    for (const pass of [0,1]) {
+    for (let lat=-60; lat<=60; lat+=30){ g.beginPath(); let st=false; for(let lo=0;lo<=360;lo+=8){const la=lat*Math.PI/180,l=lo*Math.PI/180;const pt=[R*Math.cos(la)*Math.cos(l),R*Math.sin(la),R*Math.cos(la)*Math.sin(l)];const s=P(pt); if(opaque&&s[2]<0){st=false;continue;} st?g.lineTo(s[0],s[1]):(g.moveTo(s[0],s[1]),st=true);} g.stroke(); }
+    // curves: front bright; back dim only when see-through. Some dashed (subcritical).
+    for (const pass of (opaque ? [1] : [0,1])) {
       for (const cvr of MAP.curves) {
         g.strokeStyle = HUE[cvr.dyno] || "#999"; g.lineWidth = pass ? 2.4 : 1;
         g.globalAlpha = pass ? 1 : 0.18;
@@ -149,20 +149,21 @@ function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions }) {
       }
     }
     g.setLineDash([]); g.globalAlpha = 1;
-    // arc path
+    // arc path (dashed). When opaque, hide the part behind the sphere.
     if (onsetPt && offsetPt) {
       const pts = arc(onsetPt, offsetPt);
-      g.strokeStyle = "rgba(233,226,207,0.8)"; g.lineWidth = 2; g.setLineDash([5,4]); g.beginPath();
-      pts.forEach((q,i)=>{const s=P(q); i?g.lineTo(s[0],s[1]):g.moveTo(s[0],s[1]);}); g.stroke(); g.setLineDash([]);
+      g.strokeStyle = "rgba(233,226,207,0.8)"; g.lineWidth = 2; g.setLineDash([5,4]); g.beginPath(); let st=false;
+      pts.forEach((q)=>{const s=P(q); if(opaque&&s[2]<0){st=false;return;} st?g.lineTo(s[0],s[1]):(g.moveTo(s[0],s[1]),st=true);}); g.stroke(); g.setLineDash([]);
     }
-    // markers
+    // markers. When opaque, a marker behind the sphere is occluded (hidden).
     const marker = (pt, color, txt) => { if(!pt)return; const s=P(pt); const front=s[2]>=0;
+      if(opaque && !front) return;
       g.globalAlpha=front?1:0.4; g.fillStyle=color; g.beginPath(); g.arc(s[0],s[1],7,0,2*Math.PI); g.fill();
       g.strokeStyle="#0b0d12"; g.lineWidth=2; g.stroke();
       g.fillStyle=C.ink; g.font="bold 11px system-ui"; g.fillText(txt, s[0]+10, s[1]-8); g.globalAlpha=1; };
     marker(onsetPt, "#e8748b", "onset");
     marker(offsetPt, "#67b3d9", "offset");
-  }, [onsetPt, offsetPt, showRegions]);
+  }, [onsetPt, offsetPt, showRegions, opaque]);
 
   useEffect(draw);
 
@@ -188,19 +189,21 @@ function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions }) {
 }
 
 export default function App() {
-  // defaults: an onset point on the saddle-node (SN) football and an offset
-  // point on the saddle-homoclinic (SH) curve, whose arc crosses the seizure
-  // core -> the tool opens on a clean SN -> SH seizure (the canonical
-  // Epileptor-like dynamotype). Both points sit on their bifurcation curves.
-  const [onsetPt, setOnsetPt] = useState([0.305, -0.065, 0.251]);
-  const [offsetPt, setOffsetPt] = useState([0.367, -0.077, -0.139]);
+  // defaults: a supercritical-Hopf (SupH) onset and a fold-of-limit-cycles (FLC)
+  // offset -> the tool opens on a clean SupH -> FLC seizure with smooth, gradual
+  // onset and offset ramps (a good showcase for the transition-speed slider).
+  // Both points sit on their bifurcation curves and the arc crosses the seizure core.
+  const [onsetPt, setOnsetPt] = useState([-0.242, -0.200, 0.247]);
+  const [offsetPt, setOffsetPt] = useState([0.152, 0.039, -0.368]);
   const [placing, setPlacing] = useState("onset");
   const [freq, setFreq] = useState(10);
   const [noise, setNoise] = useState(0.12);
   const [drift, setDrift] = useState(0.05);
+  const [k, setK] = useState(0.02); // slow-sweep speed (kappa): higher = faster, sharper transitions
   const [seed, setSeed] = useState(7);
   const [engine, setEngine] = useState("real"); // "real" | "normal"
   const [showRegions, setShowRegions] = useState(true);
+  const [opaque, setOpaque] = useState(true); // hide back-hemisphere curves/markers
 
   const onCurve = classify(onsetPt, "onset");
   const offCurve = classify(offsetPt, "offset");
@@ -212,8 +215,8 @@ export default function App() {
   // It self-detects whether the path actually produces a sustained seizure
   // (markers === null means it stayed at rest); this is the source of truth.
   const realOut = useMemo(
-    () => realSimulate([onsetPt, offsetPt], { fs:200, dur:16, freq, noise, drift, seed }),
-    [onsetPt, offsetPt, freq, noise, drift, seed]
+    () => realSimulate([onsetPt, offsetPt], { fs:200, dur:16, freq, noise, drift, seed, k }),
+    [onsetPt, offsetPt, freq, noise, drift, seed, k]
   );
   const hasSeizure = realOut.markers != null;
 
@@ -250,11 +253,18 @@ export default function App() {
                 </button>
               ))}
             </div>
-            <SphereMap onsetPt={onsetPt} offsetPt={offsetPt} placing={placing} onPlace={place} showRegions={showRegions} />
-            <label style={{ display:"flex", alignItems:"center", gap:7, marginTop:8, fontSize:12, color:C.inkDim, cursor:"pointer" }}>
-              <input type="checkbox" checked={showRegions} onChange={e=>setShowRegions(e.target.checked)} style={{accentColor:"#cdb87a"}} />
-              Shade dynamical regimes
-            </label>
+            <SphereMap onsetPt={onsetPt} offsetPt={offsetPt} placing={placing} onPlace={place} showRegions={showRegions} opaque={opaque} />
+            <div style={{ display:"flex", alignItems:"center", gap:16, marginTop:8, fontSize:12, color:C.inkDim }}>
+              <label style={{ display:"flex", alignItems:"center", gap:7, cursor:"pointer" }}>
+                <input type="checkbox" checked={showRegions} onChange={e=>setShowRegions(e.target.checked)} style={{accentColor:"#cdb87a"}} />
+                Shade dynamical regimes
+              </label>
+              <button onClick={()=>setOpaque(o=>!o)}
+                style={{ padding:"5px 11px", borderRadius:7, cursor:"pointer", fontSize:12,
+                  border:`1px solid ${C.line}`, background:C.panel2, color:C.inkDim }}>
+                Sphere: {opaque ? "opaque" : "see-through"}
+              </button>
+            </div>
             {showRegions && (
               <div style={{ display:"flex", flexWrap:"wrap", gap:12, marginTop:6, fontSize:11.5, color:C.inkDim }}>
                 {[["#EBEBEB","Active rest"],["#E4B4D3","Seizure"],["#F8F6B8","Bistable"]].map(([col,lab])=>(
@@ -304,6 +314,9 @@ export default function App() {
             </div>
             <div style={{ background:C.panel, border:`1px solid ${C.line}`, borderRadius:12, padding:"6px 16px 14px", marginBottom:14 }}>
               <Slider label="Rhythmic frequency" value={freq} min={2} max={25} step={0.5} onChange={setFreq} fmt={(v)=>v.toFixed(1)+" Hz"} />
+              {engine === "real" && (
+                <Slider label="Transition speed (κ)" value={k} min={0.01} max={0.06} step={0.005} onChange={setK} fmt={(v)=>v.toFixed(3)} />
+              )}
               <Slider label="Pink noise" value={noise} min={0} max={0.5} step={0.01} onChange={setNoise} fmt={(v)=>v.toFixed(2)} />
               <Slider label="Baseline drift" value={drift} min={0} max={0.3} step={0.01} onChange={setDrift} fmt={(v)=>v.toFixed(2)} />
               <button onClick={()=>setSeed(s=>s+1)} style={{ width:"100%", marginTop:2, padding:"8px 0", borderRadius:8, cursor:"pointer", border:`1px solid ${C.line}`, background:C.panel2, color:C.ink, fontSize:13 }}>↻ New noise seed</button>
