@@ -232,8 +232,17 @@ export function simulate(waypoints, opts) {
   for (let j = 0; j < Aarc; j++) { const e = senv[settleN + j]; if (e > peak) { peak = e; peakIdx = j; } }
   if (peak < SEIZ_STD) return restBaseline(N, fs, drift, noise, seed); // arc never enters a sustained seizure
 
-  // natural cycle period at the ictal core, measured from the actual trajectory
-  let pRaw = measurePeriod(xs, settleN + peakIdx, 1000);
+  // Natural cycle period at the ictal core. Measure it where the PARAMETERS ARE
+  // FIXED: carry the state onto the limit cycle along the arc up to the core,
+  // then hold params there and time the cycle. This makes the period (and hence
+  // the frequency calibration) independent of the sweep speed k.
+  const pCore = arc[peakIdx];
+  const m2 = [], m1 = [], mv = [], DWELLM = 5000;
+  for (let d = 0; d < settleN; d++) { m2.push(onset[0]); m1.push(onset[1]); mv.push(onset[2]); }
+  for (let j = 0; j <= peakIdx; j++) { m2.push(arc[j][0]); m1.push(arc[j][1]); mv.push(arc[j][2]); }
+  for (let d = 0; d < DWELLM; d++) { m2.push(pCore[0]); m1.push(pCore[1]); mv.push(pCore[2]); }
+  const xm = integrate({ mu2: m2, mu1: m1, nu: mv }, { noise: 0, seed, tstep });
+  let pRaw = measurePeriod(xm, xm.length - (DWELLM >> 1), (DWELLM >> 1) - 50);
   if (!(pRaw > 0)) pRaw = DEF_PRAW;
 
   // ---- production pass: re-integrate with a dwell at the ictal core to give
