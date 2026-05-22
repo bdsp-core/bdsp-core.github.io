@@ -3,6 +3,7 @@ import { C, HUE, ONSET, OFFSET, synthesize, TraceCanvas, SpectroCanvas, Slider }
 import { simulate as realSimulate } from "./model.js";
 import MAP from "./data/curves.json";
 import REG from "./data/regions.json";
+import PRESETS from "./data/presets.json";
 
 /* ============================================================
    SEIZURE DYNAMOTYPE MAP EXPLORER  (Phase 2)
@@ -63,24 +64,85 @@ function classify(point, role) {
   return hit;
 }
 
-/* great-circle arc (model space) between two sphere points */
-function arc(p1, p2, n = 48) {
-  const norm = (v) => { const m = Math.hypot(...v) || 1e-9; return [v[0]/m*R, v[1]/m*R, v[2]/m*R]; };
-  p1 = norm(p1); p2 = norm(p2);
-  const dot = Math.max(-1, Math.min(1, (p1[0]*p2[0]+p1[1]*p2[1]+p1[2]*p2[2])/(R*R)));
-  const th = Math.acos(dot);
-  if (th < 1e-4) return [p1, p2];
-  const s = Math.sin(th), out = [];
+/* ---- path geometry: turn control points into a dense sweep polyline ----
+   The number of points sets the sweep speed, so density scales with 1/(k·tstep).
+   Three path types (matching the DfD tutorial):
+     arc       2 pts  great-circle geodesic
+     circle    3 pts  small circle through onset, via, offset
+     piecewise 4 pts  geodesic segments onset -> via1 -> via2 -> offset       */
+const onR = (v) => { const m = Math.hypot(v[0],v[1],v[2]) || 1e-9; return [v[0]/m*R, v[1]/m*R, v[2]/m*R]; };
+const dot3 = (a,b) => a[0]*b[0]+a[1]*b[1]+a[2]*b[2];
+const cross3 = (a,b) => [a[1]*b[2]-a[2]*b[1], a[2]*b[0]-a[0]*b[2], a[0]*b[1]-a[1]*b[0]];
+const TSTEP = 0.02;
+const segN = (ang, k) => Math.max(2, Math.round(ang / (k * TSTEP)));
+
+/* great-circle arc A->B, density set by k */
+function geoArc(A, B, k) {
+  A = onR(A); B = onR(B);
+  const th = Math.acos(Math.max(-1, Math.min(1, dot3(A,B)/(R*R))));
+  if (th < 1e-4) return [A.slice()];
+  const s = Math.sin(th), n = segN(th, k), out = [];
   for (let i = 0; i <= n; i++) {
-    const t = i / n, a = Math.sin((1-t)*th)/s, b = Math.sin(t*th)/s;
-    out.push([a*p1[0]+b*p2[0], a*p1[1]+b*p2[1], a*p1[2]+b*p2[2]]);
+    const t = i/n, a = Math.sin((1-t)*th)/s, b = Math.sin(t*th)/s;
+    out.push([a*A[0]+b*B[0], a*A[1]+b*B[1], a*A[2]+b*B[2]]);
   }
   return out;
 }
 
-function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions, opaque }) {
+/* small circle through 3 sphere points; arc from A through V to B */
+function circleArc(A, V, B, k) {
+  A = onR(A); V = onR(V); B = onR(B);
+  let nrm = cross3([V[0]-A[0],V[1]-A[1],V[2]-A[2]], [B[0]-A[0],B[1]-A[1],B[2]-A[2]]);
+  const nl = Math.hypot(...nrm);
+  if (nl < 1e-7) return geoArc(A, B, k);          // collinear -> geodesic
+  nrm = [nrm[0]/nl, nrm[1]/nl, nrm[2]/nl];
+  const d = dot3(nrm, A);                          // signed origin->plane distance
+  const C = [nrm[0]*d, nrm[1]*d, nrm[2]*d];        // circle centre
+  const r = Math.sqrt(Math.max(1e-9, R*R - d*d));
+  let E = [A[0]-C[0], A[1]-C[1], A[2]-C[2]]; const el = Math.hypot(...E); E = [E[0]/el,E[1]/el,E[2]/el];
+  const F = cross3(nrm, E);                         // unit (n ⟂ E, both unit)
+  const ang = (p) => { const q=[p[0]-C[0],p[1]-C[1],p[2]-C[2]]; return Math.atan2(dot3(q,F), dot3(q,E)); };
+  const TAU = 2*Math.PI, wrap = (x) => { x %= TAU; return x < 0 ? x + TAU : x; };
+  const aV = wrap(ang(V)), aB = wrap(ang(B));       // aA = 0 (E points to A)
+  let dir, total;
+  if (aV <= aB) { dir = 1; total = aB; } else { dir = -1; total = TAU - aB; } // arc through V
+  const n = segN(total, k), out = [];
+  for (let i = 0; i <= n; i++) {
+    const th = dir * total * i / n, c = Math.cos(th), s = Math.sin(th);
+    out.push([C[0]+r*(c*E[0]+s*F[0]), C[1]+r*(c*E[1]+s*F[1]), C[2]+r*(c*E[2]+s*F[2])]);
+  }
+  return out;
+}
+
+/* dense polyline for the chosen path type from its control points */
+function genPath(type, pts, k) {
+  if (type === "circle" && pts.length >= 3) return circleArc(pts[0], pts[1], pts[2], k);
+  if (type === "piecewise" && pts.length >= 4) {
+    let out = [];
+    for (let i = 0; i < pts.length - 1; i++) { const seg = geoArc(pts[i], pts[i+1], k); out = out.concat(i ? seg.slice(1) : seg); }
+    return out;
+  }
+  return geoArc(pts[0], pts[pts.length - 1], k);     // arc (or fallback)
+}
+
+const PATH_NPTS = { arc: 2, circle: 3, piecewise: 4 };
+
+/* point at fraction f along the great circle A->B (for seeding via points) */
+function slerpPt(A, B, f) {
+  A = onR(A); B = onR(B);
+  const th = Math.acos(Math.max(-1, Math.min(1, dot3(A,B)/(R*R))));
+  if (th < 1e-4) return A.slice();
+  const s = Math.sin(th), a = Math.sin((1-f)*th)/s, b = Math.sin(f*th)/s;
+  return [a*A[0]+b*B[0], a*A[1]+b*B[1], a*A[2]+b*B[2]];
+}
+
+const ptColor = (i, n) => (i === 0 ? "#e8748b" : i === n - 1 ? "#67b3d9" : "#cdb87a");
+const ptLabel = (i, n) => (i === 0 ? "onset" : i === n - 1 ? "offset" : (n === 4 ? `via ${i}` : "via"));
+
+function SphereMap({ pts, path, selected, onPlace, onDragPoint, showRegions, opaque }) {
   const ref = useRef(null);
   const off = useRef(null); // offscreen buffer for the per-pixel region layer
+  const regKey = useRef(null); // cache key (rotation/size) for that buffer
   const rot = useRef({ yaw: 0.6, pitch: -0.35 });
   const drag = useRef(null);
   const [, force] = useState(0);
@@ -101,6 +163,10 @@ function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions, opaque })
       let oc = off.current;
       if (!oc) oc = off.current = document.createElement("canvas");
       if (oc.width !== W || oc.height !== H) { oc.width = W; oc.height = H; }
+      // the region layer only depends on rotation + size; recompute just when
+      // those change (so dragging handles, which don't rotate, stays cheap).
+      const key = `${yaw.toFixed(4)},${pitch.toFixed(4)},${W},${H}`;
+      if (regKey.current !== key) { regKey.current = key;
       const og = oc.getContext("2d");
       const img = og.createImageData(W, H), data = img.data;
       // view -> model rotation: rotX(-pitch) then rotY(-yaw)
@@ -128,6 +194,7 @@ function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions, opaque })
         }
       }
       og.putImageData(img, 0, 0);
+      }
       g.drawImage(oc, 0, 0, W, H);                      // upscaled to device px (smooths edges)
       g.beginPath(); g.arc(cx, cy, rad, 0, 2 * Math.PI); g.strokeStyle = "#222732"; g.lineWidth = 1; g.stroke();
     } else {
@@ -149,53 +216,63 @@ function SphereMap({ onsetPt, offsetPt, placing, onPlace, showRegions, opaque })
       }
     }
     g.setLineDash([]); g.globalAlpha = 1;
-    // arc path (dashed). When opaque, hide the part behind the sphere.
-    if (onsetPt && offsetPt) {
-      const pts = arc(onsetPt, offsetPt);
-      g.strokeStyle = "rgba(233,226,207,0.8)"; g.lineWidth = 2; g.setLineDash([5,4]); g.beginPath(); let st=false;
-      pts.forEach((q)=>{const s=P(q); if(opaque&&s[2]<0){st=false;return;} st?g.lineTo(s[0],s[1]):(g.moveTo(s[0],s[1]),st=true);}); g.stroke(); g.setLineDash([]);
+    // the seizure path (dashed). When opaque, hide the part behind the sphere.
+    if (path && path.length) {
+      g.strokeStyle = "rgba(233,226,207,0.85)"; g.lineWidth = 2; g.setLineDash([5,4]); g.beginPath(); let st=false;
+      path.forEach((q)=>{const s=P(q); if(opaque&&s[2]<0){st=false;return;} st?g.lineTo(s[0],s[1]):(g.moveTo(s[0],s[1]),st=true);}); g.stroke(); g.setLineDash([]);
     }
-    // markers. When opaque, a marker behind the sphere is occluded (hidden).
-    const marker = (pt, color, txt) => { if(!pt)return; const s=P(pt); const front=s[2]>=0;
-      if(opaque && !front) return;
-      g.globalAlpha=front?1:0.4; g.fillStyle=color; g.beginPath(); g.arc(s[0],s[1],7,0,2*Math.PI); g.fill();
-      g.strokeStyle="#0b0d12"; g.lineWidth=2; g.stroke();
-      g.fillStyle=C.ink; g.font="bold 11px system-ui"; g.fillText(txt, s[0]+10, s[1]-8); g.globalAlpha=1; };
-    marker(onsetPt, "#e8748b", "onset");
-    marker(offsetPt, "#67b3d9", "offset");
-  }, [onsetPt, offsetPt, showRegions, opaque]);
+    // control-point handles (onset / via / offset). Opaque -> occlude the back.
+    const n = pts.length;
+    pts.forEach((pt, i) => {
+      const s = P(pt), front = s[2] >= 0;
+      if (opaque && !front) return;
+      g.globalAlpha = front ? 1 : 0.4;
+      if (i === selected) { g.beginPath(); g.arc(s[0], s[1], 10, 0, 2*Math.PI); g.strokeStyle = "#e9e2cf"; g.lineWidth = 2; g.stroke(); }
+      g.fillStyle = ptColor(i, n); g.beginPath(); g.arc(s[0], s[1], 7, 0, 2*Math.PI); g.fill();
+      g.strokeStyle = "#0b0d12"; g.lineWidth = 2; g.stroke();
+      g.fillStyle = C.ink; g.font = "bold 11px system-ui"; g.fillText(ptLabel(i, n), s[0]+11, s[1]-8); g.globalAlpha = 1;
+    });
+  }, [pts, path, selected, showRegions, opaque]);
 
   useEffect(draw);
 
-  const onDown = (e) => { const r = ref.current.getBoundingClientRect(); drag.current = { x:e.clientX, y:e.clientY, moved:0, sx:e.clientX-r.left, sy:e.clientY-r.top }; };
-  const onMove = (e) => { if(!drag.current)return; const dx=e.clientX-drag.current.x, dy=e.clientY-drag.current.y; drag.current.moved+=Math.abs(dx)+Math.abs(dy); rot.current.yaw+=dx*0.01; rot.current.pitch=Math.max(-1.4,Math.min(1.4,rot.current.pitch+dy*0.01)); drag.current.x=e.clientX; drag.current.y=e.clientY; draw(); };
+  // screen geometry + view->model unprojection shared by the handlers
+  const geom = () => { const cv = ref.current, r = cv.getBoundingClientRect(); const W = cv.clientWidth, H = 420; return { r, W, H, cx: W/2, cy: H/2, scale: (Math.min(W,H)/2-26)/R }; };
+  const toModel = (e) => { const { r, cx, cy, scale } = geom();
+    const sx=(e.clientX-r.left-cx)/scale, sy=-(e.clientY-r.top-cy)/scale, rr=sx*sx+sy*sy;
+    if (rr > R*R) return null;
+    return inv([sx, sy, Math.sqrt(R*R-rr)], rot.current.yaw, rot.current.pitch); };
+  // index of a control-point handle under the cursor (front-facing), or -1
+  const hitHandle = (e) => { const { r, cx, cy, scale } = geom(), mx=e.clientX-r.left, my=e.clientY-r.top;
+    for (let i = 0; i < pts.length; i++) { const v = fwd(pts[i], rot.current.yaw, rot.current.pitch);
+      if (opaque && v[2] < 0) continue;
+      const px = cx + scale*v[0], py = cy - scale*v[1];
+      if (Math.hypot(mx-px, my-py) <= 11) return i; }
+    return -1; };
+
+  const onDown = (e) => { const hit = hitHandle(e); drag.current = { x:e.clientX, y:e.clientY, moved:0, point: hit }; };
+  const onMove = (e) => { if(!drag.current)return;
+    const dx=e.clientX-drag.current.x, dy=e.clientY-drag.current.y; drag.current.moved+=Math.abs(dx)+Math.abs(dy);
+    if (drag.current.point >= 0) { const m = toModel(e); if (m) onDragPoint(drag.current.point, m); }
+    else { rot.current.yaw+=dx*0.01; rot.current.pitch=Math.max(-1.4,Math.min(1.4,rot.current.pitch+dy*0.01)); draw(); }
+    drag.current.x=e.clientX; drag.current.y=e.clientY; };
   const onUp = (e) => {
-    if (drag.current && drag.current.moved < 4) { // a click: place a marker
-      const cv = ref.current, r = cv.getBoundingClientRect();
-      const W = cv.clientWidth, H = 420, cx=W/2, cy=H/2, scale=(Math.min(W,H)/2-26)/R;
-      const sx=(e.clientX-r.left-cx)/scale, sy=-(e.clientY-r.top-cy)/scale;
-      const rr = sx*sx+sy*sy;
-      if (rr <= R*R) {
-        const sz = Math.sqrt(R*R-rr);
-        const model = inv([sx,sy,sz], rot.current.yaw, rot.current.pitch);
-        onPlace(model);
-      }
+    if (drag.current && drag.current.moved < 4 && drag.current.point < 0) { // a click on empty sphere: place the selected point
+      const m = toModel(e); if (m) onPlace(m);
     }
     drag.current = null;
   };
   return <canvas ref={ref}
     onMouseDown={onDown} onMouseMove={onMove} onMouseUp={onUp} onMouseLeave={()=>{drag.current=null;}}
-    style={{ width:"100%", height:420, display:"block", borderRadius:12, cursor: placing?"crosshair":"grab", touchAction:"none" }} />;
+    style={{ width:"100%", height:420, display:"block", borderRadius:12, cursor:"crosshair", touchAction:"none" }} />;
 }
 
 export default function App() {
-  // defaults: a supercritical-Hopf (SupH) onset and a fold-of-limit-cycles (FLC)
-  // offset -> the tool opens on a clean SupH -> FLC seizure with smooth, gradual
-  // onset and offset ramps (a good showcase for the transition-speed slider).
-  // Both points sit on their bifurcation curves and the arc crosses the seizure core.
-  const [onsetPt, setOnsetPt] = useState([-0.242, -0.200, 0.247]);
-  const [offsetPt, setOffsetPt] = useState([0.152, 0.039, -0.368]);
-  const [placing, setPlacing] = useState("onset");
+  // path: control points (onset = first, offset = last, middle = via points).
+  // Default opens on a clean SupH -> FLC arc (smooth onset/offset ramps).
+  const [pathType, setPathType] = useState("arc"); // "arc" | "circle" | "piecewise"
+  const [pts, setPts] = useState([[-0.242, -0.200, 0.247], [0.152, 0.039, -0.368]]);
+  const [selected, setSelected] = useState(0);
   const [freq, setFreq] = useState(10);
   const [noise, setNoise] = useState(0.12);
   const [drift, setDrift] = useState(0.05);
@@ -205,29 +282,52 @@ export default function App() {
   const [showRegions, setShowRegions] = useState(true);
   const [opaque, setOpaque] = useState(true); // hide back-hemisphere curves/markers
 
+  const onsetPt = pts[0], offsetPt = pts[pts.length - 1];
   const onCurve = classify(onsetPt, "onset");
   const offCurve = classify(offsetPt, "offset");
   // map to valid dynamotype keys for each role
   const onsetKey = ONSET[onCurve?.dyno] ? onCurve.dyno : "SNIC";
   const offsetKey = OFFSET[offCurve?.dyno] ? offCurve.dyno : "SH";
 
-  // The real fast-slow model integrated continuously along the onset->offset arc.
-  // It self-detects whether the path actually produces a sustained seizure
-  // (markers === null means it stayed at rest); this is the source of truth.
+  // dense sweep polyline for the chosen path type (k sets the sweep speed)
+  const pathPoly = useMemo(() => genPath(pathType, pts, k), [pathType, pts, k]);
+
+  // The real fast-slow model integrated continuously along the path. It self-
+  // detects whether a sustained seizure occurs (markers === null = stayed at rest).
   const realOut = useMemo(
-    () => realSimulate([onsetPt, offsetPt], { fs:200, dur:16, freq, noise, drift, seed, k }),
-    [onsetPt, offsetPt, freq, noise, drift, seed, k]
+    () => realSimulate(pathPoly, { fs:200, dur:16, freq, noise, drift, seed }),
+    [pathPoly, freq, noise, drift, seed]
   );
   const hasSeizure = realOut.markers != null;
 
   const out = useMemo(() => {
     if (engine === "real") return realOut;
     // normal-form engine: same rest/seizure verdict, but idealized per-dynamotype waveform
-    if (!hasSeizure) return realSimulate([onsetPt, offsetPt], { fs:200, dur:16, freq, noise, drift, seed, quiescent:true });
+    if (!hasSeizure) return realSimulate(pathPoly, { fs:200, dur:16, freq, noise, drift, seed, quiescent:true });
     return synthesize(onsetKey, offsetKey, { fs:200, dur:16, freq, noise, drift, seed });
-  }, [engine, realOut, hasSeizure, onsetKey, offsetKey, onsetPt, offsetPt, freq, noise, drift, seed]);
+  }, [engine, realOut, hasSeizure, onsetKey, offsetKey, pathPoly, freq, noise, drift, seed]);
 
-  const place = (model) => { placing === "onset" ? setOnsetPt(model) : setOffsetPt(model); };
+  // load a canonical dynamotype-class preset (sets path type + control points)
+  const loadPreset = (name) => {
+    const p = PRESETS.find((x) => x.name === name);
+    if (!p) return;
+    setPathType(p.type); setPts(p.pts.map((q) => q.slice())); setSelected(0);
+  };
+
+  const place = (m) => setPts((p) => p.map((q, i) => (i === selected ? m : q)));
+  const dragPoint = (idx, m) => { setSelected(idx); setPts((p) => p.map((q, i) => (i === idx ? m : q))); };
+  // switch path type: keep onset/offset, add/remove via points along the geodesic
+  const changeType = (t) => {
+    const need = PATH_NPTS[t];
+    setPts((prev) => {
+      const A = prev[0], B = prev[prev.length - 1];
+      const out = [A];
+      for (let i = 1; i <= need - 2; i++) out.push(slerpPt(A, B, i / (need - 1)));
+      out.push(B);
+      return out;
+    });
+    setSelected(0); setPathType(t);
+  };
 
   return (
     <div style={{ fontFamily:"system-ui,-apple-system,sans-serif", color:C.ink, background:C.bg, minHeight:"100vh", padding:"22px 18px" }}>
@@ -235,25 +335,45 @@ export default function App() {
         <h1 style={{ fontSize:22, margin:"0 0 4px" }}>Seizure dynamotype map explorer</h1>
         <p style={{ color:C.inkDim, fontSize:14, margin:"0 0 18px", maxWidth:760 }}>
           This is Saggio's parameter <b style={{color:C.ink}}>sphere</b>, shaded by dynamical regime, with the real bifurcation
-          curves. Drag to rotate. Pick <span style={{color:"#e8748b"}}>onset</span> or <span style={{color:"#67b3d9"}}>offset</span> below,
-          then click the sphere to place that waypoint. The model rests unless the dashed path runs through the
-          <span style={{color:"#c98bb0"}}> seizure</span> region — route it through the pink to trigger a seizure; the bifurcation
-          curves it crosses set the dynamotype.
+          curves. Drag the background to rotate, and <b style={{color:C.ink}}>drag the handles</b> to move the
+          <span style={{color:"#e8748b"}}> onset</span>, <span style={{color:"#67b3d9"}}>offset</span>, and <span style={{color:"#cdb87a"}}>via</span> points.
+          Choose a path type — <b style={{color:C.ink}}>arc</b>, <b style={{color:C.ink}}>circle</b>, or <b style={{color:C.ink}}>piecewise</b> — to route through
+          parts of the map a straight arc can't reach. The model rests unless the dashed path runs through the
+          <span style={{color:"#c98bb0"}}> seizure</span> region; the bifurcation curves it crosses set the dynamotype.
         </p>
         <div style={{ display:"grid", gridTemplateColumns:"460px 1fr", gap:22, alignItems:"start" }}>
           <div>
+            <select value="" onChange={(e)=>{ if(e.target.value){ loadPreset(e.target.value); e.target.value=""; } }}
+              style={{ width:"100%", marginBottom:8, padding:"8px 10px", borderRadius:8, fontSize:13,
+                border:`1px solid ${C.line}`, background:C.panel2, color:C.ink, cursor:"pointer" }}>
+              <option value="">Load a dynamotype class…</option>
+              {PRESETS.map(p=>(
+                <option key={p.name} value={p.name}>{p.name}  ({p.type})</option>
+              ))}
+            </select>
             <div style={{ display:"flex", gap:8, marginBottom:8 }}>
-              {["onset","offset"].map(role=>(
-                <button key={role} onClick={()=>setPlacing(role)}
-                  style={{ flex:1, padding:"8px 0", borderRadius:8, cursor:"pointer", fontSize:13,
-                    border:`1.5px solid ${placing===role ? (role==="onset"?"#e8748b":"#67b3d9") : C.line}`,
-                    background: placing===role ? (role==="onset"?"#e8748b22":"#67b3d922") : C.panel2,
-                    color: placing===role ? C.ink : C.inkDim }}>
-                  Place {role}
+              {[["arc","Arc"],["circle","Circle"],["piecewise","Piecewise"]].map(([t,lab])=>(
+                <button key={t} onClick={()=>changeType(t)}
+                  style={{ flex:1, padding:"7px 0", borderRadius:8, cursor:"pointer", fontSize:13,
+                    border:`1.5px solid ${pathType===t ? "#cdb87a" : C.line}`,
+                    background: pathType===t ? "#cdb87a22" : C.panel2, color: pathType===t ? C.ink : C.inkDim }}>
+                  {lab}
                 </button>
               ))}
             </div>
-            <SphereMap onsetPt={onsetPt} offsetPt={offsetPt} placing={placing} onPlace={place} showRegions={showRegions} opaque={opaque} />
+            <div style={{ display:"flex", gap:6, marginBottom:8, alignItems:"center" }}>
+              <span style={{ fontSize:11.5, color:C.inkFaint }}>Place / drag:</span>
+              {pts.map((_, i)=>(
+                <button key={i} onClick={()=>setSelected(i)}
+                  style={{ flex:1, padding:"6px 0", borderRadius:7, cursor:"pointer", fontSize:12,
+                    border:`1.5px solid ${selected===i ? ptColor(i, pts.length) : C.line}`,
+                    background: selected===i ? ptColor(i, pts.length)+"22" : C.panel2,
+                    color: selected===i ? C.ink : C.inkDim, textTransform:"capitalize" }}>
+                  {ptLabel(i, pts.length)}
+                </button>
+              ))}
+            </div>
+            <SphereMap pts={pts} path={pathPoly} selected={selected} onPlace={place} onDragPoint={dragPoint} showRegions={showRegions} opaque={opaque} />
             <div style={{ display:"flex", alignItems:"center", gap:16, marginTop:8, fontSize:12, color:C.inkDim }}>
               <label style={{ display:"flex", alignItems:"center", gap:7, cursor:"pointer" }}>
                 <input type="checkbox" checked={showRegions} onChange={e=>setShowRegions(e.target.checked)} style={{accentColor:"#cdb87a"}} />
