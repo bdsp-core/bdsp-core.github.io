@@ -6,3 +6,6 @@ credentials.json
 service-account-key.json
 *.key
 *.pem
+# private/operational scratch (org-wide audit data; never push to the public site)
+_workdir/
+__pycache__/

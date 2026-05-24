@@ -13,6 +13,7 @@ Requires: GITHUB_TOKEN env var (PAT with org repo read access for private repos)
 import os
 import json
 import re
+import base64
 import yaml
 from datetime import datetime
 from urllib.request import urlopen, Request
@@ -486,6 +487,68 @@ def make_slug(text):
     return slug
 
 
+def _first_prose_paragraph(md):
+    """Heuristic: from a Markdown blob, return the first plain-text paragraph
+    that's neither a heading, badge, image, code block, nor HTML comment.
+    Returns None if nothing prose-like was found."""
+    if not md:
+        return None
+    md = re.sub(r"<!--.*?-->", "", md, flags=re.S)
+    paragraph = []
+    in_code = False
+    skip_prefixes = ("#", ">", "<", "!", "```", "    ", "\t", "|", "---", "===")
+    for ln in md.split("\n"):
+        s = ln.strip()
+        if s.startswith("```") or s.startswith("~~~"):
+            in_code = not in_code
+            continue
+        if in_code:
+            continue
+        if not s:
+            if paragraph:
+                break
+            continue
+        if any(s.startswith(p) for p in skip_prefixes):
+            continue
+        s = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", s)               # images
+        s = re.sub(r"\[\]\([^)]+\)", "", s)                        # empty-text links (badge wrappers)
+        s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)            # links
+        s = re.sub(r"`([^`]+)`", r"\1", s)                         # inline code
+        s = re.sub(r"[*_]{1,2}([^*_]+)[*_]{1,2}", r"\1", s)        # bold / italic
+        s = s.strip()
+        # require some actual letter content; otherwise it was badge / decoration noise
+        if not s or len(re.sub(r"[^A-Za-z]", "", s)) < 8:
+            continue
+        paragraph.append(s)
+        if len(" ".join(paragraph)) > 240:
+            break
+    if not paragraph:
+        return None
+    text = " ".join(paragraph).strip()
+    if len(text) > 260:
+        cut = max(text.rfind(". ", 0, 240), text.rfind("! ", 0, 240), text.rfind("? ", 0, 240))
+        text = text[:cut + 1] if cut > 80 else text[:240].rsplit(" ", 1)[0] + "…"
+    return text
+
+
+def fetch_readme_description(name):
+    """Fetch the repo's README and return its first prose paragraph (truncated),
+    or None on any failure. Used as a fallback when neither the GitHub
+    "About" nor REPO_DESCRIPTIONS has anything for a repo."""
+    token = os.environ.get("GITHUB_TOKEN")
+    headers = {"Accept": "application/vnd.github.v3+json", "User-Agent": "bdsp-readme-fallback"}
+    if token:
+        headers["Authorization"] = f"token {token}"
+    try:
+        req = Request(f"https://api.github.com/repos/{ORG_NAME}/{name}/readme", headers=headers)
+        with urlopen(req, timeout=20) as resp:
+            data = json.load(resp)
+        body = base64.b64decode(data.get("content", "")).decode("utf-8", errors="ignore")
+        return _first_prose_paragraph(body)
+    except Exception:
+        return None
+
+
 def fetch_all_repos():
     """Fetch all repos from the GitHub org, handling pagination."""
     headers = {
@@ -539,12 +602,10 @@ def process_repos(raw_repos):
     repos = []
 
     for r in raw_repos:
-        # Skip private repos — they appear as broken links to public visitors
-        # and clutter the catalog. The GitHub API field is "private": true/false
-        # for the org-listing endpoint; "visibility": "private" for some others.
-        if r.get("private") is True or r.get("visibility") == "private":
-            continue
-
+        # Public + private repos are both listed. The catalog is treated as
+        # org-member-first: private links work for members and 404 for others.
+        # The visibility field is preserved in each entry so the rendered
+        # card can show whether the repo is private (see _pages/code.md).
         name = r["name"]
         category = REPO_CATEGORIES.get(name, "Uncategorized")
 
@@ -561,9 +622,13 @@ def process_repos(raw_repos):
             except ValueError:
                 updated = updated[:10]
 
+        description = (r.get("description")
+                       or REPO_DESCRIPTIONS.get(name)
+                       or fetch_readme_description(name)
+                       or "No description provided.")
         repos.append({
             "name": name,
-            "description": r.get("description") or REPO_DESCRIPTIONS.get(name, "No description provided."),
+            "description": description,
             "url": r.get("html_url", f"https://github.com/{ORG_NAME}/{name}"),
             "language": r.get("language") or "",
             "stars": r.get("stargazers_count", 0),
