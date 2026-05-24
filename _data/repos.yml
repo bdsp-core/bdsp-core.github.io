@@ -2421,7 +2421,8 @@
   topics: []
   sort_order: 10
 - name: chocolate-bananas
-  description: No description provided.
+  description: Clinical trial design search with CHOCOLATE simulation, persisted search
+    history, and Ollama-driven Nemotron guidance.
   url: https://github.com/bdsp-core/chocolate-bananas
   language: Python
   stars: 0
@@ -2433,7 +2434,10 @@
   topics: []
   sort_order: 10
 - name: cicadas
-  description: No description provided.
+  description: CICADAS (Causal Inference for Critical-Care Anti-Seizure Treatment
+    with Disease Dynamics, Automated PKPD/Trial Simulation, and Survival Optimization)
+    is a simulation-based framework for emulating randomized trials of anti-seizure
+    treatment…
   url: https://github.com/bdsp-core/cicadas
   language: Python
   stars: 0
@@ -2445,7 +2449,9 @@
   topics: []
   sort_order: 10
 - name: cicadas2
-  description: No description provided.
+  description: Causal Inference for Critical-Care Anti-Seizure Treatment with Disease
+    Dynamics, Automated PKPD/Trial Simulation, and Survival Optimization — Modified
+    to accommodate infrequent events and bolus dosing.
   url: https://github.com/bdsp-core/cicadas2
   language: MATLAB
   stars: 1
@@ -2470,7 +2476,9 @@
   topics: []
   sort_order: 10
 - name: horrible-things-automator
-  description: No description provided.
+  description: A growing collection of small, self-contained scripts that automate
+    the kind of tedious, soul-draining tasks academics and researchers keep running
+    into &mdash; the things you'd never want to do by hand twice.
   url: https://github.com/bdsp-core/horrible-things-automator
   language: Python
   stars: 0
@@ -2482,7 +2490,8 @@
   topics: []
   sort_order: 10
 - name: icon-diagrams
-  description: No description provided.
+  description: icon-diagrams is a code-first figure generation toolkit for publication-style
+    scientific diagrams.
   url: https://github.com/bdsp-core/icon-diagrams
   language: Python
   stars: 0
@@ -2513,7 +2522,10 @@
   - iiic
   sort_order: 10
 - name: ilae-skill-certification-test
-  description: No description provided.
+  description: Modeling, simulation, and retrospective feasibility analysis for a
+    short Bayesian-adaptive signal-detection-theory (SDT) test of EEG spike-detection
+    skill, with a three-way sequential stopping rule (pass / fail / refer) calibrated
+    to a…
   url: https://github.com/bdsp-core/ilae-skill-certification-test
   language: HTML
   stars: 0
@@ -2525,7 +2537,8 @@
   topics: []
   sort_order: 10
 - name: ilae-skill-certification-test-multi
-  description: No description provided.
+  description: 'Unified repository for the ILAE epileptiform-discharge skill certification
+    system: **two engines, one shared data + calibration'
   url: https://github.com/bdsp-core/ilae-skill-certification-test-multi
   language: Python
   stars: 0
@@ -2537,7 +2550,9 @@
   topics: []
   sort_order: 10
 - name: Measuring-Expertise-in-Identifying-Interictal-Epileptiform-Discharges
-  description: No description provided.
+  description: Reproducibility repository for Harid, Jing, Hogan et al., *Measuring
+    Expertise in Identifying Interictal Epileptiform Discharges* (Epileptic Disorders,
+    2022).
   url: https://github.com/bdsp-core/Measuring-Expertise-in-Identifying-Interictal-Epileptiform-Discharges
   language: Python
   stars: 0
@@ -2601,7 +2616,8 @@
   topics: []
   sort_order: 10
 - name: morgoth2
-  description: No description provided.
+  description: 'This repository contains code and tools for running EEG analysis using
+    Morgoth, including event-level and EEG-level detection with probabilities for:'
   url: https://github.com/bdsp-core/morgoth2
   language: Python
   stars: 0
@@ -2613,7 +2629,9 @@
   topics: []
   sort_order: 10
 - name: morpheus-internal
-  description: No description provided.
+  description: This repo contains internal Morpheus utilities and outputs. Working
+    directories are organized by module. spindle-so/ is one module/functionality;
+    different team members may own different modules.
   url: https://github.com/bdsp-core/morpheus-internal
   language: Python
   stars: 0
@@ -2625,7 +2643,9 @@
   topics: []
   sort_order: 10
 - name: nax_llm_batch_processing
-  description: No description provided.
+  description: Private — CDAC internal. Batch-LLM utilities used across the NAX EHR-phenotyping
+    projects — orchestrates Anthropic / OpenAI batch APIs for large-scale prompting
+    over clinical notes, and provides reusable prompt templates and SOPs.
   url: https://github.com/bdsp-core/nax_llm_batch_processing
   language: Python
   stars: 0
@@ -2637,7 +2657,9 @@
   topics: []
   sort_order: 10
 - name: Neurotech-EEG-Wrangling
-  description: No description provided.
+  description: Pipeline for converting clinical Natus/Xltek NeuroWorks EEG recordings
+    into a de-identified, BIDS-compliant dataset and uploading to the Brain Data Science
+    Platform (BDSP).
   url: https://github.com/bdsp-core/Neurotech-EEG-Wrangling
   language: Python
   stars: 0
@@ -2649,7 +2671,9 @@
   topics: []
   sort_order: 10
 - name: Noise_in_Diagnosing_Epilepsy_KILT_Technical
-  description: No description provided.
+  description: Private — CDAC internal. Placeholder repository for the KILT (Knowledge
+    Inheritance via Lifelong Training) technical write-up companion to bdsp-core/NoiseinDiagnosing_Epilepsy.
+    This repo currently has no committed code; the analysis lives in the
   url: https://github.com/bdsp-core/Noise_in_Diagnosing_Epilepsy_KILT_Technical
   language: ''
   stars: 0
@@ -2674,7 +2698,7 @@
   topics: []
   sort_order: 10
 - name: spike-learning-game
-  description: No description provided.
+  description: 'Reproduction code and data manifest for:'
   url: https://github.com/bdsp-core/spike-learning-game
   language: Python
   stars: 0
@@ -2686,7 +2710,9 @@
   topics: []
   sort_order: 10
 - name: vxp-data-wrangling
-  description: No description provided.
+  description: Private — CDAC internal. Data-wrangling notebooks fixing common issues
+    in the VXP (clinical reports) dataset — invalid rows, missing OrderIDs, malformed
+    columns — plus an LLM-assisted code fixer used as part of the cleanup.
   url: https://github.com/bdsp-core/vxp-data-wrangling
   language: Jupyter Notebook
   stars: 0
