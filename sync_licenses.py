@@ -128,6 +128,13 @@ def main():
     repos = list_org_repos()
     print(f"Scanning {len(repos)} repos in {ORG_NAME}/...\n")
 
+    # If the GITHUB_TOKEN can list the org but lacks Contents:write on individual
+    # repos, EVERY per-repo PUT will return 403 with this message. Detecting it
+    # on the first few tries lets us bail out with a clear actionable summary
+    # instead of logging 200+ identical 403s every night.
+    SCOPE_MSG = "Resource not accessible by personal access token"
+    consecutive_scope_403 = 0
+
     added, already, skipped, errored = [], [], [], []
     for r in sorted(repos, key=lambda x: x["name"].lower()):
         name = r["name"]
@@ -144,19 +151,34 @@ def main():
 
         try:
             if repo_has_license(name):
-                already.append(name); continue
+                already.append(name); consecutive_scope_403 = 0; continue
             if DRY_RUN:
                 added.append(f"{name} [DRY_RUN]")
                 print(f"  + [dry] {name}")
                 continue
             add_license(name, license_b64)
-            added.append(name)
+            added.append(name); consecutive_scope_403 = 0
             print(f"  + added LICENSE.txt to {name}")
         except HTTPError as e:
             try:
                 msg = e.read().decode(errors="ignore")[:300]
             except Exception:
                 msg = ""
+            if e.code == 403 and SCOPE_MSG in msg:
+                consecutive_scope_403 += 1
+                if consecutive_scope_403 >= 3:
+                    print(f"\n*** ABORTING — GITHUB_TOKEN lacks per-repo Contents access. ***")
+                    print(f"*** {consecutive_scope_403}+ consecutive 403s with: \"{SCOPE_MSG}\".")
+                    print(f"***")
+                    print(f"*** The token can list the org but cannot read/write individual")
+                    print(f"*** repos. To fix, regenerate the ORG_PAT secret as either:")
+                    print(f"***   - fine-grained PAT: Resource owner=bdsp-core, Repository access=")
+                    print(f"***     All repositories, Permissions->Repository->Contents=Read & write,")
+                    print(f"***     Metadata=Read; OR")
+                    print(f"***   - classic PAT: scope `repo` (full repo access).")
+                    print(f"*** Then update Settings -> Secrets and variables -> Actions -> ORG_PAT.")
+                    print(f"*** (Exit 0 so the workflow's catalog publish step still runs.)")
+                    return 0
             errored.append((name, f"HTTP {e.code}: {msg}"))
             print(f"  ! {name}: HTTP {e.code} {msg}")
 
