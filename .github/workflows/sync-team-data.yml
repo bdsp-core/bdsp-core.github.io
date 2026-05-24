@@ -94,6 +94,14 @@ jobs:
       run: |
         python sync_repos.py
 
+    - name: Ensure noncommercial LICENSE.txt on all org repos
+      env:
+        # Same PAT as the repo-listing step; also needs contents:write across
+        # the org so the script can commit LICENSE.txt to repos that lack one.
+        GITHUB_TOKEN: ${{ secrets.ORG_PAT }}
+      run: |
+        python sync_licenses.py
+
     - name: Check for changes
       id: verify-changed-files
       run: |
