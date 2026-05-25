@@ -2811,6 +2811,103 @@
     display: 'The open medical informatics journal. 2012. 6. 36-50. doi: 10.2174/1874431101206010036.
       PMID: 23304251.'
   highlight: 0
+- title: '"Evaluating crowdsourcing for ICU EEG annotation: A comparison with expert
+    performance."'
+  image: ''
+  description: ''
+  authors: Kong WY, Nascimento FA, Struck A, Duhaime E, Kapur S, Amorim E, Kapinos
+    G, Rodriguez A, Thomas B, Desai M, Lee JW, Westover MB, Jing J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Kong_Unknown_40768345.pdf
+    display: 'Epilepsia. 2025. 66(11). 4366-4380. doi: 10.1111/epi.18547. PMID: 40768345.'
+  highlight: 0
+- title: '"Systematic Evaluation of Research Priorities in Critical Care Electroencephalography."'
+  image: ''
+  description: ''
+  authors: Sheikh Z, Selioutski O, Taraschenko O, Gilmore EJ, Westover MB, Cohen AB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Sheikh_JClinNeurophysiol_35066530.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2023. 40(5). 426-433. doi: 10.1097/WNP.0000000000000916.
+      PMID: 35066530.'
+  highlight: 0
+- title: '"Using electronic health data to explore effectiveness of ICU EEG and anti-seizure
+    treatment."'
+  image: ''
+  description: ''
+  authors: Amerineni R, Sun H, Lee H, Hsu J, Patorno E, Westover MB, Zafar SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Amerineni_AnnClinTranslNeurol_34802196.pdf
+    display: 'Annals of clinical and translational neurology. 2021. 8(12). 2270-2279.
+      doi: 10.1002/acn3.51478. PMID: 34802196.'
+  highlight: 0
+- title: '"American Clinical Neurophysiology Society''s Standardized Critical Care
+    EEG Terminology: 2021 Version."'
+  image: ''
+  description: ''
+  authors: Hirsch LJ, Fong MWK, Leitinger M, LaRoche SM, Beniczky S, Abend NS, Lee
+    JW, Wusthoff CJ, Hahn CD, Westover MB, Gerard EE, Herman ST, Haider HA, Osman
+    G, Rodriguez-Ruiz A, Maciel CB, Gilmore EJ, Fernandez A, Rosenthal ES, Claassen
+    J, Husain AM, Yoo JY, So EL, Kaplan PW, Nuwer MR, van Putten M, Sutter R, Drislane
+    FW, Trinka E, Gaspard N
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Hirsch_JClinNeurophysiol_33475321.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2021. 38(1). 1-29. doi: 10.1097/WNP.0000000000000806.
+      PMID: 33475321.'
+  highlight: 0
+- title: '"Development and Feasibility Testing of a Critical Care EEG Monitoring Database
+    for Standardized Clinical Reporting and Multicenter Collaborative Research."'
+  image: ''
+  description: ''
+  authors: Lee JW, LaRoche S, Choi H, Rodriguez Ruiz AA, Fertig E, Politsky JM, Herman
+    ST, Loddenkemper T, Sansevere AJ, Korb PJ, Abend NS, Goldstein JL, Sinha SR, Dombrowski
+    KE, Ritzl EK, Westover MB, Gavvala JR, Gerard EE, Schmitt SE, Szaflarski JP, Ding
+    K, Haas KF, Buchsbaum R, Hirsch LJ, Wusthoff CJ, Hopp JL, Hahn CD
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Lee_JClinNeurophysiol_26943901.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2016. 33(2). 133-40. doi: 10.1097/WNP.0000000000000230.
+      PMID: 26943901.'
+  highlight: 0
+- title: '"The standardization debate: A conflation trap in critical care electroencephalography."'
+  image: ''
+  description: ''
+  authors: Ng MC, Gaspard N, Cole AJ, Hoch DB, Cash SS, Bianchi M, O'Rourke DA, Rosenthal
+    ES, Chu CJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Ng_Seizure_25457454.pdf
+    display: 'Seizure. 2015. 24. 52-8. doi: 10.1016/j.seizure.2014.09.017. PMID: 25457454.'
+  highlight: 0
+- title: '"Interrater agreement for Critical Care EEG Terminology."'
+  image: ''
+  description: ''
+  authors: Gaspard N, Hirsch LJ, LaRoche SM, Hahn CD, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Gaspard_Epilepsia_24888711.pdf
+    display: 'Epilepsia. 2014. 55(9). 1366-73. doi: 10.1111/epi.12653. PMID: 24888711.'
+  highlight: 0
+- title: '"Real-time segmentation and tracking of brain metabolic state in ICU EEG
+    recordings of burst suppression."'
+  image: ''
+  description: ''
+  authors: Westover MB, Ching S, Shafi MM, Cash SS, Brown EN
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2013_Westover_AnnuIntConfIEEEEngMedBiolSoc_24111383.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2013. 2013. 7108-11. doi: 10.1109/EMBC.2013.6611196.
+      PMID: 24111383.'
+  highlight: 0
+- title: '"Information theoretic quantification of diagnostic uncertainty."'
+  image: ''
+  description: ''
+  authors: Westover MB, Eiseman NA, Cash SS, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Westover_OpenMedInformJ_23304251.pdf
+    display: 'The open medical informatics journal. 2012. 6. 36-50. doi: 10.2174/1874431101206010036.
+      PMID: 23304251.'
+  highlight: 0
 - title: '"Using electronic health data to explore effectiveness of ICU EEG and anti-seizure
     treatment."'
   image: ''
