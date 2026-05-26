@@ -575,9 +575,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 10
+  stars: 12
   forks: 1
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-25'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-25'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-26'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2693,6 +2693,20 @@
   forks: 0
   updated_at: '2026-05-24'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: sharp-transients-irr
+  description: Lightweight reviewer for confirming the channel + time of the most
+    prominent sharp transient in each of the 5,000 inter-rater-reliability EEG segments
+    (IEDs vs vertex waves, wickets, POSTs, BETs, "other").
+  url: https://github.com/bdsp-core/sharp-transients-irr
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-26'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
