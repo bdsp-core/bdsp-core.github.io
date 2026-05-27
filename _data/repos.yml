@@ -330,7 +330,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-22'
+  updated_at: '2026-05-26'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -577,7 +577,7 @@
   language: Python
   stars: 12
   forks: 1
-  updated_at: '2026-05-25'
+  updated_at: '2026-05-26'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-25'
+  updated_at: '2026-05-26'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2126,10 +2126,10 @@
 - name: interrater_analysis
   description: inter rater analysis
   url: https://github.com/bdsp-core/interrater_analysis
-  language: Jupyter Notebook
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-27'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2462,6 +2462,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: df2
+  description: No description provided.
+  url: https://github.com/bdsp-core/df2
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-26'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: grond-manuscript
   description: GROND manuscript (TeX + figures); imported into Overleaf. Code lives
     in bdsp-core/grond.
@@ -2498,6 +2510,20 @@
   forks: 0
   updated_at: '2026-05-24'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: ideal-test-learning
+  description: This repository is the home for the design, simulation, and eventually
+    the implementation of the training ("learning with feedback") side of the ILAE
+    EEG skill-certification project. Its sibling, bdsp-core/ilae-skill-certification-test-multi,
+  url: https://github.com/bdsp-core/ideal-test-learning
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-27'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2543,8 +2569,8 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
-  visibility: private
+  updated_at: '2026-05-27'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2615,6 +2641,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: morgoth-sz-hm
+  description: No description provided.
+  url: https://github.com/bdsp-core/morgoth-sz-hm
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-26'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: morgoth2
   description: 'This repository contains code and tools for running EEG analysis using
     Morgoth, including event-level and EEG-level detection with probabilities for:'
@@ -2636,7 +2674,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-26'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
