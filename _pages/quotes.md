@@ -460,7 +460,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#desire" class="toc-link">Desire <span class="quote-count">(3)</span></a>
 <a href="#duty" class="toc-link">Duty <span class="quote-count">(1)</span></a>
 <a href="#faith" class="toc-link">Faith <span class="quote-count">(4)</span></a>
-<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(16)</span></a>
+<a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(17)</span></a>
 <a href="#happiness" class="toc-link">Happiness <span class="quote-count">(2)</span></a>
 <a href="#human-nature" class="toc-link">Human Nature <span class="quote-count">(6)</span></a>
 <a href="#humor" class="toc-link">Humor <span class="quote-count">(1)</span></a>
@@ -781,7 +781,7 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="good-and-evil">
-<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(16 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(17 quotes)</span></h3>
 </div>
 > No; I'm not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.  
 
