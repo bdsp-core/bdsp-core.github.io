@@ -1374,9 +1374,9 @@
   description: NAX algorithm for automated epilepsy phenotyping from clinical notes.
   url: https://github.com/bdsp-core/NAX-Epilepsy
   language: Python
-  stars: 1
+  stars: 2
   forks: 0
-  updated_at: '2026-02-23'
+  updated_at: '2026-05-27'
   visibility: public
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
@@ -1387,9 +1387,9 @@
     phenotyping.
   url: https://github.com/bdsp-core/NAX-MCI-AD
   language: Jupyter Notebook
-  stars: 0
+  stars: 1
   forks: 1
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-27'
   visibility: public
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-26'
+  updated_at: '2026-05-27'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2352,7 +2352,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-27'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-26'
+  updated_at: '2026-05-27'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2468,7 +2468,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-05-26'
+  updated_at: '2026-05-27'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2569,7 +2569,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-27'
+  updated_at: '2026-05-28'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2642,12 +2642,13 @@
   topics: []
   sort_order: 10
 - name: morgoth-sz-hm
-  description: No description provided.
+  description: 'This repository extends the base Morgoth EEG model with two improvements
+    specifically targeting seizure detection:'
   url: https://github.com/bdsp-core/morgoth-sz-hm
-  language: ''
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-26'
+  updated_at: '2026-05-28'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized

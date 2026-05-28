@@ -783,6 +783,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="section-header" id="good-and-evil">
 <h3 style="margin: 0; color: white;">Good and Evil <span class="quote-count">(17 quotes)</span></h3>
 </div>
+> Whether in the midst of our wisdom or of our folly, of truth or of error, it is the transcendental horizon of all things that continually calls us to itself, and we must obey as best we can. We may revere tradition or respect the sincerity of those who tell us all those venerable tales that we are asked to accept on faith. But there is only one path to true freedom, and so to God. In the end, we must love the Good.  
+
 > No; I'm not bad. But sometimes beautiful things grow bad by doing bad, and it takes some time for their badness to spoil their beauty. So little boys may be mistaken if they go after things because they beautiful.  
 
 > When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.  
