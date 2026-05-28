@@ -11592,6 +11592,368 @@
     url: https://bdsp-core.github.io/cdac-downloads/2026_Nassi_Sleep_40704699.pdf
     display: 'Sleep. 2026. 49(2). doi: 10.1093/sleep/zsaf213. PMID: 40704699.'
   highlight: 0
+- title: '"Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth."'
+  image: ''
+  description: ''
+  authors: Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Meulenbrugge_Unknown_40276961.pdf
+    display: 'Journal of sleep research. 2026. 35(1). e70074. doi: 10.1111/jsr.70074.
+      PMID: 40276961.'
+  highlight: 0
+- title: '"Obstructive Sleep Apnea and Cerebral Microbleeds in Middle-Aged and Older
+    Adults."'
+  image: ''
+  description: ''
+  authors: Siddiquee AT, Hwang YH, Kim S, Lee SK, Lee MH, Kim HJ, Kim YJ, Kim BJ,
+    Hadar PN, Westover MB, Thomas RJ, Kim NH, Shin C
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Siddiquee_JAMANetwOpen_41148136.pdf
+    display: 'JAMA network open. 2025. 8(10). e2539874. doi: 10.1001/jamanetworkopen.2025.39874.
+      PMID: 41148136.'
+  highlight: 0
+- title: '"The Boston Children''s Hospital Sleep Corpus: A Collection of 15,695 Annotated
+    Pediatric Polysomnograms."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra
+    A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone
+    KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo
+    G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski
+    K, Katwa U
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_Unknown_40971987.pdf
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf273. PMID: 40971987.'
+  highlight: 0
+- title: '"Automated analysis of the American Academy of Sleep Medicine Inter-Scorer
+    Reliability gold-standard polysomnogram dataset."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Sun H, Stone
+    KL, Mignot E, Hwang D, Trotti LM, Reyna MA, Clifford GD, Katwa U, Thomas RJ, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_JClinSleepMed_40790924.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2025. 21(11). 1821-1829. doi: 10.5664/jcsm.11848.
+      PMID: 40790924.'
+  highlight: 0
+- title: '"CAISR: achieving human-level performance in automated sleep analysis across
+    all clinical sleep metrics."'
+  image: ''
+  description: ''
+  authors: Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Moura Junior V, Ghanta
+    M, Gupta A, Stone KL, Kjaer MR, Sum-Ping O, Mignot E, Hwang D, Trotti LM, Clifford
+    GD, Katwa U, Sun H, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Nasiri_Sleep_40554678.pdf
+    display: 'Sleep. 2025. 48(8). doi: 10.1093/sleep/zsaf134. PMID: 40554678.'
+  highlight: 0
+- title: '"Facility-measured nocturnal hypoxemia and sleep among adults with long
+    COVID versus age- and sex-matched healthy adults: a preliminary observational
+    study."'
+  image: ''
+  description: ''
+  authors: Sun H, Dang R, Haack M, Hauser K, Scott-Sutherland J, Westover MB, Parthasarathy
+    S, Redline S, Thomas RJ, Mullington JM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_SleepAdv_40365527.pdf
+    display: 'Sleep advances : a journal of the Sleep Research Society. 2025. 6(2).
+      zpaf017. doi: 10.1093/sleepadvances/zpaf017. PMID: 40365527.'
+  highlight: 0
+- title: '"A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep
+    Recordings for Disease Predictions."'
+  image: ''
+  description: ''
+  authors: Thapa R, Kjær MR, He B, Covert I, Moore H, Hanif U, Ganjoo G, Westover
+    MB, Jennum P, Brink-Kjær A, Mignot E, Zou J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Thapa_medRxiv_39974074.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.04.25321675.
+      PMID: 39974074.'
+  highlight: 0
+- title: '"The Association between All-Cause Mortality and Obstructive Sleep Apnea
+    in Adults: A U-Shaped Curve."'
+  image: ''
+  description: ''
+  authors: Azarian M, Ramezani A, Sharafkhaneh A, Maghsoudi A, Kryger M, Thomas RJ,
+    Westover MB, Razjouyan J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Azarian_AnnAmThoracSoc_39746198.pdf
+    display: 'Annals of the American Thoracic Society. 2025. 22(4). 581-590. doi:
+      10.1513/AnnalsATS.202407-755OC. PMID: 39746198.'
+  highlight: 0
+- title: '"Morphological Prediction of Continuous Positive Airway Pressure-associated
+    Acute Respiratory Instability."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Oppersma E, Labarca G, Donker DW, Westover MB, Thomas RJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Nassi_AnnAmThoracSoc_39288402.pdf
+    display: 'Annals of the American Thoracic Society. 2025. 22(1). 138-149. doi:
+      10.1513/AnnalsATS.202311-979OC. PMID: 39288402.'
+  highlight: 0
+- title: '"What radio waves tell us about sleep!"'
+  image: ''
+  description: ''
+  authors: He H, Li C, Ganglberger W, Gallagher K, Hristov R, Ouroutzoglou M, Sun
+    H, Sun J, Westover MB, Katabi D
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_He_Unknown_39155830.pdf
+    display: 'Sleep. 2025. 48(1). doi: 10.1093/sleep/zsae187. PMID: 39155830.'
+  highlight: 0
+- title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
+    An exploratory cross-sectional study using deep neural networks."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N,
+    Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins
+    J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
+    Kuller D, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Ganglberger_FrontNetwPhysiol_36926545.pdf
+    display: 'Frontiers in network physiology. 2023. 3. 1120390. doi: 10.3389/fnetp.2023.1120390.
+      PMID: 36926545.'
+  highlight: 0
+- title: '"The sleep and wake electroencephalogram over the lifespan."'
+  image: ''
+  description: ''
+  authors: Sun H, Ye E, Paixao L, Ganglberger W, Chu CJ, Zhang C, Rosand J, Mignot
+    E, Cash SS, Gozal D, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Sun_NeurobiolAging_36739622.pdf
+    display: 'Neurobiology of aging. 2023. 124. 60-70. doi: 10.1016/j.neurobiolaging.2023.01.006.
+      PMID: 36739622.'
+  highlight: 0
+- title: '"High prevalence of sleep-disordered breathing in the intensive care unit
+    - a cross-sectional study."'
+  image: ''
+  description: ''
+  authors: Bucklin AA, Ganglberger W, Quadri SA, Tesh RA, Adra N, Da Silva Cardoso
+    M, Leone MJ, Krishnamurthy PV, Hemmige A, Rajan S, Panneerselvam E, Paixao L,
+    Higgins J, Ayub MA, Shao YP, Ye EM, Coughlin B, Sun H, Cash SS, Thompson BT, Akeju
+    O, Kuller D, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Bucklin_SleepBreath_35971023.pdf
+    display: 'Sleep & breathing = Schlaf & Atmung. 2023. 27(3). 1013-1026. doi: 10.1007/s11325-022-02698-9.
+      PMID: 35971023.'
+  highlight: 0
+- title: '"Age estimation from sleep studies using deep learning predicts life expectancy."'
+  image: ''
+  description: ''
+  authors: Brink-Kjaer A, Leary EB, Sun H, Westover MB, Stone KL, Peppard PE, Lane
+    NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_BrinkKjaer_NPJDigitMed_35869169.pdf
+    display: 'NPJ digital medicine. 2022. 5(1). 103. doi: 10.1038/s41746-022-00630-9.
+      PMID: 35869169.'
+  highlight: 0
+- title: '"Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt
+    and Deep Neural Networks."'
+  image: ''
+  description: ''
+  authors: Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM,
+    Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Nassi_IEEETransBiomedEng_34928786.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2022. 69(6). 2094-2104.
+      doi: 10.1109/TBME.2021.3136753. PMID: 34928786.'
+  highlight: 0
+- title: '"Sleep apnea and respiratory anomaly detection from a wearable band and
+    oxygen saturation."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Bucklin AA, Tesh RA, Da Silva Cardoso M, Sun H, Leone MJ,
+    Paixao L, Panneerselvam E, Ye EM, Thompson BT, Akeju O, Kuller D, Thomas RJ, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Ganglberger_SleepBreath_34409545.pdf
+    display: 'Sleep & breathing = Schlaf & Atmung. 2022. 26(3). 1033-1044. doi: 10.1007/s11325-021-02465-2.
+      PMID: 34409545.'
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients With Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Ayub_Neurohospitalist_34163546.pdf
+    display: 'The Neurohospitalist. 2021. 11(3). 204-213. doi: 10.1177/1941874420972237.
+      PMID: 34163546.'
+  highlight: 0
+- title: '"Susceptibility-weighted imaging reveals cerebral microvascular injury in
+    severe COVID-19."'
+  image: ''
+  description: ''
+  authors: Conklin J, Frosch MP, Mukerji SS, Rapalino O, Maher MD, Schaefer PW, Lev
+    MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin
+    E, Shaw B, Lemieux JE, Sabeti PC, Branda JA, Brown EN, Westover MB, Huang SY,
+    Edlow BL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Conklin_JNeurolSci_33497950.pdf
+    display: 'Journal of the neurological sciences. 2021. 421. 117308. doi: 10.1016/j.jns.2021.117308.
+      PMID: 33497950.'
+  highlight: 0
+- title: '"Development and Prospective Validation of a Deep Learning Algorithm for
+    Predicting Need for Mechanical Ventilation."'
+  image: ''
+  description: ''
+  authors: Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North
+    CM, Mukerji SS, Robbins GK, Shao YP, Westover MB, Nemati S, Malhotra A
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Shashikumar_Chest_33345948.pdf
+    display: 'Chest. 2021. 159(6). 2264-2273. doi: 10.1016/j.chest.2020.12.009. PMID:
+      33345948.'
+  highlight: 0
+- title: '"Algorithm for automatic detection of self-similarity and prediction of
+    residual central respiratory events during continuous positive airway pressure."'
+  image: ''
+  description: ''
+  authors: Oppersma E, Ganglberger W, Sun H, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Oppersma_Sleep_33057718.pdf
+    display: 'Sleep. 2021. 44(4). doi: 10.1093/sleep/zsaa215. PMID: 33057718.'
+  highlight: 0
+- title: '"Association of Red Blood Cell Distribution Width With Mortality Risk in
+    Hospitalized Adults With SARS-CoV-2 Infection."'
+  image: ''
+  description: ''
+  authors: Foy BH, Carlson JCT, Reinertsen E, Padros I Valls R, Pallares Lopez R,
+    Palanques-Tost E, Mow C, Westover MB, Aguirre AD, Higgins JM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Foy_JAMANetwOpen_32965501.pdf
+    display: 'JAMA network open. 2020. 3(9). e2022058. doi: 10.1001/jamanetworkopen.2020.22058.
+      PMID: 32965501.'
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients with Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Ayub_medRxiv_32699855.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2020. doi: 10.1101/2020.07.13.20152207.
+      PMID: 32699855.'
+  highlight: 0
+- title: '"Sleep staging from electrocardiography and respiration with deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
+    Tesh RA, Akeju O, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Sun_Sleep_31863111.pdf
+    display: 'Sleep. 2020. 43(7). doi: 10.1093/sleep/zsz306. PMID: 31863111.'
+  highlight: 0
+- title: '"Expert-level sleep scoring with deep neural networks."'
+  image: ''
+  description: ''
+  authors: Biswal S, Sun H, Goparaju B, Westover MB, Sun J, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Biswal_JAmMedInformAssoc_30445569.pdf
+    display: 'Journal of the American Medical Informatics Association : JAMIA. 2018.
+      25(12). 1643-1650. doi: 10.1093/jamia/ocy131. PMID: 30445569.'
+  highlight: 0
+- title: '"Big data in sleep medicine: prospects and pitfalls in phenotyping."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Russo K, Gabbidon H, Smith T, Goparaju B, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Bianchi_NatSciSleep_28243157.pdf
+    display: 'Nature and science of sleep. 2017. 9. 11-29. doi: 10.2147/NSS.S130141.
+      PMID: 28243157.'
+  highlight: 0
+- title: '"A cost-effectiveness analysis of nasal surgery to increase continuous positive
+    airway pressure adherence in sleep apnea patients with nasal obstruction."'
+  image: ''
+  description: ''
+  authors: Kempfle JS, BuSaba NY, Dobrowski JM, Westover MB, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Kempfle_Laryngoscope_27653626.pdf
+    display: 'The Laryngoscope. 2017. 127(4). 977-983. doi: 10.1002/lary.26257. PMID:
+      27653626.'
+  highlight: 0
+- title: '"Decision Modeling in Sleep Apnea: The Critical Roles of Pretest Probability,
+    Cost of Untreated Obstructive Sleep Apnea, and Time Horizon."'
+  image: ''
+  description: ''
+  authors: Moro M, Westover MB, Kelly J, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Moro_JClinSleepMed_26518699.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2016. 12(3). 409-18. doi: 10.5664/jcsm.5596.
+      PMID: 26518699.'
+  highlight: 0
+- title: '"Clinical Prediction Models for Sleep Apnea: The Importance of Medical History
+    over Symptoms."'
+  image: ''
+  description: ''
+  authors: Ustun B, Westover MB, Rudin C, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Ustun_JClinSleepMed_26350602.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2016. 12(2). 161-8. doi: 10.5664/jcsm.5476.
+      PMID: 26350602.'
+  highlight: 0
+- title: '"The challenge of undiagnosed sleep apnea in low-risk populations: a decision
+    analysis."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Hershman S, Bahadoran M, Ferguson M, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bianchi_MilMed_25102549.pdf
+    display: 'Military medicine. 2014. 179(8 Suppl). 47-54. doi: 10.7205/MILMED-D-13-00483.
+      PMID: 25102549.'
+  highlight: 0
+- title: '"Automated sleep apnea quantification based on respiratory movement."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Lipoma T, Darling C, Alameddine Y, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bianchi_IntJMedSci_24936142.pdf
+    display: 'International journal of medical sciences. 2014. 11(8). 796-802. doi:
+      10.7150/ijms.9303. PMID: 24936142.'
+  highlight: 0
+- title: '"Applications of a Capacitor-Based Respiratory Position Sensing Device:
+    Implications for Radiation Therapy."'
+  image: ''
+  description: ''
+  authors: Y W, Mb W, C S, G S, Mt B, Kd W
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Y_AustinJMedOncol_31934681.pdf
+    display: 'Austin journal of medical oncology. 2014. 1(2). PMID: 31934681.'
+  highlight: 0
+- title: '"The impact of body posture and sleep stages on sleep apnea severity in
+    adults."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Ellenbogen JM, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Eiseman_JClinSleepMed_23243399.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2012. 8(6). 655-66A. doi: 10.5664/jcsm.2258.
+      PMID: 23243399.'
+  highlight: 0
+- title: '"Classification algorithms for predicting sleepiness and sleep apnea severity."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Mietus JE, Thomas RJ, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Eiseman_JSleepRes_21752133.pdf
+    display: 'Journal of sleep research. 2012. 21(1). 101-12. doi: 10.1111/j.1365-2869.2011.00935.x.
+      PMID: 21752133.'
+  highlight: 0
+- title: '"Unraveling sleep apnea dynamics: quantifying loop gain using dynamical
+    modeling of ventilatory control."'
+  image: ''
+  description: ''
+  authors: Nassi T, Amidi Y, Oppersma E, Donker DW, Redeker NS, Westover MB, Thomas
+    RJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Nassi_Sleep_40704699.pdf
+    display: 'Sleep. 2026. 49(2). doi: 10.1093/sleep/zsaf213. PMID: 40704699.'
+  highlight: 0
 - title: '"Obstructive Sleep Apnea and Cerebral Microbleeds in Middle-Aged and Older
     Adults."'
   image: ''

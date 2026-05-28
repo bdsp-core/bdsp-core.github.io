@@ -6683,6 +6683,961 @@
     display: 'The European journal of neuroscience. 2012. 35(6). 805-25. doi: 10.1111/j.1460-9568.2012.08035.x.
       PMID: 22429242.'
   highlight: 0
+- title: '"The Harvard-Emory ECG Database."'
+  image: ''
+  description: ''
+  authors: Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre
+    AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna
+    MA, Westover MB, Clifford GD
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Koscova_SciData_41741499.pdf
+    display: 'Scientific data. 2026. 13(1). doi: 10.1038/s41597-026-06861-9. PMID:
+      41741499.'
+  highlight: 0
+- title: '"An Electroencephalographic Study of Sleep Spindle and Infraslow Oscillation
+    in Children With Autism Spectrum Disorder."'
+  image: ''
+  description: ''
+  authors: Liu K, Sun B, Wang BK, Chen J, Westover MB, Tian FY, Sun H, Kong XJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Liu_Unknown_41668405.pdf
+    display: 'Journal of sleep research. 2026. e70309. doi: 10.1111/jsr.70309. PMID:
+      41668405.'
+  highlight: 0
+- title: '"The Predictive Power of Intraoperative EEG and Clinical Characteristics
+    for Postoperative Delirium Following Cardiac Surgery."'
+  image: ''
+  description: ''
+  authors: Wiredu K, Sun H, Boncompte G, Westover MB, Pedemonte JC, Akeju O
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Wiredu_Unknown_41481100.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2026. 43(1). 32-38. doi: 10.1097/WNP.0000000000001146.
+      PMID: 41481100.'
+  highlight: 0
+- title: '"Large-scale automated phenotyping of cardiac arrest and withdrawal of life-sustaining
+    therapy using electronic health record data."'
+  image: ''
+  description: ''
+  authors: Clive C, Singh A, Overmeer B, Boris S, Peterson L, Searle J, Hooke G, Turley
+    N, Fernandes M, Gupta A, Ghanta M, Junior VM, Mukeriji S, Zafar S, Amorim E, Westover
+    MB, Sun H
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Clive_Unknown_41371332.pdf
+    display: 'Resuscitation. 2026. 218. 110919. doi: 10.1016/j.resuscitation.2025.110919.
+      PMID: 41371332.'
+  highlight: 0
+- title: '"Linking sleep microstructure, blood markers of inflammation and metabolism,
+    and cognition: mediation analysis in the osteoporotic fractures in men study."'
+  image: ''
+  description: ''
+  authors: Suen C, Ma J, Lin X, Thomas RJ, Westover MB, Stone K, Yaffe K, Ensrud KE,
+    Redline S, Tanzi RE, Sun H, Zhang C
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Suen_Geroscience_40515807.pdf
+    display: 'GeroScience. 2026. 48(1). 1277-1289. doi: 10.1007/s11357-025-01730-6.
+      PMID: 40515807.'
+  highlight: 0
+- title: '"From Clinical Narrative to Diagnosis: Scalable Identification of Acquired
+    Epilepsy."'
+  image: ''
+  description: ''
+  authors: Wheelock JR, Fernandes MB, Chen Y, Ayvaz BB, Jin DS, Zubair A, Wan M, Appleton
+    J, Zafar SF, Struck AF, Hirsch LJ, Sivaraju A, Gilmore EJ, Westover MB, Kim JA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Wheelock_medRxiv_41282888.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.11.04.25339484.
+      PMID: 41282888.'
+  highlight: 0
+- title: '"The Brain Imaging and Neurophysiology Database: BINDing multimodal neural
+    data into a large-scale repository."'
+  image: ''
+  description: ''
+  authors: Maschke C, Hadar P, Zhang Y, Li J, Ganjoo G, Hoopes A, Guazzo A, Gupta
+    A, Ghanta M, Nearing B, Silvers CT, Gunapati B, Thomas R, Kim JA, Mukerji SS,
+    Dalca A, Zafar S, Lam AD, Mignot E, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Maschke_medRxiv_41256149.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.10.01.25337054.
+      PMID: 41256149.'
+  highlight: 0
+- title: '"Claims-Based Machine Learning Classifier of Modified Rankin Scale in Acute
+    Ischemic Stroke."'
+  image: ''
+  description: ''
+  authors: Habib M, Cazé de Medeiros R, Ahsan SM, McDonald Wojciechowski A, Donahue
+    MA, Blacker D, Newhouse JP, Schwamm LH, Westover MB, Moura LMVR
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Habib_JAmHeartAssoc_41085187.pdf
+    display: 'Journal of the American Heart Association. 2025. 14(20). e041635. doi:
+      10.1161/JAHA.125.041635. PMID: 41085187.'
+  highlight: 0
+- title: '"The Boston Children''s Hospital Sleep Corpus: A Collection of 15,695 Annotated
+    Pediatric Polysomnograms."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra
+    A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone
+    KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo
+    G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski
+    K, Katwa U
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_Unknown_40971987.pdf
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf273. PMID: 40971987.'
+  highlight: 0
+- title: '"Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales."'
+  image: ''
+  description: ''
+  authors: Li J, Goldenholz DM, Alkofer M, Sun C, Nascimento FA, Halford JJ, Dean
+    BC, Galanti M, Struck AF, Greenblatt AS, Lam AD, Herlopian A, Nwankwo C, Weber
+    D, Maus D, Haider HA, Karakis I, Yoo JY, Ng MC, Selioutski O, Taraschenko O, Osman
+    G, Katyal R, Schmitt SE, Benbadis S, Cash SS, Tatum WO, Sheikh Z, Kong WY, Bayas
+    G, Turley N, Hong S, Westover MB, Jing J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Li_NEJMAI_40689158.pdf
+    display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401221. PMID: 40689158.'
+  highlight: 0
+- title: '"Harvard Electroencephalography Database: A comprehensive clinical electroencephalographic
+    resource from four Boston hospitals."'
+  image: ''
+  description: ''
+  authors: Sun C, Jing J, Turley N, Alcott C, Kang WY, Cole AJ, Goldenholz DM, Lam
+    A, Amorim E, Chu C, Cash S, Junior VM, Gupta A, Ghanta M, Nearing B, Nascimento
+    FA, Struck A, Kim J, Sartipi S, Tauton AM, Fernandes M, Sun H, Bayas G, Gallagher
+    K, Wagenaar JB, Sinha N, Lee-Messer C, Silvers CT, Gunapati B, Rosand J, Peters
+    J, Loddenkemper T, Lee JW, Zafar S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_Epilepsia_40464151.pdf
+    display: 'Epilepsia. 2025. 66(9). 3411-3425. doi: 10.1111/epi.18487. PMID: 40464151.'
+  highlight: 0
+- title: '"Facility-measured nocturnal hypoxemia and sleep among adults with long
+    COVID versus age- and sex-matched healthy adults: a preliminary observational
+    study."'
+  image: ''
+  description: ''
+  authors: Sun H, Dang R, Haack M, Hauser K, Scott-Sutherland J, Westover MB, Parthasarathy
+    S, Redline S, Thomas RJ, Mullington JM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_SleepAdv_40365527.pdf
+    display: 'Sleep advances : a journal of the Sleep Research Society. 2025. 6(2).
+      zpaf017. doi: 10.1093/sleepadvances/zpaf017. PMID: 40365527.'
+  highlight: 0
+- title: '"Automated detection of interictal epileptiform discharges with few electroencephalographic
+    channels."'
+  image: ''
+  description: ''
+  authors: Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand
+    MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E,
+    Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos
+    D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Alkofer_Epilepsia_40317534.pdf
+    display: 'Epilepsia. 2025. 66(7). e114-20. doi: 10.1111/epi.18431. PMID: 40317534.'
+  highlight: 0
+- title: '"Associations between anaesthetic dose-adjusted intraoperative EEG alpha
+    power, processing speed, and postoperative delirium: analysis of data from three
+    prospective studies."'
+  image: ''
+  description: ''
+  authors: Reese M, Wright MC, Roberts KC, Browndyke JN, Bennett M, Acker L, Devinney
+    MJ, Reekes TH, Waligorska T, Shaw LM, Blennow K, Zetterberg H, Cohen HJ, Mathew
+    JP, Whitson HE, Westover MB, Woldorff MG, Berger M
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Reese_Unknown_40221315.pdf
+    display: 'British journal of anaesthesia. 2025. 135(1). 109-120. doi: 10.1016/j.bja.2024.12.041.
+      PMID: 40221315.'
+  highlight: 0
+- title: '"Continuous sleep depth index annotation with deep learning yields novel
+    digital biomarkers for sleep health."'
+  image: ''
+  description: ''
+  authors: Zhou S, Song G, Sun H, Zhang D, Leng Y, Westover MB, Hong S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Zhou_NPJDigitMed_40216900.pdf
+    display: 'NPJ digital medicine. 2025. 8(1). 203. doi: 10.1038/s41746-025-01607-0.
+      PMID: 40216900.'
+  highlight: 0
+- title: '"Utility of the IFCN criteria for identifying interictal epileptiform discharges
+    by experts: A decision hygiene approach to improve inter-rater reliability."'
+  image: ''
+  description: ''
+  authors: Yuan D, Katyal R, Sheikh I, Karakis I, Benbadis S, Amin U, Vinayan KP,
+    Barot N, Weber D, Greenblatt A, Beniczky S, Westover MB, Nascimento FA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Yuan_ClinNeurophysiol_40117757.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2025. 173. 138-146. doi: 10.1016/j.clinph.2025.02.275.
+      PMID: 40117757.'
+  highlight: 0
+- title: '"A Claims-Based Machine Learning Classifier of Modified Rankin Scale in
+    Acute Ischemic Stroke."'
+  image: ''
+  description: ''
+  authors: Habib M, de Medeiros RC, Ahsan SM, Wojciechowski AM, Donahue MA, Blacker
+    D, Newhouse JP, Schwamm LH, Westover MB, Moura LM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Habib_medRxiv_39990546.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.02.06.25321827.
+      PMID: 39990546.'
+  highlight: 0
+- title: '"Using artificial intelligence to optimize anti-seizure treatment and EEG-guided
+    decisions in severe brain injury."'
+  image: ''
+  description: ''
+  authors: Akras Z, Jing J, Westover MB, Zafar SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Akras_Unknown_39855915.pdf
+    display: 'Neurotherapeutics : the journal of the American Society for Experimental
+      NeuroTherapeutics. 2025. 22(1). e00524. doi: 10.1016/j.neurot.2025.e00524. PMID:
+      39855915.'
+  highlight: 0
+- title: '"Automated extraction of post-stroke functional outcomes from unstructured
+    electronic health records."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Gallagher K, Turley N, Gupta A, Westover MB, Singhal AB, Zafar
+    SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Fernandes_EurStrokeJ_39838914.pdf
+    display: 'European stroke journal. 2025. 10(3). 829-836. doi: 10.1177/23969873251314340.
+      PMID: 39838914.'
+  highlight: 0
+- title: '"Effects of Aerobic Exercise on Brain Age and Health in Middle-Aged and
+    Older Adults: A Single-Arm Pilot Clinical Trial."'
+  image: ''
+  description: ''
+  authors: Ouyang A, Zhang C, Adra N, Tesh RA, Sun H, Lei D, Jing J, Fan P, Paixao
+    L, Ganglberger W, Briggs L, Salinas J, Bevers MB, Wrann CD, Chemali Z, Fricchione
+    G, Thomas RJ, Rosand J, Tanzi RE, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Ouyang_LifeBasel_39063609.pdf
+    display: 'Life (Basel, Switzerland). 2024. 14(7). doi: 10.3390/life14070855. PMID:
+      39063609.'
+  highlight: 0
+- title: '"A randomized controlled educational pilot trial of interictal epileptiform
+    discharge identification for neurology residents."'
+  image: ''
+  description: ''
+  authors: Nascimento FA, Jing J, Traner C, Kong WY, Olandoski M, Kapur S, Duhaime
+    E, Strowd R, Moeller J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Nascimento_EpilepticDisord_38669007.pdf
+    display: 'Epileptic disorders : international epilepsy journal with videotape.
+      2024. 26(4). 444-459. doi: 10.1002/epd2.20229. PMID: 38669007.'
+  highlight: 0
+- title: '"Association Between Postoperative Delirium and Long-Term Subjective Cognitive
+    Decline in Older Patients Undergoing Cardiac Surgery: A Secondary Analysis of
+    the Minimizing Intensive Care Unit Neurological Dysfunction with Dexmedetomidine-Induced
+    Sleep Trial."'
+  image: ''
+  description: ''
+  authors: Namirembe GE, Baker S, Albanese M, Mueller A, Qu JZ, Mekonnen J, Wiredu
+    K, Westover MB, Houle TT, Akeju O
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Namirembe_JCardiothoracVascAnesth_37217424.pdf
+    display: 'Journal of cardiothoracic and vascular anesthesia. 2023. 37(9). 1700-1706.
+      doi: 10.1053/j.jvca.2023.04.035. PMID: 37217424.'
+  highlight: 0
+- title: '"Cognitive concerns are a risk factor for mortality in people with HIV and
+    coronavirus disease 2019."'
+  image: ''
+  description: ''
+  authors: Wilcox DR, Rudmann EA, Ye E, Noori A, Magdamo C, Jain A, Alabsi H, Foy
+    B, Triant VA, Robbins GK, Westover MB, Das S, Mukerji SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Wilcox_AIDS_37195278.pdf
+    display: 'AIDS (London, England). 2023. 37(10). 1565-1571. doi: 10.1097/QAD.0000000000003595.
+      PMID: 37195278.'
+  highlight: 0
+- title: '"Sound and light levels in intensive care units in a large urban hospital
+    in the United States."'
+  image: ''
+  description: ''
+  authors: Leone MJ, Dashti HS, Coughlin B, Tesh RA, Quadri SA, Bucklin AA, Adra N,
+    Krishnamurthy PV, Ye EM, Hemmige A, Rajan S, Panneerselvam E, Higgins J, Ayub
+    MA, Ganglberger W, Paixao L, Houle TT, Thompson BT, Johnson-Akeju O, Saxena R,
+    Kimchi E, Cash SS, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Leone_Unknown_37144470.pdf
+    display: 'Chronobiology international. 2023. 40(6). 759-768. doi: 10.1080/07420528.2023.2207647.
+      PMID: 37144470.'
+  highlight: 0
+- title: '"Spike height improves prediction of future seizure risk."'
+  image: ''
+  description: ''
+  authors: Chinappen DM, Xiao G, Jing J, Spencer ER, Eden UT, Kramer MA, Westover
+    MB, Chu CJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Chinappen_ClinNeurophysiol_37002980.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2023. 150. 49-55. doi: 10.1016/j.clinph.2023.02.180.
+      PMID: 37002980.'
+  highlight: 0
+- title: '"Development of Expert-Level Classification of Seizures and Rhythmic and
+    Periodic Patterns During EEG Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Ge W, Hong S, Fernandes MB, Lin Z, Yang C, An S, Struck AF, Herlopian
+    A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan
+    PW, Dhakar MB, Arcot Jayagopal L, Sheikh Z, Taraschenko O, Schmitt S, Haider HA,
+    Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh
+    M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan
+    J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal
+    ES, Zafar SF, Sun J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Jing_Neurology_36878708.pdf
+    display: 'Neurology. 2023. 100(17). e1750-e1762. doi: 10.1212/WNL.0000000000207127.
+      PMID: 36878708.'
+  highlight: 0
+- title: '"Classification of neurologic outcomes from medical notes using natural
+    language processing."'
+  image: ''
+  description: ''
+  authors: Fernandes MB, Valizadeh N, Alabsi HS, Quadri SA, Tesh RA, Bucklin AA, Sun
+    H, Jain A, Brenner LN, Ye E, Ge W, Collens SI, Lin S, Das S, Robbins GK, Zafar
+    SF, Mukerji SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Fernandes_ExpertSystAppl_36865787.pdf
+    display: 'Expert systems with applications. 2023. 214. doi: 10.1016/j.eswa.2022.119171.
+      PMID: 36865787.'
+  highlight: 0
+- title: '"The sleep and wake electroencephalogram over the lifespan."'
+  image: ''
+  description: ''
+  authors: Sun H, Ye E, Paixao L, Ganglberger W, Chu CJ, Zhang C, Rosand J, Mignot
+    E, Cash SS, Gozal D, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Sun_NeurobiolAging_36739622.pdf
+    display: 'Neurobiology of aging. 2023. 124. 60-70. doi: 10.1016/j.neurobiolaging.2023.01.006.
+      PMID: 36739622.'
+  highlight: 0
+- title: '"Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated
+    patients after cardiac surgery (MINDDS): A single-centre, parallel-arm, randomised,
+    placebo-controlled superiority trial."'
+  image: ''
+  description: ''
+  authors: Qu JZ, Mueller A, McKay TB, Westover MB, Shelton KT, Shaefi S, D'Alessandro
+    DA, Berra L, Brown EN, Houle TT, Akeju O
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Qu_EClinicalMedicine_36590787.pdf
+    display: 'EClinicalMedicine. 2023. 56. 101796. doi: 10.1016/j.eclinm.2022.101796.
+      PMID: 36590787.'
+  highlight: 0
+- title: '"EEG-based grading of immune effector cell-associated neurotoxicity syndrome."'
+  image: ''
+  description: ''
+  authors: Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van
+    Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C,
+    Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Jones_SciRep_36414694.pdf
+    display: 'Scientific reports. 2022. 12(1). 20011. doi: 10.1038/s41598-022-24010-1.
+      PMID: 36414694.'
+  highlight: 0
+- title: '"Journal Club: Criteria for Defining Interictal Epileptiform Discharges
+    in EEG."'
+  image: ''
+  description: ''
+  authors: McLaren JR, Jing J, Westover MB, Nascimento FA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_McLaren_Neurology_35853743.pdf
+    display: 'Neurology. 2022. 99(10). 430-432. doi: 10.1212/WNL.0000000000200991.
+      PMID: 35853743.'
+  highlight: 0
+- title: '"Measuring expertise in identifying interictal epileptiform discharges."'
+  image: ''
+  description: ''
+  authors: Harid NM, Jing J, Hogan J, Nascimento FA, Ouyang A, Zheng WL, Ge W, Zafar
+    SF, Kim JA, Alice DL, Herlopian A, Maus D, Karakis I, Ng M, Hong S, Yu Z, Kaplan
+    PW, Cash S, Shafi M, Martz G, Halford JJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Harid_Unknown_35770748.pdf
+    display: 'Epileptic disorders : international epilepsy journal with videotape.
+      2022. 24(3). 496-506. doi: 10.1684/epd.2021.1409. PMID: 35770748.'
+  highlight: 0
+- title: '"Noninvasive Detection of Hippocampal Epileptiform Activity on Scalp Electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Jacobs CS, Sarkis RA, Jing J, Pellerin KR, Cole AJ, Cash
+    SS, Westover MB, Lam AD
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Abou_JAMANeurol_35499837.pdf
+    display: 'JAMA neurology. 2022. 79(6). 614-622. doi: 10.1001/jamaneurol.2022.0888.
+      PMID: 35499837.'
+  highlight: 0
+- title: '"How Machine Learning is Powering Neuroimaging to Improve Brain Health."'
+  image: ''
+  description: ''
+  authors: Singh NM, Harrod JB, Subramanian S, Robinson M, Chang K, Cetin-Karayumak
+    S, Dalca AV, Eickhoff S, Fox M, Franke L, Golland P, Haehn D, Iglesias JE, O'Donnell
+    LJ, Ou Y, Rathi Y, Siddiqi SH, Sun H, Westover MB, Whitfield-Gabrieli S, Gollub
+    RL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Singh_Neuroinformatics_35347570.pdf
+    display: 'Neuroinformatics. 2022. 20(4). 943-964. doi: 10.1007/s12021-022-09572-9.
+      PMID: 35347570.'
+  highlight: 0
+- title: '"Accurate identification of EEG recordings with interictal epileptiform
+    discharges using a hybrid approach: Artificial intelligence supervised by human
+    experts."'
+  image: ''
+  description: ''
+  authors: Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, Westover
+    MB, Beniczky S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Kural_Epilepsia_35184276.pdf
+    display: 'Epilepsia. 2022. 63(5). 1064-1073. doi: 10.1111/epi.17206. PMID: 35184276.'
+  highlight: 0
+- title: '"Quantifying seizure termination patterns reveals limited pathways to seizure
+    end."'
+  image: ''
+  description: ''
+  authors: Salami P, Borzello M, Kramer MA, Westover MB, Cash SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Salami_NeurobiolDis_35104646.pdf
+    display: 'Neurobiology of disease. 2022. 165. 105645. doi: 10.1016/j.nbd.2022.105645.
+      PMID: 35104646.'
+  highlight: 0
+- title: '"High epileptiform discharge burden predicts delayed cerebral ischemia after
+    subarachnoid hemorrhage."'
+  image: ''
+  description: ''
+  authors: Kim JA, Zheng WL, Elmer J, Jing J, Zafar SF, Ghanta M, Moura V, Gilmore
+    EJ, Hirsch LJ, Patel A, Rosenthal E, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Kim_ClinNeurophysiol_33812771.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2022. 141. 139-146. doi: 10.1016/j.clinph.2021.01.022.
+      PMID: 33812771.'
+  highlight: 0
+- title: '"A model of metabolic supply-demand mismatch leading to secondary brain
+    injury."'
+  image: ''
+  description: ''
+  authors: Song JL, Kim JA, Struck AF, Zhang R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Song_JNeurophysiol_34232754.pdf
+    display: 'Journal of neurophysiology. 2021. 126(2). 653-667. doi: 10.1152/jn.00674.2020.
+      PMID: 34232754.'
+  highlight: 0
+- title: '"Cortical responses to noninvasive perturbations enable individual brain
+    fingerprinting."'
+  image: ''
+  description: ''
+  authors: Ozdemir RA, Tadayon E, Boucher P, Sun H, Momi D, Ganglberger W, Westover
+    MB, Pascual-Leone A, Santarnecchi E, Shafi MM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Ozdemir_BrainStimul_33588105.pdf
+    display: 'Brain stimulation. 2021. 14(2). 391-403. doi: 10.1016/j.brs.2021.02.005.
+      PMID: 33588105.'
+  highlight: 0
+- title: '"DDESVSFS: A simple, rapid and comprehensive screening tool for the Differential
+    Diagnosis of Epileptic Seizures VS Functional Seizures."'
+  image: ''
+  description: ''
+  authors: Janocko NJ, Jing J, Fan Z, Teagarden DL, Villarreal HK, Morton ML, Groover
+    O, Loring DW, Drane DL, Westover MB, Karakis I
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Janocko_EpilepsyRes_33517166.pdf
+    display: 'Epilepsy research. 2021. 171. 106563. doi: 10.1016/j.eplepsyres.2021.106563.
+      PMID: 33517166.'
+  highlight: 0
+- title: '"Susceptibility-weighted imaging reveals cerebral microvascular injury in
+    severe COVID-19."'
+  image: ''
+  description: ''
+  authors: Conklin J, Frosch MP, Mukerji SS, Rapalino O, Maher MD, Schaefer PW, Lev
+    MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin
+    E, Shaw B, Lemieux JE, Sabeti PC, Branda JA, Brown EN, Westover MB, Huang SY,
+    Edlow BL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Conklin_JNeurolSci_33497950.pdf
+    display: 'Journal of the neurological sciences. 2021. 421. 117308. doi: 10.1016/j.jns.2021.117308.
+      PMID: 33497950.'
+  highlight: 0
+- title: '"Focal Sleep Spindle Deficits Reveal Focal Thalamocortical Dysfunction and
+    Predict Cognitive Deficits in Sleep Activated Developmental Epilepsy."'
+  image: ''
+  description: ''
+  authors: Kramer MA, Stoyell SM, Chinappen D, Ostrowski LM, Spencer ER, Morgan AK,
+    Emerton BC, Jing J, Westover MB, Eden UT, Stickgold R, Manoach DS, Chu CJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Kramer_JNeurosci_33468567.pdf
+    display: 'The Journal of neuroscience : the official journal of the Society for
+      Neuroscience. 2021. 41(8). 1816-1829. doi: 10.1523/JNEUROSCI.2009-20.2020. PMID:
+      33468567.'
+  highlight: 0
+- title: '"Clinical Electroencephalography Findings and Considerations in Hospitalized
+    Patients with Coronavirus SARS-CoV-2."'
+  image: ''
+  description: ''
+  authors: Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, Westover
+    MB, Kimchi EY
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Ayub_medRxiv_32699855.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2020. doi: 10.1101/2020.07.13.20152207.
+      PMID: 32699855.'
+  highlight: 0
+- title: '"Expert-level automated sleep staging of long-term scalp electroencephalography
+    recordings using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, Westover
+    MB, Lam AD
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Abou_Sleep_32478820.pdf
+    display: 'Sleep. 2020. 43(11). doi: 10.1093/sleep/zsaa112. PMID: 32478820.'
+  highlight: 0
+- title: '"Electrographic predictors of successful weaning from anaesthetics in refractory
+    status epilepticus."'
+  image: ''
+  description: ''
+  authors: Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, Westover MB, Cash SS,
+    Rosenthal ES
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Rubin_Brain_32268366.pdf
+    display: 'Brain : a journal of neurology. 2020. 143(4). 1143-1157. doi: 10.1093/brain/awaa069.
+      PMID: 32268366.'
+  highlight: 0
+- title: '"Soluble ST2 Is Associated With New Epileptiform Abnormalities Following
+    Nontraumatic Subarachnoid Hemorrhage."'
+  image: ''
+  description: ''
+  authors: Lissak IA, Zafar SF, Westover MB, Schleicher RL, Kim JA, Leslie-Mazwi T,
+    Stapleton CJ, Patel AB, Kimberly WT, Rosenthal ES
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Lissak_Stroke_32156203.pdf
+    display: 'Stroke. 2020. 51(4). 1128-1134. doi: 10.1161/STROKEAHA.119.028515. PMID:
+      32156203.'
+  highlight: 0
+- title: '"Burst Suppression: Causes and Effects on Mortality in Critical Illness."'
+  image: ''
+  description: ''
+  authors: Hogan J, Sun H, Aboul Nour H, Jing J, Tabaeizadeh M, Shoukat M, Javed F,
+    Kassa S, Edhi MM, Bordbar E, Gallagher J, Junior VM, Ghanta M, Shao YP, Akeju
+    O, Cole AJ, Rosenthal ES, Zafar S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Hogan_NeurocritCare_32096120.pdf
+    display: 'Neurocritical care. 2020. 33(2). 565-574. doi: 10.1007/s12028-020-00932-4.
+      PMID: 32096120.'
+  highlight: 0
+- title: '"EEG Functional Connectivity is a Weak Predictor of Causal Brain Interactions."'
+  image: ''
+  description: ''
+  authors: Vink JJT, Klooster DCW, Ozdemir RA, Westover MB, Pascual-Leone A, Shafi
+    MM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Vink_BrainTopogr_32090281.pdf
+    display: 'Brain topography. 2020. 33(2). 221-237. doi: 10.1007/s10548-020-00757-6.
+      PMID: 32090281.'
+  highlight: 0
+- title: '"Excess brain age in the sleep electroencephalogram predicts reduced life
+    expectancy."'
+  image: ''
+  description: ''
+  authors: Paixao L, Sikka P, Sun H, Jain A, Hogan J, Thomas R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Paixao_NeurobiolAging_31932049.pdf
+    display: 'Neurobiology of aging. 2020. 88. 150-155. doi: 10.1016/j.neurobiolaging.2019.12.015.
+      PMID: 31932049.'
+  highlight: 0
+- title: '"Detection of mesial temporal lobe epileptiform discharges on intracranial
+    electrodes using deep learning."'
+  image: ''
+  description: ''
+  authors: Abou Jaoude M, Jing J, Sun H, Jacobs CS, Pellerin KR, Westover MB, Cash
+    SS, Lam AD
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Abou_ClinNeurophysiol_31760212.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2020. 131(1). 133-141. doi: 10.1016/j.clinph.2019.09.031.
+      PMID: 31760212.'
+  highlight: 0
+- title: '"Interrater Reliability of Experts in Identifying Interictal Epileptiform
+    Discharges in Electroencephalograms."'
+  image: ''
+  description: ''
+  authors: Jing J, Herlopian A, Karakis I, Ng M, Halford JJ, Lam A, Maus D, Chan F,
+    Dolatshahi M, Muniz CF, Chu C, Sacca V, Pathmanathan J, Ge W, Sun H, Dauwels J,
+    Cole AJ, Hoch DB, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Jing_JAMANeurol_31633742.pdf
+    display: 'JAMA neurology. 2020. 77(1). 49-57. doi: 10.1001/jamaneurol.2019.3531.
+      PMID: 31633742.'
+  highlight: 0
+- title: '"Development of Expert-Level Automated Detection of Epileptiform Discharges
+    During Electroencephalogram Interpretation."'
+  image: ''
+  description: ''
+  authors: Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D,
+    Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J,
+    Lam A, Cole AJ, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Jing_JAMANeurol_31633740.pdf
+    display: 'JAMA neurology. 2020. 77(1). 103-108. doi: 10.1001/jamaneurol.2019.3485.
+      PMID: 31633740.'
+  highlight: 0
+- title: '"A novel neural computational model of generalized periodic discharges in
+    acute hepatic encephalopathy."'
+  image: ''
+  description: ''
+  authors: Song JL, Paixao L, Li Q, Li SH, Zhang R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Song_JComputNeurosci_31506807.pdf
+    display: 'Journal of computational neuroscience. 2019. 47(2-3). 109-124. doi:
+      10.1007/s10827-019-00727-3. PMID: 31506807.'
+  highlight: 0
+- title: '"A fast machine learning approach to facilitate the detection of interictal
+    epileptiform discharges in the scalp electroencephalogram."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Bagheri_JNeurosciMethods_31310822.pdf
+    display: 'Journal of neuroscience methods. 2019. 326. 108362. doi: 10.1016/j.jneumeth.2019.108362.
+      PMID: 31310822.'
+  highlight: 0
+- title: '"Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns."'
+  image: ''
+  description: ''
+  authors: Jing J, d’Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim S,
+    Dauwels J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Jing_AnnuIntConfIEEEEngMedBiolSoc_30441116.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2018. 2018. 3394-3397. doi: 10.1109/EMBC.2018.8513059.
+      PMID: 30441116.'
+  highlight: 0
+- title: '"EEG CLassification Via Convolutional Neural Network-Based Interictal Epileptiform
+    Event Detection."'
+  image: ''
+  description: ''
+  authors: Thomas J, Comoretto L, Jin J, Dauwels J, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Thomas_AnnuIntConfIEEEEngMedBiolSoc_30441062.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2018. 2018. 3148-3151. doi: 10.1109/EMBC.2018.8512930.
+      PMID: 30441062.'
+  highlight: 0
+- title: '"Predicting drug-resistant epilepsy - A machine learning approach based
+    on administrative claims data."'
+  image: ''
+  description: ''
+  authors: An S, Malhotra K, Dilley C, Han-Burgess E, Valdez JN, Robertson J, Clark
+    C, Westover MB, Sun J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_An_EpilepsyBehav_30412924.pdf
+    display: 'Epilepsy & behavior : E&B. 2018. 89. 118-125. doi: 10.1016/j.yebeh.2018.10.013.
+      PMID: 30412924.'
+  highlight: 0
+- title: '"Interictal Epileptiform Discharge Detection in EEG in Different Practice
+    Settings."'
+  image: ''
+  description: ''
+  authors: Halford JJ, Westover MB, LaRoche SM, Macken MP, Kutluay E, Edwards JC,
+    Bonilha L, Kalamangalam GP, Ding K, Hopp JL, Arain A, Dawson RA, Martz GU, Wolf
+    BJ, Waters CG, Dean BC
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Halford_JClinNeurophysiol_30028830.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2018. 35(5). 375-380. doi: 10.1097/WNP.0000000000000492.
+      PMID: 30028830.'
+  highlight: 0
+- title: '"Real-Time, Automated Detection of Ventilator-Associated Events: Avoiding
+    Missed Detections, Misclassifications, and False Detections Due to Human Error."'
+  image: ''
+  description: ''
+  authors: Shenoy ES, Rosenthal ES, Shao YP, Biswal S, Ghanta M, Ryan EE, Suslak D,
+    Swanson N, Junior VM, Hooper DC, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Shenoy_InfectControlHospEpidemiol_29769151.pdf
+    display: 'Infection control and hospital epidemiology. 2018. 39(7). 826-833. doi:
+      10.1017/ice.2018.97. PMID: 29769151.'
+  highlight: 0
+- title: '"Continuous electroencephalography predicts delayed cerebral ischemia after
+    subarachnoid hemorrhage: A prospective study of diagnostic accuracy."'
+  image: ''
+  description: ''
+  authors: Rosenthal ES, Biswal S, Zafar SF, O'Connor KL, Bechek S, Shenoy AV, Boyle
+    EJ, Shafi MM, Gilmore EJ, Foreman BP, Gaspard N, Leslie-Mazwi TM, Rosand J, Hoch
+    DB, Ayata C, Cash SS, Cole AJ, Patel AB, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Rosenthal_AnnNeurol_29659050.pdf
+    display: 'Annals of neurology. 2018. 83(5). 958-969. doi: 10.1002/ana.25232. PMID:
+      29659050.'
+  highlight: 0
+- title: '"CLASSIFIER CASCADE TO AID IN DETECTION OF EPILEPTIFORM TRANSIENTS IN INTERICTAL
+    EEG."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Jin J, Dauwels J, Cash S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Bagheri_ProcIEEEIntConfAcoustSpeechSig_31582912.pdf
+    display: 'Proceedings of the ... IEEE International Conference on Acoustics, Speech,
+      and Signal Processing. ICASSP (Conference). 2018. 2018. 970-974. doi: 10.1109/ICASSP.2018.8461992.
+      PMID: 31582912.'
+  highlight: 0
+- title: '"ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit."'
+  image: ''
+  description: ''
+  authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Rebergen_JClinMonitComput_28210934.pdf
+    display: 'Journal of clinical monitoring and computing. 2018. 32(1). 53-61. doi:
+      10.1007/s10877-017-9999-9. PMID: 28210934.'
+  highlight: 0
+- title: '"Automated epileptiform spike detection via affinity propagation-based template
+    matching."'
+  image: ''
+  description: ''
+  authors: Thomas J, Dauwels J, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Thomas_AnnuIntConfIEEEEngMedBiolSoc_29060543.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2017. 2017. 3057-3060. doi: 10.1109/EMBC.2017.8037502.
+      PMID: 29060543.'
+  highlight: 0
+- title: '"Large-Scale Automated Sleep Staging."'
+  image: ''
+  description: ''
+  authors: Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Sun_Sleep_29029305.pdf
+    display: 'Sleep. 2017. 40(10). doi: 10.1093/sleep/zsx139. PMID: 29029305.'
+  highlight: 0
+- title: '"Interictal epileptiform discharge characteristics underlying expert interrater
+    agreement."'
+  image: ''
+  description: ''
+  authors: Bagheri E, Dauwels J, Dean BC, Waters CG, Westover MB, Halford JJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Bagheri_ClinNeurophysiol_28837905.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2017. 128(10). 1994-2005. doi: 10.1016/j.clinph.2017.06.252.
+      PMID: 28837905.'
+  highlight: 0
+- title: '"What it should mean for an algorithm to pass a statistical Turing test
+    for detection of epileptiform discharges."'
+  image: ''
+  description: ''
+  authors: Westover MB, Halford JJ, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Westover_ClinNeurophysiol_28495216.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2017. 128(7). 1406-1407. doi: 10.1016/j.clinph.2017.02.026.
+      PMID: 28495216.'
+  highlight: 0
+- title: '"Alternative remedies for insomnia: a proposed method for personalized therapeutic
+    trials."'
+  image: ''
+  description: ''
+  authors: Romero K, Goparaju B, Russo K, Westover MB, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Romero_NatSciSleep_28360539.pdf
+    display: 'Nature and science of sleep. 2017. 9. 97-108. doi: 10.2147/NSS.S128095.
+      PMID: 28360539.'
+  highlight: 0
+- title: '"Epileptiform abnormalities predict delayed cerebral ischemia in subarachnoid
+    hemorrhage."'
+  image: ''
+  description: ''
+  authors: Kim JA, Rosenthal ES, Biswal S, Zafar S, Shenoy AV, O'Connor KL, Bechek
+    SC, Valdery Moura J, Shafi MM, Patel AB, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Kim_ClinNeurophysiol_28258936.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2017. 128(6). 1091-1099. doi: 10.1016/j.clinph.2017.01.016.
+      PMID: 28258936.'
+  highlight: 0
+- title: '"Recording, analysis, and interpretation of spreading depolarizations in
+    neurointensive care: Review and recommendations of the COSBID research group."'
+  image: ''
+  description: ''
+  authors: Dreier JP, Fabricius M, Ayata C, Sakowitz OW, Shuttleworth CW, Dohmen C,
+    Graf R, Vajkoczy P, Helbok R, Suzuki M, Schiefecker AJ, Major S, Winkler MK, Kang
+    EJ, Milakara D, Oliveira-Ferreira AI, Reiffurth C, Revankar GS, Sugimoto K, Dengler
+    NF, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg CK, Piilgaard H, Rosenthal
+    ES, Westover MB, Maslarova A, Santos E, Hertle D, Sánchez-Porras R, Jewell SL,
+    Balança B, Platz J, Hinzman JM, Lückl J, Schoknecht K, Schöll M, Drenckhahn C,
+    Feuerstein D, Eriksen N, Horst V, Bretz JS, Jahnke P, Scheel M, Bohner G, Rostrup
+    E, Pakkenberg B, Heinemann U, Claassen J, Carlson AP, Kowoll CM, Lublinsky S,
+    Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov SA, Andrew RD, Farkas
+    E, Güresir E, Vatter H, Chung LS, Brennan KC, Lieutaud T, Marinesco S, Maas AI,
+    Sahuquillo J, Dahlem MA, Richter F, Herreras O, Boutelle MG, Okonkwo DO, Bullock
+    MR, Witte OW, Martus P, van den Maagdenberg AM, Ferrari MD, Dijkhuizen RM, Shutter
+    LA, Andaluz N, Schulte AP, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong
+    AJ, Hartings JA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Dreier_JCerebBloodFlowMetab_27317657.pdf
+    display: 'Journal of cerebral blood flow and metabolism : official journal of
+      the International Society of Cerebral Blood Flow and Metabolism. 2017. 37(5).
+      1595-1625. doi: 10.1177/0271678X16654496. PMID: 27317657.'
+  highlight: 0
+- title: '"Automation of Classical QEEG Trending Methods for Early Detection of Delayed
+    Cerebral Ischemia: More Work to Do."'
+  image: ''
+  description: ''
+  authors: Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor
+    K, Rosenthal ES, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Wickering_JClinNeurophysiol_27258446.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2016. 33(3). 227-34. doi: 10.1097/WNP.0000000000000278.
+      PMID: 27258446.'
+  highlight: 0
+- title: '"Rapid annotation of interictal epileptiform discharges via template matching
+    under Dynamic Time Warping."'
+  image: ''
+  description: ''
+  authors: Jing J, Dauwels J, Rakthanmanon T, Keogh E, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Jing_JNeurosciMethods_26944098.pdf
+    display: 'Journal of neuroscience methods. 2016. 274. 179-190. doi: 10.1016/j.jneumeth.2016.02.025.
+      PMID: 26944098.'
+  highlight: 0
+- title: '"EPILEPTIFORM SPIKE DETECTION VIA CONVOLUTIONAL NEURAL NETWORKS."'
+  image: ''
+  description: ''
+  authors: Johansen AR, Jin J, Maszczyk T, Dauwels J, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Johansen_ProcIEEEIntConfAcoustSpeechSig_29527131.pdf
+    display: 'Proceedings of the ... IEEE International Conference on Acoustics, Speech,
+      and Signal Processing. ICASSP (Conference). 2016. 2016. 754-758. doi: 10.1109/ICASSP.2016.7471776.
+      PMID: 29527131.'
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_An_AnnuIntConfIEEEEngMedBiolSoc_26738009.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7430-3. doi: 10.1109/EMBC.2015.7320109.
+      PMID: 26738009.'
+  highlight: 0
+- title: '"Clustering analysis to identify distinct spectral components of encephalogram
+    burst suppression in critically ill patients."'
+  image: ''
+  description: ''
+  authors: Zhou DW, Westover MB, McClain LM, Nagaraj SB, Bajwa EK, Quraishi SA, Akeju
+    O, Cobb JP, Purdon PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Zhou_AnnuIntConfIEEEEngMedBiolSoc_26737967.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7258-61. doi: 10.1109/EMBC.2015.7320067.
+      PMID: 26737967.'
+  highlight: 0
+- title: '"Automated information extraction from free-text EEG reports."'
+  image: ''
+  description: ''
+  authors: Biswal S, Nip Z, Moura Junior V, Bianchi MT, Rosenthal ES, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Biswal_AnnuIntConfIEEEEngMedBiolSoc_26737856.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 6804-7. doi: 10.1109/EMBC.2015.7319956.
+      PMID: 26737856.'
+  highlight: 0
+- title: '"Stimulus information stored in lasting active and hidden network states
+    is destroyed by network bursts."'
+  image: ''
+  description: ''
+  authors: Dranias MR, Westover MB, Cash S, VanDongen AM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Dranias_FrontIntegrNeurosci_25755638.pdf
+    display: 'Frontiers in integrative neuroscience. 2015. 9. 14. doi: 10.3389/fnint.2015.00014.
+      PMID: 25755638.'
+  highlight: 0
+- title: '"SpikeGUI: software for rapid interictal discharge annotation via template
+    matching and online machine learning."'
+  image: ''
+  description: ''
+  authors: Dauwels J, Cash S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Jing_AnnuIntConfIEEEEngMedBiolSoc_25570976.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2014. 2014. 4435-8. doi: 10.1109/EMBC.2014.6944608.
+      PMID: 25570976.'
+  highlight: 0
+- title: '"Effects of sevoflurane and propofol on frontal electroencephalogram power
+    and coherence."'
+  image: ''
+  description: ''
+  authors: Akeju O, Westover MB, Pavone KJ, Sampson AL, Hartnack KE, Brown EN, Purdon
+    PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Akeju_Anesthesiology_25233374.pdf
+    display: 'Anesthesiology. 2014. 121(5). 990-8. doi: 10.1097/ALN.0000000000000436.
+      PMID: 25233374.'
+  highlight: 0
+- title: '"Sparse extreme learning machine for classification."'
+  image: ''
+  description: ''
+  authors: Bai Z, Huang GB, Wang D, Wang H, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bai_IEEETransCybern_25222727.pdf
+    display: 'IEEE transactions on cybernetics. 2014. 44(10). 1858-70. doi: 10.1109/TCYB.2014.2298235.
+      PMID: 25222727.'
+  highlight: 0
+- title: '"A comparison of propofol- and dexmedetomidine-induced electroencephalogram
+    dynamics using spectral and coherence analysis."'
+  image: ''
+  description: ''
+  authors: Akeju O, Pavone KJ, Westover MB, Vazquez R, Prerau MJ, Harrell PG, Hartnack
+    KE, Rhee J, Sampson AL, Habeeb K, Gao L, Pierce ET, Walsh JL, Brown EN, Purdon
+    PL
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Akeju_Anesthesiology_25187999.pdf
+    display: 'Anesthesiology. 2014. 121(5). 978-89. doi: 10.1097/ALN.0000000000000419.
+      PMID: 25187999.'
+  highlight: 0
+- title: '"Automated sleep apnea quantification based on respiratory movement."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Lipoma T, Darling C, Alameddine Y, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bianchi_IntJMedSci_24936142.pdf
+    display: 'International journal of medical sciences. 2014. 11(8). 796-802. doi:
+      10.7150/ijms.9303. PMID: 24936142.'
+  highlight: 0
+- title: '"Applications of a Capacitor-Based Respiratory Position Sensing Device:
+    Implications for Radiation Therapy."'
+  image: ''
+  description: ''
+  authors: Y W, Mb W, C S, G S, Mt B, Kd W
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Y_AustinJMedOncol_31934681.pdf
+    display: 'Austin journal of medical oncology. 2014. 1(2). PMID: 31934681.'
+  highlight: 0
+- title: '"Inferring seizure frequency from brief EEG recordings."'
+  image: ''
+  description: ''
+  authors: Westover MB, Bianchi MT, Shafi M, Hoch DB, Cole AJ, Chiappa K, Cash SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2013_Westover_JClinNeurophysiol_23545768.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2013. 30(2). 174-7. doi: 10.1097/WNP.0b013e3182767c35.
+      PMID: 23545768.'
+  highlight: 0
+- title: '"Exploration and modulation of brain network interactions with noninvasive
+    brain stimulation in combination with neuroimaging."'
+  image: ''
+  description: ''
+  authors: Shafi MM, Westover MB, Fox MD, Pascual-Leone A
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Shafi_EurJNeurosci_22429242.pdf
+    display: 'The European journal of neuroscience. 2012. 35(6). 805-25. doi: 10.1111/j.1460-9568.2012.08035.x.
+      PMID: 22429242.'
+  highlight: 0
 - title: '"The Brain Imaging and Neurophysiology Dataset of large-scale multimodal
     neural data."'
   image: ''
