@@ -7848,6 +7848,251 @@
     display: 'Critical care explorations. 2026. 8(2). e1380. doi: 10.1097/CCE.0000000000001380.
       PMID: 41670408.'
   highlight: 0
+- title: '"Large-scale automated phenotyping of cardiac arrest and withdrawal of life-sustaining
+    therapy using electronic health record data."'
+  image: ''
+  description: ''
+  authors: Clive C, Singh A, Overmeer B, Boris S, Peterson L, Searle J, Hooke G, Turley
+    N, Fernandes M, Gupta A, Ghanta M, Junior VM, Mukeriji S, Zafar S, Amorim E, Westover
+    MB, Sun H
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Clive_Unknown_41371332.pdf
+    display: 'Resuscitation. 2026. 218. 110919. doi: 10.1016/j.resuscitation.2025.110919.
+      PMID: 41371332.'
+  highlight: 0
+- title: '"From Clinical Narrative to Diagnosis: Scalable Identification of Acquired
+    Epilepsy."'
+  image: ''
+  description: ''
+  authors: Wheelock JR, Fernandes MB, Chen Y, Ayvaz BB, Jin DS, Zubair A, Wan M, Appleton
+    J, Zafar SF, Struck AF, Hirsch LJ, Sivaraju A, Gilmore EJ, Westover MB, Kim JA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Wheelock_medRxiv_41282888.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.11.04.25339484.
+      PMID: 41282888.'
+  highlight: 0
+- title: '"The Boston Children''s Hospital Sleep Corpus: A Collection of 15,695 Annotated
+    Pediatric Polysomnograms."'
+  image: ''
+  description: ''
+  authors: Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra
+    A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone
+    KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo
+    G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski
+    K, Katwa U
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tripathi_Unknown_40971987.pdf
+    display: 'Sleep. 2025. doi: 10.1093/sleep/zsaf273. PMID: 40971987.'
+  highlight: 0
+- title: '"A Machine Learning Approach for Identifying People With Neuroinfectious
+    Diseases in Electronic Health Records: Algorithm Development and Validation."'
+  image: ''
+  description: ''
+  authors: Singh A, Sartipi S, Sun H, Milde R, Turley N, Quinn C, Harrold GK, Gillani
+    RL, Turbett SE, Das S, Zafar S, Fernandes M, Westover MB, Mukerji SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Singh_JMIRMedInform_40882236.pdf
+    display: 'JMIR medical informatics. 2025. 13. e63157. doi: 10.2196/63157. PMID:
+      40882236.'
+  highlight: 0
+- title: '"A GPT-4o-powered framework for identifying cognitive impairment stages
+    in electronic health records."'
+  image: ''
+  description: ''
+  authors: Leng Y, He Y, Amini S, Magdamo C, Paschalidis I, Mukerji SS, Moura LMVR,
+    Westover MB, Vranceanu AM, Ritchie CS, Blacker D, Dickson JR, Das S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Leng_NPJDigitMed_40610683.pdf
+    display: 'NPJ digital medicine. 2025. 8(1). 401. doi: 10.1038/s41746-025-01834-5.
+      PMID: 40610683.'
+  highlight: 0
+- title: '"Automated phenotyping of mild cognitive impairment and Alzheimer''s disease
+    and related dementias using electronic health records."'
+  image: ''
+  description: ''
+  authors: Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong WY, Xiong
+    Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior
+    VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM,
+    Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Wei_Unknown_40222334.pdf
+    display: 'International journal of medical informatics. 2025. 200. 105917. doi:
+      10.1016/j.ijmedinf.2025.105917. PMID: 40222334.'
+  highlight: 0
+- title: '"Identification of Patients With Congestive Heart Failure From the Electronic
+    Health Records of Two Hospitals: Retrospective Study."'
+  image: ''
+  description: ''
+  authors: Sumsion D, Davis E, Fernandes M, Wei R, Milde R, Veltink JM, Kong WY, Xiong
+    Y, Rao S, Westover T, Petersen L, Turley N, Singh A, Buss S, Mukerji S, Zafar
+    S, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Stone K, Mignot E, Hwang D, Trotti
+    LM, Clifford GD, Katwa U, Thomas R, Westover MB, Sun H
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Sumsion_JMIRMedInform_40208662.pdf
+    display: 'JMIR medical informatics. 2025. 13. e64113. doi: 10.2196/64113. PMID:
+      40208662.'
+  highlight: 0
+- title: '"Automated extraction of post-stroke functional outcomes from unstructured
+    electronic health records."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Gallagher K, Turley N, Gupta A, Westover MB, Singhal AB, Zafar
+    SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Fernandes_EurStrokeJ_39838914.pdf
+    display: 'European stroke journal. 2025. 10(3). 829-836. doi: 10.1177/23969873251314340.
+      PMID: 39838914.'
+  highlight: 0
+- title: '"Automated Extraction of Stroke Severity From Unstructured Electronic Health
+    Records Using Natural Language Processing."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Westover MB, Singhal AB, Zafar SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Fernandes_JAmHeartAssoc_39450737.pdf
+    display: 'Journal of the American Heart Association. 2024. 13(21). e036386. doi:
+      10.1161/JAHA.124.036386. PMID: 39450737.'
+  highlight: 0
+- title: '"Automated Medical Records Review for Mild Cognitive Impairment and Dementia."'
+  image: ''
+  description: ''
+  authors: Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong WY, Xiong
+    Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior
+    VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM,
+    Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Wei_ResSq_39315274.pdf
+    display: 'Research square. 2024. doi: 10.21203/rs.3.rs-5046441/v2. PMID: 39315274.'
+  highlight: 0
+- title: '"Extracting seizure control metrics from clinic notes of patients with epilepsy:
+    A natural language processing approach."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Cardall A, Moura LM, McGraw C, Zafar SF, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Fernandes_EpilepsyRes_39276641.pdf
+    display: 'Epilepsy research. 2024. 207. 107451. doi: 10.1016/j.eplepsyres.2024.107451.
+      PMID: 39276641.'
+  highlight: 0
+- title: '"Automated Extraction of Stroke Severity from Unstructured Electronic Health
+    Records using Natural Language Processing."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Westover MB, Singhal AB, Zafar SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Fernandes_medRxiv_38559062.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2024. doi: 10.1101/2024.03.08.24304011.
+      PMID: 38559062.'
+  highlight: 0
+- title: '"Improving Neurology Clinical Care With Natural Language Processing Tools."'
+  image: ''
+  description: ''
+  authors: Ge W, Rice HJ, Sheikh IS, Westover MB, Weathers AL, Jones LK, Moura L
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Ge_Neurology_37816638.pdf
+    display: 'Neurology. 2023. 101(22). 1010-1018. doi: 10.1212/WNL.0000000000207853.
+      PMID: 37816638.'
+  highlight: 0
+- title: '"Identification of patients with epilepsy using automated electronic health
+    records phenotyping."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Cardall A, Jing J, Ge W, Moura LMVR, Jacobs C, McGraw C, Zafar
+    SF, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Fernandes_Epilepsia_36934317.pdf
+    display: 'Epilepsia. 2023. 64(6). 1472-1481. doi: 10.1111/epi.17589. PMID: 36934317.'
+  highlight: 0
+- title: '"Classification of neurologic outcomes from medical notes using natural
+    language processing."'
+  image: ''
+  description: ''
+  authors: Fernandes MB, Valizadeh N, Alabsi HS, Quadri SA, Tesh RA, Bucklin AA, Sun
+    H, Jain A, Brenner LN, Ye E, Ge W, Collens SI, Lin S, Das S, Robbins GK, Zafar
+    SF, Mukerji SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Fernandes_ExpertSystAppl_36865787.pdf
+    display: 'Expert systems with applications. 2023. 214. doi: 10.1016/j.eswa.2022.119171.
+      PMID: 36865787.'
+  highlight: 0
+- title: '"Development and Evaluation of a Natural Language Processing Annotation
+    Tool to Facilitate Phenotyping of Cognitive Status in Electronic Health Records:
+    Diagnostic Study."'
+  image: ''
+  description: ''
+  authors: Noori A, Magdamo C, Liu X, Tyagi T, Li Z, Kondepudi A, Alabsi H, Rudmann
+    E, Wilcox D, Brenner L, Robbins GK, Moura L, Zafar S, Benson NM, Hsu J, R Dickson
+    J, Serrano-Pozo A, Hyman BT, Blacker D, Westover MB, Mukerji SS, Das S
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Noori_JMedInternetRes_36040790.pdf
+    display: 'Journal of medical Internet research. 2022. 24(8). e40384. doi: 10.2196/40384.
+      PMID: 36040790.'
+  highlight: 0
+- title: '"Development and Validation of a Model to Identify Critical Brain Injuries
+    Using Natural Language Processing of Text Computed Tomography Reports."'
+  image: ''
+  description: ''
+  authors: Torres-Lopez VM, Rovenolt GE, Olcese AJ, Garcia GE, Chacko SM, Robinson
+    A, Gaiser E, Acosta J, Herman AL, Kuohn LR, Leary M, Soto AL, Zhang Q, Fatima
+    S, Falcone GJ, Payabvash MS, Sharma R, Struck AF, Sheth KN, Westover MB, Kim JA
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_TorresLopez_JAMANetwOpen_35972739.pdf
+    display: 'JAMA network open. 2022. 5(8). e2227109. doi: 10.1001/jamanetworkopen.2022.27109.
+      PMID: 35972739.'
+  highlight: 0
+- title: '"Identifying Patients With Delirium Based on Unstructured Clinical Notes:
+    Observational Study."'
+  image: ''
+  description: ''
+  authors: Ge W, Alabsi H, Jain A, Ye E, Sun H, Fernandes M, Magdamo C, Tesh RA, Collens
+    SI, Newhouse A, Mvr Moura L, Zafar S, Hsu J, Akeju O, Robbins GK, Mukerji SS,
+    Das S, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2022_Ge_JMIRFormRes_35749214.pdf
+    display: 'JMIR formative research. 2022. 6(6). e33834. doi: 10.2196/33834. PMID:
+      35749214.'
+  highlight: 0
+- title: '"Classification of the Disposition of Patients Hospitalized with COVID-19:
+    Reading Discharge Summaries Using Natural Language Processing."'
+  image: ''
+  description: ''
+  authors: Fernandes M, Sun H, Jain A, Alabsi HS, Brenner LN, Ye E, Ge W, Collens
+    SI, Leone MJ, Das S, Robbins GK, Mukerji SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Fernandes_JMIRMedInform_33449908.pdf
+    display: 'JMIR medical informatics. 2021. 9(2). e25457. doi: 10.2196/25457. PMID:
+      33449908.'
+  highlight: 0
+- title: '"Real-Time, Automated Detection of Ventilator-Associated Events: Avoiding
+    Missed Detections, Misclassifications, and False Detections Due to Human Error."'
+  image: ''
+  description: ''
+  authors: Shenoy ES, Rosenthal ES, Shao YP, Biswal S, Ghanta M, Ryan EE, Suslak D,
+    Swanson N, Junior VM, Hooper DC, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Shenoy_InfectControlHospEpidemiol_29769151.pdf
+    display: 'Infection control and hospital epidemiology. 2018. 39(7). 826-833. doi:
+      10.1017/ice.2018.97. PMID: 29769151.'
+  highlight: 0
+- title: '"Big data in sleep medicine: prospects and pitfalls in phenotyping."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Russo K, Gabbidon H, Smith T, Goparaju B, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Bianchi_NatSciSleep_28243157.pdf
+    display: 'Nature and science of sleep. 2017. 9. 11-29. doi: 10.2147/NSS.S130141.
+      PMID: 28243157.'
+  highlight: 0
+- title: '"Strategies for Safer Cefepime Use to Prevent Neurotoxicity Using the Electronic
+    Health Record."'
+  image: ''
+  description: ''
+  authors: Zafar SF, Park H, Letourneau AR, Rock AE, Westover MB, Mukerji SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Zafar_CritCareExplor_41670408.pdf
+    display: 'Critical care explorations. 2026. 8(2). e1380. doi: 10.1097/CCE.0000000000001380.
+      PMID: 41670408.'
+  highlight: 0
 - title: '"From Clinical Narrative to Diagnosis: Scalable Identification of Acquired
     Epilepsy."'
   image: ''
