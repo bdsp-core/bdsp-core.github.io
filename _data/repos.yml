@@ -575,9 +575,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 12
+  stars: 13
   forks: 1
-  updated_at: '2026-05-26'
+  updated_at: '2026-05-28'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -877,7 +877,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-05-02'
+  updated_at: '2026-05-29'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1196,9 +1196,9 @@
   description: ECG, RR intervals, Heart Rate Variability & Co
   url: https://github.com/bdsp-core/hrv-tools
   language: Python
-  stars: 0
-  forks: 0
-  updated_at: '2026-04-30'
+  stars: 1
+  forks: 1
+  updated_at: '2026-05-29'
   visibility: public
   category: ICU & Critical Care
   category_slug: icu-critical-care
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-27'
+  updated_at: '2026-05-28'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2462,13 +2462,25 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: coma-eeg-lund-viewer
+  description: No description provided.
+  url: https://github.com/bdsp-core/coma-eeg-lund-viewer
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-28'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: df2
   description: No description provided.
   url: https://github.com/bdsp-core/df2
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-05-27'
+  updated_at: '2026-05-28'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2569,7 +2581,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-28'
+  updated_at: '2026-05-29'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2655,13 +2667,13 @@
   topics: []
   sort_order: 10
 - name: morgoth2
-  description: 'This repository contains code and tools for running EEG analysis using
-    Morgoth, including event-level and EEG-level detection with probabilities for:'
+  description: This section describes how to fine-tune the pretrained Morpheus model
+    on your own PSG dataset, using sleep staging as an example.
   url: https://github.com/bdsp-core/morgoth2
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-05-28'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2756,8 +2768,8 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-18'
-  visibility: private
+  updated_at: '2026-05-28'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
