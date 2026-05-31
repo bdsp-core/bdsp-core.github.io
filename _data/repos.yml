@@ -1222,9 +1222,9 @@
     Arrest with Deep Neural Networks
   url: https://github.com/bdsp-core/icare-dl
   language: MATLAB
-  stars: 16
+  stars: 17
   forks: 6
-  updated_at: '2026-04-19'
+  updated_at: '2026-05-30'
   visibility: public
   category: ICU & Critical Care
   category_slug: icu-critical-care
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-29'
+  updated_at: '2026-05-30'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2575,8 +2575,10 @@
   topics: []
   sort_order: 10
 - name: ilae-skill-certification-test-multi
-  description: 'Unified repository for the ILAE epileptiform-discharge skill certification
-    system: **two engines, one shared data + calibration'
+  description: 'CORTEX (Continuous Optimization Response Testing for EEG eXpertise):
+    an adaptive Bayesian test of how well a clinician reads an EEG. A joint particle-filter
+    engine over 7 tasks asks the most informative question next and stops once skill
+    is certain. Cross-validated cut scores; Laplace/EKF clinical runtime.'
   url: https://github.com/bdsp-core/ilae-skill-certification-test-multi
   language: Python
   stars: 0
@@ -2585,7 +2587,22 @@
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - adaptive-testing
+  - bayesian-inference
+  - clinical-ai
+  - eeg
+  - epilepsy
+  - item-response-theory
+  - kalman-filter
+  - mcmc
+  - metropolis-hastings
+  - neurology
+  - particle-filter
+  - psychometrics
+  - reproducible-research
+  - sequential-monte-carlo
+  - signal-detection-theory
   sort_order: 10
 - name: Measuring-Expertise-in-Identifying-Interictal-Epileptiform-Discharges
   description: Reproducibility repository for Harid, Jing, Hogan et al., *Measuring
