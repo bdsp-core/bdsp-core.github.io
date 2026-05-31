@@ -1662,6 +1662,53 @@
     url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_Epilepsia_38366862.pdf
     display: 'Epilepsia. 2024. 65(4). 1017-1028. doi: 10.1111/epi.17917. PMID: 38366862.'
   highlight: 0
+- title: '"Flexible realistic simulation of seizure occurrence recapitulating statistical
+    properties of seizure diaries."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2023_Goldenholz_Unknown_36401798.pdf
+    display: 'Epilepsia. 2023. 64(2). 396-405. doi: 10.1111/epi.17471. PMID: 36401798.'
+  highlight: 0
+- title: '"Effects of Cholinergic Neuromodulation on Thalamocortical Rhythms During
+    NREM Sleep: A Model Study."'
+  image: ''
+  description: ''
+  authors: Li Q, Song JL, Li SH, Westover MB, Zhang R
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Li_FrontComputNeurosci_32038215.pdf
+    display: 'Frontiers in computational neuroscience. 2019. 13. 100. doi: 10.3389/fncom.2019.00100.
+      PMID: 32038215.'
+  highlight: 0
+- title: '"A general framework for neurobiological modeling: an application to the
+    vestibular system."'
+  image: ''
+  description: ''
+  authors: Eliasmith C, Westover MB, Anderson CH
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2002_Eliasmith_Neurocomputing_12744262.pdf
+    display: 'Neurocomputing. 2002. 44-46. 1071-6. PMID: 12744262.'
+  highlight: 0
+- title: '"How accurate do self-reported seizures need to be for effective medication
+    management in epilepsy?"'
+  image: ''
+  description: ''
+  authors: Goldenholz D, Brinkmann BH, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_Epilepsia_38776216.pdf
+    display: 'Epilepsia. 2024. 65(7). e104-e112. doi: 10.1111/epi.18019. PMID: 38776216.'
+  highlight: 0
+- title: '"Minimum clinical utility standards for wearable seizure detectors: A simulation
+    study."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Karoly PJ, Viana PF, Nurse E, Loddenkemper T, Schulze-Bonhage
+    A, Vieluf S, Bruno E, Nasseri M, Richardson MP, Brinkmann BH, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Goldenholz_Epilepsia_38366862.pdf
+    display: 'Epilepsia. 2024. 65(4). 1017-1028. doi: 10.1111/epi.17917. PMID: 38366862.'
+  highlight: 0
 - title: '"Effects of Cholinergic Neuromodulation on Thalamocortical Rhythms During
     NREM Sleep: A Model Study."'
   image: ''
