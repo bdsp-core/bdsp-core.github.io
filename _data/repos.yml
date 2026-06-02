@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-05-31'
+  updated_at: '2026-06-01'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2486,6 +2486,19 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: eeg-report-extraction
+  description: Code accompanying Sartipi et al. — five-stage LLM pipeline for extracting
+    seizure and IIC pattern attributes from free-text EEG reports. Data + DOI on bdsp.io.
+  url: https://github.com/bdsp-core/eeg-report-extraction
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-02'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: grond-manuscript
   description: GROND manuscript (TeX + figures); imported into Overleaf. Code lives
     in bdsp-core/grond.
@@ -2583,7 +2596,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-30'
+  updated_at: '2026-06-02'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2677,7 +2690,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-28'
+  updated_at: '2026-06-01'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
