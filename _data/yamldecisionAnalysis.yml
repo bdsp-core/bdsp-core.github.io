@@ -4756,6 +4756,128 @@
     display: 'Archives of neurology. 2011. 68(5). 573-9. doi: 10.1001/archneurol.2010.356.
       PMID: 21220650.'
   highlight: 0
+- title: '"Anticonvulsant Primary and Secondary Prophylaxis for Acute Ischemic Stroke
+    Patients: A Decision Analysis."'
+  image: ''
+  description: ''
+  authors: Jones FJS, Sanches PR, Smith JR, Zafar SF, Hernandez-Diaz S, Blacker D,
+    Hsu J, Schwamm LH, Westover MB, Moura LMVR
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Jones_Stroke_34126758.pdf
+    display: 'Stroke. 2021. 52(9). 2782-2791. doi: 10.1161/STROKEAHA.120.033299. PMID:
+      34126758.'
+  highlight: 0
+- title: '"A Theoretical Paradigm for Evaluating Risk-Benefit of Status Epilepticus
+    Treatment."'
+  image: ''
+  description: ''
+  authors: Amorim E, McGraw CM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Amorim_JClinNeurophysiol_32890059.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2020. 37(5). 385-392. doi: 10.1097/WNP.0000000000000753.
+      PMID: 32890059.'
+  highlight: 0
+- title: '"Evaluating the Clinical Impact of Rapid Response Electroencephalography:
+    The DECIDE Multicenter Prospective Observational Clinical Study."'
+  image: ''
+  description: ''
+  authors: Vespa PM, Olson DM, John S, Hobbs KS, Gururangan K, Nie K, Desai MJ, Markert
+    M, Parvizi J, Bleck TP, Hirsch LJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2020_Vespa_CritCareMed_32618687.pdf
+    display: 'Critical care medicine. 2020. 48(9). 1249-1257. doi: 10.1097/CCM.0000000000004428.
+      PMID: 32618687.'
+  highlight: 0
+- title: '"Antiepileptic drug treatment after an unprovoked first seizure: A decision
+    analysis."'
+  image: ''
+  description: ''
+  authors: Bao EL, Chao LY, Ni P, Moura LMVR, Cole AJ, Cash SS, Hoch DB, Bianchi MT,
+    Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Bao_Neurology_30209239.pdf
+    display: 'Neurology. 2018. 91(15). e1429-e1439. doi: 10.1212/WNL.0000000000006319.
+      PMID: 30209239.'
+  highlight: 0
+- title: '"Selection of first-line therapy in multiple sclerosis using risk-benefit
+    decision analysis."'
+  image: ''
+  description: ''
+  authors: Bargiela D, Bianchi MT, Westover MB, Chibnik LB, Healy BC, De Jager PL,
+    Xia Z
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Bargiela_Neurology_28087821.pdf
+    display: 'Neurology. 2017. 88(7). 677-684. doi: 10.1212/WNL.0000000000003612.
+      PMID: 28087821.'
+  highlight: 0
+- title: '"Decision analysis of intracranial monitoring in non-lesional epilepsy."'
+  image: ''
+  description: ''
+  authors: Hotan GC, Struck AF, Bianchi MT, Eskandar EN, Cole AJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Hotan_Seizure_27348062.pdf
+    display: 'Seizure. 2016. 40. 59-70. doi: 10.1016/j.seizure.2016.06.010. PMID:
+      27348062.'
+  highlight: 0
+- title: '"Weighing the value of memory loss in the surgical evaluation of left temporal
+    lobe epilepsy: a decision analysis."'
+  image: ''
+  description: ''
+  authors: Akama-Garren EH, Bianchi MT, Leveroni C, Cole AJ, Cash SS, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_AkamaGarren_Epilepsia_25244498.pdf
+    display: 'Epilepsia. 2014. 55(11). 1844-53. doi: 10.1111/epi.12790. PMID: 25244498.'
+  highlight: 0
+- title: '"The challenge of undiagnosed sleep apnea in low-risk populations: a decision
+    analysis."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Hershman S, Bahadoran M, Ferguson M, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bianchi_MilMed_25102549.pdf
+    display: 'Military medicine. 2014. 179(8 Suppl). 47-54. doi: 10.7205/MILMED-D-13-00483.
+      PMID: 25102549.'
+  highlight: 0
+- title: '"Aspirin for acute stroke of unknown etiology in resource-limited settings:
+    a decision analysis."'
+  image: ''
+  description: ''
+  authors: Berkowitz AL, Westover MB, Bianchi MT, Chou SH
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Berkowitz_Neurology_25056582.pdf
+    display: 'Neurology. 2014. 83(9). 787-93. doi: 10.1212/WNL.0000000000000730. PMID:
+      25056582.'
+  highlight: 0
+- title: '"Insomnia and morning motor vehicle accidents: a decision analysis of the
+    risk of hypnotics versus the risk of untreated insomnia."'
+  image: ''
+  description: ''
+  authors: Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2014_Bianchi_JClinPsychopharmacol_24743722.pdf
+    display: 'Journal of clinical psychopharmacology. 2014. 34(3). 400-2. doi: 10.1097/JCP.0000000000000134.
+      PMID: 24743722.'
+  highlight: 0
+- title: '"Inferring seizure frequency from brief EEG recordings."'
+  image: ''
+  description: ''
+  authors: Westover MB, Bianchi MT, Shafi M, Hoch DB, Cole AJ, Chiappa K, Cash SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2013_Westover_JClinNeurophysiol_23545768.pdf
+    display: 'Journal of clinical neurophysiology : official publication of the American
+      Electroencephalographic Society. 2013. 30(2). 174-7. doi: 10.1097/WNP.0b013e3182767c35.
+      PMID: 23545768.'
+  highlight: 0
+- title: '"Statin use following intracerebral hemorrhage: a decision analysis."'
+  image: ''
+  description: ''
+  authors: Westover MB, Bianchi MT, Eckman MH, Greenberg SM
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2011_Westover_ArchNeurol_21220650.pdf
+    display: 'Archives of neurology. 2011. 68(5). 573-9. doi: 10.1001/archneurol.2010.356.
+      PMID: 21220650.'
+  highlight: 0
 - title: '"Antiepileptic drug treatment after an unprovoked first seizure: A decision
     analysis."'
   image: ''
