@@ -1209,6 +1209,36 @@
     display: 'IEEE transactions on bio-medical engineering. 2026. PP. doi: 10.1109/TBME.2026.3671187.
       PMID: 41790820.'
   highlight: 0
+- title: '"Reply: Computer models to inform epilepsy surgery strategies: prediction
+    of postoperative outcome."'
+  image: ''
+  description: ''
+  authors: Sinha N, Dauwels J, Kaiser M, Cash SS, Westover MB, Wang Y, Taylor PN
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Sinha_Brain_28334902.pdf
+    display: 'Brain : a journal of neurology. 2017. 140(5). e31. doi: 10.1093/brain/awx068.
+      PMID: 28334902.'
+  highlight: 0
+- title: '"Variability in clinical assessment of neuroimaging in temporal lobe epilepsy."'
+  image: ''
+  description: ''
+  authors: Struck AF, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Struck_Seizure_26216698.pdf
+    display: 'Seizure. 2015. 30. 132-5. doi: 10.1016/j.seizure.2015.06.011. PMID:
+      26216698.'
+  highlight: 0
+- title: '"Inferring preoperative cognitive function from intraoperative electroencephalography
+    in elderly patients using machine learning."'
+  image: ''
+  description: ''
+  authors: Pedemonte JC, Sun H, Freedman IG, Turco I, Wiredu K, Penna A, Egana JI,
+    Gutierrez R, Ibacache M, Cortinez LI, Westover MB, Akeju O, Boncompte G
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Pedemonte_Unknown_41790820.pdf
+    display: 'IEEE transactions on bio-medical engineering. 2026. PP. doi: 10.1109/TBME.2026.3671187.
+      PMID: 41790820.'
+  highlight: 0
 - title: '"Variability in clinical assessment of neuroimaging in temporal lobe epilepsy."'
   image: ''
   description: ''
