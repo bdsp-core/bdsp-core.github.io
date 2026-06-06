@@ -913,9 +913,9 @@
     (version 2).
   url: https://github.com/bdsp-core/SpikeNet2
   language: Python
-  stars: 14
+  stars: 15
   forks: 2
-  updated_at: '2026-04-25'
+  updated_at: '2026-06-05'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-04'
+  updated_at: '2026-06-05'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2779,14 +2779,14 @@
   topics: []
   sort_order: 10
 - name: sharp-transients-irr
-  description: Lightweight reviewer for confirming the channel + time of the most
-    prominent sharp transient in each of the 5,000 inter-rater-reliability EEG segments
-    (IEDs vs vertex waves, wickets, POSTs, BETs, "other").
+  description: 'Analysis code and manuscript for an inter-rater-reliability (IRR)
+    study of sharp transients in EEG: 5,000 segments, each centered on a sharp transient
+    flagged during routine clinical reporting, independently classified by 14…'
   url: https://github.com/bdsp-core/sharp-transients-irr
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-26'
+  updated_at: '2026-06-06'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
