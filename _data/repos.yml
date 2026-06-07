@@ -714,7 +714,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-17'
+  updated_at: '2026-06-06'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -913,9 +913,9 @@
     (version 2).
   url: https://github.com/bdsp-core/SpikeNet2
   language: Python
-  stars: 15
+  stars: 16
   forks: 2
-  updated_at: '2026-06-05'
+  updated_at: '2026-06-06'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-05'
+  updated_at: '2026-06-06'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2506,7 +2506,7 @@
   language: TeX
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-06-06'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
