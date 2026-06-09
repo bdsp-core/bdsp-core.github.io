@@ -2546,6 +2546,202 @@
     display: 'IEEE transactions on information theory. 2008. 54(7). 3327-3329. doi:
       10.1109/TIT.2008.924656. PMID: 31607755.'
   highlight: 0
+- title: '"Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth."'
+  image: ''
+  description: ''
+  authors: Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Meulenbrugge_Unknown_40276961.pdf
+    display: 'Journal of sleep research. 2026. 35(1). e70074. doi: 10.1111/jsr.70074.
+      PMID: 40276961.'
+  highlight: 0
+- title: '"Artificial intelligence without restriction surpassing human intelligence
+    with probability one: Theoretical insight into secrets of the brain with AI twins
+    of the brain."'
+  image: ''
+  description: ''
+  authors: Huang GB, Westover MB, Tan EK, Wang H, Cui D, Ma WY, Wang T, He Q, Wei
+    H, Wang N, Tian Q, Lam KY, Yao X, Wong TY
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Huang_NeurocomputingAmst_41312528.pdf
+    display: 'Neurocomputing. 2025. 619. doi: 10.1016/j.neucom.2024.129053. PMID:
+      41312528.'
+  highlight: 0
+- title: '"Decreasing the Epilepsy Treatment Gap in Tena, Ecuador: A Report From 2021
+    to 2023."'
+  image: ''
+  description: ''
+  authors: Bayas G, Bayas G, Bayas A, Bayas Cardenas EO, Franco N, Sigcha CM, Shapiro
+    K, Moskowitz S, Espinosa PS, Dey RK, Camia CS, Coates S, Stow C, Turley N, Jing
+    J, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Bayas_Cureus_41246783.pdf
+    display: 'Cureus. 2025. 17(10). e94581. doi: 10.7759/cureus.94581. PMID: 41246783.'
+  highlight: 0
+- title: '"Automated estimation of frequency and spatial extent of periodic and rhythmic
+    epileptiform activity from continuous electroencephalography data."'
+  image: ''
+  description: ''
+  authors: Tautan A, Jing J, Basovic L, Hadar PN, Sartipi S, Bento Fernandes M, Kim
+    JA, Struck AF, Westover MB, Zafar SF
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2025_Tautan_medRxiv_40492064.pdf
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2025.05.29.25328582.
+      PMID: 40492064.'
+  highlight: 0
+- title: '"Interrater Reliability Estimation via Maximum Likelihood for Gwet''s Chance
+    Agreement Model."'
+  image: ''
+  description: ''
+  authors: Westover AM, Westover TM, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2024_Westover_OpenJStat_40342797.pdf
+    display: 'Open journal of statistics. 2024. 14(5). 481-491. doi: 10.4236/ojs.2024.145021.
+      PMID: 40342797.'
+  highlight: 0
+- title: '"Night-to-night variability of sleep electroencephalography-based brain
+    age measurements."'
+  image: ''
+  description: ''
+  authors: Hogan J, Sun H, Paixao L, Westmeijer M, Sikka P, Jin J, Tesh R, Cardoso
+    M, Cash SS, Akeju O, Thomas R, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2021_Hogan_ClinNeurophysiol_33248430.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2021. 132(1). 1-12. doi: 10.1016/j.clinph.2020.09.029.
+      PMID: 33248430.'
+  highlight: 0
+- title: '"The probability of seizures during continuous EEG monitoring in high-risk
+    neonates."'
+  image: ''
+  description: ''
+  authors: Worden LT, Chinappen DM, Stoyell SM, Gold J, Paixao L, Krishnamoorthy K,
+    Kramer MA, Westover MB, Chu CJ
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2019_Worden_Epilepsia_31745988.pdf
+    display: 'Epilepsia. 2019. 60(12). 2508-2518. doi: 10.1111/epi.16387. PMID: 31745988.'
+  highlight: 0
+- title: '"ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit."'
+  image: ''
+  description: ''
+  authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2018_Rebergen_JClinMonitComput_28210934.pdf
+    display: 'Journal of clinical monitoring and computing. 2018. 32(1). 53-61. doi:
+      10.1007/s10877-017-9999-9. PMID: 28210934.'
+  highlight: 0
+- title: '"Association of an Electroencephalography-Based Risk Score With Seizure
+    Probability in Hospitalized Patients."'
+  image: ''
+  description: ''
+  authors: Struck AF, Ustun B, Ruiz AR, Lee JW, LaRoche SM, Hirsch LJ, Gilmore EJ,
+    Vlachy J, Haider HA, Rudin C, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2017_Struck_JAMANeurol_29052706.pdf
+    display: 'JAMA neurology. 2017. 74(12). 1419-1424. doi: 10.1001/jamaneurol.2017.2459.
+      PMID: 29052706.'
+  highlight: 0
+- title: '"Causal inference as an emerging statistical approach in neurology: an example
+    for epilepsy in the elderly."'
+  image: ''
+  description: ''
+  authors: Moura LM, Westover MB, Kwasnik D, Cole AJ, Hsu J
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Moura_ClinEpidemiol_28115873.pdf
+    display: 'Clinical epidemiology. 2017. 9. 9-18. doi: 10.2147/CLEP.S121023. PMID:
+      28115873.'
+  highlight: 0
+- title: '"Decision Modeling in Sleep Apnea: The Critical Roles of Pretest Probability,
+    Cost of Untreated Obstructive Sleep Apnea, and Time Horizon."'
+  image: ''
+  description: ''
+  authors: Moro M, Westover MB, Kelly J, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2016_Moro_JClinSleepMed_26518699.pdf
+    display: 'Journal of clinical sleep medicine : JCSM : official publication of
+      the American Academy of Sleep Medicine. 2016. 12(3). 409-18. doi: 10.5664/jcsm.5596.
+      PMID: 26518699.'
+  highlight: 0
+- title: '"Spatial variation in automated burst suppression detection in pharmacologically
+    induced coma."'
+  image: ''
+  description: ''
+  authors: An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_An_AnnuIntConfIEEEEngMedBiolSoc_26738009.pdf
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2015. 2015. 7430-3. doi: 10.1109/EMBC.2015.7320109.
+      PMID: 26738009.'
+  highlight: 0
+- title: '"The probability of seizures during EEG monitoring in critically ill adults."'
+  image: ''
+  description: ''
+  authors: Westover MB, Shafi MM, Bianchi MT, Moura LM, O'Rourke D, Rosenthal ES,
+    Chu CJ, Donovan S, Hoch DB, Kilbride RD, Cole AJ, Cash SS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2015_Westover_ClinNeurophysiol_25082090.pdf
+    display: 'Clinical neurophysiology : official journal of the International Federation
+      of Clinical Neurophysiology. 2015. 126(3). 463-71. doi: 10.1016/j.clinph.2014.05.037.
+      PMID: 25082090.'
+  highlight: 0
+- title: '"The information theoretic perspective on medical diagnostic inference."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Bianchi MT, Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/1995_Eiseman_HospPract1995_24769791.pdf
+    display: 'Hospital practice (1995). 2014. 42(2). 125-38. doi: 10.3810/hp.2014.04.1110.
+      PMID: 24769791.'
+  highlight: 0
+- title: '"Information theoretic quantification of diagnostic uncertainty."'
+  image: ''
+  description: ''
+  authors: Westover MB, Eiseman NA, Cash SS, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Westover_OpenMedInformJ_23304251.pdf
+    display: 'The open medical informatics journal. 2012. 6. 36-50. doi: 10.2174/1874431101206010036.
+      PMID: 23304251.'
+  highlight: 0
+- title: '"Propagation of uncertainty in Bayesian diagnostic test interpretation."'
+  image: ''
+  description: ''
+  authors: Srinivasan P, Westover MB, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2012_Srinivasan_SouthMedJ_22948322.pdf
+    display: 'Southern medical journal. 2012. 105(9). 452-9. doi: 10.1097/SMJ.0b013e3182621a2c.
+      PMID: 22948322.'
+  highlight: 0
+- title: '"Should a sentinel node biopsy be performed in patients with high-risk breast
+    cancer?"'
+  image: ''
+  description: ''
+  authors: Westover KD, Westover MB, Winer EP, Richardson AL, Iglehart JD, Punglia
+    RS
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2011_Westover_IntJBreastCancer_22295240.pdf
+    display: 'International journal of breast cancer. 2011. 2011. 973245. doi: 10.4061/2011/973245.
+      PMID: 22295240.'
+  highlight: 0
+- title: '"Significance testing as perverse probabilistic reasoning."'
+  image: ''
+  description: ''
+  authors: Westover MB, Westover KD, Bianchi MT
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2011_Westover_BMCMed_21356064.pdf
+    display: 'BMC medicine. 2011. 9. 20. doi: 10.1186/1741-7015-9-20. PMID: 21356064.'
+  highlight: 0
+- title: '"Asymptotic Geometry of Multiple Hypothesis Testing."'
+  image: ''
+  description: ''
+  authors: Westover MB
+  link:
+    url: https://bdsp-core.github.io/cdac-downloads/2008_Westover_IEEETransInfTheory_31607755.pdf
+    display: 'IEEE transactions on information theory. 2008. 54(7). 3327-3329. doi:
+      10.1109/TIT.2008.924656. PMID: 31607755.'
+  highlight: 0
 - title: '"Delirium and Increased Risk of Developing Dementia: An Emulated Target
     Trial Analysis."'
   image: ''
