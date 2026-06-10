@@ -102,9 +102,9 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 17
-  forks: 6
-  updated_at: '2026-06-03'
+  stars: 18
+  forks: 7
+  updated_at: '2026-06-10'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-08'
+  updated_at: '2026-06-09'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1586,7 +1586,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-06-08'
+  updated_at: '2026-06-09'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-08'
+  updated_at: '2026-06-09'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2774,6 +2774,21 @@
   forks: 0
   updated_at: '2026-05-24'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: omop-wrangling
+  description: Code and documentation for wrangling the BDSP OMOP clinical data —
+    large-scale categorization, classification, and feature extraction over the OMOP
+    CDM (notes, radiology, etc.). Built initially for the BIDMC (site I0002) note-categorization
+    effort.
+  url: https://github.com/bdsp-core/omop-wrangling
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-10'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
