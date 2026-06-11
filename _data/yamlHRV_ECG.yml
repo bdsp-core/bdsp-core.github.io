@@ -5,6 +5,137 @@
     AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna
     MA, Westover MB, Clifford GD
   link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41741499
+    display: 'Scientific data. 2026. 13(1). doi: 10.1038/s41597-026-06861-9. PMID:
+      41741499.'
+  highlight: 0
+- title: '"An Electrocardiogram Foundation Model Built on over 10 Million Recordings."'
+  image: ''
+  description: ''
+  authors: Li J, Aguirre AD, Moura V, Jin J, Liu C, Zhong L, Sun C, Clifford G, Westover
+    MB, Hong S
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40771651
+    display: 'NEJM AI. 2025. 2(7). doi: 10.1056/aioa2401033. PMID: 40771651.'
+  highlight: 0
+- title: '"The Harvard-Emory ECG Database."'
+  image: ''
+  description: ''
+  authors: Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre
+    A, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna MA, Westover MB, Cliford
+    GD
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/40385443
+    display: 'medRxiv : the preprint server for health sciences. 2025. doi: 10.1101/2024.09.27.24314503.
+      PMID: 40385443.'
+  highlight: 0
+- title: '"Sleep staging in the ICU with heart rate variability and breathing signals.
+    An exploratory cross-sectional study using deep neural networks."'
+  image: ''
+  description: ''
+  authors: Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N,
+    Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins
+    J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O,
+    Kuller D, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36926545
+    display: 'Frontiers in network physiology. 2023. 3. 1120390. doi: 10.3389/fnetp.2023.1120390.
+      PMID: 36926545.'
+  highlight: 0
+- title: '"Sleep staging from electrocardiography and respiration with deep learning."'
+  image: ''
+  description: ''
+  authors: Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B,
+    Tesh RA, Akeju O, Thomas RJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31863111
+    display: 'Sleep. 2020. 43(7). doi: 10.1093/sleep/zsz306. PMID: 31863111.'
+  highlight: 0
+- title: '"Automatic Detection of General Anesthetic-States using ECG-Derived Autonomic
+    Nervous System Features."'
+  image: ''
+  description: ''
+  authors: Polk SL, Kashkooli K, Nagaraj SB, Chamadia S, Murphy JM, Sun H, Westover
+    MB, Barbieri R, Akeju O
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31946297
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2019. 2019. 2019-2022. doi: 10.1109/EMBC.2019.8857704.
+      PMID: 31946297.'
+  highlight: 0
+- title: '"You Snooze, You Win: the PhysioNet/Computing in Cardiology Challenge 2018."'
+  image: ''
+  description: ''
+  authors: Ghassemi MM, Moody BE, Lehman LH, Song C, Li Q, Sun H, Mark RG, Westover
+    MB, Clifford GD
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34796237
+    display: 'Computing in cardiology. 2018. 45. doi: 10.22489/cinc.2018.049. PMID:
+      34796237.'
+  highlight: 0
+- title: '"ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit."'
+  image: ''
+  description: ''
+  authors: Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28210934
+    display: 'Journal of clinical monitoring and computing. 2018. 32(1). 53-61. doi:
+      10.1007/s10877-017-9999-9. PMID: 28210934.'
+  highlight: 0
+- title: '"Patient-Specific Classification of ICU Sedation Levels From Heart Rate
+    Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Biswal S, Boyle EJ, Zhou DW, McClain LM, Bajwa EK, Quraishi
+    SA, Akeju O, Barbieri R, Purdon PL, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28441231
+    display: 'Critical care medicine. 2017. 45(7). e683-e690. doi: 10.1097/CCM.0000000000002364.
+      PMID: 28441231.'
+  highlight: 0
+- title: '"Heart rate variability as a biomarker for sedation depth estimation in
+    ICU patients."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, Ramaswamy SM, Biswal S, Boyle EJ, Zhou DW, Mcclain LM, Rosenthal
+    ES, Purdon PL, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/28269712
+    display: 'Annual International Conference of the IEEE Engineering in Medicine
+      and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual
+      International Conference. 2016. 2016. 6397-6400. doi: 10.1109/EMBC.2016.7592192.
+      PMID: 28269712.'
+  highlight: 0
+- title: '"Automatic Classification of Sedation Levels in ICU Patients Using Heart
+    Rate Variability."'
+  image: ''
+  description: ''
+  authors: Nagaraj SB, McClain LM, Zhou DW, Biswal S, Rosenthal ES, Purdon PL, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/27035240
+    display: 'Critical care medicine. 2016. 44(9). e782-9. doi: 10.1097/CCM.0000000000001708.
+      PMID: 27035240.'
+  highlight: 0
+- title: '"Classification algorithms for predicting sleepiness and sleep apnea severity."'
+  image: ''
+  description: ''
+  authors: Eiseman NA, Westover MB, Mietus JE, Thomas RJ, Bianchi MT
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/21752133
+    display: 'Journal of sleep research. 2012. 21(1). 101-12. doi: 10.1111/j.1365-2869.2011.00935.x.
+      PMID: 21752133.'
+  highlight: 0
+- title: '"The Harvard-Emory ECG Database."'
+  image: ''
+  description: ''
+  authors: Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre
+    AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna
+    MA, Westover MB, Clifford GD
+  link:
     url: https://bdsp-core.github.io/cdac-downloads/2026_Koscova_SciData_41741499.pdf
     display: 'Scientific data. 2026. 13(1). doi: 10.1038/s41597-026-06861-9. PMID:
       41741499.'
