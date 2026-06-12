@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-10'
+  updated_at: '2026-06-11'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1586,7 +1586,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-06-09'
+  updated_at: '2026-06-12'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2352,7 +2352,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-05-27'
+  updated_at: '2026-06-12'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2596,7 +2596,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-04'
+  updated_at: '2026-06-12'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2723,6 +2723,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: Myelin
+  description: A.I. enabled cohort generation tool
+  url: https://github.com/bdsp-core/Myelin
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-12'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: nax_llm_batch_processing
   description: Private — CDAC internal. Batch-LLM utilities used across the NAX EHR-phenotyping
     projects — orchestrates Anthropic / OpenAI batch APIs for large-scale prompting
@@ -2787,8 +2799,20 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-10'
+  updated_at: '2026-06-12'
   visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: omop_etl_pipeline_bidmc
+  description: No description provided.
+  url: https://github.com/bdsp-core/omop_etl_pipeline_bidmc
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-12'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
