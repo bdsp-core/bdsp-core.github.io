@@ -102,9 +102,9 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 18
+  stars: 19
   forks: 7
-  updated_at: '2026-06-10'
+  updated_at: '2026-06-12'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -576,7 +576,7 @@
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
   stars: 14
-  forks: 1
+  forks: 2
   updated_at: '2026-06-03'
   visibility: public
   category: Brain Age & Brain Health
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-11'
+  updated_at: '2026-06-12'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-10'
+  updated_at: '2026-06-12'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2581,7 +2581,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-06-12'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2726,8 +2726,8 @@
 - name: Myelin
   description: A.I. enabled cohort generation tool
   url: https://github.com/bdsp-core/Myelin
-  language: ''
-  stars: 0
+  language: Python
+  stars: 1
   forks: 0
   updated_at: '2026-06-12'
   visibility: private
@@ -2799,7 +2799,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-12'
+  updated_at: '2026-06-13'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
