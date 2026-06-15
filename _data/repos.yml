@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-13'
+  updated_at: '2026-06-14'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2346,18 +2346,6 @@
   category_slug: data-platforms-infrastructure
   topics: []
   sort_order: 8
-- name: YAMA
-  description: Yet Another Management Application — internal project management tools.
-  url: https://github.com/bdsp-core/YAMA
-  language: HTML
-  stars: 0
-  forks: 0
-  updated_at: '2026-06-14'
-  visibility: private
-  category: Data Platforms & Infrastructure
-  category_slug: data-platforms-infrastructure
-  topics: []
-  sort_order: 8
 - name: paper-agents-figures
   description: Multi-agent pipeline for reviewing scientific manuscript figures
   url: https://github.com/bdsp-core/paper-agents-figures
@@ -2402,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-13'
+  updated_at: '2026-06-14'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2729,7 +2717,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-14'
+  updated_at: '2026-06-15'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2745,6 +2733,19 @@
   forks: 0
   updated_at: '2026-05-24'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: NESI
+  description: A unified, continuous, EEG-based index of encephalopathy severity for
+    critical care.
+  url: https://github.com/bdsp-core/NESI
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-15'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2799,7 +2800,7 @@
   language: Shell
   stars: 0
   forks: 0
-  updated_at: '2026-06-14'
+  updated_at: '2026-06-15'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
