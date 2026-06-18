@@ -330,7 +330,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-04'
+  updated_at: '2026-06-17'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-16'
+  updated_at: '2026-06-17'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,8 +2390,20 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-16'
+  updated_at: '2026-06-17'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: bdsp-python
+  description: Reader-first Python package for BDSP/Sleep YODA standardized HDF5 data.
+  url: https://github.com/bdsp-core/bdsp-python
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-17'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2584,7 +2596,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-17'
+  updated_at: '2026-06-18'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2705,7 +2717,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-10'
+  updated_at: '2026-06-17'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2800,7 +2812,7 @@
   language: Shell
   stars: 0
   forks: 0
-  updated_at: '2026-06-17'
+  updated_at: '2026-06-18'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2813,6 +2825,19 @@
   stars: 0
   forks: 0
   updated_at: '2026-06-12'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: platform-planning
+  description: Planning/design docs for the BDSP research platform (BDC-style) and
+    PHI de-identification pipeline
+  url: https://github.com/bdsp-core/platform-planning
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-18'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
