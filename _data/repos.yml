@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-17'
+  updated_at: '2026-06-18'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-17'
+  updated_at: '2026-06-18'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2596,7 +2596,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-18'
+  updated_at: '2026-06-19'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2626,6 +2626,19 @@
   stars: 0
   forks: 0
   updated_at: '2026-04-17'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: meem
+  description: 'MEEM: EEG↔MRI matching and structured feature extraction (BDSP BIND
+    cohort). Code only; data in s3://bdsp-opendata-credentialed/meem/.'
+  url: https://github.com/bdsp-core/meem
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-19'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
