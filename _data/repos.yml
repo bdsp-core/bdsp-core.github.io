@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-18'
+  updated_at: '2026-06-19'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2462,6 +2462,19 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: clinical-note-parser-cdac
+  description: Clinical note parsing pipeline for the CDAC medical education teaching
+    tool.
+  url: https://github.com/bdsp-core/clinical-note-parser-cdac
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-19'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: coma-eeg-lund-viewer
   description: No description provided.
   url: https://github.com/bdsp-core/coma-eeg-lund-viewer
@@ -2596,7 +2609,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-19'
+  updated_at: '2026-06-20'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2638,7 +2651,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-19'
+  updated_at: '2026-06-20'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2769,7 +2782,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-16'
+  updated_at: '2026-06-19'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
