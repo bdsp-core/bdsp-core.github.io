@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated June 21, 2026**
+**Curriculum Vitae: updated June 28, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -903,66 +903,6 @@ Gaspard N, Hirsch LJ, LaRoche SM, Hahn CD, **Westover MB**, Critical Care EEG Mo
 6.  **<span class="smallcaps">Grant Funding</span>**
 
 **Current:**
-
-09/2021 – 05/2026 Funder: NIH-NINDS (R01 AG073410)
-
-> Title: Comparative Safety of Seizure Prophylaxis within the Medicare Program
->
-> Role: Co-Investigator (PI: Lidia Maria Moura)
-
-05/2021 – 04/2026 Funder: NIH-NINDS (R01 NS120947)
-
-> Title: Establishing a Brain Health Index from the Sleep Electroencephalogram
->
-> Role: PI
-
-09/2022 – 08/2027 Funder: NIH-NHLBI (R01 HL161253)
-
-> Title: Data-Driven Sleep Biomarkers of Brain Health, Heart Health, and Mortality
->
-> Role: PI
-
-08/2022 – 04/2027 Funder: NIH-NIA (R01 AG073598)
-
-> Title: Low Neurophysiologic Resistance to Anesthetics as a Marker of Preclinical/Prodromal Alzheimer’s Disease and Neurovascular Pathology, Delirium Risk and Inattention
->
-> Role: Co-Investigator (PI: Miles Berger, via Duke subcontract)
-
-01/2023 – 12/2027 Funder: NIH-NINDS (R01 NS126282)
-
-> Title: Prospective Validation of Neurophysiologic Outcome Prediction in Acute Brain Injury
->
-> Role: PI
-
-09/2023 – 05/2028 Funder: NIH-NINDS (R01 NS130119)
-
-> Title: Late-Onset Unexplained Epilepsy as a Risk Factor for Dementia
->
-> Role: Co-PI (with Alice D. Lam)
-
-12/2023 – 11/2028 Funder: NIH-NINDS (R01 NS131347)
-
-> Title: Comparative Effectiveness of EEG-Guided Anti-Seizure Treatment in Acute Brain Injury
-
-Role: Co-Investigator (PI: Sahar F. Zafar)
-
-11/2023 – 10/2028 Funder: NIH-NIA (R01 AG078261)
-
-> Title: Delirium Dynamics: Understanding Causes and Effects
->
-> Role: Co-Investigator (PI: Eyal Kimchi, via Northwestern subcontract)
-
-09/2023 – 09/2025 Funder: NIH-NIA (R21 AG085495)
-
-> Title: Development of Novel Polysomnography-Based Digital Biomarkers to Predict Alzheimer’s Disease and Parkinson’s Disease
-
-Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
-
-02/2025 – 02/2026 Funder: Takeda (PO8001791544)
-
-> Title: Analysis of Risk of Narcolepsy through Clinical Notes
->
-> Role: PI
 
 **Submitted:**
 
