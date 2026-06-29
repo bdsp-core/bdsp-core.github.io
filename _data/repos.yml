@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-27'
+  updated_at: '2026-06-28'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1586,7 +1586,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-06-12'
+  updated_at: '2026-06-29'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-26'
+  updated_at: '2026-06-28'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2508,6 +2508,20 @@
   forks: 0
   updated_at: '2026-06-02'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: ELROND
+  description: EEG Labeling for Rapid Onset/offset Notation and Detection — a PyQt6
+    tool and machine-learning pipeline for annotating seizure begin/end times on EEG
+    spectrograms at scale, with model-assisted pre-labeling and active learning.
+  url: https://github.com/bdsp-core/ELROND
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-29'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
