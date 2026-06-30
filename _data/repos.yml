@@ -315,9 +315,9 @@
   description: Sleep Phenomics Automation
   url: https://github.com/bdsp-core/sleep-phenomics-automation
   language: Python
-  stars: 0
+  stars: 1
   forks: 0
-  updated_at: '2026-05-15'
+  updated_at: '2026-06-29'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -575,9 +575,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 14
+  stars: 15
   forks: 2
-  updated_at: '2026-06-03'
+  updated_at: '2026-06-30'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-28'
+  updated_at: '2026-06-29'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-28'
+  updated_at: '2026-06-29'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2469,7 +2469,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-06-21'
+  updated_at: '2026-06-30'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2757,7 +2757,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-17'
+  updated_at: '2026-06-29'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2849,10 +2849,10 @@
     CDM (notes, radiology, etc.). Built initially for the BIDMC (site I0002) note-categorization
     effort.
   url: https://github.com/bdsp-core/omop-wrangling
-  language: Shell
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-28'
+  updated_at: '2026-06-30'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
