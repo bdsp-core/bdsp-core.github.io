@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-29'
+  updated_at: '2026-06-30'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1586,7 +1586,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-06-29'
+  updated_at: '2026-07-01'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2467,7 +2467,7 @@
     tool.
   url: https://github.com/bdsp-core/clinical-note-parser-cdac
   language: Jupyter Notebook
-  stars: 0
+  stars: 1
   forks: 0
   updated_at: '2026-06-30'
   visibility: internal
@@ -2504,9 +2504,9 @@
     seizure and IIC pattern attributes from free-text EEG reports. Data + DOI on bdsp.io.
   url: https://github.com/bdsp-core/eeg-report-extraction
   language: Jupyter Notebook
-  stars: 0
+  stars: 1
   forks: 0
-  updated_at: '2026-06-02'
+  updated_at: '2026-06-30'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2757,7 +2757,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-29'
+  updated_at: '2026-06-30'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2769,7 +2769,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-23'
+  updated_at: '2026-07-01'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2794,9 +2794,9 @@
     critical care.
   url: https://github.com/bdsp-core/NESI
   language: Python
-  stars: 0
+  stars: 1
   forks: 0
-  updated_at: '2026-06-22'
+  updated_at: '2026-06-30'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2850,7 +2850,7 @@
     effort.
   url: https://github.com/bdsp-core/omop-wrangling
   language: Python
-  stars: 0
+  stars: 1
   forks: 0
   updated_at: '2026-06-30'
   visibility: internal
