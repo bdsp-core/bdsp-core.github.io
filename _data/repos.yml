@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-06-30'
+  updated_at: '2026-07-01'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2102,9 +2102,9 @@
   description: Tools for managing and querying the Harvard EEG Database.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
   language: Jupyter Notebook
-  stars: 14
+  stars: 15
   forks: 1
-  updated_at: '2026-05-31'
+  updated_at: '2026-07-01'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2129,7 +2129,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-27'
+  updated_at: '2026-07-01'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-29'
+  updated_at: '2026-07-01'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2623,7 +2623,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-26'
+  updated_at: '2026-07-02'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2757,7 +2757,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-30'
+  updated_at: '2026-07-01'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
