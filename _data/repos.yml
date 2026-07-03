@@ -303,9 +303,9 @@
     data.
   url: https://github.com/bdsp-core/sleep-outcome-prediction
   language: Python
-  stars: 4
+  stars: 5
   forks: 2
-  updated_at: '2026-03-09'
+  updated_at: '2026-07-02'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-01'
+  updated_at: '2026-07-02'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2129,7 +2129,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-01'
+  updated_at: '2026-07-02'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-01'
+  updated_at: '2026-07-02'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-07-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2469,7 +2469,7 @@
   language: Jupyter Notebook
   stars: 1
   forks: 0
-  updated_at: '2026-06-30'
+  updated_at: '2026-07-02'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2723,6 +2723,20 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: morgoth-slowing-growth-curves
+  description: Normative growth curves (age × sex percentiles, per sleep/wake state)
+    for quantitative EEG slowing features, used to characterize pathological slowing
+    — focal vs. generalized — in the morgoth-viewer automated EEG report pipeline.
+  url: https://github.com/bdsp-core/morgoth-slowing-growth-curves
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-03'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: morgoth-sz-hm
   description: 'This repository extends the base Morgoth EEG model with two improvements
     specifically targeting seizure detection:'
@@ -2757,7 +2771,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-01'
+  updated_at: '2026-07-02'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2797,6 +2811,19 @@
   stars: 1
   forks: 0
   updated_at: '2026-06-30'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: neurobrowser
+  description: Ultrafast EEG template matching under Dynamic Time Warping — a Python
+    port of the algorithm at the core of NeuroBrowser.
+  url: https://github.com/bdsp-core/neurobrowser
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-03'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2852,7 +2879,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-30'
+  updated_at: '2026-07-02'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2905,6 +2932,35 @@
   forks: 0
   updated_at: '2026-05-28'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: stanford-epilepsy-schedule-wrangling
+  description: Tools for building the annual Stanford epilepsy division inpatient
+    attending schedule — assigning one EMU attending and one ICU/LTM EEG attending
+    to each of the year's 52 weeks, honoring everyone's availability, requested week
+    counts, and preferences.
+  url: https://github.com/bdsp-core/stanford-epilepsy-schedule-wrangling
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-03'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: teleEEG-wrangling
+  description: 'Code to wrangle the teleEEG (Neurotech) EEG dataset published on bdsp.io:
+    run the Morgoth foundation-model prediction heads over every recording, compute
+    performance vs.'
+  url: https://github.com/bdsp-core/teleEEG-wrangling
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-03'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
