@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-02'
+  updated_at: '2026-07-03'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2129,7 +2129,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-02'
+  updated_at: '2026-07-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-02'
+  updated_at: '2026-07-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2520,7 +2520,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-06-29'
+  updated_at: '2026-07-04'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2728,10 +2728,10 @@
     for quantitative EEG slowing features, used to characterize pathological slowing
     — focal vs. generalized — in the morgoth-viewer automated EEG report pipeline.
   url: https://github.com/bdsp-core/morgoth-slowing-growth-curves
-  language: Python
+  language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-03'
+  updated_at: '2026-07-04'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2808,9 +2808,9 @@
     critical care.
   url: https://github.com/bdsp-core/NESI
   language: Python
-  stars: 1
+  stars: 2
   forks: 0
-  updated_at: '2026-06-30'
+  updated_at: '2026-07-03'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2837,7 +2837,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-07-04'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2959,7 +2959,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-03'
+  updated_at: '2026-07-04'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
