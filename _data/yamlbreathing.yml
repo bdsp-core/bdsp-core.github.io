@@ -1,3 +1,14 @@
+- title: '"BCGNet: an AI model trained on 600 K hours of sleep data for a novel under-pillow
+    contactless monitoring device."'
+  image: ''
+  description: ''
+  authors: Chen S, Chen X, Huang W, Lei F, Shan C, Jin Z, Shi Y, Wang Y, Zhao R, Xu
+    X, Lv D, Li Y, Pan S, Chiang A, Westover MB, Hong S, Zhang C, Yin S, Liu CF, Yi
+    H, Tang X, Leng Y
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/42399358
+    display: 'NPJ digital medicine. 2026. doi: 10.1038/s41746-026-02885-y. PMID: 42399358.'
+  highlight: 0
 - title: '"Quantification of Ventilatory Control in Sleep Apnea: From Physiological
     Insight to Computable Loop Gain."'
   image: ''
