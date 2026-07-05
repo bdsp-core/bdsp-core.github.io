@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-03'
+  updated_at: '2026-07-04'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-03'
+  updated_at: '2026-07-04'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2487,6 +2487,20 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: db_phi_aurora
+  description: 'Umbrella repo for the PHI receiving pipeline: ingest identified data
+    from many institutions, turn it into an identified OMOP database, then de-identify
+    it into the standardized, controlled-access OMOP research database.'
+  url: https://github.com/bdsp-core/db_phi_aurora
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-05'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: df2
   description: No description provided.
   url: https://github.com/bdsp-core/df2
@@ -2520,7 +2534,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-04'
+  updated_at: '2026-07-05'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2731,7 +2745,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-04'
+  updated_at: '2026-07-05'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2837,7 +2851,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-04'
+  updated_at: '2026-07-05'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
