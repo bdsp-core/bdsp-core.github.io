@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-04'
+  updated_at: '2026-07-05'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2242,7 +2242,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-06-16'
+  updated_at: '2026-07-05'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-04'
+  updated_at: '2026-07-05'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2534,7 +2534,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-05'
+  updated_at: '2026-07-06'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2658,6 +2658,20 @@
   - sequential-monte-carlo
   - signal-detection-theory
   sort_order: 10
+- name: jj-publish-everything-project
+  description: 'Goal: publish every reproducible paper from the Westover group. (Started
+    as "every JJ first/last-author paper with MBW"; expanded 2026-07-05 to triage
+    all 434 MBW-coauthored papers — see CATEGORIES.md.)'
+  url: https://github.com/bdsp-core/jj-publish-everything-project
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-05'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: Measuring-Expertise-in-Identifying-Interictal-Epileptiform-Discharges
   description: Reproducibility repository for Harid, Jing, Hogan et al., *Measuring
     Expertise in Identifying Interictal Epileptiform Discharges* (Epileptic Disorders,
@@ -2745,7 +2759,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-05'
+  updated_at: '2026-07-06'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
