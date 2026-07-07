@@ -102,9 +102,9 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 19
+  stars: 20
   forks: 7
-  updated_at: '2026-06-12'
+  updated_at: '2026-07-06'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -778,7 +778,7 @@
   language: MATLAB
   stars: 17
   forks: 8
-  updated_at: '2025-12-19'
+  updated_at: '2026-07-06'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-05'
+  updated_at: '2026-07-06'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1586,7 +1586,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-07-01'
+  updated_at: '2026-07-07'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2129,7 +2129,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-03'
+  updated_at: '2026-07-06'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-05'
+  updated_at: '2026-07-06'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2463,13 +2463,15 @@
   topics: []
   sort_order: 10
 - name: clinical-note-parser-cdac
-  description: Clinical note parsing pipeline for the CDAC medical education teaching
-    tool.
+  description: Clinical note parsing pipeline for the Stanford CDAC neurology teaching
+    tool. Parses MRI reports, EEG reports, and clinical admission notes into structured
+    JSON, merges them per patient, and synthesizes a single short anatomical phrase
+    for…
   url: https://github.com/bdsp-core/clinical-note-parser-cdac
   language: Jupyter Notebook
   stars: 1
   forks: 0
-  updated_at: '2026-07-02'
+  updated_at: '2026-07-07'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2601,7 +2603,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-05-17'
+  updated_at: '2026-07-06'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2637,7 +2639,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-02'
+  updated_at: '2026-07-07'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2666,7 +2668,7 @@
   language: ''
   stars: 0
   forks: 0
-  updated_at: '2026-07-05'
+  updated_at: '2026-07-06'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2799,7 +2801,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-02'
+  updated_at: '2026-07-06'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2851,7 +2853,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-03'
+  updated_at: '2026-07-06'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2865,8 +2867,8 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-05'
-  visibility: private
+  updated_at: '2026-07-07'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
