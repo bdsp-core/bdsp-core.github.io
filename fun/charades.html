@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#0a0908">
+<title>Extreme Charades</title>
+<style>
+  :root{
+    --stage:#0a0908;
+    --stage-2:#13110e;
+    --spot:#f7e7c4;
+    --spot-warm:#f4c870;
+    --ink:#f5efe2;
+    --muted:#9a8f7a;
+    --line:rgba(244,200,112,0.18);
+    --got:#5fb87a;
+    --skip:#c4574e;
+    --danger:#ff4d4d;
+    --card-bg:#171410;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+  html,body{margin:0;height:100%;}
+  body{
+    background:
+      radial-gradient(120% 80% at 50% -10%, #1c1813 0%, var(--stage) 55%) fixed,
+      var(--stage);
+    color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,system-ui,sans-serif;
+    overflow:hidden;
+    height:100dvh;
+    -webkit-user-select:none;user-select:none;
+  }
+  #app{height:100dvh;display:flex;flex-direction:column;}
+  .screen{
+    flex:1;display:none;flex-direction:column;
+    padding:max(env(safe-area-inset-top),18px) 20px max(env(safe-area-inset-bottom),18px);
+    overflow-y:auto;
+  }
+  .screen.active{display:flex;}
+
+  h1{
+    font-family:Georgia,"Times New Roman",serif;
+    font-weight:700;font-style:italic;
+    letter-spacing:0.5px;margin:0;
+    line-height:0.95;
+  }
+  .eyebrow{
+    font-size:12px;letter-spacing:4px;text-transform:uppercase;
+    color:var(--spot-warm);font-weight:700;margin:0 0 6px;
+  }
+  .muted{color:var(--muted);}
+
+  /* ---------- HOME ---------- */
+  #home{justify-content:center;align-items:center;text-align:center;gap:10px;}
+  .marquee{
+    position:relative;padding:34px 26px;border-radius:20px;
+    background:radial-gradient(80% 120% at 50% 0%, rgba(247,231,196,0.10), transparent 70%);
+  }
+  #home h1{font-size:clamp(44px,15vw,68px);color:var(--ink);
+    text-shadow:0 0 40px rgba(244,200,112,0.35);}
+  #home .sub{color:var(--muted);margin-top:8px;font-size:15px;letter-spacing:1px;}
+  .bulbs{display:flex;gap:10px;justify-content:center;margin:18px 0 2px;}
+  .bulb{width:9px;height:9px;border-radius:50%;background:var(--spot-warm);
+    box-shadow:0 0 10px var(--spot-warm);animation:flick 1.8s infinite;}
+  .bulb:nth-child(2){animation-delay:.3s}.bulb:nth-child(3){animation-delay:.6s}
+  .bulb:nth-child(4){animation-delay:.9s}.bulb:nth-child(5){animation-delay:1.2s}
+  @keyframes flick{0%,100%{opacity:1}45%{opacity:.35}}
+
+  /* ---------- BUTTONS ---------- */
+  .btn{
+    appearance:none;border:none;cursor:pointer;font-family:inherit;
+    font-size:18px;font-weight:700;letter-spacing:0.3px;
+    padding:18px 22px;border-radius:16px;width:100%;
+    color:#1a1509;background:linear-gradient(180deg,var(--spot) 0%,var(--spot-warm) 100%);
+    box-shadow:0 6px 22px rgba(244,200,112,0.28);
+    transition:transform .08s ease;
+  }
+  .btn:active{transform:scale(0.97);}
+  .btn.ghost{
+    background:transparent;color:var(--ink);
+    border:1px solid var(--line);box-shadow:none;font-weight:600;
+  }
+  .btn.small{font-size:15px;padding:13px 16px;}
+
+  /* ---------- SETUP ---------- */
+  #setup{gap:6px;}
+  .setup-head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:10px;}
+  #setup h1{font-size:30px;}
+  .field{margin:14px 0;}
+  .field > label{display:block;font-size:13px;letter-spacing:2px;text-transform:uppercase;
+    color:var(--muted);margin-bottom:9px;font-weight:700;}
+  .seg{display:flex;gap:8px;flex-wrap:wrap;}
+  .chip{
+    flex:1;min-width:62px;text-align:center;
+    padding:13px 8px;border-radius:13px;border:1px solid var(--line);
+    background:var(--card-bg);color:var(--muted);font-weight:700;font-size:15px;
+    cursor:pointer;transition:all .12s ease;
+  }
+  .chip small{display:block;font-size:10.5px;letter-spacing:1px;font-weight:600;margin-top:3px;opacity:.8;}
+  .chip.on{background:linear-gradient(180deg,var(--spot),var(--spot-warm));
+    color:#1a1509;border-color:transparent;}
+  .stepper{display:flex;align-items:center;gap:14px;}
+  .stepper button{
+    width:52px;height:52px;border-radius:14px;border:1px solid var(--line);
+    background:var(--card-bg);color:var(--ink);font-size:26px;font-weight:700;cursor:pointer;
+  }
+  .stepper .val{flex:1;text-align:center;font-size:26px;font-weight:700;}
+  .toggle-row{display:flex;align-items:center;justify-content:space-between;
+    padding:14px 16px;border:1px solid var(--line);border-radius:14px;background:var(--card-bg);}
+  .toggle-row .t-txt{font-size:15px;font-weight:700;}
+  .toggle-row .t-sub{font-size:12px;color:var(--muted);margin-top:3px;font-weight:400;}
+  .switch{width:54px;height:31px;border-radius:20px;background:#2a2620;position:relative;
+    flex:0 0 auto;cursor:pointer;transition:background .15s;}
+  .switch.on{background:var(--got);}
+  .switch::after{content:"";position:absolute;top:3px;left:3px;width:25px;height:25px;
+    border-radius:50%;background:#fff;transition:left .15s;}
+  .switch.on::after{left:26px;}
+
+  /* ---------- TURN INTRO ---------- */
+  #intro{justify-content:center;align-items:center;text-align:center;gap:8px;}
+  #intro .team-dot{width:64px;height:64px;border-radius:50%;margin-bottom:4px;
+    box-shadow:0 0 36px currentColor;}
+  #intro .who{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--muted);}
+  #intro h1{font-size:38px;color:var(--ink);}
+  #intro .round-tag{color:var(--spot-warm);font-size:14px;letter-spacing:2px;font-weight:700;margin-top:4px;}
+  .curveball{
+    margin:18px 8px 4px;padding:16px 18px;border-radius:14px;
+    border:1px dashed var(--skip);background:rgba(196,87,78,0.08);max-width:340px;
+  }
+  .curveball .cb-label{font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--skip);font-weight:700;}
+  .curveball .cb-text{font-size:17px;margin-top:6px;font-weight:600;}
+
+  /* ---------- PLAY ---------- */
+  #play{padding:0;position:relative;overflow:hidden;}
+  .stage-top{
+    position:absolute;top:0;left:0;right:0;z-index:3;
+    display:flex;align-items:center;justify-content:space-between;
+    padding:max(env(safe-area-inset-top),14px) 18px 0;
+  }
+  .score-pill{font-size:14px;font-weight:700;color:var(--muted);}
+  .score-pill b{color:var(--ink);font-size:18px;}
+  .timer-wrap{position:relative;width:64px;height:64px;cursor:pointer;}
+  .timer-wrap svg{transform:rotate(-90deg);}
+  .timer-num{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    font-size:21px;font-weight:800;}
+  .spotlight{
+    position:absolute;inset:0;z-index:1;
+    background:radial-gradient(60% 42% at 50% 46%, rgba(247,231,196,0.16) 0%, transparent 62%);
+    pointer-events:none;
+  }
+  .card-zone{
+    position:absolute;inset:0;z-index:2;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    padding:90px 24px 150px;text-align:center;
+  }
+  .word-card{width:100%;max-width:420px;}
+  .disc-tag{font-size:12px;letter-spacing:3px;text-transform:uppercase;
+    color:var(--spot-warm);font-weight:700;margin-bottom:14px;min-height:15px;}
+  .word{
+    font-family:Georgia,serif;font-weight:700;
+    font-size:clamp(34px,9.5vw,52px);line-height:1.05;
+    text-shadow:0 0 50px rgba(244,200,112,0.4);
+  }
+  .play-btns{
+    position:absolute;bottom:0;left:0;right:0;z-index:3;
+    display:flex;gap:12px;padding:14px 16px max(env(safe-area-inset-bottom),16px);
+  }
+  .play-btns .btn{height:84px;font-size:20px;border-radius:18px;}
+  .btn-skip{background:linear-gradient(180deg,#d96a60,var(--skip));color:#fff;
+    box-shadow:0 6px 22px rgba(196,87,78,0.3);}
+  .btn-got{background:linear-gradient(180deg,#76c98e,var(--got));color:#0c2415;
+    box-shadow:0 6px 22px rgba(95,184,122,0.3);}
+  .paused-veil{
+    position:absolute;inset:0;z-index:4;display:none;
+    align-items:center;justify-content:center;flex-direction:column;gap:6px;
+    background:rgba(8,7,6,0.82);backdrop-filter:blur(3px);
+  }
+  .paused-veil.show{display:flex;}
+  .paused-veil .p-big{font-family:Georgia,serif;font-style:italic;font-size:34px;}
+
+  /* ---------- SUMMARY ---------- */
+  #summary{gap:4px;}
+  #summary h1{font-size:28px;}
+  .turn-score{font-size:15px;color:var(--muted);margin:2px 0 14px;}
+  .turn-score b{color:var(--got);font-size:18px;}
+  .wordlist{flex:1;overflow-y:auto;display:flex;flex-direction:column;gap:8px;margin-bottom:14px;}
+  .wl-row{display:flex;align-items:center;gap:12px;padding:13px 15px;border-radius:12px;
+    background:var(--card-bg);border:1px solid var(--line);}
+  .wl-mark{width:26px;height:26px;border-radius:50%;flex:0 0 auto;display:flex;
+    align-items:center;justify-content:center;font-size:15px;font-weight:800;}
+  .wl-mark.got{background:rgba(95,184,122,0.18);color:var(--got);}
+  .wl-mark.skip{background:rgba(196,87,78,0.18);color:var(--skip);}
+  .wl-word{font-size:16px;font-weight:600;}
+
+  /* ---------- SCOREBOARD ---------- */
+  #board{gap:8px;text-align:center;align-items:center;}
+  #board .eyebrow{margin-top:8px;}
+  .winner-name{font-family:Georgia,serif;font-style:italic;font-size:40px;
+    text-shadow:0 0 44px rgba(244,200,112,0.45);}
+  .ranks{width:100%;max-width:440px;display:flex;flex-direction:column;gap:10px;margin:14px 0;}
+  .rank-row{display:flex;align-items:center;gap:14px;padding:15px 18px;border-radius:14px;
+    background:var(--card-bg);border:1px solid var(--line);}
+  .rank-row.lead{border-color:var(--spot-warm);background:rgba(244,200,112,0.07);}
+  .rank-pos{font-size:18px;font-weight:800;color:var(--muted);width:24px;text-align:left;}
+  .rank-dot{width:18px;height:18px;border-radius:50%;flex:0 0 auto;}
+  .rank-name{flex:1;text-align:left;font-size:17px;font-weight:700;}
+  .rank-pts{font-size:22px;font-weight:800;}
+  .confetti{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:50;}
+
+  .grow{flex:1;}
+  .stack{display:flex;flex-direction:column;gap:10px;width:100%;}
+  .footnote{font-size:12px;color:var(--muted);text-align:center;margin-top:8px;line-height:1.5;}
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- HOME -->
+  <section class="screen active" id="home">
+    <div class="marquee">
+      <div class="bulbs"><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i></div>
+      <h1>Extreme<br>Charades</h1>
+      <div class="sub">Act it out. No talking. No mercy.</div>
+    </div>
+    <div class="stack" style="max-width:360px;margin-top:26px;">
+      <button class="btn" onclick="go('setup')">New game</button>
+      <button class="btn ghost small" onclick="showRules()">How to play</button>
+    </div>
+  </section>
+
+  <!-- SETUP -->
+  <section class="screen" id="setup">
+    <div class="setup-head">
+      <div><div class="eyebrow">Set the stage</div><h1>Game setup</h1></div>
+      <button class="btn ghost small" style="width:auto;padding:9px 14px;" onclick="go('home')">Back</button>
+    </div>
+
+    <div class="field">
+      <label>Word pack</label>
+      <div class="seg" id="packSeg">
+        <div class="chip on" data-pack="general">General</div>
+        <div class="chip" data-pack="science">Science<small>tagged by field</small></div>
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Difficulty</label>
+      <div class="seg" id="tierSeg">
+        <div class="chip on" data-tier="hard">Hard</div>
+        <div class="chip" data-tier="brutal">Brutal</div>
+        <div class="chip" data-tier="fiendish">Fiendish</div>
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Seconds per turn</label>
+      <div class="seg" id="timeSeg">
+        <div class="chip" data-time="60">60</div>
+        <div class="chip on" data-time="90">90</div>
+        <div class="chip" data-time="120">120</div>
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Teams</label>
+      <div class="stepper">
+        <button onclick="stepTeams(-1)">−</button>
+        <div class="val"><span id="teamVal">2</span> teams</div>
+        <button onclick="stepTeams(1)">+</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Rounds</label>
+      <div class="stepper">
+        <button onclick="stepRounds(-1)">−</button>
+        <div class="val"><span id="roundVal">3</span> rounds</div>
+        <button onclick="stepRounds(1)">+</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="toggle-row" onclick="toggleCurve()">
+        <div>
+          <div class="t-txt">Curveballs</div>
+          <div class="t-sub">Random physical handicap each turn</div>
+        </div>
+        <div class="switch" id="curveSwitch"></div>
+      </div>
+    </div>
+
+    <div class="grow"></div>
+    <button class="btn" onclick="startGame()">Start game</button>
+    <div class="footnote" id="poolNote"></div>
+  </section>
+
+  <!-- TURN INTRO -->
+  <section class="screen" id="intro">
+    <div class="team-dot" id="introDot"></div>
+    <div class="who">You're up</div>
+    <h1 id="introTeam">Team 1</h1>
+    <div class="round-tag" id="introRound">Round 1 of 3</div>
+    <div class="curveball" id="introCurve" style="display:none;">
+      <div class="cb-label">Curveball</div>
+      <div class="cb-text" id="introCurveText"></div>
+    </div>
+    <div class="stack" style="max-width:340px;margin-top:30px;">
+      <button class="btn" onclick="beginTurn()">Ready — start timer</button>
+    </div>
+    <div class="footnote">Hand the phone to the actor. Tap the timer to pause.</div>
+  </section>
+
+  <!-- PLAY -->
+  <section class="screen" id="play">
+    <div class="spotlight"></div>
+    <div class="stage-top">
+      <div class="score-pill">Got <b id="liveGot">0</b></div>
+      <div class="timer-wrap" id="timerWrap" onclick="togglePause()">
+        <svg width="64" height="64" viewBox="0 0 64 64">
+          <circle cx="32" cy="32" r="28" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="6"/>
+          <circle id="timerRing" cx="32" cy="32" r="28" fill="none" stroke="var(--spot-warm)"
+            stroke-width="6" stroke-linecap="round" stroke-dasharray="175.9" stroke-dashoffset="0"/>
+        </svg>
+        <div class="timer-num" id="timerNum">90</div>
+      </div>
+    </div>
+
+    <div class="card-zone">
+      <div class="word-card">
+        <div class="disc-tag" id="discTag"></div>
+        <div class="word" id="wordText">—</div>
+      </div>
+    </div>
+
+    <div class="paused-veil" id="pausedVeil" onclick="togglePause()">
+      <div class="p-big">Paused</div>
+      <div class="muted">Tap anywhere to resume</div>
+    </div>
+
+    <div class="play-btns">
+      <button class="btn btn-skip" onclick="mark(false)">Skip</button>
+      <button class="btn btn-got" onclick="mark(true)">Got it</button>
+    </div>
+  </section>
+
+  <!-- SUMMARY -->
+  <section class="screen" id="summary">
+    <div class="eyebrow" id="sumTeamTag">Team 1</div>
+    <h1>Time!</h1>
+    <div class="turn-score">This turn: <b id="sumGot">0</b> got · <span id="sumSkip">0</span> skipped</div>
+    <div class="wordlist" id="sumList"></div>
+    <button class="btn" id="sumNextBtn" onclick="afterSummary()">Next team</button>
+  </section>
+
+  <!-- SCOREBOARD -->
+  <section class="screen" id="board">
+    <div class="eyebrow">Final curtain</div>
+    <div class="muted" style="font-size:13px;letter-spacing:2px;">WINNER</div>
+    <div class="winner-name" id="winnerName">Team 1</div>
+    <div class="ranks" id="ranks"></div>
+    <div class="stack" style="max-width:360px;">
+      <button class="btn" onclick="rematch()">Rematch (same teams)</button>
+      <button class="btn ghost small" onclick="go('setup')">Change settings</button>
+    </div>
+  </section>
+
+</div>
+
+<canvas class="confetti" id="confetti" style="display:none;"></canvas>
+
+<script>
+/* ----------------- WORD PACKS ----------------- */
+var GENERAL = {
+  hard:["déjà vu","writer's block","stage fright","peer pressure","cabin fever","cold shoulder",
+    "wild goose chase","red tape","silver lining","time travel","muscle memory","culture shock",
+    "double standard","midlife crisis","guilty pleasure","sleep paralysis","inside joke",
+    "buyer's remorse","seasonal depression","tunnel vision","food coma","brain freeze",
+    "ghosting someone","road rage","analysis paralysis"],
+  brutal:["existential dread","mutually assured destruction","unrequited love","cognitive dissonance",
+    "the uncanny valley","diminishing returns","survivor's guilt","imposter syndrome","schadenfreude",
+    "the butterfly effect","confirmation bias","planned obsolescence","the streisand effect",
+    "moral high ground","devil's advocate","nostalgia","catch-22","willful ignorance",
+    "the placebo effect","passive aggression","wishful thinking","irony","hindsight",
+    "the bystander effect","delayed gratification"],
+  fiendish:["the heat death of the universe","epistemological uncertainty","the trolley problem",
+    "self-fulfilling prophecy","the paradox of choice","temporal displacement","emotional unavailability",
+    "the meaning of life","collective unconscious","quantum entanglement of feelings",
+    "the sunk cost fallacy","abstract expressionism","the categorical imperative","late-stage capitalism",
+    "ontological argument","the observer effect","existentialism","the simulation hypothesis",
+    "deconstructionism","the second law of thermodynamics","solipsism","manufactured consent",
+    "the absurd","negative space","the ship of theseus"]
+};
+
+var SCIENCE = {
+  Biology:{
+    hard:["photosynthesis","mitochondria","natural selection","DNA helix","white blood cell",
+      "food chain","cell division","metamorphosis","pollination","hibernation"],
+    brutal:["the Krebs cycle","CRISPR gene editing","apoptosis","the sodium-potassium pump",
+      "horizontal gene transfer","convergent evolution","the lac operon","phagocytosis",
+      "chemiosmosis","the founder effect"],
+    fiendish:["epigenetic inheritance","the endosymbiotic theory","prion misfolding",
+      "allopatric speciation","quorum sensing","the Hayflick limit","telomere shortening",
+      "RNA interference","kin selection","the red queen hypothesis"]
+  },
+  Chemistry:{
+    hard:["a chemical reaction","an acid","evaporation","a covalent bond","combustion",
+      "crystallization","the periodic table","dissolving salt","a catalyst","carbon dioxide"],
+    brutal:["electronegativity","Le Chatelier's principle","an exothermic reaction","molarity",
+      "the mole concept","a redox reaction","activation energy","an isotope","stoichiometry",
+      "hydrogen bonding"],
+    fiendish:["the Heisenberg uncertainty principle","an enantiomer","resonance structures",
+      "the Gibbs free energy","molecular orbital theory","a nucleophilic substitution",
+      "spectroscopy","the Born-Haber cycle","chirality","a coordination complex"]
+  },
+  Physics:{
+    hard:["gravity","a magnet","friction","a rainbow","an electric circuit",
+      "a pendulum","sound waves","a lever","static electricity","reflection"],
+    brutal:["angular momentum","the Doppler effect","an electromagnetic field","resonance",
+      "centripetal force","wave-particle duality","terminal velocity","a standing wave",
+      "thermal equilibrium","refraction index"],
+    fiendish:["quantum superposition","spacetime curvature","the Pauli exclusion principle",
+      "Hawking radiation","quantum tunneling","the photoelectric effect","gauge symmetry",
+      "Bose-Einstein condensate","gravitational lensing","the Casimir effect"]
+  },
+  Mathematics:{
+    hard:["a triangle","multiplication","a fraction","symmetry","a number line",
+      "an angle","a percentage","parallel lines","a circle's radius","rounding up"],
+    brutal:["a prime number","the Pythagorean theorem","a derivative","standard deviation",
+      "an exponential curve","the Fibonacci sequence","a matrix","probability","a tangent line",
+      "infinity"],
+    fiendish:["a Möbius strip","Gödel's incompleteness theorem","a Riemann integral","a fractal",
+      "the Mandelbrot set","a topological manifold","an imaginary number","Bayesian inference",
+      "a non-Euclidean geometry","the axiom of choice"]
+  }
+};
+
+var CURVEBALLS = [
+  "Act with one hand behind your back.",
+  "You may only use your face — no body.",
+  "Keep both feet glued to one spot.",
+  "Act it all while crouching.",
+  "No hand gestures allowed at all.",
+  "You must keep spinning slowly the whole time.",
+  "Act everything in slow motion.",
+  "Keep your eyes closed the entire turn.",
+  "You may only move below the waist.",
+  "Hold one foot off the ground the whole time.",
+  "Everything must be acted lying down.",
+  "You can't use your arms — legs and face only."
+];
+
+/* ----------------- STATE ----------------- */
+var TEAM_COLORS = ["#f4c870","#5fb87a","#5aa9e6","#d97aa8","#c4574e","#9b8cff"];
+var cfg = {pack:"general",tier:"hard",time:90,teams:2,rounds:3,curve:false};
+var game = null;
+
+/* ----------------- NAV ----------------- */
+function go(id){
+  document.querySelectorAll('.screen').forEach(function(s){s.classList.remove('active');});
+  document.getElementById(id).classList.add('active');
+  window.scrollTo(0,0);
+}
+
+/* ----------------- SETUP WIRING ----------------- */
+function wireSeg(segId,key,cast){
+  document.getElementById(segId).addEventListener('click',function(e){
+    var chip=e.target.closest('.chip'); if(!chip)return;
+    this.querySelectorAll('.chip').forEach(function(c){c.classList.remove('on');});
+    chip.classList.add('on');
+    var v=chip.getAttribute('data-'+key);
+    cfg[key]= cast? cast(v): v;
+    updatePoolNote();
+  });
+}
+wireSeg('packSeg','pack');
+wireSeg('tierSeg','tier');
+wireSeg('timeSeg','time',Number);
+
+function stepTeams(d){cfg.teams=Math.min(6,Math.max(2,cfg.teams+d));document.getElementById('teamVal').textContent=cfg.teams;}
+function stepRounds(d){cfg.rounds=Math.min(5,Math.max(2,cfg.rounds+d));document.getElementById('roundVal').textContent=cfg.rounds;}
+function toggleCurve(){cfg.curve=!cfg.curve;document.getElementById('curveSwitch').classList.toggle('on',cfg.curve);}
+
+function buildPool(){
+  var pool=[];
+  if(cfg.pack==='general'){
+    GENERAL[cfg.tier].forEach(function(w){pool.push({word:w,disc:null});});
+  }else{
+    Object.keys(SCIENCE).forEach(function(field){
+      SCIENCE[field][cfg.tier].forEach(function(w){pool.push({word:w,disc:field});});
+    });
+  }
+  return pool;
+}
+function updatePoolNote(){
+  var n=buildPool().length;
+  document.getElementById('poolNote').textContent=n+" prompts in this pack · "+cfg.tier+" tier";
+}
+updatePoolNote();
+
+function showRules(){
+  alert("EXTREME CHARADES\n\n• Split into teams and pass the phone to the actor.\n• Act out the prompt — no talking, no pointing at objects, no spelling.\n• Teammates shout guesses. Tap GOT IT when they nail it, SKIP to pass (skipped words come back later).\n• Each correct word = 1 point. Highest score after all rounds wins.\n\nTiers: Hard → Brutal → Fiendish (abstract & nasty).\nScience pack tags each prompt with its field as a fair hint.\nCurveballs add a physical handicap each turn.\n\nTap the timer mid-turn to pause.");
+}
+
+/* ----------------- GAME FLOW ----------------- */
+function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t;}return a;}
+
+function startGame(){
+  var pool=shuffle(buildPool().slice());
+  game={
+    scores:new Array(cfg.teams).fill(0),
+    pool:pool, idx:0,
+    turn:0, round:1,
+    currentTeam:0,
+    turnLog:[], turnGot:0,
+    timeLeft:cfg.time, timer:null, paused:false
+  };
+  showIntro();
+}
+
+function teamName(i){return "Team "+(i+1);}
+function teamColor(i){return TEAM_COLORS[i%TEAM_COLORS.length];}
+
+function showIntro(){
+  var t=game.currentTeam;
+  document.getElementById('introTeam').textContent=teamName(t);
+  document.getElementById('introTeam').style.color=teamColor(t);
+  document.getElementById('introDot').style.background=teamColor(t);
+  document.getElementById('introDot').style.color=teamColor(t);
+  document.getElementById('introRound').textContent="Round "+game.round+" of "+cfg.rounds;
+  var cb=document.getElementById('introCurve');
+  if(cfg.curve){
+    cb.style.display='block';
+    document.getElementById('introCurveText').textContent=CURVEBALLS[Math.floor(Math.random()*CURVEBALLS.length)];
+  }else{cb.style.display='none';}
+  go('intro');
+}
+
+function nextWord(){
+  if(game.idx>=game.pool.length){game.pool=shuffle(game.pool);game.idx=0;}
+  return game.pool[game.idx++];
+}
+function showWord(){
+  game.current=nextWord();
+  document.getElementById('wordText').textContent=game.current.word;
+  var d=document.getElementById('discTag');
+  d.textContent=game.current.disc? game.current.disc.toUpperCase()+" · "+wc(game.current.word) : "";
+}
+function wc(w){var n=w.split(/\s+/).length;return n+(n===1?" WORD":" WORDS");}
+
+function beginTurn(){
+  game.turnLog=[]; game.turnGot=0; game.timeLeft=cfg.time; game.paused=false;
+  document.getElementById('liveGot').textContent='0';
+  document.getElementById('pausedVeil').classList.remove('show');
+  showWord();
+  go('play');
+  updateTimerUI();
+  game.timer=setInterval(tick,1000);
+}
+function tick(){
+  if(game.paused)return;
+  game.timeLeft--;
+  updateTimerUI();
+  if(game.timeLeft<=0){clearInterval(game.timer);endTurn();}
+}
+var CIRC=175.9;
+function updateTimerUI(){
+  document.getElementById('timerNum').textContent=Math.max(0,game.timeLeft);
+  var frac=game.timeLeft/cfg.time;
+  var ring=document.getElementById('timerRing');
+  ring.style.strokeDashoffset=(CIRC*(1-frac)).toFixed(1);
+  var danger=game.timeLeft<=10;
+  ring.style.stroke=danger?'var(--danger)':'var(--spot-warm)';
+  document.getElementById('timerNum').style.color=danger?'var(--danger)':'var(--ink)';
+  var w=document.getElementById('timerWrap');
+  w.style.animation=danger?'flick 0.6s infinite':'none';
+}
+function togglePause(){
+  game.paused=!game.paused;
+  document.getElementById('pausedVeil').classList.toggle('show',game.paused);
+}
+function mark(got){
+  if(game.paused)return;
+  game.turnLog.push({word:game.current.word,disc:game.current.disc,got:got});
+  if(got){
+    game.turnGot++;
+    game.scores[game.currentTeam]++;
+    document.getElementById('liveGot').textContent=game.turnGot;
+  }else{
+    game.pool.push(game.current); // recycle skipped word
+  }
+  showWord();
+}
+
+function endTurn(){
+  clearInterval(game.timer);
+  document.getElementById('timerWrap').style.animation='none';
+  var skip=game.turnLog.filter(function(r){return !r.got;}).length;
+  document.getElementById('sumTeamTag').textContent=teamName(game.currentTeam);
+  document.getElementById('sumTeamTag').style.color=teamColor(game.currentTeam);
+  document.getElementById('sumGot').textContent=game.turnGot;
+  document.getElementById('sumSkip').textContent=skip;
+  var list=document.getElementById('sumList'); list.innerHTML='';
+  if(game.turnLog.length===0){
+    list.innerHTML='<div class="footnote">No words this turn.</div>';
+  }
+  game.turnLog.forEach(function(r){
+    var row=document.createElement('div'); row.className='wl-row';
+    row.innerHTML='<div class="wl-mark '+(r.got?'got':'skip')+'">'+(r.got?'✓':'↺')+'</div>'+
+      '<div class="wl-word">'+r.word+(r.disc?' <span class="muted" style="font-size:12px;">· '+r.disc+'</span>':'')+'</div>';
+    list.appendChild(row);
+  });
+  // is this the last turn of the game?
+  var isLastTurn = (game.round===cfg.rounds) && (game.currentTeam===cfg.teams-1);
+  document.getElementById('sumNextBtn').textContent = isLastTurn? 'See final scores' : 'Next team';
+  go('summary');
+}
+
+function afterSummary(){
+  // advance to next team / round
+  game.currentTeam++;
+  if(game.currentTeam>=cfg.teams){
+    game.currentTeam=0;
+    game.round++;
+  }
+  if(game.round>cfg.rounds){
+    showBoard();
+  }else{
+    showIntro();
+  }
+}
+
+function showBoard(){
+  var ranked=game.scores.map(function(s,i){return {i:i,s:s};})
+    .sort(function(a,b){return b.s-a.s;});
+  var top=ranked[0];
+  var tiedTop = ranked.filter(function(r){return r.s===top.s;});
+  var winName = tiedTop.length>1 ? "It's a tie!" : teamName(top.i);
+  document.getElementById('winnerName').textContent=winName;
+  document.getElementById('winnerName').style.color = tiedTop.length>1?'var(--ink)':teamColor(top.i);
+  var box=document.getElementById('ranks'); box.innerHTML='';
+  ranked.forEach(function(r,pos){
+    var row=document.createElement('div');
+    row.className='rank-row'+(r.s===top.s?' lead':'');
+    row.innerHTML='<div class="rank-pos">'+(pos+1)+'</div>'+
+      '<div class="rank-dot" style="background:'+teamColor(r.i)+'"></div>'+
+      '<div class="rank-name">'+teamName(r.i)+'</div>'+
+      '<div class="rank-pts" style="color:'+teamColor(r.i)+'">'+r.s+'</div>';
+    box.appendChild(row);
+  });
+  go('board');
+  fireConfetti();
+}
+
+function rematch(){
+  var pool=shuffle(buildPool().slice());
+  game.scores=new Array(cfg.teams).fill(0);
+  game.pool=pool; game.idx=0; game.round=1; game.currentTeam=0;
+  showIntro();
+}
+
+/* ----------------- CONFETTI ----------------- */
+function fireConfetti(){
+  var cv=document.getElementById('confetti');
+  cv.style.display='block';
+  cv.width=window.innerWidth; cv.height=window.innerHeight;
+  var ctx=cv.getContext('2d');
+  var cols=["#f4c870","#5fb87a","#5aa9e6","#d97aa8","#f5efe2"];
+  var bits=[];
+  for(var i=0;i<90;i++){bits.push({x:Math.random()*cv.width,y:-20-Math.random()*cv.height*0.5,
+    r:4+Math.random()*5,c:cols[i%cols.length],vy:2+Math.random()*3,vx:-1+Math.random()*2,
+    rot:Math.random()*6,vr:-0.2+Math.random()*0.4});}
+  var frames=0;
+  function draw(){
+    ctx.clearRect(0,0,cv.width,cv.height);
+    bits.forEach(function(b){
+      b.y+=b.vy;b.x+=b.vx;b.rot+=b.vr;
+      ctx.save();ctx.translate(b.x,b.y);ctx.rotate(b.rot);
+      ctx.fillStyle=b.c;ctx.fillRect(-b.r/2,-b.r/2,b.r,b.r*1.6);ctx.restore();
+    });
+    frames++;
+    if(frames<260){requestAnimationFrame(draw);}else{cv.style.display='none';}
+  }
+  draw();
+}
+</script>
+</body>
+</html>
