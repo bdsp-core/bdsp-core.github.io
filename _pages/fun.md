@@ -10,6 +10,11 @@ permalink: /fun/
 
 A small collection of interactive tools, demos, and learning aids built by the lab. Most run entirely in your browser — nothing to install.
 
+### Extreme Charades
+A pass-the-phone party game. Pick the number of teams, a difficulty tier (Hard → Brutal → Fiendish), and a word pack, then hand the phone around and act it out — no talking, no pointing, no spelling. Tap **Got it** when your team guesses, **Skip** to pass, and tap the timer to pause mid-turn. Highest score after all rounds wins. Designed for a phone screen.
+
+[**Launch Extreme Charades →**]({{ site.url }}{{ site.baseurl }}/fun/charades.html)
+
 ### Dynamotype onset/offset trainer
 A quiz tool to help you learn to recognize seizure **dynamotypes** — the characteristic onset and offset patterns of seizures. It drills you on the dynamotype taxonomy from Stacey and colleagues' "Dynamotypes for Dummies" toolbox and atlas.
 
