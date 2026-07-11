@@ -575,9 +575,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 15
+  stars: 16
   forks: 2
-  updated_at: '2026-06-30'
+  updated_at: '2026-07-10'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -913,9 +913,9 @@
     (version 2).
   url: https://github.com/bdsp-core/SpikeNet2
   language: Jupyter Notebook
-  stars: 16
+  stars: 17
   forks: 3
-  updated_at: '2026-07-07'
+  updated_at: '2026-07-11'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-09'
+  updated_at: '2026-07-10'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2129,7 +2129,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-07'
+  updated_at: '2026-07-10'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2390,7 +2390,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-09'
+  updated_at: '2026-07-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2471,7 +2471,7 @@
   language: Jupyter Notebook
   stars: 1
   forks: 0
-  updated_at: '2026-07-10'
+  updated_at: '2026-07-11'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2555,6 +2555,21 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: gulag-eeg-atlas
+  description: A new, comprehensive online EEG atlas covering the entire lifespan
+    and every finding present in any existing EEG atlas — with interactive EEG clips,
+    the four-panel qEEG spectrogram, auto-drafted (human-revisable) captions, quiz
+    modes, and…
+  url: https://github.com/bdsp-core/gulag-eeg-atlas
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-11'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: horrible-things-automator
   description: A growing collection of small, self-contained scripts that automate
     the kind of tedious, soul-draining tasks academics and researchers keep running
@@ -2587,10 +2602,10 @@
     the implementation of the training ("learning with feedback") side of the ILAE
     EEG skill-certification project. Its sibling, bdsp-core/ilae-skill-certification-test-multi,
   url: https://github.com/bdsp-core/ideal-test-learning
-  language: ''
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-27'
+  updated_at: '2026-07-10'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2639,7 +2654,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-10'
+  updated_at: '2026-07-11'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2668,7 +2683,7 @@
   language: ''
   stars: 0
   forks: 0
-  updated_at: '2026-07-10'
+  updated_at: '2026-07-11'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2801,7 +2816,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-06'
+  updated_at: '2026-07-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2813,7 +2828,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-01'
+  updated_at: '2026-07-11'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2840,7 +2855,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-07-09'
+  updated_at: '2026-07-10'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
