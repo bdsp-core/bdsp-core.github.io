@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-10'
+  updated_at: '2026-07-11'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2384,13 +2384,25 @@
   category_slug: research-tools-manuscript-ai
   topics: []
   sort_order: 9
+- name: 2helps2b-seizure-risk
+  description: '2HELPS2B EEG-based seizure-risk score | Data: bdsp.io/content/9p4thx40feddul6enpmd/1.0.0'
+  url: https://github.com/bdsp-core/2helps2b-seizure-risk
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: abiee-data-wrangling
   description: ABIEE multi-site data wrangling + Limited Data Set generation
   url: https://github.com/bdsp-core/abiee-data-wrangling
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-10'
+  updated_at: '2026-07-11'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2416,6 +2428,32 @@
   forks: 0
   updated_at: '2026-05-24'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: cceeg-multistate-seizure-risk
+  description: 'Time-dependent risk of seizures in critically ill patients on continuous
+    EEG | Data: bdsp.io/content/cnx0eassf5x587gn979b/1.0.0'
+  url: https://github.com/bdsp-core/cceeg-multistate-seizure-risk
+  language: R
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: ceeg-multimodal-cardiac-arrest
+  description: 'Continuous EEG enhances multimodal outcome prediction in HIE | Data:
+    bdsp.io/content/ubvgu6sprqwfdtqtzdbc/1.0.0'
+  url: https://github.com/bdsp-core/ceeg-multimodal-cardiac-arrest
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2503,6 +2541,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: ddesvsfs-pnes-screening
+  description: 'DDESVSFS epileptic-vs-functional-seizure screening tool | Data: bdsp.io/content/wiher11yebsxeigs9uwb/1.0.0'
+  url: https://github.com/bdsp-core/ddesvsfs-pnes-screening
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: df2
   description: No description provided.
   url: https://github.com/bdsp-core/df2
@@ -2528,6 +2578,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: eeg-spectrogram-atlas
+  description: 'A Primer on EEG Spectrograms teaching atlas | Data: bdsp.io/content/xxdpcilmmlr5ryqjze1m/1.0.0'
+  url: https://github.com/bdsp-core/eeg-spectrogram-atlas
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: ELROND
   description: EEG Labeling for Rapid Onset/offset Notation and Detection — a PyQt6
     tool and machine-learning pipeline for annotating seizure begin/end times on EEG
@@ -2538,6 +2600,30 @@
   forks: 0
   updated_at: '2026-07-06'
   visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: epileptiform-activity-discharge-outcome
+  description: 'Effects of epileptiform activity on discharge outcome | Data: bdsp.io/content/m4ynzavwxzut9x9r8fwo/1.0.1'
+  url: https://github.com/bdsp-core/epileptiform-activity-discharge-outcome
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: epileptiform-burden-outcomes
+  description: 'Automated epileptiform-burden annotation and outcomes | Data: bdsp.io/content/p2kbp8gt12sjcszgx7to/1.0.0'
+  url: https://github.com/bdsp-core/epileptiform-burden-outcomes
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2564,8 +2650,20 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-11'
-  visibility: internal
+  updated_at: '2026-07-12'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: hie-eeg-prognostics-1000
+  description: 'Prognostic EEG patterns in post-cardiac-arrest coma | Data: bdsp.io/content/yzzwxkgymmwioq3pet9l/1.0.0'
+  url: https://github.com/bdsp-core/hie-eeg-prognostics-1000
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -2675,6 +2773,18 @@
   - sequential-monte-carlo
   - signal-detection-theory
   sort_order: 10
+- name: interpretable-ied-criteria
+  description: 'Interpretable quantitative criteria for evaluating IEDs | Data: bdsp.io/content/tkotnm1cuc7bw8r3fvoo/1.0.0'
+  url: https://github.com/bdsp-core/interpretable-ied-criteria
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: jj-publish-everything-project
   description: 'Goal: publish every reproducible paper from the Westover group. (Started
     as "every JJ first/last-author paper with MBW"; expanded 2026-07-05 to triage
@@ -2769,14 +2879,14 @@
   topics: []
   sort_order: 10
 - name: morgoth-slowing-growth-curves
-  description: Normative growth curves (age × sex percentiles, per sleep/wake state)
-    for quantitative EEG slowing features, used to characterize pathological slowing
-    — focal vs. generalized — in the morgoth-viewer automated EEG report pipeline.
+  description: Lifespan × sleep-stage normative "growth curves" for quantitative EEG
+    slowing, with a two-stage system that detects pathological slowing (focal vs generalized)
+    and produces a governed, clinician-style description — validated against…
   url: https://github.com/bdsp-core/morgoth-slowing-growth-curves
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-06'
+  updated_at: '2026-07-12'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2828,7 +2938,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-11'
+  updated_at: '2026-07-12'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2942,6 +3052,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: optimal-spindle-detection-cognition
+  description: 'Optimal spindle detection parameters for cognition | Data: bdsp.io/content/5pmbqulds7k6ac6mnkdi/1.0.0'
+  url: https://github.com/bdsp-core/optimal-spindle-detection-cognition
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: platform-planning
   description: Planning/design docs for the BDSP research platform (BDC-style) and
     PHI de-identification pipeline
@@ -2951,6 +3073,18 @@
   forks: 0
   updated_at: '2026-06-18'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: rct-antiseizure-trial-design
+  description: 'Trial-design simulation for anti-seizure treatment | Data: bdsp.io/content/nu7k0916y63wxk4j2dbi/1.0.0'
+  url: https://github.com/bdsp-core/rct-antiseizure-trial-design
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -3006,6 +3140,19 @@
   forks: 0
   updated_at: '2026-07-04'
   visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: tme-epileptiform-outcomes
+  description: 'Epileptiform activity and outcomes in toxic-metabolic encephalopathy
+    | Data: bdsp.io/content/ac53nz73hxtilu3fc3lf/1.0.0'
+  url: https://github.com/bdsp-core/tme-epileptiform-outcomes
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
