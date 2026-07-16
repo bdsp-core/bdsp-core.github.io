@@ -330,7 +330,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-09'
+  updated_at: '2026-07-15'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -900,9 +900,9 @@
     (version 1).
   url: https://github.com/bdsp-core/SpikeNet1
   language: Python
-  stars: 1
+  stars: 2
   forks: 1
-  updated_at: '2026-04-23'
+  updated_at: '2026-07-15'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -913,9 +913,9 @@
     (version 2).
   url: https://github.com/bdsp-core/SpikeNet2
   language: Jupyter Notebook
-  stars: 17
+  stars: 18
   forks: 3
-  updated_at: '2026-07-11'
+  updated_at: '2026-07-15'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-14'
+  updated_at: '2026-07-15'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1586,7 +1586,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-07-09'
+  updated_at: '2026-07-15'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-14'
+  updated_at: '2026-07-15'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2502,14 +2502,13 @@
   sort_order: 10
 - name: clinical-note-parser-cdac
   description: Clinical note parsing pipeline for the Stanford CDAC neurology teaching
-    tool. Parses MRI reports, EEG reports, and clinical admission notes into structured
-    JSON, merges them per patient, and synthesizes a single short anatomical phrase
-    for…
+    tool. It parses MRI reports, EEG reports, and clinical admission notes into structured
+    JSON, merges them per patient, and synthesizes a single short anatomical phrase…
   url: https://github.com/bdsp-core/clinical-note-parser-cdac
   language: Jupyter Notebook
   stars: 1
   forks: 0
-  updated_at: '2026-07-13'
+  updated_at: '2026-07-15'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2886,7 +2885,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-15'
+  updated_at: '2026-07-16'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
