@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-15'
+  updated_at: '2026-07-16'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-15'
+  updated_at: '2026-07-16'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2696,13 +2696,12 @@
   sort_order: 10
 - name: ideal-test-learning
   description: This repository is the home for the design, simulation, and eventually
-    the implementation of the training ("learning with feedback") side of the ILAE
-    EEG skill-certification project. Its sibling, bdsp-core/ilae-skill-certification-test-multi,
+    the implementation of the training ("learning with feedback").
   url: https://github.com/bdsp-core/ideal-test-learning
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-10'
+  updated_at: '2026-07-17'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2751,7 +2750,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-15'
+  updated_at: '2026-07-17'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2885,7 +2884,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-16'
+  updated_at: '2026-07-17'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2925,7 +2924,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-14'
+  updated_at: '2026-07-16'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
