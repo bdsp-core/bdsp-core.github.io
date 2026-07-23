@@ -317,7 +317,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-20'
+  updated_at: '2026-07-23'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-21'
+  updated_at: '2026-07-22'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-21'
+  updated_at: '2026-07-22'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2508,7 +2508,7 @@
   language: Jupyter Notebook
   stars: 1
   forks: 0
-  updated_at: '2026-07-21'
+  updated_at: '2026-07-22'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2750,7 +2750,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-22'
+  updated_at: '2026-07-23'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -2925,7 +2925,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-20'
+  updated_at: '2026-07-22'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2993,6 +2993,19 @@
   forks: 0
   updated_at: '2026-07-08'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: NK_to_BIDS
+  description: Convert Nihon Kohden clinical EEG recordings (.eeg + .21e + .pnt +
+    .log) into de-identified BIDS-EEG / BIDS-iEEG format, ready for release on s3://bdsp-opendata-repository/EEG/bids/<SITE>/.
+  url: https://github.com/bdsp-core/NK_to_BIDS
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-22'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -3109,7 +3122,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-21'
+  updated_at: '2026-07-23'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
