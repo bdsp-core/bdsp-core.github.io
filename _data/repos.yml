@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-22'
+  updated_at: '2026-07-23'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-22'
+  updated_at: '2026-07-23'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2552,13 +2552,13 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
-- name: df2
+- name: dynamotypes
   description: No description provided.
-  url: https://github.com/bdsp-core/df2
+  url: https://github.com/bdsp-core/dynamotypes
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-05-29'
+  updated_at: '2026-07-23'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2925,7 +2925,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-22'
+  updated_at: '2026-07-23'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3004,7 +3004,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-22'
+  updated_at: '2026-07-23'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
