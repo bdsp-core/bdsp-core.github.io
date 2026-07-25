@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-23'
+  updated_at: '2026-07-24'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1586,7 +1586,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-07-21'
+  updated_at: '2026-07-25'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-23'
+  updated_at: '2026-07-24'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2502,13 +2502,13 @@
   sort_order: 10
 - name: clinical-note-parser-cdac
   description: Clinical note parsing pipeline for the Stanford CDAC neurology teaching
-    tool. It parses MRI reports, EEG reports, and clinical admission notes into structured
-    JSON, merges them per patient, and synthesizes a single short anatomical phrase…
+    tool. It parses MRI reports into structured JSON and synthesizes a single short
+    anatomical phrase (e.g.
   url: https://github.com/bdsp-core/clinical-note-parser-cdac
   language: Jupyter Notebook
   stars: 1
   forks: 0
-  updated_at: '2026-07-22'
+  updated_at: '2026-07-24'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2750,7 +2750,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-23'
+  updated_at: '2026-07-25'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
