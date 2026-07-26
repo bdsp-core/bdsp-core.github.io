@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated July 19, 2026**
+**Curriculum Vitae: updated July 26, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -1125,26 +1125,6 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 2021- 2025 Permanent Member, Acute Neural Injury & Epilepsy (ANIE), NIH
 
 **University Administrative Service**
-
-2011-2017 Critical Care Informatics Committee Massachusetts General Hospital
-
-2011-2022 Neurocritical Care Clinical Review Committee Massachusetts General Hospital
-
-2011-2022 Co-director, MGH Neuromonitoring Committee Massachusetts General Hospital
-
-2010-2016 Member, MGH EEG Reporting System Redesign Committee, MGH
-
-2013-2017 MGH Infusion Pump Committee Massachusetts General Hospital
-
-2014-2022 MGH Cooling Committee Massachusetts General Hospital
-
-2015-2018 Member, PhD Thesis Committee (Candidate: Mohammad Ghassemi), MIT
-
-2015-2019 Member, PhD Thesis Committee (Candidate: Jing Zhi An), MIT
-
-2017-2019 Chair, Data Safety Monitoring Board (DSMB) for R01 (PI: Ken Solt), MGH
-
-2018-2020 Member, DSMB for R01 (PI: Alvaro Pascual Leone), BIDMC
 
 **Service to Professional Organizations**
 
