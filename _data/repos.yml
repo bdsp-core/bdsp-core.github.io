@@ -317,7 +317,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-30'
+  updated_at: '2026-08-01'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -575,9 +575,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 16
+  stars: 17
   forks: 2
-  updated_at: '2026-07-10'
+  updated_at: '2026-07-31'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-07-30'
+  updated_at: '2026-07-31'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-30'
+  updated_at: '2026-07-31'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
