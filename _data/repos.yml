@@ -838,9 +838,9 @@
   description: GUI tool for rapid labeling of IIIC patterns on EEG recordings.
   url: https://github.com/bdsp-core/Rapid_IIIC_Labeling_GUI
   language: MATLAB
-  stars: 0
+  stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-08-06'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-05'
+  updated_at: '2026-08-06'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-05'
+  updated_at: '2026-08-06'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2597,7 +2597,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-15'
+  updated_at: '2026-08-06'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
