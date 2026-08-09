@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-07'
+  updated_at: '2026-08-08'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,20 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-07'
+  updated_at: '2026-08-08'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: arpa-h-psg-eeg-ingestion
+  description: 'Consolidated ARPA-H PSG/EEG ingestion pipeline: Natus NeuroWorks and
+    EDF sources to de-identified BIDS. Handles both diagnostic EEG and polysomnography.'
+  url: https://github.com/bdsp-core/arpa-h-psg-eeg-ingestion
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-08-09'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
