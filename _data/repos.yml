@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-09'
+  updated_at: '2026-08-10'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2102,9 +2102,9 @@
   description: Tools for managing and querying the Harvard EEG Database.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
   language: Jupyter Notebook
-  stars: 15
+  stars: 16
   forks: 1
-  updated_at: '2026-07-01'
+  updated_at: '2026-08-10'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-09'
+  updated_at: '2026-08-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3098,6 +3098,20 @@
   forks: 0
   updated_at: '2026-06-18'
   visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: prophet-sleep
+  description: Note-NLP for sleep phenotyping on the de-identified BDSP OMOP database
+    — a sleep-focused extension of prophet (keyword + negation → light ML, no LLM
+    at inference, so it scales to the 538M-row de-id note table for ~nothing per note).
+  url: https://github.com/bdsp-core/prophet-sleep
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-08-11'
+  visibility: internal
   category: Uncategorized
   category_slug: uncategorized
   topics: []
