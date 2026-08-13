@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-11'
+  updated_at: '2026-08-12'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-11'
+  updated_at: '2026-08-12'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3104,13 +3104,12 @@
   sort_order: 10
 - name: prophet-sleep
   description: Note-NLP for sleep phenotyping on the de-identified BDSP OMOP database
-    — a sleep-focused extension of prophet (keyword + negation → light ML, no LLM
-    at inference, so it scales to the 538M-row de-id note table for ~nothing per note).
+    — a sleep-focused extension of
   url: https://github.com/bdsp-core/prophet-sleep
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-11'
+  updated_at: '2026-08-13'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
