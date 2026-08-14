@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-12'
+  updated_at: '2026-08-13'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-12'
+  updated_at: '2026-08-13'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2918,27 +2918,27 @@
   topics: []
   sort_order: 10
 - name: morgoth2
-  description: This section describes how to fine-tune the pretrained Morpheus model
-    on your own PSG dataset, using sleep staging as an example.
+  description: 'This repository contains code and tools for running EEG analysis using
+    Morgoth, including event-level and EEG-level detection with probabilities for:'
   url: https://github.com/bdsp-core/morgoth2
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-08'
+  updated_at: '2026-08-13'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
   sort_order: 10
 - name: morpheus-internal
-  description: This repo contains internal Morpheus utilities and outputs. Working
-    directories are organized by module. spindle-so/ is one module/functionality;
-    different team members may own different modules.
+  description: This repository contains the Morpheus/Morgoth model-training and inference
+    code, the authoritative Morpheus masterfile utilities, signal-quality tooling,
+    and derived-output workflows.
   url: https://github.com/bdsp-core/morpheus-internal
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-23'
+  updated_at: '2026-08-13'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
