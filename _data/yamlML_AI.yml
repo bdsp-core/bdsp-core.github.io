@@ -1,3 +1,13 @@
+- title: '"Better sleep now, better cognition later? Predicting cognitive function
+    using a machine learning-based sleep EEG brain health score."'
+  image: ''
+  description: ''
+  authors: Marino FR, Ganglberger W, Sun H, Liu Y, Ding H, Thomas RJ, Au R, Westover
+    MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/41964500
+    display: 'Sleep. 2026. 49(8). doi: 10.1093/sleep/zsag100. PMID: 41964500.'
+  highlight: 0
 - title: '"Brain Health from Sleep EEG: A Multicohort, Deep Learning Biomarker for
     Cognition, Disease, and Mortality."'
   image: ''
