@@ -575,9 +575,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 18
+  stars: 19
   forks: 2
-  updated_at: '2026-08-14'
+  updated_at: '2026-08-18'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-17'
+  updated_at: '2026-08-18'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2102,9 +2102,9 @@
   description: Tools for managing and querying the Harvard EEG Database.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
   language: Jupyter Notebook
-  stars: 16
+  stars: 17
   forks: 1
-  updated_at: '2026-08-10'
+  updated_at: '2026-08-18'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-17'
+  updated_at: '2026-08-18'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2610,7 +2610,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-12'
+  updated_at: '2026-08-18'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3109,7 +3109,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-18'
+  updated_at: '2026-08-19'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
