@@ -138,9 +138,9 @@
   description: Sleep staging using ECG-derived respiration signals.
   url: https://github.com/bdsp-core/ecg_respiration_sleep_staging
   language: Python
-  stars: 29
+  stars: 28
   forks: 4
-  updated_at: '2026-07-13'
+  updated_at: '2026-08-20'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -816,7 +816,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-08-04'
+  updated_at: '2026-08-20'
   visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1526,7 +1526,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-19'
+  updated_at: '2026-08-20'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2241,7 +2241,7 @@
   url: https://github.com/bdsp-core/philter-plus-deidentification
   language: Python
   stars: 2
-  forks: 0
+  forks: 1
   updated_at: '2026-08-15'
   visibility: public
   category: Data Platforms & Infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-19'
+  updated_at: '2026-08-20'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2493,8 +2493,8 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-20'
-  visibility: private
+  updated_at: '2026-08-20'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -3106,6 +3106,18 @@
   description: Note-NLP for sleep phenotyping on the de-identified BDSP OMOP database
     — a sleep-focused extension of
   url: https://github.com/bdsp-core/prophet-sleep
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-08-21'
+  visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: psg-outcome-prediction
+  description: Predicting health outcomes from polysomnography-derived features
+  url: https://github.com/bdsp-core/psg-outcome-prediction
   language: Python
   stars: 0
   forks: 0
