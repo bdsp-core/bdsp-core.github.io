@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated August 16, 2026**
+**Curriculum Vitae: updated August 23, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -1343,64 +1343,6 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 None.
 
 **<u>Teaching prior to Stanford:</u>**
-
-**Courses**
-
-2001–2002 Instructor for Computational Neuroscience, Washington University School of Medicine, Department of Anatomy and Neurobiology.
-
-2003 Instructor for Detection and Estimation Theory, Washington University, Department of Electrical and Systems Engineering.
-
-2004 Instructor for Information Theory, Washington University, Department of Electrical and Systems Engineering.
-
-2008–2009 Instructor for Neuroanatomy Laboratory, Harvard Medical School.
-
-2012–2025 Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology.
-
-2013–2017 Course Director and Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology.
-
-**Tutorials and Lectures**
-
-10/2009 Granger Causality Analysis Techniques for EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.
-
-5/2010 Synchronization Likelihood for Functional Connectivity Analysis of EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.
-
-7/2008 Probability in Medical Reasoning. Neurology Residents, Brigham and Women’s Hospital, Boston, MA.
-
-9/2009 Invited lecturer, Bayes’ Rule for Physicians. Partners Neurology, MGH/BWH, Boston, MA.
-
-6/2010 EEG Alphabet Soup: GCSE, NCSE, PLEDs, BIPLEDs, GPEDs, & DEADs. Partners Neurology, MGH/BWH, Boston, MA.
-
-8/2011 Status Epilepticus: Diagnosis and Management. Partners Neurology, MGH/BWH, Boston, MA.
-
-9/2012 Introduction to ICU EEG: Seizures, Spikes, PEDs, Ischemia, and Coma. Partners Neurology, MGH/BWH, Boston, MA.
-
-7/2018 Quantitative Electroencephalography. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.
-
-7/2019 Recognizing Seizures and Ischemia in Critical Care EEG Monitoring. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.
-
-6/2020 Emergency Electroencephalography. Emergency Medicine Residents, Massachusetts General Hospital, Boston, MA.
-
-7/2020 Introduction to Spectrograms in ICU EEG. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.
-
-**Clinical Supervisory and Training**
-
-2012– Supervisor, MGH Adult Epilepsy Clinic (½-day session per week).
-
-2012– Attending Physician, MGH Inpatient Neurology Service (2-week block per year), supervising neurology residents and Harvard medical students.
-
-2012– Attending Physician, MGH General Neurology Consult Service (2-week block per year), supervising neurology residents.
-
-2012– Director, MGH Critical Care EEG Monitoring Service (≈10 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.
-
-2012– Attending, MGH Epilepsy Monitoring Unit (≈6 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.
-
-2012– Faculty, Outpatient EEG Reading Service (≈2 days per month), supervising Epilepsy and Clinical Neurophysiology Fellows.
-
-**Research Supervisory and Training Responsibilities**
-
-2012– Supervisor of postdoctoral research fellows (average 5–10 fellows per year), Massachusetts General Hospital.
-
-2012– Supervisor of graduate students (average 2–4 per year), Massachusetts General Hospital and MIT.
 
 10. **<span class="smallcaps">Trainees</span>**
 
