@@ -378,10 +378,15 @@ class PubMedScraper:
             # Merge with new publications (avoid duplicates by PMID)
             existing_pmids = set()
             for existing_pub in existing_pubs:
-                # Extract PMID from URL if available
+                # Extract PMID from URL if available. An entry's URL is either a
+                # PubMed link or a cdac-downloads PDF named <...>_<PMID>.pdf --
+                # both carry the PMID, and BOTH must be recognised here. If only
+                # PubMed links were matched, every PDF-linked publication would
+                # look "new" on each run and be re-appended nightly forever.
                 if 'link' in existing_pub and 'url' in existing_pub['link']:
                     url = existing_pub['link']['url']
-                    pmid_match = re.search(r'pubmed\.ncbi\.nlm\.nih\.gov/(\d+)', url)
+                    pmid_match = (re.search(r'pubmed\.ncbi\.nlm\.nih\.gov/(\d+)', url)
+                                  or PDF_PMID_RE.search(url))
                     if pmid_match:
                         existing_pmids.add(pmid_match.group(1))
             
