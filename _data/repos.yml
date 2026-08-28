@@ -1,16 +1,3 @@
-- name: AFib-sleep-cognition
-  description: Atrial fibrillation detection during sleep and its relationship to
-    cognitive outcomes.
-  url: https://github.com/bdsp-core/AFib-sleep-cognition
-  language: Python
-  stars: 0
-  forks: 0
-  updated_at: '2026-06-22'
-  visibility: public
-  category: Sleep Staging & Sleep AI
-  category_slug: sleep-staging-sleep-ai
-  topics: []
-  sort_order: 0
 - name: AirGo_SleepStaging
   description: Code and Data related to aim 'Sleep Staging with AirGo'
   url: https://github.com/bdsp-core/AirGo_SleepStaging
@@ -330,7 +317,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-08-24'
+  updated_at: '2026-08-27'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -804,8 +791,8 @@
   language: Python
   stars: 3
   forks: 0
-  updated_at: '2026-05-06'
-  visibility: private
+  updated_at: '2026-08-27'
+  visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
   topics: []
@@ -1526,7 +1513,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-26'
+  updated_at: '2026-08-27'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2092,7 +2079,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-08-28'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2384,6 +2371,19 @@
   category_slug: research-tools-manuscript-ai
   topics: []
   sort_order: 9
+- name: .github-private
+  description: Org profile shown to bdsp-core members — orientation + pointers into
+    the repo map
+  url: https://github.com/bdsp-core/.github-private
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-08-28'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: 2helps2b-seizure-risk
   description: '2HELPS2B EEG-based seizure-risk score | Data: bdsp.io/content/9p4thx40feddul6enpmd/1.0.0'
   url: https://github.com/bdsp-core/2helps2b-seizure-risk
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-26'
+  updated_at: '2026-08-27'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3071,7 +3071,19 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-13'
+  updated_at: '2026-08-28'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: omop_etl_pipeline_mgb
+  description: OMOP ETL pipeline for MGB dataset
+  url: https://github.com/bdsp-core/omop_etl_pipeline_mgb
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-08-28'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3096,7 +3108,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-08-27'
+  updated_at: '2026-08-28'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3109,7 +3121,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-26'
+  updated_at: '2026-08-28'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
