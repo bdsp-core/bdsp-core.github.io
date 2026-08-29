@@ -90,7 +90,7 @@
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
   stars: 21
-  forks: 7
+  forks: 8
   updated_at: '2026-07-07'
   visibility: public
   category: Sleep Staging & Sleep AI
@@ -789,10 +789,10 @@
     detection.
   url: https://github.com/bdsp-core/morgoth
   language: Python
-  stars: 3
+  stars: 2
   forks: 0
-  updated_at: '2026-08-27'
-  visibility: public
+  updated_at: '2026-08-29'
+  visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
   topics: []
@@ -1326,8 +1326,8 @@
   language: R
   stars: 0
   forks: 0
-  updated_at: '2025-10-24'
-  visibility: public
+  updated_at: '2026-08-28'
+  visibility: private
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
   topics: []
@@ -1513,7 +1513,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-27'
+  updated_at: '2026-08-28'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-27'
+  updated_at: '2026-08-28'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2977,7 +2977,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-08-24'
+  updated_at: '2026-08-29'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -3121,7 +3121,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-28'
+  updated_at: '2026-08-29'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
