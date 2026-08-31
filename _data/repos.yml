@@ -474,9 +474,9 @@
   description: Large-scale brain imaging database for multi-modal neurological research.
   url: https://github.com/bdsp-core/BigBrainImagingDatabase
   language: Jupyter Notebook
-  stars: 0
-  forks: 0
-  updated_at: '2026-05-24'
+  stars: 1
+  forks: 1
+  updated_at: '2026-08-31'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -562,9 +562,9 @@
     disease risk, and mortality patterns from a single EEG channel.
   url: https://github.com/bdsp-core/philosophers-stone
   language: Python
-  stars: 19
+  stars: 20
   forks: 2
-  updated_at: '2026-08-18'
+  updated_at: '2026-08-31'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -789,9 +789,9 @@
     detection.
   url: https://github.com/bdsp-core/morgoth
   language: Python
-  stars: 2
-  forks: 0
-  updated_at: '2026-08-30'
+  stars: 3
+  forks: 1
+  updated_at: '2026-08-31'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1513,7 +1513,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-29'
+  updated_at: '2026-08-30'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2089,9 +2089,9 @@
   description: Tools for managing and querying the Harvard EEG Database.
   url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
   language: Jupyter Notebook
-  stars: 17
-  forks: 1
-  updated_at: '2026-08-18'
+  stars: 18
+  forks: 2
+  updated_at: '2026-08-31'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-29'
+  updated_at: '2026-08-30'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3071,7 +3071,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-28'
+  updated_at: '2026-08-31'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3121,7 +3121,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-30'
+  updated_at: '2026-08-31'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
