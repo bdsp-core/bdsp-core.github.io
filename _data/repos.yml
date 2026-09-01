@@ -738,9 +738,9 @@
     for LPD, GPD, LRDA, GRDA.
   url: https://github.com/bdsp-core/IIIC-Frequency-Analysis-2
   language: Jupyter Notebook
-  stars: 0
-  forks: 0
-  updated_at: '2026-03-07'
+  stars: 1
+  forks: 1
+  updated_at: '2026-08-31'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1513,7 +1513,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-30'
+  updated_at: '2026-08-31'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2402,7 +2402,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-30'
+  updated_at: '2026-08-31'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2432,6 +2432,24 @@
   category: Uncategorized
   category_slug: uncategorized
   topics: []
+  sort_order: 10
+- name: bdsp-sleep-features
+  description: Broad, versioned polysomnography feature computation for ARPA-H REST
+    and SHDC
+  url: https://github.com/bdsp-core/bdsp-sleep-features
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-01'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - arpa-h
+  - bids
+  - eeg
+  - polysomnography
+  - sleep
   sort_order: 10
 - name: bidmc-eeg-archive-pipeline
   description: This is the code for the BIDMC EEG Archive Pipeline on the Natus Machine.
@@ -2636,6 +2654,19 @@
   forks: 0
   updated_at: '2026-07-12'
   visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: etl-source-to-omop
+  description: This repository has ETL code transform source hospital to OMOP format
+    using Databricks.
+  url: https://github.com/bdsp-core/etl-source-to-omop
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-08-31'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
@@ -3121,7 +3152,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-31'
+  updated_at: '2026-09-01'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
