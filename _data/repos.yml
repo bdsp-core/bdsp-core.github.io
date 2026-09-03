@@ -789,9 +789,9 @@
     detection.
   url: https://github.com/bdsp-core/morgoth
   language: Python
-  stars: 3
-  forks: 1
-  updated_at: '2026-08-31'
+  stars: 5
+  forks: 2
+  updated_at: '2026-09-03'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -815,11 +815,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-04-01'
+  updated_at: '2026-09-03'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 3
 - name: Rapid_IIIC_Labeling_GUI
   description: GUI tool for rapid labeling of IIIC patterns on EEG recordings.
@@ -1513,7 +1514,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-08-31'
+  updated_at: '2026-09-01'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1549,11 +1550,12 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 8
 - name: bdsp.io_webapp_dev
   description: Development instance of the bdsp.io web application.
@@ -1573,11 +1575,12 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-08-25'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 8
 - name: bdsp_aws_athena_db_connection_code
   description: This is the repository for getting started with connecting with AWS
@@ -1831,11 +1834,12 @@
   language: PHP
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 8
 - name: cdac_google
   description: Haoqi Sun's EEG spike-detection pipeline (ResNet, 10-fold CV with soft
@@ -2364,7 +2368,7 @@
   url: https://github.com/bdsp-core/PAT-PaperAssessmentTool
   language: Python
   stars: 5
-  forks: 0
+  forks: 1
   updated_at: '2026-06-24'
   visibility: public
   category: Research Tools & Manuscript AI
@@ -2402,7 +2406,22 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-31'
+  updated_at: '2026-09-03'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - bdsp-omop
+  sort_order: 10
+- name: adaptive-omop-etl
+  description: An agent-driven framework for automating multi-site, source-agnostic
+    OMOP ETL — generating, validating, and iteratively repairing site-specific adapters
+    from raw clinical schemas.
+  url: https://github.com/bdsp-core/adaptive-omop-etl
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2565,11 +2584,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-18'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: ddesvsfs-pnes-screening
   description: 'DDESVSFS epileptic-vs-functional-seizure screening tool | Data: bdsp.io/content/wiher11yebsxeigs9uwb/1.0.0'
@@ -2628,7 +2648,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-29'
+  updated_at: '2026-09-03'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2665,7 +2685,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-31'
+  updated_at: '2026-09-01'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2693,11 +2713,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-13'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: hie-eeg-prognostics-1000
   description: 'Prognostic EEG patterns in post-cardiac-arrest coma | Data: bdsp.io/content/yzzwxkgymmwioq3pet9l/1.0.0'
@@ -2862,11 +2883,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-12'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: mgb-daily-updates
   description: This is the code for running daily updates currently being run on the
@@ -2929,11 +2951,12 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-07-20'
+  updated_at: '2026-09-03'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: morgoth-sz-hm
   description: 'This repository extends the base Morgoth EEG model with two improvements
@@ -2981,11 +3004,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-12'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: nax_llm_batch_processing
   description: Private — CDAC internal. Batch-LLM utilities used across the NAX EHR-phenotyping
@@ -3008,11 +3032,12 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-08-29'
+  updated_at: '2026-09-03'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: neurobrowser
   description: Ultrafast EEG template matching under Dynamic Time Warping — a Python
@@ -3035,11 +3060,12 @@
   language: Python
   stars: 0
   forks: 1
-  updated_at: '2026-08-06'
+  updated_at: '2026-09-03'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: NK_to_BIDS
   description: Convert Nihon Kohden clinical EEG recordings (.eeg + .21e + .pnt +
@@ -3075,11 +3101,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: omop-wrangling
   description: Code and documentation for wrangling the BDSP OMOP clinical data —
@@ -3090,11 +3117,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-07-02'
+  updated_at: '2026-09-03'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: omop_etl_pipeline_bidmc
   description: No description provided.
@@ -3102,11 +3130,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-31'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: omop_etl_pipeline_mgb
   description: OMOP ETL pipeline for MGB dataset
@@ -3114,11 +3143,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-28'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: optimal-spindle-detection-cognition
   description: 'Optimal spindle detection parameters for cognition | Data: bdsp.io/content/5pmbqulds7k6ac6mnkdi/1.0.0'
@@ -3139,11 +3169,12 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-08-28'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: prophet-sleep
   description: Note-NLP for sleep phenotyping on the de-identified BDSP OMOP database
@@ -3152,11 +3183,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-01'
+  updated_at: '2026-09-03'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: psg-outcome-prediction
   description: Predicting health outcomes from polysomnography-derived features
@@ -3244,11 +3276,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-04'
+  updated_at: '2026-09-03'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-omop
   sort_order: 10
 - name: tme-epileptiform-outcomes
   description: 'Epileptiform activity and outcomes in toxic-metabolic encephalopathy
