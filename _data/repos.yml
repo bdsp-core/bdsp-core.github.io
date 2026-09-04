@@ -279,11 +279,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 0
 - name: sleep-outcome-prediction
   description: Predicting clinical outcomes from sleep study features and polysomnography
@@ -1514,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-01'
+  updated_at: '2026-09-03'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1625,11 +1626,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: bedmaster_pipeline_code
   description: pipeline - after deidentification portion
@@ -1713,11 +1715,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: BIDS_Cleanup_delete_no_edf_sessions
   description: Cleanup tool to remove BIDS sessions lacking EDF files.
@@ -1725,11 +1728,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: BIDS_Conversion
   description: General-purpose EEG-to-BIDS format conversion tools.
@@ -1737,11 +1741,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: BIDS_EDF_to_BidsFormat_Conversion
   description: Pipeline for converting EDF files to BIDS format.
@@ -1749,11 +1754,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: BIDS_EDF_to_BidsFormat_Conversion_EMORY
   description: code to convert Emory .edfs -> BIDS
@@ -1761,11 +1767,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: BIDS_EDF_to_BidsFormat_Conversion_STANFORD
   description: Stanford-specific pipeline for EDF-to-BIDS conversion.
@@ -1773,11 +1780,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: BIDS_Sessions_Creations
   description: Tools for creating and managing BIDS session structures.
@@ -1785,11 +1793,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: BIDS_StartTime_Extraction
   description: Extracting recording start times for BIDS metadata.
@@ -1797,11 +1806,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: brandons-labyrinth
   description: Internal development and experimentation workspace.
@@ -1885,11 +1895,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: discontinuous-edf-to-bids-
   description: Pipeline for converting discontinuous EDF + recordings to BIDS format,
@@ -1910,11 +1921,12 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: ECG_HD5_Plots
   description: Plotting tools for ECG data stored in HDF5 format.
@@ -1946,11 +1958,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: EEG-Archiving-Pipeline-BIDMC
   description: 'This is the repository setup to store all the code related to Step
@@ -1971,11 +1984,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: EEG-Indexing-Pipeline
   description: This is the repository to store the code related to indexing all the
@@ -1984,11 +1998,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: EEG_Fuzzy_Patient_Matching
   description: Fuzzy matching algorithms for linking EEG records to patient identities.
@@ -1996,11 +2011,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: EEG_Report_Wrangling
   description: Tools for parsing and structuring EEG clinical reports.
@@ -2033,11 +2049,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: epilepsy-algolia-sync
   description: Epilepsy.Science
@@ -2183,11 +2200,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-08-09'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: natus2json
   description: Converter for Natus EEG system files to JSON format.
@@ -2195,11 +2213,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: Omega
   description: Data processing and analysis orchestration framework.
@@ -2233,11 +2252,12 @@
   language: Python
   stars: 2
   forks: 1
-  updated_at: '2026-08-15'
+  updated_at: '2026-09-03'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: Physionet_build_forked
   description: Archived BDSP fork of MIT-LCP/physionet-build; active webapp lives
@@ -2271,11 +2291,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 8
 - name: streaming_pipeline_code
   description: Real-time streaming data pipeline for continuous EEG monitoring.
@@ -2418,7 +2439,7 @@
     OMOP ETL — generating, validating, and iteratively repairing site-specific adapters
     from raw clinical schemas.
   url: https://github.com/bdsp-core/adaptive-omop-etl
-  language: ''
+  language: Python
   stars: 0
   forks: 0
   updated_at: '2026-09-03'
@@ -2434,11 +2455,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-08-09'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 10
 - name: bdsp-python
   description: Reader-first Python package for BDSP/Sleep YODA standardized HDF5 data.
@@ -2648,7 +2670,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-04'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2897,11 +2919,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 10
 - name: mgb-eeg-archiving-pipeline
   description: This is the pipeline for archiving EEG's from BWH and MGH currently
@@ -2910,11 +2933,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 10
 - name: mgb-eeg-indexing-pipeline
   description: This is the pipeline for indexing EEG's from BWH and MGH currently
@@ -2923,11 +2947,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 10
 - name: mgb-sleep-indexing-pipeline
   description: This is the pipeline for indexing PSG's from MGH currently being run
@@ -2936,11 +2961,12 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-09-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 10
 - name: morgoth-slowing-growth-curves
   description: Lifespan × sleep-stage normative "growth curves" for quantitative EEG
@@ -3074,11 +3100,12 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-23'
+  updated_at: '2026-09-03'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
-  topics: []
+  topics:
+  - bdsp-ingest
   sort_order: 10
 - name: Noise_in_Diagnosing_Epilepsy_KILT_Technical
   description: Private — CDAC internal. Placeholder repository for the KILT (Knowledge
@@ -3183,7 +3210,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-04'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3235,7 +3262,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-07-23'
+  updated_at: '2026-09-03'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
