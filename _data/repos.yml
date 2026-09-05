@@ -790,9 +790,9 @@
     detection.
   url: https://github.com/bdsp-core/morgoth
   language: Python
-  stars: 5
+  stars: 6
   forks: 2
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-04'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-04'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-04'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3262,7 +3262,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-04'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
