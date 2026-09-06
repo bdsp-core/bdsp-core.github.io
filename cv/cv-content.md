@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated August 30, 2026**
+**Curriculum Vitae: updated September 6, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -1649,6 +1649,54 @@ Mentorship for 4 months (2 summers), resulted in 4 scientific publications.
 2020–2021 Nitish Harid, MD.
 
 **Undergraduate Students**
+
+2010; 2011 Nathaniel Eiseman, Senior at Tulane.
+
+2012 Matthew Ferguson, sophomore at Washington University in Saint Louis.
+
+2012 Justine Cormier, BS, medical student at Boston University School of Medicine. Neurology Resident at Yale
+
+2014 Elliot Akama-Garren, MIT undergraduate, mentorship for 6 months; resulted in 1 publication. an MD-PhD student at Harvard Medical School
+
+2016- Greta Gadbois, BS (mathematics), research assistant.
+
+2017 Wade Whitt, undergraduate student at BYU. Projects: Correlation of EEG findings in delirious patients with neurologic outcomes.
+
+2018- Jacob Hogan, undergraduate student at BYU. Project: Estimating the causal effect of burst suppression on neurologic outcomes.
+
+2018–2023 Alek Westover.
+
+2021–2022 Danny Jones.
+
+2021–2022 Jaden Barfuss.
+
+2021–2023 Jayme Banks.
+
+2023–2024 Leia Jekel.
+
+2023–2024 Rebecca Milde.
+
+2023–2024 Moritz Alkofer.
+
+2023–2024 Elijah Davis.
+
+2023–present Dan Sumsion.
+
+2023–present Lydia Petersen.
+
+2023–present Kiwi (Yiwen) Xiong.
+
+2024–present Luke Jackson.
+
+2024–present Carlos Nuñez-Sosa.
+
+2024–present Amber Peng.
+
+2024–present Mitchell McCauley.
+
+2024–present Patrick Wynn.
+
+2024–present Elijah Keldsen.
 
 **High School Students**
 
