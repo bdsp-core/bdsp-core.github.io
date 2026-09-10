@@ -1,3 +1,13 @@
+- title: '"Counterintuitive: reducing regression-to-the-mean worsens efficiency in
+    simulated clinical trials."'
+  image: ''
+  description: ''
+  authors: Goldenholz DM, Goldenholz SR, Bhansali R, Kaptchuk TJ, Westover MB
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/42715842
+    display: 'Seizure. 2026. 142. 168-174. doi: 10.1016/j.seizure.2026.09.002. PMID:
+      42715842.'
+  highlight: 0
 - title: '"Between Patterns and Predictions: Interpretable Latent EEG Representations
     for Clinical Insights."'
   image: ''
