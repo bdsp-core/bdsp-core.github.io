@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated September 6, 2026**
+**Curriculum Vitae: updated September 13, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
