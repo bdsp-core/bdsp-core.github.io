@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-11'
+  updated_at: '2026-09-12'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2984,13 +2984,13 @@
 - name: morgoth-slowing-growth-curves
   description: Lifespan × sleep-stage normative "growth curves" for quantitative EEG
     slowing. A single per-segment deviation-from-normal field both detects pathological
-    slowing (focal vs generalized) — beating an 18-expert panel, a foundation-model
-    gate,…
+    slowing (focal vs generalized) — placing most of an 18-expert panel under its
+    curve…
   url: https://github.com/bdsp-core/morgoth-slowing-growth-curves
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-12'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
