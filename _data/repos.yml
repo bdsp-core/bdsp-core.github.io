@@ -89,9 +89,9 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 22
+  stars: 23
   forks: 8
-  updated_at: '2026-09-14'
+  updated_at: '2026-09-15'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -293,7 +293,7 @@
   language: Python
   stars: 5
   forks: 2
-  updated_at: '2026-07-02'
+  updated_at: '2026-09-15'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -816,7 +816,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-15'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-14'
+  updated_at: '2026-09-15'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1576,7 +1576,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-09-10'
+  updated_at: '2026-09-16'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2611,6 +2611,36 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: cortex
+  description: 'CORTEX (Continuous Optimization Response Testing for EEG eXpertise):
+    an adaptive Bayesian test of how well a clinician reads an EEG. A joint particle-filter
+    engine over 7 tasks asks the most informative question next and stops once skill
+    is certain. Cross-validated cut scores; Laplace/EKF clinical runtime.'
+  url: https://github.com/bdsp-core/cortex
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-15'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - adaptive-testing
+  - bayesian-inference
+  - clinical-ai
+  - eeg
+  - epilepsy
+  - item-response-theory
+  - kalman-filter
+  - mcmc
+  - metropolis-hastings
+  - neurology
+  - particle-filter
+  - psychometrics
+  - reproducible-research
+  - sequential-monte-carlo
+  - signal-detection-theory
+  sort_order: 10
 - name: db_phi_aurora
   description: 'Umbrella repo for the PHI receiving pipeline: ingest identified data
     from many institutions, turn it into an identified OMOP database, then de-identify
@@ -2683,7 +2713,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-09-15'
+  updated_at: '2026-09-16'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -2840,36 +2870,6 @@
   category: Uncategorized
   category_slug: uncategorized
   topics: []
-  sort_order: 10
-- name: ilae-skill-certification-test-multi
-  description: 'CORTEX (Continuous Optimization Response Testing for EEG eXpertise):
-    an adaptive Bayesian test of how well a clinician reads an EEG. A joint particle-filter
-    engine over 7 tasks asks the most informative question next and stops once skill
-    is certain. Cross-validated cut scores; Laplace/EKF clinical runtime.'
-  url: https://github.com/bdsp-core/ilae-skill-certification-test-multi
-  language: Python
-  stars: 0
-  forks: 0
-  updated_at: '2026-08-20'
-  visibility: private
-  category: Uncategorized
-  category_slug: uncategorized
-  topics:
-  - adaptive-testing
-  - bayesian-inference
-  - clinical-ai
-  - eeg
-  - epilepsy
-  - item-response-theory
-  - kalman-filter
-  - mcmc
-  - metropolis-hastings
-  - neurology
-  - particle-filter
-  - psychometrics
-  - reproducible-research
-  - sequential-monte-carlo
-  - signal-detection-theory
   sort_order: 10
 - name: interpretable-ied-criteria
   description: 'Interpretable quantitative criteria for evaluating IEDs | Data: bdsp.io/content/tkotnm1cuc7bw8r3fvoo/1.0.0'
@@ -3275,7 +3275,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-11'
+  updated_at: '2026-09-16'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
