@@ -65,9 +65,9 @@
     data.
   url: https://github.com/bdsp-core/BCH-SleepStaging
   language: Python
-  stars: 2
+  stars: 3
   forks: 0
-  updated_at: '2026-07-30'
+  updated_at: '2026-09-16'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-15'
+  updated_at: '2026-09-16'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2388,9 +2388,9 @@
     journal submission.
   url: https://github.com/bdsp-core/PAT-PaperAssessmentTool
   language: Python
-  stars: 5
+  stars: 6
   forks: 1
-  updated_at: '2026-06-24'
+  updated_at: '2026-09-16'
   visibility: public
   category: Research Tools & Manuscript AI
   category_slug: research-tools-manuscript-ai
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-15'
+  updated_at: '2026-09-16'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2442,7 +2442,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-16'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2481,7 +2481,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-13'
+  updated_at: '2026-09-16'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2649,7 +2649,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-09-17'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3223,7 +3223,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-07'
+  updated_at: '2026-09-17'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
