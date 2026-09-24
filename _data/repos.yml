@@ -804,7 +804,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-08-26'
+  updated_at: '2026-09-23'
   visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-22'
+  updated_at: '2026-09-23'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-22'
+  updated_at: '2026-09-23'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2585,6 +2585,18 @@
   category_slug: uncategorized
   topics: []
   sort_order: 10
+- name: cicadas3
+  description: No description provided.
+  url: https://github.com/bdsp-core/cicadas3
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-23'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: clinical-note-parser-cdac
   description: Clinical note parsing pipeline for the Stanford CDAC neurology teaching
     tool. It parses MRI reports into structured JSON and synthesizes a single short
@@ -2649,7 +2661,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-23'
+  updated_at: '2026-09-24'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2713,7 +2725,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-09-22'
+  updated_at: '2026-09-24'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3211,7 +3223,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-22'
+  updated_at: '2026-09-23'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3290,7 +3302,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-22'
+  updated_at: '2026-09-24'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
