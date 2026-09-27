@@ -804,7 +804,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-09-23'
+  updated_at: '2026-09-26'
   visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-25'
+  updated_at: '2026-09-26'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-25'
+  updated_at: '2026-09-26'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2442,7 +2442,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-26'
+  updated_at: '2026-09-27'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2661,7 +2661,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-26'
+  updated_at: '2026-09-27'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2725,7 +2725,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-09-25'
+  updated_at: '2026-09-27'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3304,6 +3304,19 @@
   forks: 0
   updated_at: '2026-09-25'
   visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: spectral-smoothing-vs-multitaper
+  description: 'Multitaper spectral estimation as kernel smoothing of a tapered periodogram:
+    proof, Python code, paper figures'
+  url: https://github.com/bdsp-core/spectral-smoothing-vs-multitaper
+  language: TeX
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-27'
+  visibility: public
   category: Uncategorized
   category_slug: uncategorized
   topics: []
