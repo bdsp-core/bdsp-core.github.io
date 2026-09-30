@@ -1,3 +1,14 @@
+- title: '"Automated Derivation of Cerebral Performance Category at Hospital Discharge
+    After Cardiac Arrest Using Natural Language Processing and Machine Learning."'
+  image: ''
+  description: ''
+  authors: Furlow S, Houston P, Bao K, Zhou B, Velasquez G, Peterson K, Hayman A,
+    Bains A, Lieberman O, Hendrickson CM, Zier L, Singhal NS, Hemphill JC, Zafar S,
+    Westover MB, Fernandes M, Amorim E
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/42806261
+    display: 'Neurocritical care. 2026. doi: 10.1007/s12028-026-02650-9. PMID: 42806261.'
+  highlight: 0
 - title: '"Better sleep now, better cognition later? Predicting cognitive function
     using a machine learning-based sleep EEG brain health score."'
   image: ''
