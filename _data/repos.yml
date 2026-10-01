@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-09-29'
+  updated_at: '2026-09-30'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1576,7 +1576,7 @@
   language: HTML
   stars: 1
   forks: 0
-  updated_at: '2026-09-19'
+  updated_at: '2026-10-01'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-29'
+  updated_at: '2026-09-30'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2586,12 +2586,12 @@
   topics: []
   sort_order: 10
 - name: cicadas3
-  description: No description provided.
+  description: 'The pipeline reads a data tree with this layout:'
   url: https://github.com/bdsp-core/cicadas3
-  language: ''
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-24'
+  updated_at: '2026-09-30'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2661,7 +2661,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-09-30'
+  updated_at: '2026-10-01'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3302,7 +3302,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-29'
+  updated_at: '2026-09-30'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
