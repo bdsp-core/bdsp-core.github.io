@@ -739,9 +739,9 @@
     for LPD, GPD, LRDA, GRDA.
   url: https://github.com/bdsp-core/IIIC-Frequency-Analysis-2
   language: Jupyter Notebook
-  stars: 1
+  stars: 2
   forks: 1
-  updated_at: '2026-08-31'
+  updated_at: '2026-10-02'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -804,7 +804,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-09-26'
+  updated_at: '2026-10-03'
   visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-01'
+  updated_at: '2026-10-02'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-01'
+  updated_at: '2026-10-02'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2661,7 +2661,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-02'
+  updated_at: '2026-10-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2725,7 +2725,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-10-01'
+  updated_at: '2026-10-02'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3083,7 +3083,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-09-03'
+  updated_at: '2026-10-02'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -3302,7 +3302,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-30'
+  updated_at: '2026-10-02'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
