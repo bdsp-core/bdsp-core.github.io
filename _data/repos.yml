@@ -1515,7 +1515,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-02'
+  updated_at: '2026-10-03'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2427,7 +2427,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-02'
+  updated_at: '2026-10-03'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2661,7 +2661,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-03'
+  updated_at: '2026-10-04'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2725,7 +2725,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-10-02'
+  updated_at: '2026-10-03'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3223,7 +3223,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-29'
+  updated_at: '2026-10-04'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -3265,6 +3265,20 @@
   forks: 0
   updated_at: '2026-08-21'
   visibility: internal
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: rat-seizure-dynamotypes
+  description: You are picking up a research task on a machine with more compute than
+    the one it came from. Everything you need is in this folder. Work through the
+    tasks in order, then send back the deliverables in §7.
+  url: https://github.com/bdsp-core/rat-seizure-dynamotypes
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-10-03'
+  visibility: private
   category: Uncategorized
   category_slug: uncategorized
   topics: []
