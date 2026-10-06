@@ -565,7 +565,7 @@
   language: Python
   stars: 20
   forks: 2
-  updated_at: '2026-09-21'
+  updated_at: '2026-10-05'
   visibility: public
   category: Brain Age & Brain Health
   category_slug: brain-age-brain-health
@@ -583,6 +583,19 @@
   category_slug: brain-age-brain-health
   topics: []
   sort_order: 1
+- name: breathing-stability-index
+  description: 'Breathing Stability Index: SLEEP 2026 paper code, Python API, and
+    EDF/HDF5 CLI'
+  url: https://github.com/bdsp-core/breathing-stability-index
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-10-05'
+  visibility: public
+  category: Breathing & Respiratory
+  category_slug: breathing-respiratory
+  topics: []
+  sort_order: 2
 - name: breathing_stability_index
   description: Computing the breathing stability index from respiratory signals.
   url: https://github.com/bdsp-core/breathing_stability_index
@@ -1515,7 +1528,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-04'
+  updated_at: '2026-10-05'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2427,7 +2440,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-04'
+  updated_at: '2026-10-05'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2661,7 +2674,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-05'
+  updated_at: '2026-10-06'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2725,7 +2738,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-10-03'
+  updated_at: '2026-10-06'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3083,7 +3096,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-10-02'
+  updated_at: '2026-10-05'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
