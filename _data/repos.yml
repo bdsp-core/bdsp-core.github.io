@@ -817,7 +817,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-10-03'
+  updated_at: '2026-10-07'
   visibility: private
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -1528,7 +1528,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-05'
+  updated_at: '2026-10-06'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2440,7 +2440,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-05'
+  updated_at: '2026-10-06'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2674,7 +2674,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-06'
+  updated_at: '2026-10-07'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2738,7 +2738,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-10-06'
+  updated_at: '2026-10-07'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3323,13 +3323,13 @@
   topics: []
   sort_order: 10
 - name: sleep-yoda-web
-  description: A browser port of Sleep YODA, plus a folder watcher that turns dropped
-    .edf files into viewer-ready recordings automatically.
+  description: Sleep YODA computes recording enrichment offline, then visualizes the
+    completed results in a browser, locally or on AWS.
   url: https://github.com/bdsp-core/sleep-yoda-web
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-10-02'
+  updated_at: '2026-10-06'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
