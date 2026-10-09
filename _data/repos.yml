@@ -89,9 +89,9 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 24
+  stars: 25
   forks: 8
-  updated_at: '2026-09-29'
+  updated_at: '2026-10-08'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -1528,7 +1528,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-07'
+  updated_at: '2026-10-08'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2113,7 +2113,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-29'
+  updated_at: '2026-10-09'
   visibility: private
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2475,6 +2475,20 @@
   topics:
   - bdsp-ingest
   sort_order: 10
+- name: bdsp-bind-database
+  description: 'Working materials for the BIND imaging database: extracting structured
+    neuroimaging findings from radiology reports with MedGemma and mapping them into
+    OMOP.'
+  url: https://github.com/bdsp-core/bdsp-bind-database
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-10-08'
+  visibility: private
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
 - name: bdsp-python
   description: Reader-first Python package for BDSP/Sleep YODA standardized HDF5 data.
   url: https://github.com/bdsp-core/bdsp-python
@@ -2494,7 +2508,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-10-07'
+  updated_at: '2026-10-08'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2674,7 +2688,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-08'
+  updated_at: '2026-10-09'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2738,7 +2752,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-10-08'
+  updated_at: '2026-10-09'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
