@@ -804,7 +804,7 @@
   url: https://github.com/bdsp-core/morgoth
   language: Python
   stars: 8
-  forks: 3
+  forks: 4
   updated_at: '2026-10-07'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
@@ -1528,7 +1528,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-08'
+  updated_at: '2026-10-09'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2265,7 +2265,7 @@
   language: Python
   stars: 2
   forks: 1
-  updated_at: '2026-09-03'
+  updated_at: '2026-10-10'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -2440,7 +2440,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-07'
+  updated_at: '2026-10-09'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2476,14 +2476,14 @@
   - bdsp-ingest
   sort_order: 10
 - name: bdsp-bind-database
-  description: 'Working materials for the BIND imaging database: extracting structured
-    neuroimaging findings from radiology reports with MedGemma and mapping them into
-    OMOP.'
+  description: 'Working materials for the BIND imaging database: brain MRI, CT and
+    PET from two sites, their radiology reports, and structured findings extracted
+    from the reports, all mapped into OMOP.'
   url: https://github.com/bdsp-core/bdsp-bind-database
-  language: Jupyter Notebook
+  language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-10-08'
+  updated_at: '2026-10-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2508,7 +2508,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-10-08'
+  updated_at: '2026-10-09'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2688,7 +2688,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-10-09'
+  updated_at: '2026-10-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
@@ -2752,7 +2752,7 @@
   language: HTML
   stars: 0
   forks: 0
-  updated_at: '2026-10-09'
+  updated_at: '2026-10-10'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3343,7 +3343,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-10-06'
+  updated_at: '2026-10-09'
   visibility: internal
   category: Uncategorized
   category_slug: uncategorized
@@ -3425,7 +3425,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-10-10'
   visibility: private
   category: Uncategorized
   category_slug: uncategorized
