@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated October 4, 2026**
+**Curriculum Vitae: updated October 10, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -38,7 +38,7 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 05/14-05/18 Assistant Professor in Neurology, Harvard Medical School, Boston, MA
 
-05/18-10/22 Associate Professor
+05/18-10/22 Associate Professor of Neurology, Harvard Medical School, Boston, MA
 
 10/22 – present Professor of Neurology, Harvard Medical School, Boston, MA
 
@@ -78,825 +78,978 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 5.  **<span class="smallcaps">Bibliography</span>**
 
-**Peer-reviewed original research (370 total)**
+**Peer-reviewed original research (442 total, <span class="mark">5 in press, 10 submitted, 5 in review</span>)**
 
-1.  Eliasmith C, **Westover MB**, Anderson CH. “A general framework for neurobiological modeling: an application to the vestibular system.” Neurocomputing (Amst). 2002 Jun;44-46:1071-6. doi: 10.1016/s0925-2312(02)00418-6. PMCID: PMC6788744.
+1.  Eliasmith C, **Westover MB**, Anderson CH. “A general framework for neurobiological modeling: An application to the vestibular system.” *Neurocomputing*. 2002. 46:1071-1076. PMCID: PMC6788744.
 
-2.  **Westover MB**, Eliasmith C, Anderson CH. “Linearly decodable functions from neural population codes.” Neurocomputing (Amst). 2002 Jun;44-46:691-696. doi: 10.1016/s0925-2312(02)00459-9. Epub 2002 Mar 26. PMCID: PMC7062372.
+2.  **Westover MB**, Eliasmith C, Anderson CH. “Linearly decodable functions from neural population codes.” *Neurocomputing*. 2002. 45: 691-696. PMCID: PMC7062372.
 
-3.  Fischer BJ, **Westover MB**. “The neural multiple access channel.” Neurocomputing (Amst). 2003 Jun;52-54:511-518. doi: 10.1016/s0925-2312(02)00762-2. Epub 2003 Jan 29. PMCID: PMC7062373.
+3.  Fischer B, **Westover MB**. “The neural multiple access channel.” *Neurocomputing*. 2003. 52-54: 512-518. PMCID: PMC7062373.
 
-4.  **Westover MB**, Anderson CH. “Layer 4C in monkey V1 may linearize the output of the LGN.” Neurocomputing (Amst). 2003 Jun;52-54:671-676. doi: 10.1016/s0925-2312(02)00863-9. Epub 2003 Jan 28. PMCID: PMC7062374.
+4.  **Westover MB**, Anderson CH. “Layer 4C of monkey V1 may linearize the output of the LGN.” *Neurocomputing*. 2003. 52-54: 671-676. PMCID: PMC7062374.
 
-5.  **Westover MB**, O'Sullivan JA. “Achievable Rates for Pattern Recognition.” IEEE Trans Inf Theory. 2008 Jan;54(1):299-320. doi: 10.1109/tit.2007.911296. Epub 2008 Jan 04. PMCID: PMC7062371.
+5.  **Westover MB**, O’Sullivan, JA. “Achievable rates for pattern recognition.” *IEEE Transactions on Information Theory*, Jan 2008; 54(1): 299-320. PMCID: PMC7062371.
 
-6.  **Westover MB**. “Asymptotic Geometry of Multiple Hypothesis Testing.” IEEE Trans Inf Theory. 2008 Jul;54(7):3327-3329. doi: 10.1109/TIT.2008.924656. Epub 2008 Jun 17. PMCID: PMC6788803.
+6.  **Westover, MB**. “Asymptotic geometry of multiple hypothesis testing.” *IEEE Transactions on Information Theory*, July 2008; 54(7): 3327-3329. PMCID: PMC6788803.
 
-7.  Woeltje KF, Butler AM, Goris AJ, Tutlam NT, Doherty JA, **Westover MB**, Ferris V, Bailey TC. “Automated surveillance for central line-associated bloodstream infection in intensive care units.” Infect Control Hosp Epidemiol. 2008 Sep;29(9):842-6. doi: 10.1086/590261. PMCID: PMC6788749.
+7.  Woeltje KF, Butler AM, Goris AJ, Tutlam NT, Doherty JA, **Westover MB**, Ferris B, Bailey TC. “Automated Surveillance for Central Line ­Associated Bloodstream Infection in Intensive Care Units.” *Infection Control and Hospital Epidemiology*, Sept.2008; 29:842­-846. PMCID: PMC6788749.
 
-8.  Mueen A, Keogh E, Zhu Q, Cash S, **Westover B**. “Exact Discovery of Time Series Motifs.” Proc SIAM Int Conf Data Min. 2009;2009:473-484. doi: 10.1137/1.9781611972795.41. PMCID: PMC6814436.
+8.  Mueen A, Keogh E, Zhu Q, Cash SS, **Westover MB**. “Exact Discovery of Time Series Motifs.” *Proceedings of the SIAM International Conference on Data Mining*, SDM 2009, April 30-May 2, 2008, Reno Nevada USA. SIAM 2008. PMCID: PMC6814436.
 
-9.  Chu-Shore J, **Westover MB**, Bianchi MT. “Power law versus exponential state transition dynamics: application to sleep-wake architecture.” PLoS One. 2010 Dec 02;5(12):e14204. doi: 10.1371/journal.pone.0014204. PMCID: PMC2996311.
+9.  Chu-Shore J, **Westover MB**, Bianchi MT. "Power Law versus Exponential State Transition Dynamics: Application to Sleep-Wake Architecture*." PLoSONE*  5(12):  e14204. Dec. 2, 2010. PMCID: PMC2996311.
 
-10. Mueen A, Keogh E, Zhu Q, Cash SS, **Westover MB**, Bigdely-Shamlo N. “A disk-aware algorithm for time series motif discovery.” Data Min Knowl Discov. 2011 Jan;22(1-2):73-105. doi: 10.1007/s10618-010-0176-8. Epub 2010 Apr 18. PMCID: PMC7062370.
+10. Mueen A, Keogh E, Zhu Q, Cash SS, **Westover MB**, Bigdely-Shamlo N. “A disk-aware Algorithm for Time Series Motif Discovery.” *DataMining and Knowledge Discovery*, 2011, 22(1-2): 73-105. PMCID: PMC7062370.
 
-11. Zhang WJ, **Westover MB**, Keary CJ. “Premortem diagnosis of sporadic Creutzfeldt-Jakob disease aided by positron-emission tomography imaging.” AJNR Am J Neuroradiol. 2011 Jan;32(1):E18. doi: 10.3174/ajnr.A2292. Epub 2010 Nov 11. PMCID: PMC6788750.
+11. Zhang W-J, Keary C, **Westover MB**. “Premortem diagnosis of sporadic Creutzfeldt-Jakob disease aided by positron-emission tomography imaging.” *American Journal of Neuroradiology*, Neuroradiology. 2011 Jan;32(1):E18. doi: 10.3174/ajnr.A2292. Epub 2010 Nov 11. PMCID: PMC6788750.
 
-12. **Westover MB**, Bianchi MT, Eckman MH, Greenberg SM. “Statin use following intracerebral hemorrhage: a decision analysis.” Arch Neurol. 2011 May;68(5):573-9. doi: 10.1001/archneurol.2010.356. Epub 2011 Jan 10. PMCID: PMC3158138.
+12. **Westover MB** , Bianchi MT, Eckman MH, Greenberg SM. “Statin Use Following Intracerebral Hemorrhage: A Decision Analysis.” *Archives of Neurology*. 2011;68(5):573-579. PMCID: PMC3158138.
 
-- Featured article with accompanying editorial: Arch Neurol. 2011;68(5):565-566. "Statins After Intracerebral Hemorrhage: To Treat or Not to Treat".
+- ***Featured article with accompanying editorial:** Arch Neurol. 2011;68(5):565-566. "Statins After Intracerebral Hemorrhage: To Treat or Not to Treat".*
 
-- Covered in over 150 news feeds, including CBS News, ABC News, US News and World Report, and Medscape Medical News.
+- ***Covered in over 150 news feeds**, including CBS News, ABC News, US News and World Report, and Medscape Medical News.*
 
-13. **Westover MB**, **Westover KD**, Bianchi MT. “Significance testing as perverse probabilistic reasoning.” BMC Med. 2011 Feb 28;9:20. doi: 10.1186/1741-7015-9-20. PMCID: PMC3058025.
+13. **Westover MB**, Westover KD, Bianchi MT. “Significance Testing as Perverse Probabilistic Reasoning.” *BMC Medicine*, 9(20). Published Online Feb. 28, 2011. PMCID: PMC3058025.
 
-14. **Westover KD**, **Westover MB**, Winer EP, Richardson AL, Iglehart JD, Punglia RS. “Should a sentinel node biopsy be performed in patients with high-risk breast cancer?.” Int J Breast Cancer. 2011;2011:973245. doi: 10.4061/2011/973245. Epub 2011 Aug 10. PMCID: PMC3262582.
+14. Westover KD, **Westover MB**, Winer EP, Richardson AL, Iglehart JD, Punglia RS. “Should a sentinel node biopsy be performed in patients with high risk breast cancer?” *International Journal of Breast Cancer*. 2011;2011:973245. doi: 10.4061/2011/973245. PMCID: PMC3262582.
 
-15. Eiseman NA, **Westover MB**, Mietus JE, Thomas RJ, Bianchi MT. “Classification algorithms for predicting sleepiness and sleep apnea severity.” J Sleep Res. 2012 Feb;21(1):101-12. doi: 10.1111/j.1365-2869.2011.00935.x. Epub 2011 Jul 14. PMCID: PMC3698244.
+15. Eiseman NA, **Westover MB**, Mietus JE, Thomas RJ, Bianchi MT. “Classification algorithms for predicting sleepiness and sleep apnea severity.” *Journal of Sleep Research.* 2012 Feb;21(1):101-12. PMCID: PMC3698244.
 
-16. Pascual-Leone A, Freitas C, Oberman L, Horvath JC, Halko M, Eldaief M, Bashir S, Vernet M, Shafi M, **Westover B**, Vahabzadeh-Hagh AM, Rotenberg A. “Characterizing brain cortical plasticity and network dynamics across the age-span in health and disease with TMS-EEG and TMS-fMRI.” Brain Topogr. 2011 Oct;24(3-4):302-15. doi: 10.1007/s10548-011-0196-8. Epub 2011 Aug 14. PMCID: PMC3374641.
+16. Pascual-Leone A, Freitas C, Oberman L, Horvath JC, Halko M, Eldaief M, Bashir S, Vernet M, Shafi M, **Westover MB**, Vahabzadeh-Hagh AM, Rotenberg A. “Characterizing Brain Cortical Plasticity and Network Dynamics Across the Age-Span in Health and Disease with TMS-EEG and TMS-fMRI.” *Brain Topography*, 2011 Oct;24(3-4):302-15. PMCID: PMC3374641.
 
-17. Thakur KT, **Westover MB**. “Cerebral infarction due to smoker's polycythemia.” BMJ Case Rep. 2011 Oct 28;2011. doi: 10.1136/bcr.08.2011.4714. PMCID: PMC3207785.
+17. Thakur K, **Westover MB**, “Cerebral Infarction Due to Smoker’s Polycythemia.” *BMJ Case Reports* 2011; doi:10.1136/bcr.08.2011.4714. PMCID: PMC3207785.
 
-18. **Westover MB**, Cormier J, Bianchi MT, Shafi M, Kilbride R, Cole AJ, Cash SS. “Revising the "Rule of Three" for inferring seizure freedom.” Epilepsia. 2012 Feb;53(2):368-76. doi: 10.1111/j.1528-1167.2011.03355.x. Epub 2011 Dec 22. PMCID: PMC3267849.
+18. **Westover MB**, Cormier J, Bianchi MT, Shafi M, Kilbride R, Cole AJ, Cash SS. “Revising the rule of three for inferring seizure freedom.” *Epilepsia*. 2012 Feb;53(2):368-76. PMCID: PMC3267849.
 
-19. **Westover MB**, Eiseman NA, Bianchi MT. “Should risky treatments be reserved for secondary prevention? Theoretical considerations regarding risk-benefit tradeoffs.” J Clin Epidemiol. 2012 Aug;65(8):877-86. doi: 10.1016/j.jclinepi.2012.02.011. Epub 2012 May 27. PMCID: PMC6794097.
+19. **Westover MB**, Bianchi MT. “Should risky treatments be reserved for secondary prevention? A decision theory approach to risk-benefit balance.” *Journal of Clinical Epidemiology,* Aug 2012; 65(8):877-86. PMCID: PMC6794097.
 
-20. Chu CJ, Kramer MA, Pathmanathan J, Bianchi MT, **Westover MB**, Wizon L, Cash SS. “Emergence of stable functional networks in long-term human electroencephalography.” J Neurosci. 2012 Feb 22;32(8):2703-13. doi: 10.1523/JNEUROSCI.5669-11.2012. PMCID: PMC3361717.
+20. Chu-Shore C, Kramer MA, Pathmanathan J, Bianchi MT, **Westover MB**, Wizon L, Cash SS, “Emergence of stable functional networks in long-term human EEG”. *The Journal of Neuroscience*, Feb 2012; 32(8): 2703-2713. PMCID: PMC3361717.
 
-21. Shafi MM, **Westover MB**, Fox MD, Pascual-Leone A. “Exploration and modulation of brain network interactions with noninvasive brain stimulation in combination with neuroimaging.” Eur J Neurosci. 2012 Mar;35(6):805-25. doi: 10.1111/j.1460-9568.2012.08035.x. PMCID: PMC3313459.
+21. Shafi MM, **Westover MB**, Fox MD, Pascual-Leone A, “Exploration and modulation of brain network interactions with noninvasive brain stimulation in combination with neuroimaging.” *European Journal of Neuroscience*, 2012 Mar;35(6):805-25. PMCID: PMC3313459.
 
-22. Rakthanmanon T, Campana B, Mueen A, Batista G, **Westover B**, Zhu Q, Zakaria J, Keogh E. “Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping.” KDD. 2012 Aug;2012:262-270. doi: 10.1145/2339530.2339576. PMCID: PMC6816304.
+22. Rakthanmanon T, Campana B, Mueen A, Batista G, **Westover MB**, Zhu Q, Zakaria J, Keogh E, “Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping”. *Proceedings of ACM SIGKDD 2012*. PMCID: PMC6816304.
 
-- Best Paper Award at Association for Computing Machinery’s annual SIGKDD (Special Interest Group on Knowledge Discovery and Data Mining) meeting, 2012.
+- ***Best Paper Award at Association for Computing Machinery’s annual SIGKDD (Special Interest Group on Knowledge Discovery and Data Mining) meeting, 2012.***
 
-23. Eiseman NA, **Westover MB**, Ellenbogen JM, Bianchi MT. “The impact of body posture and sleep stages on sleep apnea severity in adults.” J Clin Sleep Med. 2012 Dec 15;8(6):655-66A. doi: 10.5664/jcsm.2258. PMCID: PMC3501662.
+23. Eiseman NA, **Westover MB**, Ellenbogen JM, Bianchi MT, <sup>“</sup>The Impact of Body Posture and Sleep Stages on Sleep Apnea Severity in Adults”. *Journal of Clinical Sleep Medicine*. 2012 Dec 15;8(6):655-66A. PMCID: PMC3501662.
 
-24. Van Esbroeck A, **Westover B**. “Data-driven modeling of sleep states from EEG.” Annu Int Conf IEEE Eng Med Biol Soc. 2012;2012:5090-3. doi: 10.1109/EMBC.2012.6347138. PMCID: PMC6788787.
+24. Van Esbroeck A, **Westover MB**, “Data-Driven Modeling of Sleep States from EEG”. *Proceedings of the International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC'12). 2012;2012:5090-3. PMCID: PMC6788787.
 
-25. Shafi MM, **Westover MB**, Cole AJ, Kilbride RD, Hoch DB, Cash SS. “Absence of early epileptiform abnormalities predicts lack of seizures on continuous EEG.” Neurology. 2012 Oct 23;79(17):1796-801. doi: 10.1212/WNL.0b013e3182703fbc. Epub 2012 Oct 10. PMCID: PMC3475619.
+25. Shafi, MM\*, **Westover MB\*,** Cole AJ, Kilbride RD, Hoch DB, Cash SS. “Absence of Early Epileptiform Abnormalities Predicts Lack of Seizures on Continuou*s EEG”. Neurology. Oct 2012; 79:1796-801.* PMCID: PMC3475619. ***\*joint first authorship.***
 
-26. Srinivasan P, **Westover MB**, Bianchi MT. “Propagation of uncertainty in Bayesian diagnostic test interpretation.” South Med J. 2012 Sep;105(9):452-9. doi: 10.1097/SMJ.0b013e3182621a2c. PMCID: PMC6785978.
+26. *Srinivasan P, **Westover*** **MB**, Bianchi MT. “Propagation of Uncertainty in Bayesian
 
-> **Westover MB**, Eiseman NA, Cash SS, Bianchi MT. “Information theoretic quantification of diagnostic uncertainty.” Open Med Inform J. 2012;6:36-50. doi: 10.2174/1874431101206010036. Epub 2012 Dec 14. PMCID: PMC3537080.
+> Diagnostic Test Interpretation”. *Southern Medical Journal.* 2012 Sep;105(9):452-9. PMCID: PMC6785978.
 
-27. **Westover MB**, Cohen AB. “Reversible vasoconstriction syndrome with bilateral basal ganglia hemorrhages.” J Neuroimaging. 2013 Jan;23(1):122-5. doi: 10.1111/j.1552-6569.2011.00645.x. Epub 2011 Sep 07. PMCID: PMC6788746.
+27. **Westover MB**, Eiseman NA, Cash SS, Bianchi MT. "An Information Theoretic Approach to Uncertainty in Diagnostic Test Interpretation." *The Open Medical Informatics Journal.* 2012 Dec; 6: 36–50. PMCID: PMC3537080.
 
-28. **Westover MB**, Bianchi MT, Shafi M, Hoch DB, Cole AJ, Chiappa K, Cash SS. “Inferring seizure frequency from brief EEG recordings.” J Clin Neurophysiol. 2013 Apr;30(2):174-7. doi: 10.1097/WNP.0b013e3182767c35. PMCID: PMC3616271.
+28. **Westover MB,** Cohen AB. “Reversible Vasoconstriction Syndrome with Bilateral Basal Ganglia Hemorrhages”. *Journal of Neuroimaging*. 2013 Jan; 23(1): 122-125. PMCID: PMC6788746.
 
-29. Ferguson M, Bianchi MT, Sutter R, Rosenthal ES, Cash SS, Kaplan PW, **Westover MB**. “Calculating the risk benefit equation for aggressive treatment of non-convulsive status epilepticus.” Neurocrit Care. 2013 Apr;18(2):216-27. doi: 10.1007/s12028-012-9785-y. PMCID: PMC3767472.
+29. **Westover MB**, Bianchi MT, Shafi MM, Hoch DB, Cole AJ Chiappa K, Cash SS, “Inferring Seizure Frequency from Brief EEG Recordings”. *Journal of Clinical Neurophysiology.* Apr 2013;30:174-7. PMCID: PMC3616271.
 
-30. Rakthanmanon T, Campana B, Mueen A, Batista G, **Westover B**, Zhu Q, Zakaria J, Keogh E. “Addressing Big Data Time Series: Mining Trillions of Time Series Subsequences Under Dynamic Time Warping.” ACM Trans Knowl Discov Data. 2013 Sep;7(3). PMCID: PMC6790126.
+30. Ferguson M, Bianchi MT, Sutter R, Rosenthal ES, Cash SS, Kaplan PW, **Westover MB**, "Calculating the Risk Benefit Equation for Aggressive Treatment of Nonconvulsive Status Epilepticus." *Neurocritical Care.* 2013 Apr;18(2):216-27. PMCID: PMC3767472.
 
-31. **Westover MB**, Ching S, Shafi MM, Cash SS, Brown EN. “Real-time segmentation and tracking of brain metabolic state in ICU EEG recordings of burst suppression.” Annu Int Conf IEEE Eng Med Biol Soc. 2013;2013:7108-11. doi: 10.1109/EMBC.2013.6611196. PMCID: PMC3939432.
+31. Rakthanmanon T, Campana B, Mueen A, Batista G, **Westover MB**, Zhu Q, Zakaria J, Keogh E.
 
-> Ching S, Liberman MY, Chemali JJ, **Westover MB**, Kenny JD, Solt K, Purdon PL, Brown EN. “Real-time closed-loop control in a rodent model of medically induced coma using burst suppression.” Anesthesiology. 2013 Oct;119(4):848-60. doi: 10.1097/ALN.0b013e31829d4ab4. PMCID: PMC3857134.
+> “Addressing Big Data Time Series: Mining Trillions of Time Series Subsequences under Dynamic Time Warping.” *ACM Transactions on Knowledge Discovery from Data (TKDD)* 2013 Feb; 7.3, 1. PMCID: PMC6790126.
 
-32. **Westover MB**, Bianchi MT, Yang C, Schneider JA, Greenberg SM. “Estimating cerebral microinfarct burden from autopsy samples.” Neurology. 2013 Apr 09;80(15):1365-9. doi: 10.1212/WNL.0b013e31828c2f52. Epub 2013 Mar 13. PMCID: PMC3662273.
+32. **Westover MB**, Ching S, Shafi MM, Cash SS, Brown EN “Real-time segmentation and tracking of brain metabolic state in ICU EEG recordings of burst suppression.” Conf Proc IEEE Eng. Med Biol Soc. 2013;2013:7108-11. PMCID: PMC3939432.
 
-33. Featured article with accompanying editorial: Neurology. 2013 Apr 9;80(15):1358-9, "Cerebral Microinfarcts: Enumerating the Innumerable".
+33. Ching S\*, Liberman MY\*, Chemali JJ\*, **Westover MB**\*, Kenny J, Purdon PL, Solt K, Brown EN. “Real-Time Closed Loop Control in a Rodent Model of Medically-Induced Coma.” *Anesthesiology*. 2013 Oct;119(4):848-60. **\*joint first authorship.** PMCID: PMC3857134.
 
-34. Recognized as work of special significance by Faculty of 1000: Baird A and Adamski M: F1000Prime Recommendation of \[Westover MB et al., Neurology 2013, 80(15):1365-9\]. In F1000Prime, 30 Apr 2013; DOI: 10.3410/f.718000104.793474863. F1000Prime.com/718000104#eval793474863.
+34. **Westover MB**, Bianchi MT, Yang C, Schneider JA, Greenberg SM. “Eestimating Total Cerebral Microinfarct Burden From Autopsy Samples”. *Neurology*. 2013 Apr 9;80(15):1365-9. PMCID: PMC3662273.
 
-- Brandon **Westover M**, Shafi MM, Ching S, Chemali JJ, Purdon PL, Cash SS, Brown EN. “Real-time segmentation of burst suppression patterns in critical care EEG monitoring.” J Neurosci Methods. 2013 Sep 30;219(1):131-41. doi: 10.1016/j.jneumeth.2013.07.003. Epub 2013 Jul 23. PMCID: PMC3939433.
+- ***Featured article with accompanying editorial**: Neurology. 2013 Apr 9;80(15):1358-9, "Cerebral Microinfarcts: Enumerating the Innumerable".*
 
-- Ng MC, **Westover MB**, Cole AJ. “Treating seizures in Creutzfeldt-Jakob disease.” Epilepsy Behav Case Rep. 2014;2:75-9. doi: 10.1016/j.ebcr.2014.01.004. Epub 2014 Feb 07. PMCID: PMC4308028.
+- ***Recognized as work of special significance by Faculty of 1000**: Baird A and Adamski M: F1000Prime Recommendation of \[Westover MB et al., Neurology 2013, 80(15):1365-9\]. In F1000Prime, 30 Apr 2013; DOI: 10.3410/f.718000104.793474863. F1000Prime.com/718000104#eval793474863.*
 
-35. Williamson CA, Wahlster S, Shafi MM, **Westover MB**. “Sensitivity of compressed spectral arrays for detecting seizures in acutely ill adults.” Neurocrit Care. 2014 Feb;20(1):32-9. doi: 10.1007/s12028-013-9912-4. PMCID: PMC6794096.
+35. **Westover MB**\*, Shafi MM\*, Ching S\*, Chemali JJ, Purdon PL, Cash SS, Brown EN. “Real-Time Segmentation of Burst Suppression Patterns in Critical Care EEG Monitoring.” *Journal of Neuroscience Methods* 2013 Aug 8. (219):131-141. PMCID: PMC3939433.
 
-36. Eiseman NA, Bianchi MT, **Westover MB**. “The information theoretic perspective on medical diagnostic inference.” Hosp Pract (1995). 2014 Apr;42(2):125-38. doi: 10.3810/hp.2014.04.1110. PMCID: PMC6993929.
+36. Ng MC, **Westover MB**, Cole AJ. “Treating Seizures in Creutzfeldt-Jakob Disease.” *Epilepsy and Behavior Case Reports* 2014 Jan; 2:75-79. PMCID: PMC4308028.
 
-37. Bai Z, Huang GB, Wang D, Wang H, **Westover MB**. “Sparse extreme learning machine for classification.” IEEE Trans Cybern. 2014 Oct;44(10):1858-70. doi: 10.1109/TCYB.2014.2298235. PMCID: PMC4883115.
+37. Williamson CA, Wahlster S, Shafi MM, **Westover MB.** “Sensitivity of Compressed Spectral Arrays for Detecting Seizures in Acutely Ill Adults”. *Neurocritical Care*. 2014 Feb; 20(1):32-9. PMCID PMC6794096.
 
-38. Shafi MM, Brandon **Westover M**, Oberman L, Cash SS, Pascual-Leone A. “Modulation of EEG functional connectivity networks in subjects undergoing repetitive transcranial magnetic stimulation.” Brain Topogr. 2014 Jan;27(1):172-91. doi: 10.1007/s10548-013-0277-y. Epub 2013 Mar 08. PMCID: PMC4026010.
+38. Eiseman, A, Bianchi MT, **Westover MB.** “The Information Theoretic Perspective on Medical Diagnostic Inference.” *<span class="mark">Hospital Practice.</span>* 2014 Apr;42(2):125-38. PMCID PMC6993929.
 
-39. Kheder A, Bianchi MT, **Westover MB**. “Burst suppression in sleep in a routine outpatient EEG.” Epilepsy Behav Case Rep. 2014;2:71-4. doi: 10.1016/j.ebcr.2014.01.003. Epub 2014 Feb 12. PMCID: PMC4308090.
+39. Bai Z, Huang GB, Wang D, Wang H, **Westover MB.** “Sparse Extreme Learning Machine for Classiﬁcation.” *IEEE Transactions on Cybernetics*, "Sparse Extreme Learning Machine for Classification," *Cybernetics, IEEE Transactions on* , vol.PP, no.99, pp.1,1\
+    doi: 10.1109/TCYB.2014.2298235. PMCID: PMC4883115.
 
-40. Bianchi MT, **Westover MB**. “Insomnia and morning motor vehicle accidents: a decision analysis of the risk of hypnotics versus the risk of untreated insomnia.” J Clin Psychopharmacol. 2014 Jun;34(3):400-2. doi: 10.1097/JCP.0000000000000134. PMCID: PMC6794095.
+40. Shafi MM\*, **Westover MB\***, Oberman L, Cash SS, Pascual-Leone A. “Modulation of EEG functional connectivity networks in subjects undergoing repetitive transcranial magnetic stimulation.” *Brain Topography.* 2014 Jan;27(1):172-91. doi: 10.1007/s10548-013-0277-y. Epub 2013 Mar 8. PMCID: PMC4026010. **\*joint first authorship.**
 
-41. Moura LM, Shafi MM, Ng M, Pati S, Cash SS, Cole AJ, Hoch DB, Rosenthal ES, **Westover MB**. “Spectrogram screening of adult EEGs is sensitive and efficient.” Neurology. 2014 Jul 01;83(1):56-64. doi: 10.1212/WNL.0000000000000537. Epub 2014 May 23. PMCID: PMC4114174.
+41. Kheder A, Bianchi MT, **Westover MB.** “Burst Suppression in Sleep in a Routine Outpatient EEG.” *Epilepsy and Behavior Case Reports* 2014 Jan; 2:71-74. PMCID: PMC4308090.
 
-42. Reviewed in Epilepsy Currents, official journal of the American Epilepsy Society: Epilepsy
+42. Bianchi MT, **Westover MB.** “Insomnia and morning motor vehicle accidents: A decision analysis of the risk of hypnotics versus the risk of untreated insomnia.” *Journal of Clinical Psychopharmacology*. 2014 Jun;34(3):400-402. PMCID: PMC6794095.
 
-43. Carlson C. “Can We Screen EEGs More Efficiently? Spectrographic Review of EEG Data.” Epilepsy Curr. 2015;15(1):24-5. doi: 10.5698/1535-7597-15.1.24. PMCID: PMC4320952.
+43. Moura LMVR, Shafi MM, Ng M, Pati S, Cash SS, Cole AJ, Hoch DB, Rosenthal ES, **Westover MB**. “Spectrogram Screening of Adult Electroencephalograms is Sensitive and Efficient.” *Neurology*. 2014 Jul 1;83(1):56-64. PMCID: PMC4114174.
 
-- Berkowitz AL, **Westover MB**, Bianchi MT, Chou SH. “Aspirin for acute stroke of unknown etiology in resource-limited settings: a decision analysis.” Neurology. 2014 Aug 26;83(9):787-93. doi: 10.1212/WNL.0000000000000730. Epub 2014 Jul 23. PMCID: PMC4155044.
+- ***Reviewed in Epilepsy Currents, official journal of the American Epilepsy Society:** Epilepsy*
 
-Gaspard N, Hirsch LJ, LaRoche SM, Hahn CD, **Westover MB**, Critical Care EEG Monitoring Research Consortium. “Interrater agreement for Critical Care EEG Terminology.” Epilepsia. 2014 Sep;55(9):1366-73. doi: 10.1111/epi.12653. Epub 2014 Jun 02. PMCID: PMC4879939.
+> *Currents. 2015 Jan-Feb;15(1):24-5. doi: 10.5698/1535-7597-15.1.24. PMCID: PMC4320952.*
 
-44. Akeju O, Pavone KJ, **Westover MB**, Vazquez R, Prerau MJ, Harrell PG, Hartnack KE, Rhee J, Sampson AL, Habeeb K, Gao L, Pierce ET, Walsh JL, Brown EN, Purdon PL. “A comparison of propofol- and dexmedetomidine-induced electroencephalogram dynamics using spectral and coherence analysis.” Anesthesiology. 2014 Nov;121(5):978-89. doi: 10.1097/ALN.0000000000000419. PMCID: PMC4304638.
+44. Berkowitz AL, **Westover MB**, Bianchi MT, Chou SHY. “Aspirin for Acute Stroke of Unknown Etiology in Resource-Limited Settings: A Decision Analysis.” *Neurology.* 2014; 83:1–7. PMCID: PMC4155044.
 
-- Bianchi MT, Lipoma T, Darling C, Alameddine Y, **Westover MB**. “Automated sleep apnea quantification based on respiratory movement.” Int J Med Sci. 2014;11(8):796-802. doi: 10.7150/ijms.9303. Epub 2014 May 30. PMCID: PMC4057486.
+- ***Featured article with accompanying editorial**: Neurology 2014; 83:1–2. “Expanding antiplatelet use for patients with stroke: The case for stroke of unknown type*.”
 
-45. Jing Jin, Dauwels J, Cash S, **Westover MB**. “SpikeGUI: software for rapid interictal discharge annotation via template matching and online machine learning.” Annu Int Conf IEEE Eng Med Biol Soc. 2014;2014:4435-8. doi: 10.1109/EMBC.2014.6944608. PMCID: PMC4416962.
+45. Gaspard N, Hirsch LJ, LaRoche SM, Hahn CD, **Westover MB.** "Inter-rater agreement for Critical Care EEG Terminology." *Epilepsia*. 2014 Sep;55(9):1366-73. PMCID: PMC4879939.
 
-46. Akeju O, **Westover MB**, Pavone KJ, Sampson AL, Hartnack KE, Brown EN, Purdon PL. “Effects of sevoflurane and propofol on frontal electroencephalogram power and coherence.” Anesthesiology. 2014 Nov;121(5):990-8. doi: 10.1097/ALN.0000000000000436. PMCID: PMC4206606.
+46. Akeju O, Pavone KJ, **Westover MB**, Vazquez R, Harrell PG, Hartnack KE, Rhee J, Sampson AL, Habeeb K, Lei G, Pierce ET, Walsh JL, Brown EN, Purdon PL. “Comparison of Propofol- and Dexmedetomidine-induced Electroencephalogram Dynamics Using Spectral and Coherence Analysis.” *Anesthesiology 2014 Nov;121(5):978-89.* PMCID: PMC4304638.
 
-47. Akama-Garren EH, Bianchi MT, Leveroni C, Cole AJ, Cash SS, **Westover MB**. “Weighing the value of memory loss in the surgical evaluation of left temporal lobe epilepsy: a decision analysis.” Epilepsia. 2014 Nov;55(11):1844-53. doi: 10.1111/epi.12790. Epub 2014 Sep 19. PMCID: PMC4877127.
+47. Bianchi MT, Lipoma T, Darling C, Alameddine Y, **Westover MB**. “Automated Sleep Apnea Quantification Based on Respiratory Movement.” International Journal of Medical Sciences 2014; 11(8):796-802. PMCID: PMC4057486.
 
-48. Bianchi MT, Hershman S, Bahadoran M, Ferguson M, **Westover MB**. “The challenge of undiagnosed sleep apnea in low-risk populations: a decision analysis.” Mil Med. 2014 Aug;179(8 Suppl):47-54. doi: 10.7205/MILMED-D-13-00483. PMCID: PMC6788752.
+48. Jin Jing, Dauwels J, Cash SS, **Westover MB**, “SpikeGUI: Software for Rapid Interictal Discharge Annotation Via Template Matching and Online Machine Learning.” *Proceedings of the International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC), 2014: 4435-4438. PMCID: PMC4416962.
 
-49. Y W, Mb W, C S, G S, Mt B, Kd W. “Applications of a Capacitor-Based Respiratory Position Sensing Device: Implications for Radiation Therapy.” Austin J Med Oncol. 2014;1(2). Epub 2014 Oct 24. PMCID: PMC6956860.
+49. Akeju O, **Westover MB**, Pavone KJ, Sampson A, Hartnack K, Brown EN, Purdon PL. “Effects of sevoflurane and propofol on frontal electroencephalogram power and coherence.” *Anesthesiology*. 2014 Nov;121(5):990-8. PMCID: PMC4206606.
 
-50. **Westover MB**, Shafi MM, Bianchi MT, Moura LM, O'Rourke D, Rosenthal ES, Chu CJ, Donovan S, Hoch DB, Kilbride RD, Cole AJ, Cash SS. “The probability of seizures during EEG monitoring in critically ill adults.” Clin Neurophysiol. 2015 Mar;126(3):463-71. doi: 10.1016/j.clinph.2014.05.037. Epub 2014 Jul 11. PMCID: PMC4289643.
+50. Akama-Garren EH, Bianchi MT, Leveroni C, Cole AJ, Cash SS, **Westover MB**. “Weighing the value of memory loss in the surgical evaluation of left temporal lobe epilepsy: A decision analysis.” *Epilepsia.* 2014 Nov;55(11):1844-53. PMCID: PMC4877127.
 
-51. Featured article with accompanying editorial: “Early epileptiform discharges and the yield of prolonged EEG monitoring.” Dangayach N, Claassen J., Clinical Neurophysiology (2014), doi: http://dx.doi.org/10.1016/j.clinph.2014.07.002.
+51. Bianchi MT, Hershman S, Bahadoran M, Ferguson M, **Westover MB**. “The Challenge of Undiagnosed Sleep Apnea in Low-Risk Populations: A Decision Analysis.” *Military Medicine* 2014 Aug;179(8S):47-54. PMCID: PMC6788752.
 
-52. Berkowitz AL, **Westover MB**, Bianchi MT, Chou SH. “Aspirin for secondary prevention after stroke of unknown etiology in resource-limited settings.” Neurology. 2014 Sep 09;83(11):1004-11. doi: 10.1212/WNL.0000000000000779. Epub 2014 Aug 13. PMCID: PMC4162302.
+52. Weng Y, **Westover MB**, Speier C, Sharp G, Bianchi MT, Westover KD. “Applications of a Capacitor-Based Respiratory Position Sensing Device: Implications for Radiation Therapy.” Austin Journal of Medical Oncology 2014;1(2). PMCID: PMC6956860.
 
-53. Alvarez V, **Westover MB**, Drislane FW, Dworetzky BA, Curley D, Lee JW, Rossetti AO. “Evaluation of a clinical tool for early etiology identification in status epilepticus.” Epilepsia. 2014 Dec;55(12):2059-2068. doi: 10.1111/epi.12852. Epub 2014 Nov 10. PMCID: PMC4870016.
+53. **Westover MB\***, Shafi MM\*, Bianchi MT, Moura LMVR, O'Rourke D, Rosenthal ES, Chu CJ, Donovan S, Hoch DB, Kilbride RD, Cole AJ, Cash SS. “The Probability of Seizures During EEG Monitoring in Critically Ill Adults.” *Clinical Neurophysiology*. 2014 Jul 11. pii: S1388-2457(14)00362-9. doi: 10.1016/j.clinph.2014.05.037. \[Epub ahead of print\]. PMCID: PMC4289643. ***\*joint first authorship.***
 
-- O'Connor KL, **Westover MB**, Phillips MT, Iftimia NA, Buckley DA, Ogilvy CS, Shafi MM, Rosenthal ES. “High risk for seizures following subarachnoid hemorrhage regardless of referral bias.” Neurocrit Care. 2014 Dec;21(3):476-82. doi: 10.1007/s12028-014-9974-y. PMCID: PMC4878846.
+- ***Featured article with accompanying editorial**: “Early epileptiform discharges and the yield of prolonged EEG monitoring.”* Dangayach N, Claassen J., *Clinical Neurophysiology* (2014), doi: [<u>http://dx.doi.org/10.1016/j.clinph.2014.07.002</u>](http://dx.doi.org/10.1016/j.clinph.2014.07.002).
 
-54. Kenny JD, **Westover MB**, Ching S, Brown EN, Solt K. “Propofol and sevoflurane induce distinct burst suppression patterns in rats.” Front Syst Neurosci. 2014;8:237. doi: 10.3389/fnsys.2014.00237. Epub 2014 Dec 18. PMCID: PMC4270179.
+54. Berkowitz AL\*, **Westover MB\***, Bianchi MT, Chou SH. “Aspirin for secondary stroke prevention after stroke of unknown etiology in resource-limited settings: A decision analysis.” *Neurology* 2014 Sep 9;83(11):1004-11. PMCID: PMC4162302. ***\*joint first authorship***
 
-55. Ng MC, Gaspard N, Cole AJ, Hoch DB, Cash SS, Bianchi M, O'Rourke DA, Rosenthal ES, Chu CJ, **Westover MB**. “The standardization debate: A conflation trap in critical care electroencephalography.” Seizure. 2015 Jan;24:52-8. doi: 10.1016/j.seizure.2014.09.017. Epub 2014 Oct 16. PMCID: PMC4465375.
+55. Alvarez V, **Westover MB**, Drislane FW, Dworetzky BA, Curley D, Lee JW, Rossetti AO. “Evaluation of a clinical tool for early etiology identification in status epilepticus.” *Epilepsia*. 2014 Dec;55(12):2059-2068. PMCID: PMC4870016.
 
-56. de Gusmäo CM, Berkowitz AL, Hung AY, **Westover MB**. “Cerebrospinal fluid shunt-induced chorea: case report and review of the literature on shunt-related movement disorders.” Pract Neurol. 2015 Feb;15(1):42-4. doi: 10.1136/practneurol-2014-000913. Epub 2014 Jul 04. PMCID: PMC4870013.
+56. O’Connor KL, **Westover MB**, Shafi MM, Rosenthal ES. “High Risk for Seizures Following Subarachnoid Hemorrhage Regardless of Referral Bias.” *Neurocritical Care.* 2014 Dec;21(3):476-82. PMCID: PMC4878846.
 
-57. Shafi MM, Vernet M, Klooster D, Chu CJ, Boric K, Barnard ME, Romatoski K, **Westover MB**, Christodoulou JA, Gabrieli JD, Whitfield-Gabrieli S, Pascual-Leone A, Chang BS. “Physiological consequences of abnormal connectivity in a developmental epilepsy.” Ann Neurol. 2015 Mar;77(3):487-503. doi: 10.1002/ana.24343. Epub 2015 Jan 29. PMCID: PMC4394240.
+57. Kenny JD, **Westover MB**, Ching S, Brown EN, Solt K. “Propofol and sevoflurane induce distinct burst suppression patterns in rats.” *Frontiers in Neuroscience* Front Syst Neurosci. 2014 Dec 18;8:237. doi: 10.3389/fnsys.2014.00237. eCollection 2014. PMCID: PMC4270179.
 
-58. Dranias MR, **Westover MB**, Cash S, VanDongen AM. “Stimulus information stored in lasting active and hidden network states is destroyed by network bursts.” Front Integr Neurosci. 2015;9:14. doi: 10.3389/fnint.2015.00014. Epub 2015 Feb 23. PMCID: PMC4337383.
+58. Ng MC, Gaspard N, Cole AJ, Hoch DB, Cash SS, Bianchi MT, O‘Rourke DA, Rosenthal ES, Chu CJ, **Westover MB**. “The Standardization Debate: A Conflation Trap in Critical Care Electroencephalography.” *Seizure: European Journal of Epilepsy* 2015 Jan;24C:52-58. PMCID: PMC4465375.
 
-59. **Westover MB**, Kim SE, Ching S, Purdon PL, Brown EN. “Robust control of burst suppression for medical coma.” J Neural Eng. 2015 Aug;12(4):046004. doi: 10.1088/1741-2560/12/4/046004. Epub 2015 May 28. PMCID: PMC4517835.
+59. de Gusmäo CM, Berkowitz AL, Hung AY, **Westover MB**. “Cerebrospinal fluid shunt-induced chorea: case report and review of the literature on shunt-related movement disorders.” Practical Neurology. 2015 Feb;15(1):42-4. PMCID: PMC4870013.
 
-60. Alvarez V, Drislane FW, **Westover MB**, Dworetzky BA, Lee JW. “Characteristics and role in outcome prediction of continuous EEG after status epilepticus: A prospective observational cohort.” Epilepsia. 2015 Jun;56(6):933-41. doi: 10.1111/epi.12996. Epub 2015 May 07. PMCID: PMC4878827.
+60. Shafi MM, Vernet M, Klooster D, Chu CJ, Boric K, Barnard ME, Romatoski K, **Westover MB**, Christodoulou JA, Gabrieli JDE, Whitfield-Gabrieli S, Pascual-Leone A, Chang BS. “Physiological consequences of abnormal connectivity in a developmental epilepsy.” *Annals of Neurology* 2015 Mar;77(3):487-503. PMCID: PMC4394240.
 
-61. Alvarez V, Lee JW, Drislane FW, **Westover MB**, Novy J, Dworetzky BA, Rossetti AO. “Practice variability and efficacy of clonazepam, lorazepam, and midazolam in status epilepticus: A multicenter comparison.” Epilepsia. 2015 Aug;56(8):1275-85. doi: 10.1111/epi.13056. Epub 2015 Jul 03. PMCID: PMC4877129.
+61. Dranias MR, **Westover MB**, Cash SS, VanDongen AMJ, “Stimulus information stored in lasting active and hidden network states is destroyed by network bursts.” *Frontiers in Integrative Neuroscience* 2015 Feb 23;9:14. doi: 10.3389/fnint.2015.00014. eCollection 2015. PMCID: PMC4337383.
 
-62. Auriel E, **Westover MB**, Bianchi MT, Reijmer Y, Martinez-Ramirez S, Ni J, Van Etten E, Frosch MP, Fotiadis P, Schwab K, Vashkevich A, Boulouis G, Younger AP, Johnson KA, Sperling RA, Hedden T, Gurol ME, Viswanathan A, Greenberg SM. “Estimating Total Cerebral Microinfarct Burden From Diffusion-Weighted Imaging.” Stroke. 2015 Aug;46(8):2129-35. doi: 10.1161/STROKEAHA.115.009208. Epub 2015 Jul 09. PMCID: PMC4519384.
+62. **Westover MB**, Kim SE, Ching S, Purdon PL, Brown EN, “Robust Control of Burst Suppression for Medical Coma.” *Journal of Neural Engineering.* 2015 Aug;12(4):046004. doi: 10.1088/1741-2560/12/4/046004. Epub 2015 May 28. PMCID: PMC4517835.
 
-63. Biswal S, Nip Z, Moura Junior V, Bianchi MT, Rosenthal ES, **Westover MB**. “Automated information extraction from free-text EEG reports.” Annu Int Conf IEEE Eng Med Biol Soc. 2015;2015:6804-7. doi: 10.1109/EMBC.2015.7319956. PMCID: PMC4872711.
+63. Alvarez V, Drislane FW, **Westover MB**, Dworetzky BA, Lee JW. “Characteristics and role in outcome prediction of continuous EEG after status epilepticus: A prospective observational cohort.” *Epilepsia.* 2015. Jun;56(6):933-41. PMCID: PMC4878827.
 
-64. Zhou DW, **Westover MB**, McClain LM, Nagaraj SB, Bajwa EK, Quraishi SA, Akeju O, Cobb JP, Purdon PL. “Clustering analysis to identify distinct spectral components of encephalogram burst suppression in critically ill patients.” Annu Int Conf IEEE Eng Med Biol Soc. 2015;2015:7258-61. doi: 10.1109/EMBC.2015.7320067. PMCID: PMC4870011.
+64. Alvarez V, Drislane FW, **Westover MB**, Dworetzky BA, Lee JW. “Practice variability and efficacy of Clonazepam, Lorazepam and Midazolam in Status Epilepticus: A Multicenter Comparison.” *Epilepsia 2015 Aug;56(8):1275-85.* PMCID: PMC4877129.
 
-65. An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, **Westover MB**. “Spatial variation in automated burst suppression detection in pharmacologically induced coma.” Annu Int Conf IEEE Eng Med Biol Soc. 2015;2015:7430-3. doi: 10.1109/EMBC.2015.7320109. PMCID: PMC4876722.
+65. Auriel E, **Westover MB**, Bianchi MT, Reijmer Y, Martinez-Ramirez S, Ni J, Van Etten E, Frosch MP, Fotiadis P, Schwab K, Vashkevich A, Boulouis G, Younger AP, Johnson KA, Sperling RA, Hedden T, Gurol ME, Viswanathan A, Greenberg SM. “Estimating Total Cerebral Microinfarct Burden From Diffusion-Weighted Imaging.” *Stroke*. 2015 Aug;46(8):2129-35. PMCID: PMC4519384.
 
-66. Ghassemi MM, Amorim E, Pati SB, Mark RG, Brown EN, Purdon PL, **Westover MB**. “An enhanced cerebral recovery index for coma prognostication following cardiac arrest.” Annu Int Conf IEEE Eng Med Biol Soc. 2015;2015:534-7. doi: 10.1109/EMBC.2015.7318417. PMCID: PMC4870018.
+66. Akeju O, Pavone KJ, Thum JA, Firth PG, **Westover MB**, Puglia M, Shank ES, Brown EN, Purdon PL. Age-dependency of sevoflurane-induced electroencephalogram dynamics in children. Br J Anaesth. 2015 Jul;115 Suppl 1(Suppl 1):i66-i76. doi: 10.1093/bja/aev114. PMID: 26174303; PMCID: PMC4501917.
 
-67. Struck AF, **Westover MB**. “Variability in clinical assessment of neuroimaging in temporal lobe epilepsy.” Seizure. 2015 Aug;30:132-5. doi: 10.1016/j.seizure.2015.06.011. Epub 2015 Jul 02. PMCID: PMC4887849.
+67. Biswal B, Nip Z, Moura JV, Bianchi MT, Rosenthal ES, **Westover MB**. “Automated Information Extraction from Free-Text EEG Reports.” *Conf Proc IEEE Eng Med Biol Soc.* 2015 Aug;2015:6804-7. doi: 10.1109/EMBC.2015.7319956. PMCID: PMC4872711*.*
 
-68. **Westover MB**, Ching S, Kumaraswamy VM, Akeju SO, Pierce E, Cash SS, Kilbride R, Brown EN, Purdon PL. “The human burst suppression electroencephalogram of deep hypothermia.” Clin Neurophysiol. 2015 Oct;126(10):1901-1914. doi: 10.1016/j.clinph.2014.12.022. Epub 2015 Jan 16. PMCID: PMC4504839.
+68. Zhou DW\*, **Westover MB**\*, McClain LM, Nagaraj SB, Bajwa EK, Quraishi SA, Akeju O, Cobb JP, Purdon PL. “Clustering analysis to identify distinct spectral components of encephalogram burst suppression in critically ill patients.” ***\*joint first authorship.** Conf Proc IEEE Eng Med Biol Soc.* 2015 Aug;2015:7258-61. doi: 10.1109/EMBC.2015.7320067. PMCID: PMC4870011.
 
-69. Gaspard N, Foreman BP, Alvarez V, Cabrera Kang C, Probasco JC, Jongeling AC, Meyers E, Espinera A, Haas KF, Schmitt SE, Gerard EE, Gofton T, Kaplan PW, Lee JW, Legros B, Szaflarski JP, **Westover BM**, LaRoche SM, Hirsch LJ, Critical Care EEG Monitoring Research Consortium (CCEMRC). “New-onset refractory status epilepticus: Etiology, clinical features, and outcome.” Neurology. 2015 Nov 03;85(18):1604-13. doi: 10.1212/WNL.0000000000001940. Epub 2015 Aug 21. PMCID: PMC4642147.
+69. An JZ, Jonnalagadda D, Junior VM, Purdon PL, Brown EN, **Westover MB**. “Spatial Variation in Automated Burst Suppression Detection in Pharmacologically Induced Coma.” *Conf Proc IEEE Eng Med Biol Soc.* 2015 Aug;2015:7430-3. PMCID: PMC4876722.
 
-70. Struck AF, Cole AJ, Cash SS, **Westover MB**. “The number of seizures needed in the EMU.” Epilepsia. 2015 Nov;56(11):1753-9. doi: 10.1111/epi.13090. Epub 2015 Jul 27. PMCID: PMC4877132.
+70. Ghassemi M, Amorim E, Pati A, Mark R, Brown EN, Purdon PL, **Westover MB**. “An Enhanced Cerebral Recovery Index for Coma Prognostication Following Cardiac Arrest.” *Conf Proc IEEE Eng Med Biol Soc.* 2015 Aug;2015:534-7. doi: 10.1109/EMBC.2015.7318417. PMCID: PMC4870018.
 
-71. Hermans MC, **Westover MB**, van Putten MJAM, Hirsch LJ, Gaspard N. “Quantification of EEG reactivity in comatose patients.” Clin Neurophysiol. 2016 Jan;127(1):571-580. doi: 10.1016/j.clinph.2015.06.024. Epub 2015 Jul 02. PMCID: PMC4885124.
+71. Struck A, **Westover MB.** “Variability in Clinical Assessment of Neuroimaging in Temporal Lobe Epilepsy.” *Seizure: European Journal of Epilepsy.* 2015 Aug;30:132-5. doi: 10.1016/ j.seizure.2015.06.011. Epub 2015 Jul 2. PMCID: PMC4887849.
 
-72. Ustun B, **Westover MB**, Rudin C, Bianchi MT. “Clinical Prediction Models for Sleep Apnea: The Importance of Medical History over Symptoms.” J Clin Sleep Med. 2016 Feb;12(2):161-8. doi: 10.5664/jcsm.5476. PMCID: PMC4751423.
+72. **Westover MB**, Ching S, Kumaraswamy VM, Akeju O, Pierce E, Cash SS, Kilbride R, Brown EN, Purdon PL. “The Human Burst Suppression Electroencephalogram of Deep Hypothermia.” *Clinical Neurophysiology*. 2015 Oct;126(10):1901-1914. PMCID: PMC4504839.
 
-73. Moro M, **Westover MB**, Kelly J, Bianchi MT. “Decision Modeling in Sleep Apnea: The Critical Roles of Pretest Probability, Cost of Untreated Obstructive Sleep Apnea, and Time Horizon.” J Clin Sleep Med. 2016 Mar;12(3):409-18. doi: 10.5664/jcsm.5596. PMCID: PMC4773629.
+73. Gaspard N, Foreman BP, Alvarez V, Cabrera Kang CM, Probasco JC, Jongeling AC, Meyers E, Espinera A, Haas KF, Schmitt SE, Gerard EE, Gofton T, Kaplan PW, Lee JW, Legros B, Szaflarski JP, **Westover MB**, LaRoche SM, Hirsch LJ, “New-onset refractory status epilepticus: etiology, clinical features and outcome.” *Neurology. 2015 Nov 3;85(18):1604-13.* PMCID: PMC4642147.
 
-74. Bagheri E, Jin J, Dauwels J, Cash S, **Westover MB**. “FAST AND EFFICIENT REJECTION OF BACKGROUND WAVEFORMS IN INTERICTAL EEG.” Proc IEEE Int Conf Acoust Speech Signal Process. 2016 Mar;2016:744-748. doi: 10.1109/ICASSP.2016.7471774. Epub 2016 May 19. PMCID: PMC5835012.
+74. Struck A, Cash SS, Cole AJ, **Westover MB**. “The Number of Seizures needed in the EMU.” *Epilepsia.* 2015 Nov;56(11):1753-9. PMCID: PMC4877132.
 
-75. Johansen AR, Jin J, Maszczyk T, Dauwels J, Cash SS, **Westover MB**. “EPILEPTIFORM SPIKE DETECTION VIA CONVOLUTIONAL NEURAL NETWORKS.” Proc IEEE Int Conf Acoust Speech Signal Process. 2016 Mar;2016:754-758. doi: 10.1109/ICASSP.2016.7471776. Epub 2016 May 19. PMCID: PMC5842703.
+75. Hermans MC, **Westover MB**, van Putten MJAM, Hirsch LJ, Gaspard N. “Quantification of EEG reactivity in comatose patients.” *Clinical Neurophysiology.* 2016 Jan;127(1):571-580. PMCID: PMC4885124.
 
-76. Thomas J, Jin J, Dauwels J, Cash SS, **Westover MB**. “CLUSTERING OF INTERICTAL SPIKES BY DYNAMIC TIME WARPING AND AFFINITY PROPAGATION.” Proc IEEE Int Conf Acoust Speech Signal Process. 2016 Mar;2016:749-753. doi: 10.1109/ICASSP.2016.7471775. Epub 2016 May 19. PMCID: PMC5842698.
+76. Ustun B, **Westover MB**, Rudin C, Bianchi MT. “Clinical Prediction Models for Sleep Apnea: The Importance of Medical History over Symptoms.” *Journal of Clinical Sleep Medicine*. 2016 Feb;12(2):161-8. doi: 10.5664/jcsm.5476. PMCID: PMC4751423.
 
-77. Fürbass F, Herta J, Koren J, **Westover MB**, Hartmann MM, Gruber A, Baumgartner C, Kluge T. “Monitoring burst suppression in critically ill patients: Multi-centric evaluation of a novel method.” Clin Neurophysiol. 2016 Apr;127(4):2038-46. doi: 10.1016/j.clinph.2016.02.001. Epub 2016 Feb 09. PMCID: PMC4879619.
+77. Moro M, **Westover MB,** Kelly J, Bianchi MT. “Decision modeling in sleep apnea: the critical roles of pre-test probability, cost of untreated OSA, and time horizon.” *Journal of Clinical Sleep Medicine.* 2016 Mar;12(3):409-418. PMCID: PMC4773629.
 
-78. Jing J, Dauwels J, Rakthanmanon T, Keogh E, Cash SS, **Westover MB**. “Rapid annotation of interictal epileptiform discharges via template matching under Dynamic Time Warping.” J Neurosci Methods. 2016 Dec 01;274:179-190. doi: 10.1016/j.jneumeth.2016.02.025. Epub 2016 Mar 02. PMCID: PMC5519352.
+78. Bagheri E, Jing J, Dauwels J, Cash SS, **Westover MB.** “Fast and Efficient Rejection of Background Waveforms in Interictal EEG.” *Proceedings of The IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016),* 2016 Mar, p744-748*.* PMCID: PMC5835012.
 
-79. Lee JW, LaRoche S, Choi H, Rodriguez Ruiz AA, Fertig E, Politsky JM, Herman ST, Loddenkemper T, Sansevere AJ, Korb PJ, Abend NS, Goldstein JL, Sinha SR, Dombrowski KE, Ritzl EK, **Westover MB**, Gavvala JR, Gerard EE, Schmitt SE, Szaflarski JP, Ding K, Haas KF, Buchsbaum R, Hirsch LJ, Wusthoff CJ, Hopp JL, Hahn CD, Critical Care EEG Monitoring Research Consortium (CCEMRC). “Development and Feasibility Testing of a Critical Care EEG Monitoring Database for Standardized Clinical Reporting and Multicenter Collaborative Research.” J Clin Neurophysiol. 2016 Apr;33(2):133-40. doi: 10.1097/WNP.0000000000000230. PMCID: PMC4878836.
+79. Johansen AR, Jing J, Maszczyk T, Dauwels J, Cash SS, **Westover MB**. “Epileptiform Spike Detection Via Convolutional Neural Networks.” *Proceedings of The IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016),* 2016 Mar, p744-748*.* PMCID: PMC5842703.
 
-80. O'Rourke D, Chen PM, Gaspard N, Foreman B, McClain L, Karakis I, Mahulikar A, **Westover MB**. “Response Rates to Anticonvulsant Trials in Patients with Triphasic-Wave EEG Patterns of Uncertain Significance.” Neurocrit Care. 2016 Apr;24(2):233-9. doi: 10.1007/s12028-015-0151-8. PMCID: PMC4870012.
+80. Thomas J, Jing J, Dauwels J, Cash SS, **Westover MB**. “Clustering of Interictal Spikes by Dynamic Time Warping and Affinity Propagation.” *Proceedings of The IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016),* 2016 Mar, p744-748*.* PMCID: PMC5842698.
 
-81. Struck AF, **Westover MB**, Hall LT, Deck GM, Cole AJ, Rosenthal ES. “Metabolic Correlates of the Ictal-Interictal Continuum: FDG-PET During Continuous EEG.” Neurocrit Care. 2016 Jun;24(3):324-31. doi: 10.1007/s12028-016-0245-y. PMCID: PMC5478419.
+81. Fürbass F, Herta J, Koren J, **Westover MB**, Gruber A, Baumgartner C, Kluge T. “Monitoring burst suppression in critically ill patients: Multi-centric evaluation of a novel method Clinical Neurophysiology.” *Clinical Neurophysiology.* 2016 Apr;127(4):2038-46*.* PMCID: PMC4879619.
 
-82. Haider HA, Esteller R, Hahn CD, **Westover MB**, Halford JJ, Lee JW, Shafi MM, Gaspard N, Herman ST, Gerard EE, Hirsch LJ, Ehrenberg JA, LaRoche SM, Critical Care EEG Monitoring Research Consortium. “Sensitivity of quantitative EEG for seizure identification in the intensive care unit.” Neurology. 2016 Aug 30;87(9):935-44. doi: 10.1212/WNL.0000000000003034. Epub 2016 Jul 27. PMCID: PMC5035158.
+82. Jing J, Dauwels J, Rakthanmanon T, Keogh E, Cash SS, **Westover MB**. “Rapid Annotation of Interictal Epileptiform Discharges via Template Matching under Dynamic Time Warping.” J Neurosci Methods. 2016 Dec 1;274:179-190. PMCID: PMC5519352.
 
-83. Nagaraj SB, Ramaswamy SM, Biswal S, Boyle EJ, Zhou DW, Mcclain LM, Rosenthal ES, Purdon PL, **Westover MB**. “Heart rate variability as a biomarker for sedation depth estimation in ICU patients.” Annu Int Conf IEEE Eng Med Biol Soc. 2016 Aug;2016:6397-6400. doi: 10.1109/EMBC.2016.7592192. PMCID: PMC5478422.
+83. Lee JW, LaRoche S, Choi H, Rodriguez Ruiz AA, Fertig E, Politsky J, Herman S, Loddenkemper T, Sansevere A, Korb PJ, Abend N, Goldstein JL, Sinha SR, Dombrowski KE, Ritzl EK, **Westover MB**, Gavvala J, Schmitt S, Szaflarski JP, Ding K, Haas KF, Buchsbaum R, Hirsch LJ, Wusthoff CJ, Hopp JL, Hahn CD. “Development and validation of a critical care EEG monitoring database for standardized clinical reporting and multicenter collaborative research.” *Journal of Clinical Neurophysiology*. 2016 Apr;33(2):133-40. PMCID: PMC4878836.
 
-84. Zafar SF, **Westover MB**, Gaspard N, Gilmore EJ, Foreman BP, OʼConnor KL, Rosenthal ES. “Interrater Agreement for Consensus Definitions of Delayed Ischemic Events After Aneurysmal Subarachnoid Hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):235-40. doi: 10.1097/WNP.0000000000000276. PMCID: PMC4894325.
+84. O’Rourke D, Chen PM, Nicolas G, Foreman B, McClain L, Karakis I, Mahulikar A, **Westover MB.** “Response Rates to Anticonvulsant Trials in Patients with Triphasic-Wave EEG Patterns of Uncertain Significance.” *Neurocritical Care.* 2016 Apr;24(2):233-239. PMCID: PMC4870012
 
-85. Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor K, Rosenthal ES, **Westover MB**. “Automation of Classical QEEG Trending Methods for Early Detection of Delayed Cerebral Ischemia: More Work to Do.” J Clin Neurophysiol. 2016 Jun;33(3):227-34. doi: 10.1097/WNP.0000000000000278. PMCID: PMC4894333.
+85. Struck AF, **Westover MB,** Deck GM, Cole AJ, Rosenthal ES. “Metabolic Correlates of the Ictal-Interictal Continuum: FDG-PET during Continuous EEG.” *Neurocritical Care* 2016 Jun;24(3):324-31. PMCID: PMC5478419.
 
-86. Muniz CF, Shenoy AV, OʼConnor KL, Bechek SC, Boyle EJ, Guanci MM, Tehan TM, Zafar SF, Cole AJ, Patel AB, **Westover MB**, Rosenthal ES. “Clinical Development and Implementation of an Institutional Guideline for Prospective EEG Monitoring and Reporting of Delayed Cerebral Ischemia.” J Clin Neurophysiol. 2016 Jun;33(3):217-26. doi: 10.1097/WNP.0000000000000281. PMCID: PMC4907266.
+86. Arif Haider H, Esteller R, Hahn CD, **Westover MB**, Halford JJ, Lee JW, Shafi MM, Gaspard N, Herman ST, Gerard EE, Hirsch LJ, Ehrenberg JA, LaRoche SM. “Sensitivity of Quantitative EEG for Seizure Identification in the Intensive Care Unit.” *Neurology.* 2016 Aug 30;87(9):935-44. PMCID: PMC5035158.
 
-87. Hotan GC, Struck AF, Bianchi MT, Eskandar EN, Cole AJ, **Westover MB**. “Decision analysis of intracranial monitoring in non-lesional epilepsy.” Seizure. 2016 Aug;40:59-70. doi: 10.1016/j.seizure.2016.06.010. Epub 2016 Jun 18. PMCID: PMC4967015.
+87. Nagaraj SB, Ramaswamy SM, Biswal S, Boyle EJ, Zhou DW, McClain LM, Rosenthal ES, Purdon PL, **Westover MB**. “Heart rate variability as a biomarker for sedation depth estimation in ICU patients.” *Conf Proc IEEE Eng Med Biol Soc*. 2016 Aug;2016:6397-6400. PMCID: PMC5478422.
 
-88. Nagaraj SB, McClain LM, Zhou DW, Biswal S, Rosenthal ES, Purdon PL, **Westover MB**. “Automatic Classification of Sedation Levels in ICU Patients Using Heart Rate Variability.” Crit Care Med. 2016 Sep;44(9):e782-9. doi: 10.1097/CCM.0000000000001708. PMCID: PMC4987179.
+88. Zafar SF, **Westover MB**, Gaspard N, Gilmore EJ, Foreman BP, O’Connor KL, Rosenthal ES. “Interrater Agreement for Consensus Definitions of Delayed Ischemic Events After Aneurysmal Subarachnoid Hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):235-40. PMCID: PMC4894325.
 
-89. Alvarez V, Lee JW, **Westover MB**, Drislane FW, Novy J, Faouzi M, Marchi NA, Dworetzky BA, Rossetti AO. “Therapeutic coma for status epilepticus: Differing practices in a prospective multicenter study.” Neurology. 2016 Oct 18;87(16):1650-1659. doi: 10.1212/WNL.0000000000003224. Epub 2016 Sep 24. PMCID: PMC5085074.
+89. Wickering E, Gaspard N, Zafar S, Moura VJ, Biswal S, Bechek S, OʼConnor K, Rosenthal ES, **Westover MB.** “Automation of Classical QEEG Trending Methods for Early Detection of Delayed Cerebral Ischemia: More Work to Do.” J Clin Neurophysiol. 2016 Jun;33(3):227-34. PMCID: PMC4894333.
 
-90. Nelson S, Edlow BL, Wu O, Rosenthal ES, **Westover MB**, Rordorf G. “Default Mode Network Perfusion in Aneurysmal Subarachnoid Hemorrhage.” Neurocrit Care. 2016 Oct;25(2):237-42. doi: 10.1007/s12028-016-0244-z. PMCID: PMC4958026.
+90. Muniz CF, Shenoy AV, OʼConnor KL, Bechek SC, Boyle EJ, Guanci MM, Tehan TM, Zafar SF, Cole AJ, Patel AB, **Westover MB**, Rosenthal ES. J Clin Neurophysiol. “Clinical Development and Implementation of an Institutional Guideline for Prospective EEG Monitoring and Reporting of Delayed Cerebral Ischemia.” 2016 Jun;33(3):217-26. PMCID: PMC4907266.
 
-91. Amorim E, Rittenberger JC, Zheng JJ, **Westover MB**, Baldwin ME, Callaway CW, Popescu A, Post Cardiac Arrest Service. “Continuous EEG monitoring enhances multimodal outcome prediction in hypoxic-ischemic brain injury.” Resuscitation. 2016 Dec;109:121-126. doi: 10.1016/j.resuscitation.2016.08.012. Epub 2016 Aug 21. PMCID: PMC5124407.
+91. Hotan GC, Struck AF, Bianchi MT, Eskandar EN, Cole AJ, **Westover MB**. “Decision analysis of intracranial monitoring in non-lesional epilepsy.” Seizure. 2016 Aug;40:59-70. doi: 10.1016/j.seizure.2016.06.010. Epub 2016 Jun 18. PMCID: PMC4967015.
 
-92. Kim JA, Rosenthal ES, Biswal S, Zafar S, Shenoy AV, O'Connor KL, Bechek SC, Valdery Moura J, Shafi MM, Patel AB, Cash SS, **Westover MB**. “Epileptiform abnormalities predict delayed cerebral ischemia in subarachnoid hemorrhage.” Clin Neurophysiol. 2017 Jun;128(6):1091-1099. doi: 10.1016/j.clinph.2017.01.016. Epub 2017 Jan 29. PMCID: PMC5476529.
+92. Nagaraj SB, Mcclain LM, Zhou DW, Biswal S, Rosenthal ES, Purdon PL, **Westover MB**. “Automatic Classification of Sedation Levels in ICU Patients using Heart Rate Variability.” Critical Care Medicine. 2016 Sep;44(9):e782-9. PMCID: PMC4987179.
 
-93. Sinha N, Dauwels J, Kaiser M, Cash SS, Brandon **Westover M**, Wang Y, Taylor PN. “Predicting neurosurgical outcomes in focal epilepsy patients using computational modelling.” Brain. 2017 Feb;140(2):319-332. doi: 10.1093/brain/aww299. Epub 2016 Dec 23. PMCID: PMC5278304.
+93. Alvarez V, Lee JW, **Westover MB**, Drislane FW, Novy J, Faouzi M, Marchi NA, Dworetzky BA, Rossetti AO. “Therapeutic coma for status epilepticus: differing practices in a prospective multicenter study.” Neurology. 2016 Oct 18;87(16):1650-1659. Epub 2016 Sep 24. PMCID: PMC5085074.
 
-94. Moura LM, Carneiro TS, Kwasnik D, Moura VF, Blodgett CS, Cohen J, McKenna Guanci M, Hoch DB, Hsu J, Cole AJ, **Westover MB**. “cEEG electrode-related pressure ulcers in acutely hospitalized patients.” Neurol Clin Pract. 2017 Feb;7(1):15-25. doi: 10.1212/CPJ.0000000000000312. PMCID: PMC5310208.
+94. Nelson S, Edlow BL, Wu O, Rosenthal ES, **Westover MB**, Rordorf G. “Default Mode Network Perfusion in Aneurysmal Subarachnoid Hemorrhage.” *Neurocritical care.* 2016 October;25(2):237-42. PMCID: PMC4958026.
 
-95. Bargiela D, Bianchi MT, **Westover MB**, Chibnik LB, Healy BC, De Jager PL, Xia Z. “Selection of first-line therapy in multiple sclerosis using risk-benefit decision analysis.” Neurology. 2017 Feb 14;88(7):677-684. doi: 10.1212/WNL.0000000000003612. Epub 2017 Jan 13. PMCID: PMC5317380.
+95. Hartings JA, Shuttleworth CW, Kirov SA, Ayata C, Hinzman JM, Foreman B, Andrew RD, Boutelle MG, Brennan KC, Carlson AP, Dahlem MA, Drenckhahn C, Dohmen C, Fabricius M, Farkas E, Feuerstein D, Graf R, Helbok R, Lauritzen M, Major S, Oliveira-Ferreira AI, Richter F, Rosenthal ES, Sakowitz OW, Sánchez-Porras R, Santos E, Schöll M, Strong AJ, Urbach A, **Westover MB**, Winkler MK, Witte OW, Woitzik J, Dreier JP. The continuum of spreading depolarizations in acute cortical lesion development: Examining Leão's legacy. J Cereb Blood Flow Metab. 2017 May;37(5):1571-1594. doi: 10.1177/0271678X16654495. Epub 2016 Jan 01. PMID: 27328690; PMCID: PMC5435288.
 
-96. Kempfle JS, BuSaba NY, Dobrowski JM, **Westover MB**, Bianchi MT. “A cost-effectiveness analysis of nasal surgery to increase continuous positive airway pressure adherence in sleep apnea patients with nasal obstruction.” Laryngoscope. 2017 Apr;127(4):977-983. doi: 10.1002/lary.26257. Epub 2016 Sep 22. PMCID: PMC5483184.
+96. Amorim E, Rittenberger JC, Zheng JJ, **Westover MB**, Baldwin ME, Callaway CW, Popescu A. "Continuous EEG monitoring enhances multimodal outcome prediction in hypoxic-ischemic brain injury." Resuscitation. 2016 Dec;109:121-126. PMCID: PMC5124407.
 
-97. Dreier JP, Fabricius M, Ayata C, Sakowitz OW, Shuttleworth CW, Dohmen C, Graf R, Vajkoczy P, Helbok R, Suzuki M, Schiefecker AJ, Major S, Winkler MK, Kang EJ, Milakara D, Oliveira-Ferreira AI, Reiffurth C, Revankar GS, Sugimoto K, Dengler NF, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg CK, Piilgaard H, Rosenthal ES, **Westover MB**, Maslarova A, Santos E, Hertle D, Sánchez-Porras R, Jewell SL, Balança B, Platz J, Hinzman JM, Lückl J, Schoknecht K, Schöll M, Drenckhahn C, Feuerstein D, Eriksen N, Horst V, Bretz JS, Jahnke P, Scheel M, Bohner G, Rostrup E, Pakkenberg B, Heinemann U, Claassen J, Carlson AP, Kowoll CM, Lublinsky S, Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov SA, Andrew RD, Farkas E, Güresir E, Vatter H, Chung LS, Brennan KC, Lieutaud T, Marinesco S, Maas AI, Sahuquillo J, Dahlem MA, Richter F, Herreras O, Boutelle MG, Okonkwo DO, Bullock MR, Witte OW, Martus P, van den Maagdenberg AM, Ferrari MD, Dijkhuizen RM, Shutter LA, Andaluz N, Schulte AP, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong AJ, Hartings JA. “Recording, analysis, and interpretation of spreading depolarizations in neurointensive care: Review and recommendations of the COSBID research group.” J Cereb Blood Flow Metab. 2017 May;37(5):1595-1625. doi: 10.1177/0271678X16654496. Epub 2016 Jan 01. PMCID: PMC5435289.
+97. Kim JA, Rosenthal ES, Biswal S, Zafar S, Shenoy AV, O'Connor KL, Bechek SC, Valdery Moura J, Shafi MM, Patel AB, Cash SS, **Westover MB**. “Epileptiform abnormalities predict delayed cerebral ischemia in subarachnoid hemorrhage.” Clin Neurophysiol. 2017 Jun;128(6):1091-1099. doi: 10.1016/j.clinph.2017.01.016. Epub 2017 Jan 29. PMCID: PMC5476529.
 
-98. Amorim E, Williamson CA, Moura LMVR, Shafi MM, Gaspard N, Rosenthal ES, Guanci MM, Rajajee V, **Westover MB**. “Performance of Spectrogram-Based Seizure Identification of Adult EEGs by Critical Care Nurses and Neurophysiologists.” J Clin Neurophysiol. 2017 Jul;34(4):359-364. doi: 10.1097/WNP.0000000000000368. PMCID: PMC5482787.
+98. Sinha N, Dauwels J, Kaiser M, Cash SS, **Westover MB**, Wang Y, Taylor PN. “Predicting neurosurgical outcomes in focal epilepsy patients using computational modelling.” Brain. 2017 Feb;140(Pt 2):319-332. PMCID: PMC5278304.
 
-99. Moura LM, **Westover MB**, Kwasnik D, Cole AJ, Hsu J. “Causal inference as an emerging statistical approach in neurology: an example for epilepsy in the elderly.” Clin Epidemiol. 2017;9:9-18. doi: 10.2147/CLEP.S121023. Epub 2016 Dec 30. PMCID: PMC5221551.
+99. Moura LMVR, Carneiro T, Scott C, Moura VJ, Cohen J, Guanci M, Hoch DB, Cole AJ, Hsu H, **Westover MB**. “cEEG-electrode-related pressure ulcers in acutely hospitalized patients.” Neurology, Clinical Practice, 2017 Feb;7(1):15-25. PMCID: PMC5310208.
 
-100. Jingzhi An, Purdon PL, Solt K, Sims NM, Brown EN, **Westover MB**. “Design, implementation, and evaluation of a physiological closed-loop control device for medically-induced coma.” Annu Int Conf IEEE Eng Med Biol Soc. 2017 Jul;2017:4313-4316. doi: 10.1109/EMBC.2017.8037810. PMCID: PMC5835010.
+100. Bargiela D, Bianchi MT, **Westover MB**, Chibnik LB, Healy BC, De Jager PL, Xia Z. “Selection of first-line therapy in multiple sclerosis using risk-benefit decision analysis.” Neurology. 2017 Feb 14;88(7):677-684. PMCID: PMC5317380.
 
-101. Nagaraj SB, Biswal S, Boyle EJ, Zhou DW, McClain LM, Bajwa EK, Quraishi SA, Akeju O, Barbieri R, Purdon PL, **Westover MB**. “Patient-Specific Classification of ICU Sedation Levels From Heart Rate Variability.” Crit Care Med. 2017 Jul;45(7):e683-e690. doi: 10.1097/CCM.0000000000002364. PMCID: PMC5474145.
+101. Kempfle J, **Westover MB**, Bianchi MT. “A cost-effectiveness analysis of nasal surgery to increase CPAP compliance in sleep apnea patients with nasal obstruction.” *The Laryngoscope.* 2017 Apr;127(4):977-983. PMCID: PMC5483184.
 
-- Thomas J, Jing Jin, Dauwels J, Cash SS, **Westover MB**. “Automated epileptiform spike detection via affinity propagation-based template matching.” Annu Int Conf IEEE Eng Med Biol Soc. 2017 Jul;2017:3057-3060. doi: 10.1109/EMBC.2017.8037502. PMCID: PMC5835014.
+102. Dreier J, Fabricius M, Cenk A, Sakowitz O, Shuttleworth C, Dohmen C, Graf R, Vajkoczy P, Helbok R, Suzuki M; Schiefecker A,; Major S, Winkler M, Kang EJ, Milakara D, Oliveira-Ferreira A, Reiffurth C, Revankar G, Sugimoto K, Dengler N, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg C. Piilgaard H, Rosenthal ES, **Westover MB**, Maslarova A, Santos E, Hertle D, Sanchez-Porras R, Jewell S, Balança B, Platz J, Hinzman J, Luckl J, Schoknecht K, Schöll M, Drenckhahn C, Feuerstein D, Eriksen N, Horst V, Bretz J, Jahnke P, Scheel M, Bohner G, Rostrup E, Pakkenberg B, Heinemann U, Claassen J, Carlson A, Kowoll C, Lublinsky S, Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov S, Andrew R, Farkas E, Gueresir, E, Vatter H, Chung L, Brennan K Lieutaud T, Marinesco S, Maas A, Sahuquillo J, Dahlem M, Richter F, Herreras O, Boutelle M, Okonkwo D, Bullock R, Witte OW, Martus P, Van den Maagdenberg A, Ferrari M, Dijkhuizen R, Shutter L, Andaluz N, Schulte A, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong A, Hartings J. “Recording, analysis, and interpretation of spreading depolarizations in neurointensive care: review and recommendations of the COSBID research group.” Journal of Cerebral Blood Flow and Metabolism. 2017 May;37(5):1595-1625. PMCID: PMC5435289.
 
-102. Struck AF, Osman G, Rampal N, Biswal S, Legros B, Hirsch LJ, **Westover MB**, Gaspard N. “Time-dependent risk of seizures in critically ill patients on continuous electroencephalogram.” Ann Neurol. 2017 Aug;82(2):177-185. doi: 10.1002/ana.24985. Epub 2017 Jul 19. PMCID: PMC5842678.
+103. Amorim E, Williamson C, Moura LMVRD, Shafi MM, Gaspard N, Rosenthal ES, Guanci M, Venkata K, **Westover MB**. “Performance of spectrogram-based seizure identification of adult EEGs by critical care nurses and neurophysiologists.” J Clin Neurophysiol. 2017 Jul;34(4):359-364. PMCID: PMC5482787.
 
-103. Bagheri E, Dauwels J, Dean BC, Waters CG, **Westover MB**, Halford JJ. “Interictal epileptiform discharge characteristics underlying expert interrater agreement.” Clin Neurophysiol. 2017 Oct;128(10):1994-2005. doi: 10.1016/j.clinph.2017.06.252. Epub 2017 Jul 18. PMCID: PMC5842710.
+- ***Cosimo Ajmone-Marsan Award* for best paper of 2017 in the Journal of Clinical Neurophysiology.**
 
-104. Pati S, McClain L, Moura L, Fan Y, **Westover MB**. “Accuracy of Limited-Montage Electroencephalography in Monitoring Postanoxic Comatose Patients.” Clin EEG Neurosci. 2017 Nov;48(6):422-427. doi: 10.1177/1550059417715389. Epub 2017 Jun 22. PMCID: PMC5835011.
+104. Moura LMVRD, **Westover MB**, Kwasnik D, Cole AJ, Hsu J. “Causal Inference as an Emerging Statistical Approach in Neurology: An Example for Epilepsy in the Elderly.” Clinical Epidemiology. 2016 Dec 30;9:9-18. PMCID: PMC5221551.
 
-105. Romero K, Goparaju B, Russo K, **Westover MB**, Bianchi MT. “Alternative remedies for insomnia: a proposed method for personalized therapeutic trials.” Nat Sci Sleep. 2017;9:97-108. doi: 10.2147/NSS.S128095. Epub 2017 Mar 17. PMCID: PMC5364017.
+105. Bianchi MT, Russo K, Gabbidon H, Smith T, Goparaju B, **Westover MB**. Big data in sleep medicine: prospects and pitfalls in phenotyping. Nat Sci Sleep. 2017;9:11-29. doi: 10.2147/NSS.S130141. Epub 2017 Feb 16. PMID: 28243157; PMCID: PMC5317347.
 
-106. Sun H, Jia J, Goparaju B, Huang GB, Sourina O, Bianchi MT, **Westover MB**. “Large-Scale Automated Sleep Staging.” Sleep. 2017 Oct 01;40(10). doi: 10.1093/sleep/zsx139. PMCID: PMC6251659.
+106. Kim JA, Rosenthal ES, Biswal S, Zafar S, Shenoy AV, O’Connor KL, Bechek SC, Valdery Moura J, Shafi MM, Patel AB, Cash SS, **Westover MB**. “Epileptiform Abnormalities Predict Delayed Cerebral Ischemia in Subarachnoid Hemorrhage.” *Clinical Neurophysiology* 2017 Jun;128(6):1091-1099. PMCID: PMC5476529
 
-107. Struck AF, Ustun B, Ruiz AR, Lee JW, LaRoche SM, Hirsch LJ, Gilmore EJ, Vlachy J, Haider HA, Rudin C, **Westover MB**. “Association of an Electroencephalography-Based Risk Score With Seizure Probability in Hospitalized Patients.” JAMA Neurol. 2017 Dec 01;74(12):1419-1424. doi: 10.1001/jamaneurol.2017.2459. PMCID: PMC5822188.
+107. An JZ, Solt K, Sims N, Brown EN, Purdon PL, **Westover MB**, “Towards Clinical Translation of a Physiological Closed-loop Control Device for Medical Coma” *Proceedings of the International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC'17), 2017 Jul;2017:4313-4316. PMCID: PMC5835010.
 
-108. Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, **Westover MB**. “ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram for heart rate variability analysis in the intensive care unit.” J Clin Monit Comput. 2018 Feb;32(1):53-61. doi: 10.1007/s10877-017-9999-9. Epub 2017 Feb 16. PMCID: PMC5559344.
+108. Nagaraj SB, Biswal S, Boyle EJ, Zhou DW, McClain LM, Bajwa EK, Quraishi SA, Oluwaseun A, Barbieri R, Purdon PL, **Westover MB**. “Patient-Specific Classification of ICU Sedation Levels from Heart Rate Variability.” Critical Care Medicine, 2017 Jul;45(7):e683-e690. PMCID: PMC5474145.
 
-109. Bagheri E, Jin J, Dauwels J, Cash S, **Westover MB**. “CLASSIFIER CASCADE TO AID IN DETECTION OF EPILEPTIFORM TRANSIENTS IN INTERICTAL EEG.” Proc IEEE Int Conf Acoust Speech Signal Process. 2018 Apr;2018:970-974. doi: 10.1109/ICASSP.2018.8461992. Epub 2018 Sep 13. PMCID: PMC6775762.
+109. Thomas J, Cash SS, Dauwels J, Jin J, **Westover MB**, “Automated Epileptiform Spike Detection via Affinity Propagation-Based Template Matching” Conf *Proc IEEE Eng Med Biol Soc*. 2017 Jul;2017:4313-4316. doi: 10.1109/EMBC.2017.8037810. PMCID: PMC5835014.
 
-110. Shelton KT, Qu J, Bilotta F, Brown EN, Cudemus G, D'Alessandro DA, Deng H, DiBiasio A, Gitlin JA, Hahm EY, Hobbs LE, Houle TT, Ibala R, Loggia ML, Pavone KJ, Shaefi S, Tolis G, **Westover MB**, Akeju O. “Minimizing ICU Neurological Dysfunction with Dexmedetomidine-induced Sleep (MINDDS): protocol for a randomised, double-blind, parallel-arm, placebo-controlled trial.” BMJ Open. 2018 Apr 20;8(4):e020316. doi: 10.1136/bmjopen-2017-020316. PMCID: PMC5914725.
+110. Struck AF, Osman G, Rampal N, Biswal S, Legros B, Hirsch LJ, **Westover MB**, Gaspard N, “Time-Dependent Risk of Seizures in Critically Ill Patients on Continuous EEG.” Annals of Neurology. 2017 Aug;82(2):177-185. doi: 10.1002/ana.24985. Epub 2017 Jul 19. PMCID: PMC5842678.
 
-111. Kim JA, Boyle EJ, Wu AC, Cole AJ, Staley KJ, Zafar S, Cash SS, **Westover MB**. “Epileptiform activity in traumatic brain injury predicts post-traumatic epilepsy.” Ann Neurol. 2018 Apr;83(4):858-862. doi: 10.1002/ana.25211. Epub 2018 Apr 10. PMCID: PMC5912971.
+111. Bagheri E, Dauwels J, Dean BC, Waters CG, **Westover MB**, Halford JJ, “Interictal epileptiform discharge characteristics underlying expert interrater agreement.” Clin Neurophysiol. 2017 July 18; 128(10):1994-2005. doi: 10.1016/j.clinph.2017.06.252. PMCID: PMC5842710.
 
-112. Zafar SF, Postma EN, Biswal S, Fleuren L, Boyle EJ, Bechek S, O'Connor K, Shenoy A, Jonnalagadda D, Kim J, Shafi MS, Patel AB, Rosenthal ES, **Westover MB**. “Electronic Health Data Predict Outcomes After Aneurysmal Subarachnoid Hemorrhage.” Neurocrit Care. 2018 Apr;28(2):184-193. doi: 10.1007/s12028-017-0466-8. PMCID: PMC5886829.
+112. Pati BB, McClain L, Moura LMVRD, Fan Y, **Westover MB**, “Accuracy of Limited-Montage Electroencephalography in Monitoring Postanoxic Comatose Patients.” Pati S, McClain L, Moura L, Fan Y, Westover MB. Clinical EEG and Neuroscience. 2017 Nov;48(6):422-427. PMCID: PMC5835011.
 
-113. Rosenthal ES, Biswal S, Zafar SF, O'Connor KL, Bechek S, Shenoy AV, Boyle EJ, Shafi MM, Gilmore EJ, Foreman BP, Gaspard N, Leslie-Mazwi TM, Rosand J, Hoch DB, Ayata C, Cash SS, Cole AJ, Patel AB, **Westover MB**. “Continuous electroencephalography predicts delayed cerebral ischemia after subarachnoid hemorrhage: A prospective study of diagnostic accuracy.” Ann Neurol. 2018 May;83(5):958-969. doi: 10.1002/ana.25232. Epub 2018 May 16. PMCID: PMC6021198.
+113. Romero K, Goparaju B, Russo K, **Westover MB,** Bianchi MT. “Alternative remedies for insomnia: a proposed method for personalized therapeutic trials”. *Nature and Science of Sleep.* 2017;9:97-108. PMCID: PMC5364017.
 
-114. **Westover AM**, Shapiro D, **Westover MB**, Bianchi MT. “Rule of 100: a litmus test for informationless diagnostic tests.” Postgrad Med J. 2018 Jun;94(1112):364-366. doi: 10.1136/postgradmedj-2018-135555. Epub 2018 Mar 07. PMCID: PMC6771257.
+114. Sun H, Jian J, Goparaju B, Huang GB, Sourina O, Bianchi MT, **Westover MB**, “Large-Scale Automated Sleep Staging.” *Sleep*. 2017 Oct 1;40(10). doi: 10.1093/sleep/zsx139. PMCID: PMC6251659.
 
-115. Thomas J, Comoretto L, Jin J, Dauwels J, Cash SS, **Westover MB**. “EEG CLassification Via Convolutional Neural Network-Based Interictal Epileptiform Event Detection.” Annu Int Conf IEEE Eng Med Biol Soc. 2018 Jul;2018:3148-3151. doi: 10.1109/EMBC.2018.8512930. PMCID: PMC6775768.
+115. Struck AF, Ustun B, Ruiz AR, Lee JW, LaRoche S, Hirsch LJ, Gilmore EJ, Vlachy J, Haider HA, Rudin C, **Westover MB.** “Association of an Electroencephalography-Based Risk Score with Seizure Probability in Hospitalized Patients.” *JAMA Neurology*. 2017 Dec 1;74(12):1419-1424. PMCID: PMC5822188.
 
-116. Wasterlain CG, Stöhr T, Matagne A. “The acute and chronic effects of the novel anticonvulsant lacosamide in an experimental model of status epilepticus.” Epilepsy Res. 2011 Mar;94(1-2):10-7. doi: 10.1016/j.eplepsyres.2010.12.014. Epub 2011 Jan 28. PMCID: PMC3055953.
+116. An JZ, Purdon PL, Solt K, Sims NM, Brown EN, **Westover MB**. “Design, implementation, and evaluation of a physiological closed-loop control device for medically-induced coma.” *Conf Proc IEEE Eng Med Biol Soc*. 2017 Jul;2017:4313-4316. doi: 0.1109/EMBC.2017.8037810. PMCID: PMC5835010.
 
-117. Sun H, Nagaraj SB, Akeju O, Purdon PL, **Westover BM**. “Brain Monitoring of Sedation in the Intensive Care Unit Using a Recurrent Neural Network.” Annu Int Conf IEEE Eng Med Biol Soc. 2018 Jul;2018:1-4. doi: 10.1109/EMBC.2018.8513185. PMCID: PMC6775766.
+117. Rebergen DJ, Nagaraj SB, Rosenthal ES, Bianchi MT, van Putten MJAM, **Westover MB**. “ADARRI: A Novel Method to Detect Spurious R-peaks in the Electrocardiogram for Heart Rate Variability Analysis in the Intensive Care Unit.” *Journal of Clinical Monitoring and Computing*, 2018 Feb;32(1):53-61. PMCID: PMC5559344.
 
-118. Herlopian A, Dietrich J, Abramson JS, Cole AJ, **Westover MB**. “EEG findings in CAR T-cell therapy-related encephalopathy.” Neurology. 2018 Jul 31;91(5):227-229. doi: 10.1212/WNL.0000000000005910. Epub 2018 Jun 29. PMCID: PMC6093761.
+118. Bagheri E, Jing J, Dauwels J, Cash SS, **Westover MB.** “Classifier Cascade to Aid in Detection of Epileptiform Transients in Interictal EEG.” *2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).* April 15, 2018: 970-974. PMCID: PMC6775762.
 
-119. Song J, Sun H, Jing J, Carlos L, Chao L, Cash SS, Zhang R, **Westover MB**. “A Mean Field Model of Acute Hepatic Encephalopathy.” Annu Int Conf IEEE Eng Med Biol Soc. 2018 Jul;2018:2366-2369. doi: 10.1109/EMBC.2018.8512786. PMCID: PMC7088433.
+119. Shelton KT, Qu J, Brown EN, Burns S, Cudemus G, Deng H, Demircioglu G, Dibiaso A, Hobbs LE, Houle TT, Ibala R, Loggia M, Pavone KJ, Shaefi S, **Westover MB**, Akeju O. “Minimizing ICU Neurological Dysfunction with Dexmedetomidine-induced Sleep (MINDDS): protocol for a randomized, double blind, parallel-arm, placebo-controlled *trial.” British Medical Journal Open (BMJ Open)* 2018 Apr 20;8(4):e020316. PMCID: PMC5914725.
 
-120. Jing J, d’Angremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim S, Dauwels J, **Westover MB**. “Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns.” Annu Int Conf IEEE Eng Med Biol Soc. 2018 Jul;2018:3394-3397. doi: 10.1109/EMBC.2018.8513059. PMCID: PMC6776236.
+120. Kim JA, Boyle E, Wu AC, Cole AJ, Staley KJ, Zafar S, Cash SS, **Westover MB**. “Epileptiform activity in traumatic brain injury predicts post-traumatic epilepsy.” *Annals of Neurology* 2018 Apr;83(4):858-862. PMCID: PMC5912971.
 
-121. Shenoy ES, Rosenthal ES, Shao YP, Biswal S, Ghanta M, Ryan EE, Suslak D, Swanson N, Junior VM, Hooper DC, **Westover MB**. “Real-Time, Automated Detection of Ventilator-Associated Events: Avoiding Missed Detections, Misclassifications, and False Detections Due to Human Error.” Infect Control Hosp Epidemiol. 2018 Jul;39(7):826-833. doi: 10.1017/ice.2018.97. Epub 2018 May 17. PMCID: PMC6776240.
+121. Zafar SF, Postma EN, Biswal S, Fleuren L, Boyle EJ, Bechek S, O’Connor K, Shenoy A, Jonnalagadda D, Kim J, Shafi MM, Patel AB, Rosenthal ES, **Westover MB**. “Electronic Health Data Predict Outcomes after Aneurysmal Subarachnoid Hemorrhage.” Neurocritical Care. 2018 Apr;28(2):184-193 . PMCID: PMC5886829.
 
-122. Halford JJ, **Westover MB**, LaRoche SM, Macken MP, Kutluay E, Edwards JC, Bonilha L, Kalamangalam GP, Ding K, Hopp JL, Arain A, Dawson RA, Martz GU, Wolf BJ, Waters CG, Dean BC. “Interictal Epileptiform Discharge Detection in EEG in Different Practice Settings.” J Clin Neurophysiol. 2018 Sep;35(5):375-380. doi: 10.1097/WNP.0000000000000492. PMCID: PMC6126936.
+122. Rosenthal ES, Biswal S, Zafar SF, O’Connor KL, Bechek S, Shenoy AV, Boyle EJ, Shafi MM, Gilmore EJ, Foreman BP, Gaspard N, Leslie-Mazwi TM, Rosand J, Hoch DB, Ayata C, Cash SS, Cole AJ, Patel AB, **Westover MB**. "Continuous Electroencephalography Predicts Delayed Cerebral Ischemia after Subarachnoid Hemorrhage: A Prospective Study of Diagnostic Accuracy" *Annals of Neurology*. 2018 May;83(5):958-969. PMCID: PMC6021198.
 
-123. Zafar SF, Postma EN, Biswal S, Boyle EJ, Bechek S, O'Connor K, Shenoy A, Kim J, Shafi MS, Patel AB, Rosenthal ES, **Westover MB**. “Effect of epileptiform abnormality burden on neurologic outcome and antiepileptic drug management after subarachnoid hemorrhage.” Clin Neurophysiol. 2018 Nov;129(11):2219-2227. doi: 10.1016/j.clinph.2018.08.015. Epub 2018 Sep 01. PMCID: PMC6478499.
+123. Westover AM, Shapiro D, **Westover MB**, Bianchi MT. “The Rule of 100: a litmus test for informationless diagnostic tests.” *Postgraduate Medical Journal.* 2018 Jun;94(1112):364-366 PMCID: PMC6771257.
 
-124. Bao EL, Chao LY, Ni P, Moura LMVR, Cole AJ, Cash SS, Hoch DB, Bianchi MT, **Westover MB**. “Antiepileptic drug treatment after an unprovoked first seizure: A decision analysis.” Neurology. 2018 Oct 09;91(15):e1429-e1439. doi: 10.1212/WNL.0000000000006319. Epub 2018 Sep 12. PMCID: PMC6177278.
+124. Thomas J, Comoretto L, Jing J, Dauwels J, Cash SS, **Westover MB**. “EEG Classification via Convolutional Neural Network-Based Interictal Epileptiform Event Detection.” Conf Proc IEEE Eng Med Biol Soc. 2018 Jul;2018:3148-3151. PMCID: PMC6775768.
 
-125. Amorim E, Gilmore EJ, Abend NS, Hahn CD, Gaspard N, Herman ST, Hirsch LJ, Lee JW, Cash SS, **Westover MB**. “EEG Reactivity Evaluation Practices for Adult and Pediatric Hypoxic-Ischemic Coma Prognostication in North America.” J Clin Neurophysiol. 2018 Nov;35(6):510-514. doi: 10.1097/WNP.0000000000000517. PMCID: PMC6424574.
+125. Husain AM, Lee JW, Kolls BJ, Hirsch LJ, Halford JJ, Gupta PK, Minazad Y, Jones J, LaRoche SM, Herman ST, Swisher CB, Sinha SR, Palade A, Dombrowski KE, Gallentine WB, Hahn CD, Gerard EE, Bhapkar M, Lokhnygina Y, **Westover MB.** “Randomized trial of lacosamide vs fosphenytoin for nonconvulsive seizures.” *Annals of Neurology*. 2018 Jun;83(6):1174-1185. PMCID: PMC3055953.
 
-126. An J, Jonnalagadda D, Moura V, Purdon PL, Brown EN, **Westover MB**. “Variability in pharmacologically-induced coma for treatment of refractory status epilepticus.” PLoS One. 2018;13(10):e0205789. doi: 10.1371/journal.pone.0205789. Epub 2018 Oct 31. PMCID: PMC6209214.
+126. Thomas J, Comoretto L, Jing J, Dauwels J, Cash SS, **Westover MB**. “EEG Classification Via Convolutional Neural Network-Based Interictal Epileptiform Event Detection.” *Proceedings of the International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC'18). 2018 Jul;2018:3148-3151. PMCID: PMC6775768.
 
-127. Osman G, Rahangdale R, Britton JW, Gilmore EJ, Haider HA, Hantus S, Herlopian A, Hocker SE, Woo Lee J, Legros B, Mendoza M, Punia V, Rampal N, Szaflarski JP, Wallace AD, **Westover MB**, Hirsch LJ, Gaspard N. “Bilateral independent periodic discharges are associated with electrographic seizures and poor outcome: A case-control study.” Clin Neurophysiol. 2018 Nov;129(11):2284-2289. doi: 10.1016/j.clinph.2018.07.025. Epub 2018 Aug 29. PMCID: PMC6785981.
+127. Sun H, Nagaraj SB, Akeju O, Purdon PL, **Westover MB**\*. "Brain Monitoring of Sedation in the Intensive Care Unit Using a Recurrent Neural Network." *Proceedings of the International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'18)*. 2018 Jul;2018:1-4. PMCID: PMC6775766.
 
-128. An S, Malhotra K, Dilley C, Han-Burgess E, Valdez JN, Robertson J, Clark C, **Westover MB**, Sun J. “Predicting drug-resistant epilepsy - A machine learning approach based on administrative claims data.” Epilepsy Behav. 2018 Dec;89:118-125. doi: 10.1016/j.yebeh.2018.10.013. Epub 2018 Nov 07. PMCID: PMC6461470.
+128. Herlopian A, Dietrich J, Abramson JS, Cole AJ, **Westover MB.** "EEG findings in CAR T-cell therapy-related encephalopathy." Neurology. 2018 Jul 31;91(5):227-229. PMCID: PMC6093761
 
-129. Herlopian A, Struck AF, Rosenthal E, **Westover BM**. “Neuroimaging Correlates of Periodic Discharges.” J Clin Neurophysiol. 2018 Jul;35(4):279-294. doi: 10.1097/WNP.0000000000000466. PMCID: PMC9371611.
+129. Song J, Sun H, Jing J, Carlos L, Chao L, Cash SS, Zhang R, **Westover MB**. "A Mean Field Model of Acute Hepatic Encephalopathy." *Conf Proc IEEE Eng Med Biol Soc*. 2018 Jul;2018:2366-2369. doi: 10.1109/EMBC.2018.8512786. PMCID: PMC7088433.
 
-130. Amorim E, Ghassemi MM, Lee JW, Greer DM, Kaplan PW, Cole AJ, Cash SS, Bianchi MT, **Westover MB**. “Estimating the False Positive Rate of Absent Somatosensory Evoked Potentials in Cardiac Arrest Prognostication.” Crit Care Med. 2018 Dec;46(12):e1213-e1221. doi: 10.1097/CCM.0000000000003436. PMCID: PMC6424571.
+130. Jing J, drAngremont E, Zafar S, Rosenthal ES, Tabaeizadeh M, Ebrahim S, Dauwels J, **Westover MB**. "Rapid Annotation of Seizures and Interictal-ictal Continuum EEG Patterns." *Conf Proc IEEE Eng Med Biol Soc.* 2018 Jul;2018:3394-3397. PMCID: PMC6776236.
 
-131. Biswal S, Sun H, Goparaju B, **Westover MB**, Sun J, Bianchi MT. “Expert-level sleep scoring with deep neural networks.” J Am Med Inform Assoc. 2018 Dec 01;25(12):1643-1650. doi: 10.1093/jamia/ocy131. PMCID: PMC6289549.
+131. Herlopian A, Dietrich J, Abramson JS, Cole AJ, **Westover MB.** "EEG findings in CAR T-cell therapy-related encephalopathy." *Neurology*. 2018 Jul 31;91(5):227-229. doi: 10.1212/WNL.0000000000005910. PMCID: PMC6093761.
 
-132. Fadayomi AB, Ibala R, Bilotta F, **Westover MB**, Akeju O. “A Systematic Review and Meta-Analysis Examining the Impact of Sleep Disturbance on Postoperative Delirium.” Crit Care Med. 2018 Dec;46(12):e1204-e1212. doi: 10.1097/CCM.0000000000003400. PMCID: PMC6274586.
+132. Shenoy ES, Rosenthal ES, Shao YP, Biswal S, Ghanta M, Ryan EE, Suslak D, Swanson N, Junior VM, Hooper DC, **Westover MB**. “Real-Time, Automated Detection of Ventilator Associated Events: Avoiding Missed Detections, Misclassifications, and False Detections due to Human Error.” *Infection Control & Hospital Epidemiology.* 2018 May 17:1-8. doi: 10.1017/ice.2018.97. PMCID: PMC6776240.
 
-133. Nagaraj SB, McClain LM, Boyle EJ, Zhou DW, Ramaswamy SM, Biswal S, Akeju O, Purdon PL, **Westover MB**. “Electroencephalogram Based Detection of Deep Sedation in ICU Patients Using Atomic Decomposition.” IEEE Trans Biomed Eng. 2018 Dec;65(12):2684-2691. doi: 10.1109/TBME.2018.2813265. Epub 2018 Mar 07. PMCID: PMC6424570.
+133. Halford JJ, **Westover MB**, LaRoche SM, Macken MP, Kutluay E, Edwards JC, Bonilha L, Kalamangalam GP, Ding K, Hopp JL, Arain A, Dawson RA, Martz GU, Wolf BJ, Waters CG, Dean BC. “Interictal Epileptiform Discharge Detection in EEG in Different Practice Settings.” *Journal of Clinical Neurophysiology*. 2018 Sep;35(5):375-380. PMCID: PMC6126936.
 
-134. Subramaniam T, Jain A, Hall LT, Cole AJ, **Westover MB**, Rosenthal ES, Struck AF. “Lateralized periodic discharges frequency correlates with glucose metabolism.” Neurology. 2019 Feb 12;92(7):e670-e674. doi: 10.1212/WNL.0000000000006903. Epub 2019 Jan 11. PMCID: PMC6382363.
+134. Ghassemi MM, Moody BE, Lehman LH, Song C, Li Q, Sun H, Mark RG, **Westover MB**, Clifford GD. You Snooze, You Win: the PhysioNet/Computing in Cardiology Challenge 2018. Comput Cardiol (2010). 2018 Sep;45. doi: 10.22489/cinc.2018.049. Epub 2019 Jun 24. PMID: 34796237; PMCID: PMC8596964.
 
-135. Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju O, Thomas RJ, Cash SS, Bianchi MT, **Westover MB**. “Brain age from the electroencephalogram of sleep.” Neurobiol Aging. 2019 Feb;74:112-120. doi: 10.1016/j.neurobiolaging.2018.10.016. Epub 2018 Oct 19. PMCID: PMC6478501.
+135. Zafar SF, Postma EN, Biswal S, Boyle EJ, Bechek S, O’Connor K, Shenoy A, Kim J, Shafi MS, Patel AB, Rosenthal ES, **Westover MB**. "Effect of Epileptiform Abnormality Burden on Neurologic Outcome and Anticonvulsant Drug Management After Subarachnoid Hemorrhage." *Clinical Neurophysiology*. 2018 Sep 1;129(11):2219-2227. PMCID: PMC6478499.
 
-136. Zhuo Ding J, Mallick R, Carpentier J, McBain K, Gaspard N, Brandon **Westover M**, Fantaneanu TA. “Resident training and interrater agreements using the ACNS critical care EEG terminology.” Seizure. 2019 Mar;66:76-80. doi: 10.1016/j.seizure.2019.02.013. Epub 2019 Feb 20. PMCID: PMC6778405.
+136. Bao EL, Chao LY, Ni P, Moura, LMVR, Cole AJ, Cash SS, Hoch DB, Bianchi MT, **Westover MB**. “Antiepileptic drug treatment after an unprovoked first seizure: A decision analysis.” *Neurology*. <span class="mark">2018 Oct 9;91(15):e1429-e1439.</span> PMCID: PMC6177278.
 
-137. Song JL, Li Q, Pan M, Zhang B, **Westover MB**, Zhang R. “Seizure tracking of epileptic EEGs using a model-driven approach.” J Neural Eng. 2020 Jan 06;17(1):016024. doi: 10.1088/1741-2552/ab2409. PMCID: PMC6874715.
+137. Amorim E, Gilmore EJ, Abend NS, Hahn CD, Gaspard N, Herman ST, Hirsch LJ, Lee JW, Cash SS, **Westover MB**. "EEG Reactivity Evaluation Practices for Adult and Pediatric Hypoxic-Ischemic Coma Prognostication in North America." Journal of Clinical Neurophysiology. 2018 Nov;35(6):510-514. doi: 10.1097/WNP.0000000000000517. PMCID: PMC6424574.
 
-138. Struck AF, Rodriguez-Ruiz AA, Osman G, Gilmore EJ, Haider HA, Dhakar MB, Schrettner M, Lee JW, Gaspard N, Hirsch LJ, **Westover MB**, Critical Care EEG Monitoring Research Consortium (CCERMRC). “Comparison of machine learning models for seizure prediction in hospitalized patients.” Ann Clin Transl Neurol. 2019 Jul;6(7):1239-1247. doi: 10.1002/acn3.50817. Epub 2019 Jun 27. PMCID: PMC6649418.
+138. An JZ, Jonnalagadda D, Junior VM, Purdon PL, Brown EN, **Westover MB**. “Variability in Pharmacologically-induced Coma for Treatment of Refractory Status Epilepticus.” *PLoS One*. 2018 Oct 31;13(10):e0205789. doi: 10.1371/journal.pone.0205789. PMCID: PMC6209214.
 
-139. Ghassemi MM, Amorim E, Alhanai T, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hirsch LJ, Scirica BM, Biswal S, Moura Junior V, Cash SS, Brown EN, Mark RG, **Westover MB**, Critical Care Electroencephalogram Monitoring Research Consortium. “Quantitative Electroencephalogram Trends Predict Recovery in Hypoxic-Ischemic Encephalopathy.” Crit Care Med. 2019 Oct;47(10):1416-1423. doi: 10.1097/CCM.0000000000003840. PMCID: PMC6746597.
+139. Osman G, Rahangdale R, Britton JW, Gilmore EJ, Haider HA, Hantus S, Herlopian A, Hocker SE, Woo Lee J, Legros B, Mendoza M, Punia V, Rampal N, Szaflarski JP, Wallace AD, **Westover MB,** Hirsch LJ, Gaspard N. "Bilateral independent periodic discharges are associated with electrographic seizures and poor outcome: A case-control study." *Clinical Neurophysiology*. 2018 Nov;129(11):2284-2289. PMCID: PMC6785981.
 
-140. Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O'Reilly UM, Scirica BM, Lee JW, Cash SS, **Westover MB**. “Quantitative EEG reactivity and machine learning for prognostication in hypoxic-ischemic brain injury.” Clin Neurophysiol. 2019 Oct;130(10):1908-1916. doi: 10.1016/j.clinph.2019.07.014. Epub 2019 Jul 25. PMCID: PMC6751020.
+140. An S, Malhotra K, Dilley C, Han-Burgess E, Valdez JN, Robertson J, Clark C, **Westover MB**, Sun J. “Early Prediction of Drug Resistant Epilepsy using Claims Data”. Epilepsy Behav. 2018 Nov 6;89:118-125. PMCID: PMC6461470.
 
-141. Kimchi EY, Neelagiri A, Whitt W, Sagi AR, Ryan SL, Gadbois G, Groothuysen D, **Westover MB**. “Clinical EEG slowing correlates with delirium severity and predicts poor clinical outcomes.” Neurology. 2019 Sep 24;93(13):e1260-e1271. doi: 10.1212/WNL.0000000000008164. Epub 2019 Aug 29. PMCID: PMC7011865.
+141. Herlopian A, Struck AF, Rosenthal E, **Westover MB**. Neuroimaging Correlates of Periodic Discharges. J Clin Neurophysiol. 2018 Jul;35(4):279-294. doi: 10.1097/WNP.0000000000000466. PMID: 29979286; PMCID: PMC9371611.
 
-142. Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng WL, Ge W, **Westover MB**. “Automated tracking of level of consciousness and delirium in critical illness using deep learning.” NPJ Digit Med. 2019;2:89. doi: 10.1038/s41746-019-0167-0. Epub 2019 Sep 09. PMCID: PMC6733797.
+142. Amorim E, Ghassemi MM, Lee JW, Greer DM, Kaplan PW, Cole AJ, Cash SS, Bianchi MT, **Westover MB**. “Estimating the false positive rate of absent somatosensory evoked potentials in cardiac arrest prognostication.” *Critical Care Medicine* 2018 Dec; 46(12):e1213-e1221. PMCID: PMC6424571.
 
-143. Song JL, Paixao L, Li Q, Li SH, Zhang R, **Westover MB**. “A novel neural computational model of generalized periodic discharges in acute hepatic encephalopathy.” J Comput Neurosci. 2019 Dec;47(2-3):109-124. doi: 10.1007/s10827-019-00727-3. Epub 2019 Sep 11. PMCID: PMC6881550.
+143. Biswal S, Kulas J, Sun H, Goparaju B, **Westover MB\***, Bianchi MT\*, Sun J\*. " Expert-level Sleep Scoring with Deep Neural Networks”. *Journal of the American Medical Informatics Association (JAMIA)*. 2018 Dec 1;25(12):1643-1650. PMCID: PMC6289549. \****joint senior authorship.***
 
-144. Bagheri E, Jin J, Dauwels J, Cash S, **Westover MB**. “A fast machine learning approach to facilitate the detection of interictal epileptiform discharges in the scalp electroencephalogram.” J Neurosci Methods. 2019 Oct 01;326:108362. doi: 10.1016/j.jneumeth.2019.108362. Epub 2019 Jul 13. PMCID: PMC6993930.
+144. Fadayomi AB, Ibala R, Bilotta F, **Westover MB**, Akeju O. "A Systematic Review and Meta-Analysis Examining the Impact of Sleep Disturbance on Postoperative Delirium." *Critical Care Medicine*. 2018 Dec;46(12):e1204-e1212. PMCID: PMC6274586.
 
-145. Zheng WL, Sun H, Akeju O, **Westover MB**. “Adaptive Sedation Monitoring From EEG in ICU Patients With Online Learning.” IEEE Trans Biomed Eng. 2020 Jun;67(6):1696-1706. doi: 10.1109/TBME.2019.2943062. Epub 2019 Sep 23. PMCID: PMC7085963.
+145. Nagaraj SB, McClain LM, Boyle EJ, Zhou DW, Ramaswamy SM, Biswal S, Akeju O, Purdon PL, **Westover MB**. “Electroencephalogram based Detection of Deep Sedation in ICU Patients Using Atomic Decomposition.” IEEE Transactions on Biomedical Engineering. 2018 Dec;65(12):2684-2691. PMCID: PMC6424570.
 
-146. Jing J, Herlopian A, Karakis I, Ng M, Halford JJ, Lam A, Maus D, Chan F, Dolatshahi M, Muniz CF, Chu C, Sacca V, Pathmanathan J, Ge W, Sun H, Dauwels J, Cole AJ, Hoch DB, Cash SS, **Westover MB**. “Interrater Reliability of Experts in Identifying Interictal Epileptiform Discharges in Electroencephalograms.” JAMA Neurol. 2020 Jan 01;77(1):49-57. doi: 10.1001/jamaneurol.2019.3531. PMCID: PMC6806666.
+146. van Leeuwen KG, Sun H, Tabaeizadeh M, Struck AF, van Putten MJAM, **Westover MB**, “Detecting Abnormal Electroencephalograms Using Deep Convolutional Networks”. *Clinical Neurophysiology*. 2019 Jan;130(1):77-84. doi: 10.1016/j.clinph.2018.10.012. PMCID: PMC63097079.
 
-147. Jing J, Sun H, Kim JA, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D, Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J, Lam A, Cole AJ, Cash SS, **Westover MB**. “Development of Expert-Level Automated Detection of Epileptiform Discharges During Electroencephalogram Interpretation.” JAMA Neurol. 2020 Jan 01;77(1):103-108. doi: 10.1001/jamaneurol.2019.3485. PMCID: PMC6806668.
+147. Subramaniam T, Jain A, Hall LT, Cole AJ, **Westover MB**, Rosenthal ES, Struck AF. “Lateralized Periodic Discharges Frequency Correlates with Glucose Metabolism.” *Neurology*. 2019 Feb 12;92(7):e670-e674. PMCID: PMC6382363.
 
-148. Abou Jaoude M, Jing J, Sun H, Jacobs CS, Pellerin KR, **Westover MB**, Cash SS, Lam AD. “Detection of mesial temporal lobe epileptiform discharges on intracranial electrodes using deep learning.” Clin Neurophysiol. 2020 Jan;131(1):133-141. doi: 10.1016/j.clinph.2019.09.031. Epub 2019 Nov 11. PMCID: PMC6879011.
+148. Sun H, Paixao L, Oliva JT, Goparaju B, Carvalho DZ, van Leeuwen KG, Akeju O, Thomas RJ, Cash SS, Bianchi MT, **Westover MB**. "Brain Age from the Electroencephalogram of Sleep". Neurobiol Aging. 2019 Feb;74:112-120. PMCID: PMC6478501.
 
-149. Worden LT, Chinappen DM, Stoyell SM, Gold J, Paixao L, Krishnamoorthy K, Kramer MA, **Westover MB**, Chu CJ. “The probability of seizures during continuous EEG monitoring in high-risk neonates.” Epilepsia. 2019 Dec;60(12):2508-2518. doi: 10.1111/epi.16387. Epub 2019 Nov 19. PMCID: PMC7083278.
+149. Zhuo Ding J, Mallick R, Carpentier J, McBain K, Gaspard N, **Westover MB**, Fantaneanu TA. "Resident training and interrater agreements using the ACNS critical care EEG terminology." *Seizure*. 2019 Feb 20;66:76-80. doi: 10.1016/j.seizure.2019.02.013. PMCID: PMC6778405.
 
-150. Reyna MA, Josef CS, Jeter R, Shashikumar SP, **Westover MB**, Nemati S, Clifford GD, Sharma A. “Early Prediction of Sepsis From Clinical Data: The PhysioNet/Computing in Cardiology Challenge 2019.” Crit Care Med. 2020 Feb;48(2):210-217. doi: 10.1097/CCM.0000000000004145. PMCID: PMC6964870.
+150. Song, JL, Qiang L, Pan M, Zhang B, **Westover MB\*,** Zhang R\*. "Seizure tracking of epileptic EEG using a model-driven approach". **\* Co-senior authors**. *Journal of Neural Engineering.* J Neural Eng. 2019 May 23. doi: 10.1088/1741-2552/ab2409. PMCID: PMC6874715.
 
-151. Moise AM, Karakis I, Herlopian A, Dhakar M, Hirsch LJ, Cotsonis G, LaRoche S, Cabrera Kang CM, **Westover B**, Rodriguez A. “Continuous EEG Findings in Autoimmune Encephalitis.” J Clin Neurophysiol. 2021 Mar 01;38(2):124-129. doi: 10.1097/WNP.0000000000000654. PMCID: PMC7263965.
+151. Struck AF, Rodriguez-Ruiz AA, Osman G, Gilmore EJ, Lee JW, Gaspard N, Hirsch LJ, **Westover MB.** "Comparison of Machine-Learning Models for Seizure Prediction in Hospitalized Patients." *Annals of Clinical and Translational Neurology. Annals of Clinical and Translational Neurology.* 2019; May 23. 6(7): 1239–1247. PMCID: PMC6649418.
 
-152. Struck AF, Tabaeizadeh M, Schmitt SE, Ruiz AR, Swisher CB, Subramaniam T, Hernandez C, Kaleem S, Haider HA, Cissé AF, Dhakar MB, Hirsch LJ, Rosenthal ES, Zafar SF, Gaspard N, **Westover MB**. “Assessment of the Validity of the 2HELPS2B Score for Inpatient Seizure Risk Prediction.” JAMA Neurol. 2020 Apr 01;77(4):500-507. doi: 10.1001/jamaneurol.2019.4656. PMCID: PMC6990873.
+152. Ghassemi MM, Amorim E, Hanai TA, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hirsch LJ, Scirica BM, Biswal S, Junior VM, Cash SS, Brown EN, Mark RG, **Westover MB.** "Quantitative EEG Trends Predict Recovery in Hypoxic-Ischemic Encephalopathy." *Critical Care Medicine.* 2019 Jun 21. doi: 10.1097/CCM.0000000000003840. PMCID: PMC6746597.
 
-153. Kashkooli K, Polk SL, Chamadia S, Hahm E, Ethridge B, Gitlin J, Ibala R, Mekonnen J, Pedemonte J, Murphy JM, Sun H, **Westover MB**, Akeju O. “Drug-Specific Models Improve the Performance of an EEG-based Automated Brain-State Prediction System.” Annu Int Conf IEEE Eng Med Biol Soc. 2019 Jul;2019:5808-5811. doi: 10.1109/EMBC.2019.8856935. PMCID: PMC7077760.
+153. Amorim E, van der Stoel M, Nagaraj SB, Ghassemi MM, Jing J, O’Reilly UM, Scirica BM, Lee JW, Cash SS, **Westover MB**, “Quantitative EEG reactivity and machine learning for prognostication in hypoxic-ischemic brain injury.” *Clinical Neurophysiology* 2019 Jul 25; (130) 1908–1916. PMCID: PMC6751020.
 
-154. Polk SL, Kashkooli K, Nagaraj SB, Chamadia S, Murphy JM, Sun H, **Westover MB**, Barbieri R, Akeju O. “Automatic Detection of General Anesthetic-States using ECG-Derived Autonomic Nervous System Features.” Annu Int Conf IEEE Eng Med Biol Soc. 2019 Jul;2019:2019-2022. doi: 10.1109/EMBC.2019.8857704. PMCID: PMC7077759.
+154. Kimchi EY, Neelagiri A, Whitt W, Sagi AR, Ryan SL, Gadbois G, Groothuysen D, **Westover MB, “**Clinical EEG Slowing Correlates with Delirium Severity and Predicts Poor Clinical Outcomes.” *Neurology.* 2019 Sep 24;93(13):e1260-e1271. PMCID: PMC7011865.
 
-155. Paixao L, Sikka P, Sun H, Jain A, Hogan J, Thomas R, **Westover MB**. “Excess brain age in the sleep electroencephalogram predicts reduced life expectancy.” Neurobiol Aging. 2020 Apr;88:150-155. doi: 10.1016/j.neurobiolaging.2019.12.015. Epub 2019 Dec 23. PMCID: PMC7085452.
+155. Sun H, Kimchi E, Akeju O, Nagaraj SB, McClain LM, Zhou DW, Boyle E, Zheng WL, Ge W, **Westover MB**. “Automated Tracking of Level of Consciousness and Delirium in Critical Illness using Deep Learning”. NPJ Digital Medicine. 2019 Sep 9;2:89. doi: 10.1038/s41746-019-0167-0. PMCID: PMC6733797.
 
-156. **Westover MB**, Gururangan K, Markert MS, Blond BN, Lai S, Benard S, Bickel S, Hirsch LJ, Parvizi J. “Diagnostic Value of Electroencephalography with Ten Electrodes in Critically Ill Patients.” Neurocrit Care. 2020 Oct;33(2):479-490. doi: 10.1007/s12028-019-00911-4. PMCID: PMC7416437.
+156. Song JL, Rui Z, **Westover MB**. “A Novel Neural Computational Model of Generalized Periodic Discharges in Acute Hepatic Encephalopathy. *Journal of Computational Neuroscience.* 2019 Sep 11. doi: 10.1007/s10827-019-00727-3. PMCID: PMC6881550.
 
-157. Li Q, Song JL, Li SH, **Westover MB**, Zhang R. “Effects of Cholinergic Neuromodulation on Thalamocortical Rhythms During NREM Sleep: A Model Study.” Front Comput Neurosci. 2019;13:100. doi: 10.3389/fncom.2019.00100. Epub 2020 Jan 23. PMCID: PMC6990259.
+157. Bagheri E, Jin J, Dauwels J, Cash S, **Westover MB**. “A Fast Machine Learning Approach to Facilitate the Detection of Interictal Epileptiform Discharges in the Scalp Electroencephalogram.” *Journal of Neuroscience Methods.* 2019 Oct 1;326:108362. doi: 10.1016/j.jneumeth.2019.108362. PMCID: PMC6993930.
 
-158. Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, **Westover MB**, Abbasi-Feinberg F, Aurora RN, Carden KA, Kirsch DB, Malhotra RK, Martin JL, Olson EJ, Ramar K, Rosen CL, Rowley JA, Shelgikar AV. “Artificial intelligence in sleep medicine: an American Academy of Sleep Medicine position statement.” J Clin Sleep Med. 2020 Apr 15;16(4):605-607. doi: 10.5664/jcsm.8288. PMCID: PMC7161449.
+158. Zheng WL, Sun H, Akeju O, **Westover MB**. “Adaptive Sedation Monitoring from EEG in ICU Patients with Online Learning.” *IEEE Transactions on Biomedical Engineering. 2019 Sep 23. doi: 10.1109/TBME.2019.2943062. \[Epub ahead of print\]* PMCID: PMC7085963.
 
-159. Vink JJT, Klooster DCW, Ozdemir RA, **Westover MB**, Pascual-Leone A, Shafi MM. “EEG Functional Connectivity is a Weak Predictor of Causal Brain Interactions.” Brain Topogr. 2020 Mar;33(2):221-237. doi: 10.1007/s10548-020-00757-6. Epub 2020 Feb 24. PMCID: PMC7191224.
+159. Jing J, Herlopian A, Karakis I, Ng M, Halford JJ, Lam A, Maus D, Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Sun H, Dauwels J, Cole AJ, Hoch DB, Cash SS, **Westover MB**. "Inter-rater Reliability of Experts in Identifying Epileptiform Discharges". *JAMA Neurology.* 2019 Oct 21. doi: 10.1001/jamaneurol.2019.3531. \[Epub ahead of print\]. PMCID: PMC6806666.
 
-160. Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, **Westover MB**. “Artificial intelligence in sleep medicine: background and implications for clinicians.” J Clin Sleep Med. 2020 Apr 15;16(4):609-618. doi: 10.5664/jcsm.8388. PMCID: PMC7161463.
+160. Jing J\*, Sun H, Kim JA\*, Herlopian A, Karakis I, Ng M, Halford JJ, Maus D, Chan F, Dolatshahi M, Muniz C, Chu C, Sacca V, Pathmanathan J, Ge W, Dauwels J, Lam A, Cole AJ, Cash SS, **Westover MB**. "Development of Expert-Level Automated Detection of Epileptiform Discharges During Electroencephalogram Interpretation." *JAMA Neurol. 2019* Oct 21. doi: 10.1001/jamaneurol.2019.3485. \[Epub ahead of print\]. PMCID: PMC6806668.
 
-161. Hogan J, Sun H, Aboul Nour H, Jing J, Tabaeizadeh M, Shoukat M, Javed F, Kassa S, Edhi MM, Bordbar E, Gallagher J, Junior VM, Ghanta M, Shao YP, Akeju O, Cole AJ, Rosenthal ES, Zafar S, **Westover MB**. “Burst Suppression: Causes and Effects on Mortality in Critical Illness.” Neurocrit Care. 2020 Oct;33(2):565-574. doi: 10.1007/s12028-020-00932-4. PMCID: PMC7483190.
+161. Jaoude MA, Jing J, Sun H, Pellerin KR, **Westover MB**, Cash SS, Lam AD. “Detection of mesial temporal lobe epileptiform discharges on intracranial electrodes using deep learning”. *Clinical Neurophysiology.* 2019 Nov 11;131(1):133-141. PMCID: PMC6879011.
 
-162. Elmer J, Coppler PJ, Solanki P, **Westover MB**, Struck AF, Baldwin ME, Kurz MC, Callaway CW. “Sensitivity of Continuous Electroencephalography to Detect Ictal Activity After Cardiac Arrest.” JAMA Netw Open. 2020 Apr 01;3(4):e203751. doi: 10.1001/jamanetworkopen.2020.3751. PMCID: PMC7189220.
+162. Worden LT, Chinappen DM, Stoyell SM, Gold J, Paixao L, Krishnamoorthy K, Kramer MA, **Westover MB**\*, Chu CJ\*. "The Probability of Seizures During EEG Monitoring in High-Risk Neonates." *Epilepsia. **\**** **Co-senior authors.** *Epilepsia*. Dec;60(12):2508-2518. PMCID: PMC7083278.
 
-163. Lissak IA, Zafar SF, **Westover MB**, Schleicher RL, Kim JA, Leslie-Mazwi T, Stapleton CJ, Patel AB, Kimberly WT, Rosenthal ES. “Soluble ST2 Is Associated With New Epileptiform Abnormalities Following Nontraumatic Subarachnoid Hemorrhage.” Stroke. 2020 Apr;51(4):1128-1134. doi: 10.1161/STROKEAHA.119.028515. Epub 2020 Mar 11. PMCID: PMC7123848.
+163. Reyna MA, Josef CS, Jeter R, Shashikumar SP, **Westover MB**, Nemati S, Clifford GD, Sharma A. "Early Prediction of Sepsis from Clinical Data: The PhysioNet/Computing in Cardiology Challenge 2019". Crit Care Med. 2019 Dec 17. doi: 10.1097/CCM.0000000000004145. PMCID: PMC6964870.
 
-164. Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, **Westover MB**, Cash SS, Rosenthal ES. “Electrographic predictors of successful weaning from anaesthetics in refractory status epilepticus.” Brain. 2020 Apr 01;143(4):1143-1157. doi: 10.1093/brain/awaa069. PMCID: PMC7174057.
+164. Moise AM, Karakis I, Herlopian A, Dhakar M, Cotsonis G, Hirsch L, LaRoche S, **Westover MB**, Rodriguez A, “Continuous EEG Findings in Autoimmune Encephalitis.” *Journal of Clinical Neurophysiology*. 2019 Dec 2. doi: 10.1097/WNP.0000000000000654. PMCID: PMC7263965.
 
-165. Pedemonte JC, Plummer GS, Chamadia S, Locascio JJ, Hahm E, Ethridge B, Gitlin J, Ibala R, Mekonnen J, Colon KM, **Westover MB**, D'Alessandro DA, Tolis G, Houle T, Shelton KT, Qu J, Akeju O. “Electroencephalogram Burst-suppression during Cardiopulmonary Bypass in Elderly Patients Mediates Postoperative Delirium.” Anesthesiology. 2020 Aug;133(2):280-292. doi: 10.1097/ALN.0000000000003328. PMCID: PMC7365754.
+165. AF Struck, M Tabaeizadeh, S Schmitt, AR Ruiz, C Swisher, T Subramaniam, C Hernandez, H Haider, M Dhakar, LJ Hirsch, ES Rosenthal, SF Zafar, N. Gaspard, **MB Westover**. “Assessment of the Validity of the 2HELPS2B Score for Inpatient Seizure Risk Prediction.” *JAMA Neurology.* 2020 Apr 1;77(4):500-507. doi: 10.1001/jamaneurol.2019.4656. PMCID: PMC6990873.
 
-166. Kashkooli K, Polk SL, Hahm EY, Murphy J, Ethridge BR, Gitlin J, Ibala R, Mekonnen J, Pedemonte JC, Sun H, **Westover MB**, Barbieri R, Akeju O, Chamadia S. “Improved tracking of sevoflurane anesthetic states with drug-specific machine learning models.” J Neural Eng. 2020 Aug 04;17(4):046020. doi: 10.1088/1741-2552/ab98da. PMCID: PMC7540939.
+166. Kashkooli K, Murphy JM, Sun H, **Westover MB**, Akeju O, Polk SL, Chamadia S, Hahm E, Ethridge B, Gitlin J, Ibala R, Mekonnen J, Pedemonte J. “Drug-Specific Models Improve the Performance of an EEG-based Automated Brain-State Prediction System.” Conf Proc IEEE Eng Med Biol Soc. 2019 Jul;2019:5808-5811. doi: 10.1109/EMBC.2019.8856935. PMCID: PMC7077760.
 
-167. Tabaeizadeh M, Aboul Nour H, Shoukat M, Sun H, Jin J, Javed F, Kassa S, Edhi M, Bordbar E, Gallagher J, Moura VJ, Ghanta M, Shao YP, Cole AJ, Rosenthal ES, **Westover MB**, Zafar SF. “Burden of Epileptiform Activity Predicts Discharge Neurologic Outcomes in Severe Acute Ischemic Stroke.” Neurocrit Care. 2020 Jun;32(3):697-706. doi: 10.1007/s12028-020-00944-0. PMCID: PMC7416505.
+167. Polk SL, Kashkooli K, Nagaraj SB, Chamadia S, Murphy JM, Sun H, **Westover MB**, Barbieri R, Akeju O. “Automatic Detection of General Anesthetic-States using ECG-Derived Autonomic Nervous System Features.” Conf Proc IEEE Eng Med Biol Soc. 2019 Jul; 2019: 5808–5811. PMCID: PMC7077759.
 
-168. Beuchat I, Sivaraju A, Amorim E, Gilmore EJ, Dunet V, Rossetti AO, **Westover MB**, Hsu L, Scirica BM, Silva D, Tang K, Lee JW. “MRI-EEG correlation for outcome prediction in postanoxic myoclonus: A multicenter study.” Neurology. 2020 Jul 28;95(4):e335-e341. doi: 10.1212/WNL.0000000000009610. Epub 2020 Jun 01. PMCID: PMC7455317.
+168. Paixao L, Sikka P, Sun H, Jain A, Hogan J, Thomas RJ, **Westover MB**. “Excess Brain Age Reflected in the Electroencephalogram of Sleep Predicts Reduced Life Expectancy.” *Neurobiology of Aging.* 2019 Dec 23. pii: S0197-4580(19)30443-9. doi: 10.1016/j.neurobiolaging.2019.12.015. PMCID: PMC7085452.
 
-169. Amorim E, Mo SS, Palacios S, Ghassemi MM, Weng WH, Cash SS, Bianchi MT, **Westover MB**. “Cost-effectiveness analysis of multimodal prognostication in cardiac arrest with EEG monitoring.” Neurology. 2020 Aug 04;95(5):e563-e575. doi: 10.1212/WNL.0000000000009916. Epub 2020 Jul 13. PMCID: PMC7455344.
+169. **Westover MB**, Guruangan K, Markert MS, Blond BN, Lai S, Benard S, Bickel S, Hirsch LJ, Parvizi J. “Diagnostic Value of Electroencephalography with Ten Electrodes in Critically Ill Patients.” *Neurocritical Care.* 2020 Feb 7. doi: 10.1007/s12028-019-00911-4. \[Epub ahead of print\]. PMCID: PMC7416437.
 
-170. Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B, Tesh RA, Akeju O, Thomas RJ, **Westover MB**. “Sleep staging from electrocardiography and respiration with deep learning.” Sleep. 2020 Jul 13;43(7). doi: 10.1093/sleep/zsz306. PMCID: PMC7355395.
+170. Li Q, Song JL, Li SH, **Westover MB**, Zhang R. “Effects of cholinergic neuromodulation on thalamocortical rhythms during NREM sleep: a model study.” *Frontiers in Computational Neuroscience.* 2020 Jan 23;13:100. doi: 10.3389/fncom.2019.00100. eCollection 2019. PMCID: PMC6990259.
 
-171. Amorim E, McGraw CM, **Westover MB**. “A Theoretical Paradigm for Evaluating Risk-Benefit of Status Epilepticus Treatment.” J Clin Neurophysiol. 2020 Sep;37(5):385-392. doi: 10.1097/WNP.0000000000000753. PMCID: PMC7516305.
+171. Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, **Westover MB**, Abbasi-Feinberg F, Aurora RN, Carden KA, Kirsch DB, Malhotra RK, Martin JL, Olson EJ, Ramar K, Rosen CL, Rowley JA, Shelgikar AV. "Artificial Intelligence in Sleep Medicine: An American Academy of Sleep Medicine Position Statement." *Journal of Clinical Sleep Medicine*. 2020 Feb 5. doi: 10.5664/jcsm.8288. PMCID: PMC7161449.
 
-172. Zafar SF, Amorim E, Williamsom CA, Jing J, Gilmore EJ, Haider HA, Swisher C, Struck A, Rosenthal ES, Ng M, Schmitt S, Lee JW, Brandon **Westover M**. “A standardized nomenclature for spectrogram EEG patterns: Inter-rater agreement and correspondence with common intensive care unit EEG patterns.” Clin Neurophysiol. 2020 Sep;131(9):2298-2306. doi: 10.1016/j.clinph.2020.05.032. Epub 2020 Jun 24. PMCID: PMC7461156.
+172. Vink JJT, Klooster DCW, Ozdemir RA, **Westover MB**, Pascual-Leone A, Shafi MM. “EEG Functional Connectivity is a Weak Predictor of Causal Brain Interactions.” *Brain Topography.* 2020 Feb 24. doi: 10.1007/s10548-020-00757-6. PMCID: PMC7191224.
 
-173. Foy BH, Carlson JCT, Reinertsen E, Padros I Valls R, Pallares Lopez R, Palanques-Tost E, Mow C, **Westover MB**, Aguirre AD, Higgins JM. “Association of Red Blood Cell Distribution Width With Mortality Risk in Hospitalized Adults With SARS-CoV-2 Infection.” JAMA Netw Open. 2020 Sep 01;3(9):e2022058. doi: 10.1001/jamanetworkopen.2020.22058. PMCID: PMC7512057.
+173. Goldstein CA, Berry RB, Kent DT, Kristo DA, Seixas AA, Redline S, **Westover MB**. "Artificial intelligence in sleep medicine: Background and implications for clinicians." Journal of Clinical Sleep Medicine. 2020 Feb 17. doi: 10.5664/jcsm.8388. PMCID: PMC7161463.
 
-174. Prasanth T, Thomas J, Yuvaraj R, Jing J, Cash SS, Chaudhari R, Leng TY, Rathakrishnan R, Rohit S, Saini V, **Westover BM**, Dauwels J. “Deep Learning for Interictal Epileptiform Spike Detection from scalp EEG frequency sub bands.” Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:3703-3706. doi: 10.1109/EMBC44109.2020.9175644. PMCID: PMC7545315.
+174. Hogan J, Sun H, Aboul-Nour H, Jing J, Tabaeizadeh M, Shoukat M, Javed F, Kassa S, Edhi MM, Bordbar E, Gallagher J, Valdery-Moura J, Ghanta M, Shao YP, Akeju O, Cole AJ, Rosenthal ES, Zafar S, **Westover MB**, "Burst Suppression: Causes and Effects on Mortality in Critical Illness." *Neurocritical Care.* 2020 Feb 24. doi: 10.1007/s12028-020-00932-4. PMCID: PMC7483190.
 
-175. Ye E, Sun H, Leone MJ, Paixao L, Thomas RJ, Lam AD, **Westover MB**. “Association of Sleep Electroencephalography-Based Brain Age Index With Dementia.” JAMA Netw Open. 2020 Sep 01;3(9):e2017357. doi: 10.1001/jamanetworkopen.2020.17357. PMCID: PMC7522697.
+175. Elmer J, Coppler PJ, Solanki P, **Westover MB**, Struck AF, Baldwin MA, Kurz MC, Callaway CW. "Sensitivity of Continuous Electroencephalography to Detect Ictal Activity After Cardiac Arrest." *JAMA Network Open*. 2020 Apr 1;3(4):e203751. doi: 10.1001/jamanetworkopen.2020.3751. PMCID: PMC7189220.
 
-176. Sun H, Jain A, Leone MJ, Alabsi HS, Brenner LN, Ye E, Ge W, Shao YP, Boutros CL, Wang R, Tesh RA, Magdamo C, Collens SI, Ganglberger W, Bassett IV, Meigs JB, Kalpathy-Cramer J, Li MD, Chu JT, Dougan ML, Stratton LW, Rosand J, Fischl B, Das S, Mukerji SS, Robbins GK, **Westover MB**. “CoVA: An Acuity Score for Outpatient Screening that Predicts Coronavirus Disease 2019 Prognosis.” J Infect Dis. 2021 Jan 04;223(1):38-46. doi: 10.1093/infdis/jiaa663. PMCID: PMC7665643.
+176. Lissak IA, Zafar SF, **Westover MB**, Schleicher RL, Kim JA, Leslie-Mazwi T, Stapleton C, Patel AB, Kimberly T, Rosenthal ES. "Soluble ST2 is an Inflammatory Biomarker Associated with New Epileptiform Abnormalities following Nontraumatic Subarachnoid Hemorrhage." *Stroke.* 2020 Apr;51(4):1128-1134. PMCID: PMC7123848.
 
-177. Thomas J, Jin J, Thangavel P, Bagheri E, Yuvaraj R, Dauwels J, Rathakrishnan R, Halford JJ, Cash SS, **Westover B**. “Automated Detection of Interictal Epileptiform Discharges from Scalp Electroencephalograms by Convolutional Neural Networks.” Int J Neural Syst. 2020 Nov;30(11):2050030. doi: 10.1142/S0129065720500306. Epub 2020 Aug 19. PMCID: PMC7606586.
+177. Rubin DB, Angelini B, Shoukat M, Chu CJ, Zafar SF, **Westover MB**, Cash SS, Rosenthal ES. "Quantitative EEG features predicting successful weaning from IV anesthetics in refractory status epilepticus." *Brain.* 2020 Apr 1;143(4):1143-1157. PMCID: PMC7174057.
 
-178. Abou Jaoude M, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, **Westover MB**, Lam AD. “Expert-level automated sleep staging of long-term scalp electroencephalography recordings using deep learning.” Sleep. 2020 Nov 12;43(11). doi: 10.1093/sleep/zsaa112. PMCID: PMC7686563.
+178. Pedemonte JC, Plummer GS, Chamadia S, Locascio JJ, Hahm E, Ethridge B, Gitlin J, Ibala R, Mekonnen J, Colon KM, **Westover MB**, D’Alessandro DA, Tolis G, Houle T, Shelton KT, Qu J, Akeju O. "Electroencephalogram Burst-suppression during Cardiopulmonary Bypass in Elderly Patients Mediates Postoperative Delirium." *Anesthesiology*. 2020 Apr 24. doi: 10.1097/ALN.0000000000003328. PMCID: PMC7365754.
 
-179. Vespa PM, Olson DM, John S, Hobbs KS, Gururangan K, Nie K, Desai MJ, Markert M, Parvizi J, Bleck TP, Hirsch LJ, **Westover MB**. “Evaluating the Clinical Impact of Rapid Response Electroencephalography: The DECIDE Multicenter Prospective Observational Clinical Study.” Crit Care Med. 2020 Sep;48(9):1249-1257. doi: 10.1097/CCM.0000000000004428. PMCID: PMC7735649.
+179. Kashkooli K; Polk S, Hahm E, Murphy J, Ethridge B, Gitlin J, Ibala R, Mekonnen J, Pedemonte J; Sun H, **Westover MB**; Barbieri R, Akeju Oluwaseun, Chamadia S. "Improved tracking of sevoflurane anesthetic states with drug-specific machine learning models." *Journal of Neural Engineering.* 2020 Aug 4;17(4):046020. PMCID: PMC7540939.
 
-180. Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, **Westover MB**, Kimchi EY. “Clinical Electroencephalography Findings and Considerations in Hospitalized Patients with Coronavirus SARS-CoV-2.” medRxiv. 2020 Jul 15. doi: 10.1101/2020.07.13.20152207. PMCID: PMC7373142.
+180. Tabaeizadeh M, Nour HA, Shoukat M, Sun H, Jin J, Javed F, Kassa S, Edhi M, Bordbar E, Gallagher J, Junior VM, Ghanta M, Shao YP, Cole AJ, Rosenthal ES, **Westover MB**, Zafar SZ. "Burden of epileptiform activity predicts discharge neurologic outcomes in severe acute ischemic stroke." *Neurocritical Care.* 2020 Jun; 32(3):697-706. PMCID: PMC7416505.
 
-181. Thorn EL, Ostrowski LM, Chinappen DM, Jing J, **Westover MB**, Stufflebeam SM, Kramer MA, Chu CJ. “Persistent abnormalities in Rolandic thalamocortical white matter circuits in childhood epilepsy with centrotemporal spikes.” Epilepsia. 2020 Nov;61(11):2500-2508. doi: 10.1111/epi.16681. Epub 2020 Sep 18. PMCID: PMC7722074.
+181. Eichenlaub JB, Biswal S, Peled N, Rivilis N, Golby AJ, Lee JW, **Westover MB**, Halgren E, Cash SS. Reactivation of Motor-Related Gamma Activity in Human NREM Sleep. Front Neurosci. 2020;14:449. doi: 10.3389/fnins.2020.00449. Epub 2020 May 12. PMID: 32477056; PMCID: PMC7235414.
 
-182. Goldenholz DM, Goldenholz SR, Romero J, Moss R, Sun H, **Westover B**. “Development and Validation of Forecasting Next Reported Seizure Using e-Diaries.” Ann Neurol. 2020 Sep;88(3):588-595. doi: 10.1002/ana.25812. Epub 2020 Jul 09. PMCID: PMC7720795.
+182. Beuchat I, Sivaraju A, Amorim E, Gilmore EJ, Dunet V, Rossetti AO, **Westover MB**, Hsu L, Scirica B, Silva D, Tang K, Lee Jw. "MRI-EEG correlation for outcome prediction in post-anoxic myoclonus, a multicenter study." *Neurology.* 2020 June 1;10.1212/WNL.0000000000009610. doi: 10.1212/WNL.0000000000009610. PMCID: PMC7455317.
 
-183. Lam AD, Sarkis RA, Pellerin KR, Jing J, Dworetzky BA, Hoch DB, Jacobs CS, Lee JW, Weisholtz DS, Zepeda R, **Westover MB**, Cole AJ, Cash SS. “Association of epileptiform abnormalities and seizures in Alzheimer disease.” Neurology. 2020 Oct 20;95(16):e2259-e2270. doi: 10.1212/WNL.0000000000010612. Epub 2020 Aug 06. PMCID: PMC7713786.
+183. Amorim E, Mo SS, Palacios S, Ghassemi MM, Weng WH, Cash SS, Bianchi MT, **Westover MB**. "Cost-effectiveness analysis of multimodal prognostication in cardiac arrest with EEG monitoring." *Neurology*. 2020 Jul 13; 10.1212/WNL.0000000000009916. doi:10.1212/WNL.0000000000009916. \[Epub ahead of print\]. PMCID: PMC7455344.
 
-184. Hogan J, Sun H, Paixao L, Westmeijer M, Sikka P, Jin J, Tesh R, Cardoso M, Cash SS, Akeju O, Thomas R, **Westover MB**. “Night-to-night variability of sleep electroencephalography-based brain age measurements.” Clin Neurophysiol. 2021 Jan;132(1):1-12. doi: 10.1016/j.clinph.2020.09.029. Epub 2020 Oct 29. PMCID: PMC7855943.
+184. Sun H, Ganglberger W, Panneerselvam E, Leone MJ, Quadri SA, Goparaju B, Tesh RA, Akeju O, Thomas RJ, **Westover MB**. “Sleep Staging from Electrocardiography and Respiration with Deep Learning.” *SLEEP.* Sleep. 2020 Jul 13;43(7):zsz306. doi: 10.1093/sleep/zsz306. PMCID: PMC7355395.
 
-185. Jing J, d'Angremont E, Ebrahim S, Tabaeizadeh M, Ng M, Herlopian A, Dauwels J, Brandon **Westover M**. “Rapid annotation of seizures and interictal-ictal-injury continuum EEG patterns.” J Neurosci Methods. 2021 Jan 01;347:108956. doi: 10.1016/j.jneumeth.2020.108956. Epub 2020 Oct 21. PMCID: PMC7744406.
+185. Amorim E, McGraw C, **Westover MB.** “A Theoretical Paradigm for Evaluating Risk-Benefit of Status Epilepticus Treatment.” Amorim E, McGraw CM, Westover MB. J Clin Neurophysiol. 2020 Sep;37(5):385-392. doi: 10.1097/WNP.0000000000000753. PMCID: PMC7516305.
 
-186. Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North CM, Mukerji SS, Robbins GK, Shao YP, **Westover MB**, Nemati S, Malhotra A. “Development and Prospective Validation of a Deep Learning Algorithm for Predicting Need for Mechanical Ventilation.” Chest. 2021 Jun;159(6):2264-2273. doi: 10.1016/j.chest.2020.12.009. Epub 2020 Dec 17. PMCID: PMC8027289.
+186. Zafar SF, Amorim E, Williamsom CA, Jin J, Gilmore EJ, Haider HA, Swisher C, Struck A, Rosenthal ES, Ng M, Schmitt S, Lee JW, **Westover MB**. “A standardized nomenclature for spectrogram EEG patterns: Inter-rater agreement and correspondence with common ICU EEG patterns.” *Clinical Neurophysiology.* 2020;131(9):2298-2306. PMCID: PMC7461156.
 
-187. Zafar SF, Khozein RJ, LaRoche SM, **Westover MB**, Gilmore EJ. “Impact of the COVID-19 Pandemic on Continuous EEG Utilization.” J Clin Neurophysiol. 2022 Nov 01;39(7):567-574. doi: 10.1097/WNP.0000000000000802. Epub 2020 Dec 22. PMCID: PMC8217411.
+187. Foy BH, Carlson JCT, Reinertsen E, Valls RP, Lopez RP, Palanques-Tost E, Mow C, **Westover MB**, Aguirre AA, Higgins JM. “Association of Red Blood Cell Distribution Width with Mortality Risk in Adults Hospitalized with COVID-19 Infection.” *JAMA Network Open.* 2020 Sep 1;3(9):e2022058. doi: 10.1001/jamanetworkopen.2020.22058. PMCID: PMC7512057.
 
-188. Lissak IA, Locascio JJ, Zafar SF, Schleicher RL, Patel AB, Leslie-Mazwi T, Stapleton CJ, Koch MJ, Kim JA, Anderson K, Rosand J, **Westover MB**, Kimberly WT, Rosenthal ES. “Electroencephalography, Hospital Complications, and Longitudinal Outcomes After Subarachnoid Hemorrhage.” Neurocrit Care. 2021 Oct;35(2):397-408. doi: 10.1007/s12028-020-01177-x. Epub 2021 Jan 22. PMCID: PMC7822587.
+188. Prasanth T, Thomas J, Yuvaraj R, Jing J, Cash SS, Chaudhari R, Leng TY, Rathakrishnan R, Rohit S, Saini V, **Westover MB**, 2020, July. “Deep Learning for Interictal Epileptiform Spike Detection from scalp EEG frequency sub bands.” In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 3703-3706). IEEE. PMCID: PMC7545315.
 
-189. Conklin J, Frosch MP, Mukerji SS, Rapalino O, Maher MD, Schaefer PW, Lev MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin E, Shaw B, Lemieux JE, Sabeti PC, Branda JA, Brown EN, **Westover MB**, Huang SY, Edlow BL. “Susceptibility-weighted imaging reveals cerebral microvascular injury in severe COVID-19.” J Neurol Sci. 2021 Feb 15;421:117308. doi: 10.1016/j.jns.2021.117308. Epub 2021 Jan 15. PMCID: PMC7832284.
+189. Ye E, Sun H, Leone MJ, Paixao L, Thomas RJ, Lam AD, **Westover MB**. “Sleep EEG-based Brain Age Index is a Biomarker for Dementia”. *JAMA Network Open.* 2020 Sep 1;3(9):e2017357. doi: 10.1001/jamanetworkopen.2020.17357. PMID: 32986106; PMCID: PMC7522697.
 
-190. Fernandes M, Sun H, Jain A, Alabsi HS, Brenner LN, Ye E, Ge W, Collens SI, Leone MJ, Das S, Robbins GK, Mukerji SS, **Westover MB**. “Classification of the Disposition of Patients Hospitalized with COVID-19: Reading Discharge Summaries Using Natural Language Processing.” JMIR Med Inform. 2021 Feb 10;9(2):e25457. doi: 10.2196/25457. PMCID: PMC7879729.
+190. Sun H\*, Jain A\*, Leone MJ\*, Alabsi HS, Brenner LN, Ye E, Ge W, Shao YP, Boutros CL, Wang R, Tesh RA, Magdamo C, Collens SI, Ganglberger W, Bassett IV, Meigs JB, Kalpathy-Cramer J, Li MD, Chu JT, Dougan ML, Stratton LW, Rosand J, Fischl B, Das S, Mukerji SS\*\*, Robbins GK\*\*, **Westover MB**\*\*. “CoVA: An Acuity Score for Outpatient Screening that Predicts COVID-19 Prognosis.” *Journal of Infectious Diseases.* 2020 Oct 24:jiaa663. doi: 10.1093/infdis/jiaa663. Epub ahead of print. PMCID: PMC7665643. . \***Co-first authors.** \*\* **Co-senior authors.**
 
-191. Janocko NJ, Jing J, Fan Z, Teagarden DL, Villarreal HK, Morton ML, Groover O, Loring DW, Drane DL, **Westover MB**, Karakis I. “DDESVSFS: A simple, rapid and comprehensive screening tool for the Differential Diagnosis of Epileptic Seizures VS Functional Seizures.” Epilepsy Res. 2021 Mar;171:106563. doi: 10.1016/j.eplepsyres.2021.106563. Epub 2021 Jan 21. PMCID: PMC8092190.
+191. Thomas J, Jin J, Thangavel P, Bagheri E, Yuvaraj R, Dauwels J, Rathakrishnan R, Halford JJ, Cash SS, **Westover MB**. "Automated Detection of Interictal Epileptiform Discharges from Scalp Electroencephalograms by Convolutional Neural Networks." *International Journal of Neural Systems. Int J Neural Syst.* 2020; Aug 19; 2050030. doi:10.1142/S0129065720500306. PMCID: PMC7606586.
 
-192. Ozdemir RA, Tadayon E, Boucher P, Sun H, Momi D, Ganglberger W, **Westover MB**, Pascual-Leone A, Santarnecchi E, Shafi MM. “Cortical responses to noninvasive perturbations enable individual brain fingerprinting.” Brain Stimul. 2021;14(2):391-403. doi: 10.1016/j.brs.2021.02.005. Epub 2021 Feb 12. PMCID: PMC8108003.
+192. Jaoude MA, Sun H, Pellerin KR, Pavlova M, Sarkis RA, Cash SS, **Westover MB**\*, Lam AD\* “Expert-level automated sleep staging of long-term scalp EEG recordings using deep learning.” *\***Co-senior authors.** SLEEP.* June 2020;zsaa112. doi:10.1093/sleep/zsaa112. PMCID: PMC7686563.
 
-193. Lin L, Al-Faraj A, Ayub N, Bravo P, Das S, Ferlini L, Karakis I, Lee JW, Mukerji SS, Newey CR, Pathmanathan J, Abdennadher M, Casassa C, Gaspard N, Goldenholz DM, Gilmore EJ, Jing J, Kim JA, Kimchi EY, Ladha HS, Tobochnik S, Zafar S, Hirsch LJ, **Westover MB**, Shafi MM. “Electroencephalographic Abnormalities are Common in COVID-19 and are Associated with Outcomes.” Ann Neurol. 2021 May;89(5):872-883. doi: 10.1002/ana.26060. Epub 2021 Mar 24. PMCID: PMC8104061.
+193. Vespa PM, Olson DM, John S, Hobbs KS, Gururangan K, Nie K, Desai M, Markert M, Parvizi J, Bleck TP, Hirsch LJ, **Westover MB**. "Evaluating the Clinical Impact of Rapid Response Electroencephalography: The DECIDE Multicenter Prospective Observational Clinical Study." *Critical Care Medicine.* 2020 Jun 29. doi: 10.1097/CCM.0000000000004428. \[Epub ahead of print\]. PMCID: PMC7735649.
 
-194. Hirsch LJ, Fong MWK, Leitinger M, LaRoche SM, Beniczky S, Abend NS, Lee JW, Wusthoff CJ, Hahn CD, **Westover MB**, Gerard EE, Herman ST, Haider HA, Osman G, Rodriguez-Ruiz A, Maciel CB, Gilmore EJ, Fernandez A, Rosenthal ES, Claassen J, Husain AM, Yoo JY, So EL, Kaplan PW, Nuwer MR, van Putten M, Sutter R, Drislane FW, Trinka E, Gaspard N. “American Clinical Neurophysiology Society's Standardized Critical Care EEG Terminology: 2021 Version.” J Clin Neurophysiol. 2021 Jan 01;38(1):1-29. doi: 10.1097/WNP.0000000000000806. PMCID: PMC8135051.
+194. Ayub N, Cohen J, Jing J, Jain A, Tesh R, Mukerji SS, Zafar SF, **Westover MB**, Kimchi EY. Clinical Electroencephalography Findings and Considerations in Hospitalized Patients with Coronavirus SARS-CoV-2. medRxiv \[Preprint\]. 2020 Jul 15:2020.07.13.20152207. doi: 10.1101/2020.07.13.20152207. PMCID: PMC7373142.
 
-195. Kramer MA, Stoyell SM, Chinappen D, Ostrowski LM, Spencer ER, Morgan AK, Emerton BC, Jing J, **Westover MB**, Eden UT, Stickgold R, Manoach DS, Chu CJ. “Focal Sleep Spindle Deficits Reveal Focal Thalamocortical Dysfunction and Predict Cognitive Deficits in Sleep Activated Developmental Epilepsy.” J Neurosci. 2021 Feb 24;41(8):1816-1829. doi: 10.1523/JNEUROSCI.2009-20.2020. Epub 2021 Jan 19. PMCID: PMC8115887.
+195. Thorn EL, Ostrowski LM, Chinappen DM, Jing J, **Westover MB**, Stufflebeam SM, Kramer MA, Chu CJ. “Persistent abnormalities in Rolandic thalamocortical white matter circuits in Childhood Epilepsy with Centrotemporal Spikes.” *Epilepsia.* 2020 Sep 18. doi: 10.1111/epi.16681. Online ahead of print. PMCID: PMC7722074.
 
-196. Gaspard N, **Westover MB**, Hirsch LJ. “Assessment of a Study of Continuous vs Repeat-Spot Electroencephalography in Patients With Critical Illness.” JAMA Neurol. 2021 Mar 01;78(3):369. doi: 10.1001/jamaneurol.2020.5348. PMCID: PMC8136812.
+196. Goldenholz DM, Goldenholz SR, Romero J, Moss R, Sun H, **Westover MB**. Development and Validation of Forecasting Next Reported Seizure Using e-Diaries. Ann Neurol. 2020 Sep;88(3):588-595. doi: 10.1002/ana.25812. Epub 2020 Jul 9. PMCID: PMC7720795.
 
-197. Ge W, Jing J, An S, Herlopian A, Ng M, Struck AF, Appavu B, Johnson EL, Osman G, Haider HA, Karakis I, Kim JA, Halford JJ, Dhakar MB, Sarkis RA, Swisher CB, Schmitt S, Lee JW, Tabaeizadeh M, Rodriguez A, Gaspard N, Gilmore E, Herman ST, Kaplan PW, Pathmanathan J, Hong S, Rosenthal ES, Zafar S, Sun J, Brandon **Westover M**. “Deep active learning for Interictal Ictal Injury Continuum EEG patterns.” J Neurosci Methods. 2021 Mar 01;351:108966. doi: 10.1016/j.jneumeth.2020.108966. Epub 2020 Oct 22. PMCID: PMC8135050.
+197. Lam AD, Sarkis RA, Pellerin KR, Jing J, Dworetzky BA, Hoch DB, Jacobs CS, Lee JW, Maus D, Weisholtz DS, Zepeda R, **Westover MB**, Cole AJ, Cash SS . “Association of epileptiform abnormalities and seizures in Alzheimer disease.” *Neurology.* \[Epub ahead of print, 2020 Aug 6\];10.1212/WNL.0000000000010612. doi:10.1212/WNL.0000000000010612. PMCID: PMC7713786.
 
-198. Li Q, **Westover MB**, Zhang R, Chu CJ. “Computational Evidence for a Competitive Thalamocortical Model of Spikes and Spindle Activity in Rolandic Epilepsy.” Front Comput Neurosci. 2021;15:680549. doi: 10.3389/fncom.2021.680549. Epub 2021 Jun 18. PMCID: PMC8249809.
+198. Hogan J, Sun H, Thomas RT, **Westover MB.** “Night-to-Night Variability of Sleep Electroencephalography-Based Brain Age Measurements.” *Clinical Neurophysiology.* 2020 Oct 29;132(1):1-12. doi: 10.1016/j.clinph.2020.09.029. Epub ahead of print*.* PMCID: PMC7855943.
 
-199. Mukerji SS, Das S, Alabsi H, Brenner LN, Jain A, Magdamo C, Collens SI, Ye E, Keller K, Boutros CL, Leone MJ, Newhouse A, Foy B, Li MD, Lang M, Anahtar MN, Shao YP, Ge W, Sun H, Triant VA, Kalpathy-Cramer J, Higgins J, Rosand J, Robbins GK, **Westover MB**. “Prolonged Intubation in Patients With Prior Cerebrovascular Disease and COVID-19.” Front Neurol. 2021;12:642912. doi: 10.3389/fneur.2021.642912. Epub 2021 Apr 09. PMCID: PMC8062773.
+199. Jing J, d’Angremont E, Ebrahim S, **Westover MB.** “Rapid Annotation of Seizures and Interictal-Ictal-Injury Continuum EEG Patterns.” *Journal of Neuroscience Methods.* 2020 Oct 22:108966. doi: 10.1016/j.jneumeth.2020.108966. Epub ahead of print. PMCID: PMC7744406
 
-200. Jones FJS, Sanches PR, Smith JR, Zafar SF, Blacker D, Hsu J, Schwamm LH, Newhouse JP, **Westover MB**, Moura LMVR. “Seizure Prophylaxis After Spontaneous Intracerebral Hemorrhage.” JAMA Neurol. 2021 Sep 01;78(9):1128-1136. doi: 10.1001/jamaneurol.2021.2249. PMCID: PMC8314179.
+200. Shashikumar SP, Wardi G, Paul P, Carlile M, Brenner LN, Hibbert KA, North CM, Mukerji SS, Robbins GK, Shao YP, **Westover MB**, Nemati S, Malhotra A. “Development and Prospective Validation of a Deep Learning Algorithm for Predicting Need for Mechanical Ventilation.” *Chest*. 2020 Dec 17;. doi: 10.1016/j.chest.2020.12.009. \[Epub ahead of print\] PubMed PMID: 33345948; PubMed Central PMCID: PMC8027289.
 
-201. Pedemonte JC, Sun H, Franco-Garcia E, Zhou C, Heng M, Quraishi SA, **Westover B**, Akeju O. “Postoperative delirium mediates 180-day mortality in orthopaedic trauma patients.” Br J Anaesth. 2021 Jul;127(1):102-109. doi: 10.1016/j.bja.2021.03.033. Epub 2021 May 29. PMCID: PMC8258970.
+201. Zafar SF, Khozein RJ, LaRoche S, **Westover MB**, Gilmore EJ. "Impact of the COVID-19 pandemic on continuous EEG utilization." *Journal of Clinical Neurophysiology*. 2020 Dec 22;Publish Ahead of Print. doi: 10.1097/WNP.0000000000000802. Epub ahead of print. PMCID: PMC8217411
 
-202. Yang JC, Harid NM, Nascimento FA, Kokkinos V, Shaughnessy A, Lam AD, **Westover MB**, Leslie-Mazwi TM, Hochberg LR, Rosenthal ES, Cole AJ, Richardson RM, Cash SS. “Responsive neurostimulation for focal motor status epilepticus.” Ann Clin Transl Neurol. 2021 Jun;8(6):1353-1361. doi: 10.1002/acn3.51318. Epub 2021 May 06. PMCID: PMC8164849.
+202. <span class="mark">Lissak IA, Locascio JJ, Zafar SF, Patel AB, Leslie-Mazwi T, Stapleton CJ, Kim JA, Anderson K, Schleicher RL, Rosand J, **Westover MB**, Kimberly T, Rosenthal ES. “Electroencephalography, Hospital Complications, and Longitudinal Outcomes after Subarachnoid Hemorrhage.” *Neurocritical Care.* 2021 Jan 22:1–12. doi: 10.1007/s12028-020-01177-x. Epub ahead of print. PMCID: PMC7822587.</span>
 
-203. Thomas J, Thangavel P, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R, Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, **Westover B**, Dauwels J. “Automated Adult Epilepsy Diagnostic Tool Based on Interictal Scalp Electroencephalogram Characteristics: A Six-Center Study.” Int J Neural Syst. 2021 May;31(5):2050074. doi: 10.1142/S0129065720500744. Epub 2021 Jan 12. PMCID: PMC9343226.
+203. Conklin J, Frosch MP, Mukerji SS, Rapalino O, Maher MD, Schaefer PW, Lev MH, Gonzalez RG, Das S, Champion SN, Magdamo C, Sen P, Harrold GK, Alabsi H, Normandin E, Shaw B, Lemieux JE, Sabeti PC, Branda JA, Brown EN, **Westover MB**, Huang SY, Edlow BL. “Susceptibility-weighted imaging reveals cerebral microvascular injury in severe COVID-19.” J Neurol Sci. 2021 Feb 15;421:117308. doi: 10.1016/j.jns.2021.117308. Epub 2021 Jan 15. PMCID: PMC7832284.
 
-204. Leone MJ, Sun H, Boutros CL, Liu L, Ye E, Sullivan L, Thomas RJ, Robbins GK, Mukerji SS, **Westover MB**. “HIV increases sleep-based brain age despite antiretroviral therapy.” Sleep. 2021 Aug 13;44(8). doi: 10.1093/sleep/zsab058. PMCID: PMC8361332.
+204. Fernandes MB, Sun H, Jain A, Alabsi HS, Brenner LN, Ye E, Ge W, Collens SI, Leone M, Das S, Robbins GK\*, Mukerji SS\*, **Westover MB**\* “Classification of the Disposition of Patients Hospitalized with COVID-19: Reading Discharge Summaries using Natural Language Processing." \*Co-senior authors. *JMIR Med Inform.* 2021 Feb 10;9(2):e25457. doi: 10.2196/25457. PMID: 33449908; PMCID: PMC7879729.
 
-205. Jones FJS, Sanches PR, Smith JR, Zafar SF, Hernandez-Diaz S, Blacker D, Hsu J, Schwamm LH, **Westover MB**, Moura LMVR. “Anticonvulsant Primary and Secondary Prophylaxis for Acute Ischemic Stroke Patients: A Decision Analysis.” Stroke. 2021 Aug;52(9):2782-2791. doi: 10.1161/STROKEAHA.120.033299. Epub 2021 Jun 15. PMCID: PMC8384723.
+205. Janocko NJ, Jing J, Fan Z, Teagarden DL, Villarreal HK, Morton ML, Groover O, Loring DW, Drane DL, **Westover MB**, Karakis I. DDESVSFS: A simple, rapid and comprehensive screening tool for the Differential Diagnosis of Epileptic Seizures VS Functional Seizures. Epilepsy Res. 2021 Jan 21;171:106563. doi: 10.1016/j.eplepsyres.2021.106563. Online ahead of print. PMCID: PMC8092190.
 
-206. Kim JA, Zheng WL, Elmer J, Jing J, Zafar SF, Ghanta M, Moura V, Gilmore EJ, Hirsch LJ, Patel A, Rosenthal E, **Westover MB**. “High epileptiform discharge burden predicts delayed cerebral ischemia after subarachnoid hemorrhage.” Clin Neurophysiol. 2022 Sep;141:139-146. doi: 10.1016/j.clinph.2021.01.022. Epub 2021 Mar 10. PMCID: PMC8429508.
+206. Ozdemir RA, Tadayon E, Boucher P, Sun H, Momi D, Ganglberger W, **Westover MB**, Pascual-Leone A, Santarnecchi E, Shafi MM. “Cortical Responses to Noninvasive Perturbations Enable Individual Brain Fingerprinting.” Brain Stimul. 2021 Feb 12:S1935-861X(21)00033-4. doi: 10.1016/j.brs.2021.02.005. Online ahead of print. PMC8108003.
 
-207. Ligtenstein S, Song J, Jin J, Sun H, Paixao L, Zafar S, **Westover MB**. “Do Triphasic Waves and Nonconvulsive Status Epilepticus Arise From Similar Mechanisms? A Computational Model.” J Clin Neurophysiol. 2021 Sep 01;38(5):366-375. doi: 10.1097/WNP.0000000000000719. PMCID: PMC8429048.
+207. Lin L, Al-Faraj A, Ayub N, Bravo P, Das S, Ferlini L, Karakis I, Lee JW, Mukerji SS, Newey CR, Pathmanathan J, Abdennadher M, Cassasa C, Gaspard N, Goldenholz DM, Gilmore EJ, Jin J, Kim JA, Kimchi EY, Ladha HS, Tobochnik S, Zafar S, Hirsch LJ, **Westover MB**\*, Shafi MM\*. “EEG Abnormalities are Common in COVID-19 and are Associated with Outcomes.” *Annals of Neurology*. Vol 89 (5), Pages 872-883. May 2021. PMCID: PMC8104061. \* **Co-senior authors.**
 
-208. Nascimento FA, Chen PM, Cohen J, **Westover BM**. “Generalized periodic discharges with triphasic morphology: to treat or not to treat?.” Epileptic Disord. 2021 Apr 01;23(2):435-436. doi: 10.1684/epd.2021.1272. PMCID: PMC8592021.
+208. Hirsch LJ, Fong MWK, Leitinger M, LaRoche SM, Beniczky S, Abend NS, Lee JW, Wusthoff CJ, Hahn CD, **Westover MB**, Gerard EE, Herman ST, Haider HA, Osman G, Rodriguez-Ruiz A, Maciel CB, Gilmore EJ, Fernandez A, Rosenthal ES, Claassen J, Husain AM, Yoo JY, So EL, Kaplan PW, Nuwer MR, van Putten M, Sutter R, Drislane FW, Trinka E, Gaspard N. “American Clinical Neurophysiology Society's Standardized Critical Care EEG Terminology: 2021 Version.” *Journal of Clinical Neurophysiology.* 2021 Jan 1;38(1):1-29. PMCID: PMC8135051.
 
-209. Oppersma E, Ganglberger W, Sun H, Thomas RJ, **Westover MB**. “Algorithm for automatic detection of self-similarity and prediction of residual central respiratory events during continuous positive airway pressure.” Sleep. 2021 Apr 09;44(4). doi: 10.1093/sleep/zsaa215. PMCID: PMC8631077.
+209. Kramer M, Stoyell S, Chinappen D, Ostrowski L, Spencer E, Morgan A, Emerton B, Jing J, **Westover MB**, Eden U, Stickgold R, Manoach D, Chu C. "Focal sleep spindle deficits reveal focal thalamocortical dysfunction and predict cognitive deficits in childhood epilepsy with centrotemporal spikes." *Journal of Neuroscience.* 2021 Jan 14:JN-RM-2009-20. doi: 10.1523/JNEUROSCI.2009-20.2020. Epub ahead of print. PMCID: PMC8115887.
 
-210. Zafar SF, Rosenthal ES, Jing J, Ge W, Tabaeizadeh M, Aboul Nour H, Shoukat M, Sun H, Javed F, Kassa S, Edhi M, Bordbar E, Gallagher J, Moura V, Ghanta M, Shao YP, An S, Sun J, Cole AJ, **Westover MB**. “Automated Annotation of Epileptiform Burden and Its Association with Outcomes.” Ann Neurol. 2021 Aug;90(2):300-311. doi: 10.1002/ana.26161. Epub 2021 Jul 20. PMCID: PMC8516549.
+210. Gaspard N, **Westover MB**, Hirsch LJ. “Assessment of a Study of Continuous vs Repeat-Spot Electroencephalography in Patients With Critical Illness.” JAMA Neurol. 2021 Feb 1. doi: 10.1001/jamaneurol.2020.5348. PMCID: PMC8136812.
 
-211. Paixao L, Sun H, Hogan J, Hartnack K, Westmeijer M, Neelagiri A, Zhou DW, McClain LM, Kimchi EY, Purdon PL, Akeju O, **Westover MB**. “ICU delirium burden predicts functional neurologic outcomes.” PLoS One. 2021;16(12):e0259840. doi: 10.1371/journal.pone.0259840. Epub 2021 Dec 02. PMCID: PMC8638853.
+211. Ge W, Jing J, An S, Herlopian A, Ng M, Struck AF, Appavu B, Johnson EL, Osman G, Haider HA, Karakis I, Kim JA, Halford JJ, Dhakar MB, Sarkis RA, Swisher CB, Schmitt S, Lee JW, Tabaeizadeh M, Rodriguez A, Gaspard N, Gilmore E, Herman ST, Kaplan PW, Pathmanathan J, Hong S, Rosenthal ES, Zafar S, Sun J, **Westover MB**. “Deep active learning for Interictal Ictal Injury Continuum EEG patterns.” *J Neurosci Methods*. 2021 Mar 1;351:108966. doi: 10.1016/j.jneumeth.2020.108966. Epub 2020 Oct 22. PMCID: PMC8135050.
 
-212. van Sleuwen M, Sun H, Eckhardt C, Neelagiri A, Tesh RA, Westmeijer M, Paixao L, Rajan S, Velpula Krishnamurthy P, Sikka P, Leone MJ, Panneerselvam E, Quadri SA, Akeju O, Kimchi EY, **Westover MB**. “Physiological Assessment of Delirium Severity: The Electroencephalographic Confusion Assessment Method Severity Score (E-CAM-S).” Crit Care Med. 2022 Jan 01;50(1):e11-e19. doi: 10.1097/CCM.0000000000005224. PMCID: PMC8678335.
+212. Li Q, **Westover MB**, Zhang R, Chu CJ. Computational Evidence for a Competitive Thalamocortical Model of Spikes and Spindle Activity in Rolandic Epilepsy. Front Comput Neurosci. 2021 Jun 18;15:680549. doi: 10.3389/fncom.2021.680549. PMCID: PMC8249809. \***Co-senior authors.**
 
-213. Zheng WL, Amorim E, Jing J, Ge W, Hong S, Wu O, Ghassemi M, Lee JW, Sivaraju A, Pang T, Herman ST, Gaspard N, Ruijter BJ, Sun J, Tjepkema-Cloostermans MC, Hofmeijer J, van Putten MJAM, **Westover MB**. “Predicting neurological outcome in comatose patients after cardiac arrest with multiscale deep neural networks.” Resuscitation. 2021 Dec;169:86-94. doi: 10.1016/j.resuscitation.2021.10.034. Epub 2021 Oct 24. PMCID: PMC8692444.
+213. Mukerji S, Das S, Alabsi H, Brenner LN, Jain A, Magdamo C, Collens SI, Ye E, Keller K, Boutros CL, Leone M, Newhouse A, Foy B, Li MD, Lang M, Anahtar MN, Shao YP, Ge W, Sun H, Triant VA, Kalpathy-Cramer J, Higgins J, Rosand J, Robbins GK, **Westover MB.** “Prolonged intubation in patients with prior cerebrovascular disease and COVID-19”. *Frontiers in Neurology, Neurocritical and Neurohospitalist Care.* 2021 Apr 9;12:642912. doi: 10.3389/fneur.2021.642912. PMCID: PMC8062773.
 
-214. Tesh RA, Sun H, Jing J, Westmeijer M, Neelagiri A, Rajan S, Krishnamurthy PV, Sikka P, Quadri SA, Leone MJ, Paixao L, Panneerselvam E, Eckhardt C, Struck AF, Kaplan PW, Akeju O, Jones D, Kimchi EY, **Westover MB**. “VE-CAM-S: Visual EEG-Based Grading of Delirium Severity and Associations With Clinical Outcomes.” Crit Care Explor. 2022 Jan;4(1):e0611. doi: 10.1097/CCE.0000000000000611. Epub 2022 Jan 18. PMCID: PMC8769081.
+214. Jones FJS, Sanches PR, Smith JR, Zafar SF, Hernandez-Diaz S, Newhouse JP, Blacker D, Hsu J, Schwamm LH, **Westover MB\*,** Moura LMVR\*, “Seizure prophylaxis after spontaneous intracerebral hemorrhage: a decision analysis.” *JAMA Neurology.* 2021 Jul 26:e212249. doi: 10.1001/jamaneurol.2021.2249. Epub ahead of print. PMCID: PMC8314179.
 
-215. Amerineni R, Sun H, Lee H, Hsu J, Patorno E, **Westover MB**, Zafar SF. “Using electronic health data to explore effectiveness of ICU EEG and anti-seizure treatment.” Ann Clin Transl Neurol. 2021 Dec;8(12):2270-2279. doi: 10.1002/acn3.51478. Epub 2021 Nov 21. PMCID: PMC8670316.
+215. Pedemonte JC, Sun H, Franco-Garcia E, Zhou C, Heng M, Quraishi SA, **Westover MB**, Akeju O. “Postoperative delirium mediates 180-day mortality in orthopaedic trauma patients.” *British Journal of Anesthesia.* 2021 Jul;127(1):102-109. doi: 10.1016/j.bja.2021.03.033. Epub 2021 May 29. PMCID: PMC8258970.
 
-216. Song JL, Kim JA, Struck AF, Zhang R, **Westover MB**. “A model of metabolic supply-demand mismatch leading to secondary brain injury.” J Neurophysiol. 2021 Aug 01;126(2):653-667. doi: 10.1152/jn.00674.2020. Epub 2021 Jul 07. PMCID: PMC8815783.
+216. Yang JC, Harid NM, Nascimento FA, Kokkinos V, Shaughnessy A, Lam AD, **Westover MB**, Leslie-Mazwi TM, Hochberg LR, Rosenthal ES, Cole AJ, Richardson RM, Cash SS. "Responsive neurostimulation for focal motor status epilepticus." Ann Clin Transl Neurol. 2021 May 6. doi: 10.1002/acn3.51318. Online ahead of print. PMCID: PMC8164849.
 
-217. Chen HY, Elmer J, Zafar SF, Ghanta M, Moura Junior V, Rosenthal ES, Gilmore EJ, Hirsch LJ, Zaveri HP, Sheth KN, Petersen NH, **Westover MB**, Kim JA. “Combining Transcranial Doppler and EEG Data to Predict Delayed Cerebral Ischemia After Subarachnoid Hemorrhage.” Neurology. 2022 Feb 01;98(5):e459-e469. doi: 10.1212/WNL.0000000000013126. Epub 2021 Nov 29. PMCID: PMC8826465.
+217. Thomas J, Thangavel P, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R, Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, **Westover MB**, Dauwels J. “Automated Adult Epilepsy Diagnostic Tool Based on Interictal Scalp Electroencephalogram Characteristics: A Six-Center Study.” Int J Neural Syst. 2021 May;31(5):2050074. doi: 10.1142/S0129065720500744. Epub 2021 Jan 12. PMCID: PMC9343226.
 
-218. Ganglberger W, Bucklin AA, Tesh RA, Da Silva Cardoso M, Sun H, Leone MJ, Paixao L, Panneerselvam E, Ye EM, Thompson BT, Akeju O, Kuller D, Thomas RJ, **Westover MB**. “Sleep apnea and respiratory anomaly detection from a wearable band and oxygen saturation.” Sleep Breath. 2022 Sep;26(3):1033-1044. doi: 10.1007/s11325-021-02465-2. Epub 2021 Aug 18. PMCID: PMC8854446.
+218. Leone MJ\*, Sun H\*, Boutros CL, Liu L, Ye E, Sullivan L, Thomas RJ, Robbins GK, Mukerji SS, **Westover MB**. "HIV Increases Sleep-based Brain Age Despite Antiretroviral Therapy." *SLEEP*. 2021 Mar 30:zsab058. doi: 10.1093/sleep/zsab058. Epub ahead of print. PMCID: PMC8361332.
 
-219. Salami P, Borzello M, Kramer MA, **Westover MB**, Cash SS. “Quantifying seizure termination patterns reveals limited pathways to seizure end.” Neurobiol Dis. 2022 Apr;165:105645. doi: 10.1016/j.nbd.2022.105645. Epub 2022 Jan 29. PMCID: PMC8860887.
+219. Jones FJS, Sanches PR, Smith JR, Zafar SF, Hernandez-Diaz S, Newhouse JP, Blacker D, Hsu J, Schwamm LH, **Westover MB\*,** Moura LMVR\*. "Anticonvulsant primary and secondary prophylaxis for acute ischemic stroke patients: a decision analysis." ***\* Co-senior authors.** Stroke.* 2021 Jun 15:STROKEAHA120033299. doi: 10.1161/STROKEAHA.120.033299. Epub ahead of print. PMCID: PMC8384723.
 
-220. Nayan M, Salari K, Bozzo A, Ganglberger W, Lu G, Carvalho F, Gusev A, Schneider A, **Westover BM**, Feldman AS. “A machine learning approach to predict progression on active surveillance for prostate cancer.” Urol Oncol. 2022 Apr;40(4):161.e1-161.e7. doi: 10.1016/j.urolonc.2021.08.007. Epub 2021 Aug 29. PMCID: PMC8882704.
+220. Kim JA, Zheng WL, Elmer J, Jing J, Zafar SF, Ghanta M, Moura V Junior, Gilmore EJ, Hirsch LJ, Patel A, Rosenthal E, **Westover MB**. “High epileptiform discharge burden predicts delayed cerebral ischemia after subarachnoid hemorrhage.” Clin Neurophysiol. 2021 Mar 10:S1388-2457(21)00063-8. doi: 10.1016/j.clinph.2021.01.022. Epub ahead of print. PMCID: PMC8429508.
 
-221. Moura Junior V, **Westover MB**, Li F, Kimchi E, Kennedy M, Benson NM, Moura LM, Hsu J. “Hospital complications among older adults: Better processes could reduce the risk of delirium.” Health Serv Manage Res. 2022 Aug;35(3):154-163. doi: 10.1177/09514848211028707. Epub 2021 Jul 11. PMCID: PMC8748518.
+221. Ligtenstein S; Song J, Jin J, Sun HB, Paixao L, Zafar S, **Westover MB**, “Do Triphasic Waves and Nonconvulsive Status Epilepticus Arise From Similar Mechanisms? A Computational Model.” *Journal of Clinical Neurophysiology.* 2021 Jun 18. doi: 10.1097/WNP.0000000000000719. Epub ahead of print. PMCID: PMC8429048.
 
-222. Ong CS, Reinertsen E, Sun H, Moonsamy P, Mohan N, Funamoto M, Kaneko T, Shekar PS, Schena S, Lawton JS, D'Alessandro DA, **Westover MB**, Aguirre AD, Sundt TM. “Prediction of operative mortality for patients undergoing cardiac surgical procedures without established risk scores.” J Thorac Cardiovasc Surg. 2023 Apr;165(4):1449-1459.e15. doi: 10.1016/j.jtcvs.2021.09.010. Epub 2021 Sep 14. PMCID: PMC8918430.
+222. Nascimento FA, Chen P, Cohen J, **Westover MB**. “Generalized periodic discharges with triphasic morphology – to treat or not to treat?” *Epileptic Disorders.* 2021 Apr 1;23(2):435-436. doi: 10.1684/epd.2021.1272. PMCID: PMC8592021.
 
-223. Ng MC, Jing J, **Westover MB**. “A Primer on EEG Spectrograms.” J Clin Neurophysiol. 2022 Mar 01;39(3):177-183. doi: 10.1097/WNP.0000000000000736. PMCID: PMC8901534.
+223. Oppersma E, Ganglberger W, Sun H, Thomas RJ\*, **Westover MB\***. “Algorithm for automatic detection of self-similarity and prediction of residual central respiratory events during continuous positive airway pressure.” Sleep. 2021 Apr 9;44(4):zsaa215. doi: 10.1093/sleep/zsaa215. PMCID: PMC8631077. \****Co-senior authors.***
 
-224. Ng MC, **Westover MB**. “Decoding the Spectrogram Rainbow.” J Clin Neurophysiol. 2022 Mar 01;39(3):176. doi: 10.1097/WNP.0000000000000741. PMCID: PMC8901547.
+224. Zafar SF, Rosenthal ES, Jing J, Ge W, Tabaeizadeh M, Aboul Nour H, Shoukat M, Sun H, Javed F, Kassa S, Edhi M, Bordbar E, Gallagher J, Moura V Jr, Ghanta M, Shao YP, An S, Sun J, Cole AJ, **Westover MB**. “Automated Annotation of Epileptiform Burden and Its Association with Outcomes.” Annals of Neurology. 2021 Aug;90(2):300-311. doi: 10.1002/ana.26161. Epub 2021 Jul 20. PMID: 34231244; PMCID: PMC8516549.
 
-225. Baang HY, Chen HY, Herman AL, Gilmore EJ, Hirsch LJ, Sheth KN, Petersen NH, Zafar SF, Rosenthal ES, **Westover MB**, Kim JA. “The Utility of Quantitative EEG in Detecting Delayed Cerebral Ischemia After Aneurysmal Subarachnoid Hemorrhage.” J Clin Neurophysiol. 2022 Mar 01;39(3):207-215. doi: 10.1097/WNP.0000000000000754. PMCID: PMC8901442.
+225. Paixao L, Sun H, Hogan J, Hartnack K, Westmeijer M, Neelagiri A, Zhou DW, McClain LM, Kimchi EY, Purdon PL, Akeju O, **Westover MB**. “ICU Delirium Burden Predicts Functional Neurologic Outcomes.” *PLoS One. 2021 Dec 2;16(12):e0259840. doi: 10.1371/journal.pone.0259840. eCollection 2021.* PMCID: PMC8638853*.*
 
-226. Nascimento FA, Jing J, Beniczky S, Benbadis SR, Gavvala JR, Yacubian EMT, Wiebe S, Rampp S, van Putten MJAM, Tripathi M, Cook MJ, Kaplan PW, Tatum WO, Trinka E, Cole AJ, **Westover MB**. “One EEG, one read - A manifesto towards reducing interrater variability among experts.” Clin Neurophysiol. 2022 Jan;133:68-70. doi: 10.1016/j.clinph.2021.10.007. Epub 2021 Nov 05. PMCID: PMC8926459.
+226. van Sleuwen M, Sun H, Eckhardt C, Neelagiri A, Tesh RA, Westmeijer M, Paixao L, Rajan S, Velpula Krishnamurthy P, Sikka P, Leone MJ, Panneerselvam E, Quadri SA, Akeju O, Kimchi EY, **Westover MB**. “Physiological Assessment of Delirium Severity: The Electroencephalographic Confusion Assessment Method Severity Score (E-CAM-S).” *Crit Care Med*. 2021 Sep 24. doi: 10.1097/CCM.0000000000005224. Epub ahead of print. PMCID: PMC8678335.
 
-227. Adra N, Sun H, Ganglberger W, Ye EM, Dümmer LW, Tesh RA, Westmeijer M, Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas RJ, **Westover MB**. “Optimal spindle detection parameters for predicting cognitive performance.” Sleep. 2022 Apr 11;45(4). doi: 10.1093/sleep/zsac001. PMCID: PMC8996023.
+227. Zheng WL, Amorim E, Jing J, Ge W, Hong S, Wu O, Ghassemi M, Lee JW, Sivaraju A, Pang T, Herman ST, Gaspard N, Ruijter BJ, Sun J, Tjepkema-Cloostermans MC, Hofmeijer J, van Putten MJAM, **Westover MB**. “Predicting Neurological Outcome in Comatose Patients after Cardiac Arrest with Multiscale Deep Neural Networks.” *Resuscitation.* 2021 Oct 23:S0300-9572(21)00441-X. doi: 10.1016/j.resuscitation.2021.10.034. Epub ahead of print. PMCID: PMC8692444.
 
-228. Waldrop G, Safavynia SA, Barra ME, Agarwal S, Berlin DA, Boehme AK, Brodie D, Choi JM, Doyle K, Fins JJ, Ganglberger W, Hoffman K, Mittel AM, Roh D, Mukerji SS, Der Nigoghossian C, Park S, Schenck EJ, Salazar-Schicchi J, Shen Q, Sholle E, Velazquez AG, Walline MC, **Westover MB**, Brown EN, Victor J, Edlow BL, Schiff ND, Claassen J. “Prolonged Unconsciousness is Common in COVID-19 and Associated with Hypoxemia.” Ann Neurol. 2022 Jun;91(6):740-755. doi: 10.1002/ana.26342. Epub 2022 Apr 21. PMCID: PMC9082460.
+228. Tesh RA\*, Sun H\*, Jing J\*, Westmeijer M, Neelagiri A, Rajan S, Krishnamurthy PV, Sikka P, Quadri SA, Leone MJ, Paixao L, Panneerselvam E, Eckhardt C, Struck AF, Kaplan PW, Akeju O, Jones D, Kimchi EY\*\*, **Westover MB**\*\*. "VE-CAM-S: Visual EEG-based Grading of Delirium Severity and Associations with Clinical Outcomes". Critical Care Explorations. \*co-first authors, \*\***co-senior authors***.* 2022 Jan 18;4(1):e0611. doi: 10.1097/CCE.0000000000000611. PMCID: PMC8769081.
 
-229. Abou Jaoude M, Jacobs CS, Sarkis RA, Jing J, Pellerin KR, Cole AJ, Cash SS, **Westover MB**, Lam AD. “Noninvasive Detection of Hippocampal Epileptiform Activity on Scalp Electroencephalogram.” JAMA Neurol. 2022 Jun 01;79(6):614-622. doi: 10.1001/jamaneurol.2022.0888. PMCID: PMC9062772.
+229. Amerineni R, Sun H, Lee H, Hsu J, Patorno E, **Westover MB**, Zafar SF. “Using electronic health data to explore effectiveness of ICU EEG and anti-seizure treatment.” *Annals of Clinical and Translational Neurology.* 2021 Dec;8(12):2270-2279. doi: 10.1002/acn3.51478. Epub 2021 Nov 21. PMID: 34802196; PMCID: PMC8670316.
 
-230. Zafar SF, Rosenthal ES, Postma EN, Sanches P, Ayub MA, Rajan S, Kim JA, Rubin DB, Lee H, Patel AB, Hsu J, Patorno E, **Westover MB**. “Antiseizure Medication Treatment and Outcomes in Patients with Subarachnoid Hemorrhage Undergoing Continuous EEG Monitoring.” Neurocrit Care. 2022 Jun;36(3):857-867. doi: 10.1007/s12028-021-01387-x. Epub 2021 Nov 29. PMCID: PMC9117405.
+230. Song JL, Kim J, Struck A, Zhang R, **Westover MB**. “A Model of Metabolic Supply-Demand Mismatch Leading to Secondary Brain Injury." *Journal of Neurophysiology.* 2021 Jul 7. doi: 10.1152/jn.00674.2020. Online ahead of print. PMCID: PMC8815783.
 
-231. Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, **Westover MB**, Beniczky S. “Accurate identification of EEG recordings with interictal epileptiform discharges using a hybrid approach: Artificial intelligence supervised by human experts.” Epilepsia. 2022 May;63(5):1064-1073. doi: 10.1111/epi.17206. Epub 2022 Mar 07. PMCID: PMC9148170.
+231. Chen HY, Elmer J, Zafar SF, Ghanta M, Junior VM, Rosenthal ES, Gilmore EJ, Hirsch LJ, Zaveri HP, Sheth KN, Petersen NH, **Westover MB**, Kim JA. “Combining Transcranial Doppler and EEG Data to Predict Delayed Cerebral Ischemia After Subarachnoid Hemorrhage.” *Neurology*. 2021 Nov 29:10.1212/WNL.0000000000013126. doi: 10.1212/WNL.0000000000013126. Epub ahead of print. PMCID: PMC8826465.
 
-232. Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM, Thomas RJ, **Westover MB**. “Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt and Deep Neural Networks.” IEEE Trans Biomed Eng. 2022 Jun;69(6):2094-2104. doi: 10.1109/TBME.2021.3136753. Epub 2022 May 19. PMCID: PMC9119908.
+232. Ganglberger W, Bucklin AA, Tesh R, BSc, Cardoso MDS; Sun H, Leone M, Paixao L, Panneerselvam E, Ye E, Thompson T, Johnson-Akeju O, Kuller D, Thomas RJ\*, **Westover MB**\*. Co-senior authors. "Sleep Apnea and Respiratory Anomaly Detection from a Wearable Band and Oxygen Saturation." *Sleep and Breathing.* 2021 Aug 18. doi: 10.1007/s11325-021-02465-2. Online ahead of print. PMCID: PMC8854446
 
-233. Sheikh Z, Selioutski O, Taraschenko O, Gilmore EJ, **Westover MB**, Cohen AB. “Systematic Evaluation of Research Priorities in Critical Care Electroencephalography.” J Clin Neurophysiol. 2023 Jul 01;40(5):426-433. doi: 10.1097/WNP.0000000000000916. Epub 2022 Jan 20. PMCID: PMC9296700.
+233. Salami P, Borzello M, Kramer MA, **Westover MB**, Cash SS. "Quantifying seizure termination patterns reveals limited pathways to seizure end". *Neurobiology of Disease*. Neurobiol Dis. 2022 Jan 29;165:105645. doi: 10.1016/j.nbd.2022.105645. Epub 2022 Jan 29. PMCID: PMC8860887.
 
-234. Harid NM, Jing J, Hogan J, Nascimento FA, Ouyang A, Zheng WL, Ge W, Zafar SF, Kim JA, Alice DL, Herlopian A, Maus D, Karakis I, Ng M, Hong S, Yu Z, Kaplan PW, Cash S, Shafi M, Martz G, Halford JJ, **Westover MB**. “Measuring expertise in identifying interictal epileptiform discharges.” Epileptic Disord. 2022 Jun 01;24(3):496-506. doi: 10.1684/epd.2021.1409. PMCID: PMC9340812.
+234. Nayan M, Salari K, Bozzo A, Ganglberger W, Lu G, , Carvalho F, Gusev A, **Westover MB**, Feldman AS. “A machine learning approach to predict progression on active surveillance for prostate cancer.” *Urologic Oncology: Seminars and Original Investigations.* 2021 Aug 28:S1078-1439(21)00366-5. doi: 10.1016/j.urolonc.2021.08.007. Epub ahead of print. PMCID: PMC8882704.
 
-235. Kulpanowski AM, Copen WA, Hancock BL, Rosenthal ES, Schoenfeld DA, Dodelson JA, Edlow BL, Kimberly WT, Amorim E, **Westover MB**, Ning MM, Schaefer PW, Malhotra R, Giacino JT, Greer DM, Wu O. “Severe cerebral edema in substance-related cardiac arrest patients.” Resuscitation. 2022 Apr;173:103-111. doi: 10.1016/j.resuscitation.2022.01.033. Epub 2022 Feb 08. PMCID: PMC9282938.
+235. Junior VM, **Westover MB**, Li F, Kimchi EY, Kennedy M, Benson NM, Moura LMVR, Hsu J. "Hospital Complications Among Older Adults: Better Processes Could Reduce the Risk of Delirium." *Health Services Management Research.* 2021 Jul 11:9514848211028707. doi: 10.1177/09514848211028707. Epub ahead of print. PMCID: PMC8748518.
 
-236. Ge W, Alabsi H, Jain A, Ye E, Sun H, Fernandes M, Magdamo C, Tesh RA, Collens SI, Newhouse A, Mvr Moura L, Zafar S, Hsu J, Akeju O, Robbins GK, Mukerji SS, Das S, **Westover MB**. “Identifying Patients With Delirium Based on Unstructured Clinical Notes: Observational Study.” JMIR Form Res. 2022 Jun 24;6(6):e33834. doi: 10.2196/33834. PMCID: PMC9270709.
+236. Ong CS, Reinertsen E, Sun H, Moonsamy P, Mohan N, Funamoto M, Kaneko T, Shekar PS, Schena S, Lawton JS, D'Alessandro DA, **Westover MB**, Aguirre AD, Sundt TM. “Prediction of operative mortality for patients undergoing cardiac surgical procedures without established risk scores.” *J Thorac Cardiovasc Surg*. 2021 Sep 14:S0022-5223(21)01313-1. doi: 10.1016/j.jtcvs.2021.09.010. Epub ahead of print. PMCID: PMC8918430.
 
-237. Nascimento FA, McLaren JR, **Westover MB**, Zafar SF, Stufflebeam SM. “Teaching NeuroImage: Sturge-Weber Syndrome in an Adult.” Neurology. 2022 May 10;98(19):814-815. doi: 10.1212/WNL.0000000000200512. Epub 2022 Apr 11. PMCID: PMC9141624.
+237. Ng M, Jing J, **Westover MB**. “A Primer of EEG Spectrograms.” *Journal of Clinical Neurophysiology. J Clin Neurophysiol.* 2022 Mar 1;39(3):177-183. doi: 10.1097/WNP.0000000000000736. PMCID: PMC8901534.
 
-238. Amorim E, Firme MS, Zheng WL, Shelton KT, Akeju O, Cudemus G, Yuval R, **Westover MB**. “High incidence of epileptiform activity in adults undergoing extracorporeal membrane oxygenation.” Clin Neurophysiol. 2022 Aug;140:4-11. doi: 10.1016/j.clinph.2022.04.018. Epub 2022 May 06. PMCID: PMC9340813.
+238. Ng M, **Westover MB**. “Decoding the Spectrogram Rainbow.” *Journal of Clinical Neurophysiology* 2022 Mar 1;39(3):176. doi: 10.1097/WNP.0000000000000741. PMCID: PMC8901547.
 
-239. Brink-Kjaer A, Leary EB, Sun H, **Westover MB**, Stone KL, Peppard PE, Lane NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E. “Age estimation from sleep studies using deep learning predicts life expectancy.” NPJ Digit Med. 2022 Jul 22;5(1):103. doi: 10.1038/s41746-022-00630-9. PMCID: PMC9307657.
+239. Kim J, Zafar S, Petersen N, Rosenthal ES, **Westover MB.** “The Utility of Quantitative EEG in Detecting Delayed Cerebral Ischemia After Aneurysmal Subarachnoid Hemorrhage.” *Journal of Clinical Neurophysiology.* 2022 Mar 1;39(3):207-215. doi: 10.1097/WNP.0000000000000754. PMID: 34510093; PMCID: PMC8901442.
 
-240. Thangavel P, Thomas J, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R, Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, **Westover B**, Dauwels J. “Time-Frequency Decomposition of Scalp Electroencephalograms Improves Deep Learning-Based Epilepsy Diagnosis.” Int J Neural Syst. 2021 Aug;31(8):2150032. doi: 10.1142/S0129065721500325. Epub 2021 Jul 16. PMCID: PMC9340811.
+240. Nascimento FA, Jing J, Beniczky S, Benbadis SR, Gavvala JR, Yacubian EMT, Wiebe S, Rampp S, van Putten MJAM, Tripathi M, Cook MJ, Kaplan PW, Tatum WO, Trinka E, Cole AJ, **Westover MB.** “One EEG, one read - A manifesto towards reducing interrater variability among experts.” Clin Neurophysiol. 2022 Jan;133:68-70. doi: 10.1016/j.clinph.2021.10.007. Epub 2021 Nov 5. PMID: 34814017; PMCID: PMC8926459.
 
-241. Song JL, Li Q, Zhang B, **Westover MB**, Zhang R. “A New Neural Mass Model Driven Method and Its Application in Early Epileptic Seizure Detection.” IEEE Trans Biomed Eng. 2020 Aug;67(8):2194-2205. doi: 10.1109/TBME.2019.2957392. Epub 2019 Dec 03. PMCID: PMC9371613.
+241. Adra N, Sun H, Ganglberger W, Ye EM, Dümmer LW, Tesh RA, Westmeijer M, Cardoso MDS, Kitchener E, Ouyang A, Salinas J, Rosand J, Cash SS, Thomas RJ, Westover MB. “Optimal Spindle Detection Parameters for Predicting Cognitive Performance.” *Sleep*. 2022 Jan 4:zsac001. doi: 10.1093/sleep/zsac001”. Epub ahead of print. PMCID: PMC8996023.
 
-242. Singh NM, Harrod JB, Subramanian S, Robinson M, Chang K, Cetin-Karayumak S, Dalca AV, Eickhoff S, Fox M, Franke L, Golland P, Haehn D, Iglesias JE, O'Donnell LJ, Ou Y, Rathi Y, Siddiqi SH, Sun H, **Westover MB**, Whitfield-Gabrieli S, Gollub RL. “How Machine Learning is Powering Neuroimaging to Improve Brain Health.” Neuroinformatics. 2022 Oct;20(4):943-964. doi: 10.1007/s12021-022-09572-9. Epub 2022 Mar 28. PMCID: PMC9515245.
+242. Waldrop G, Safavynia SA, Barra ME, Agarwal S, Berlin DA, Boehme AK, Brodie D, Choi JM, Doyle K, Fins JJ, Ganglberger W, Hoffman K, Mittel AM, Roh D, Mukerji SS, Der Nigoghossian C, Park S, Schenck EJ, Salazar-Schicchi J, Shen Q, Sholle E, Velazquez AG, Walline MC, **Westover MB**, Brown EN, Victor J, Edlow BL, Schiff ND, Claassen J. Annals of Neurology . “Prolonged unconsciousness is common in COVID-19 and associated with hypoxemia.” Ann Neurol. 2022 Mar 7. doi: 10.1002/ana.26342. Online ahead of print. PMCID: PMC9082460.
 
-243. Torres-Lopez VM, Rovenolt GE, Olcese AJ, Garcia GE, Chacko SM, Robinson A, Gaiser E, Acosta J, Herman AL, Kuohn LR, Leary M, Soto AL, Zhang Q, Fatima S, Falcone GJ, Payabvash MS, Sharma R, Struck AF, Sheth KN, **Westover MB**, Kim JA. “Development and Validation of a Model to Identify Critical Brain Injuries Using Natural Language Processing of Text Computed Tomography Reports.” JAMA Netw Open. 2022 Aug 01;5(8):e2227109. doi: 10.1001/jamanetworkopen.2022.27109. PMCID: PMC9382443.
+243. Abou Jaoude M, Jacobs CS, Sarkis RA, Jing J, Pellerin KR, Cole AJ, Cash SS, **Westover MB**, Lam AD. “Noninvasive Detection of Hippocampal Epileptiform Activity on Scalp Electroencephalogram.” JAMA Neurol. 2022 May 2. doi: 10.1001/jamaneurol.2022.0888. Online ahead of print. PMCID: PMC9062772.
 
-244. McLaren JR, Jing J, **Westover MB**, Nascimento FA. “Journal Club: Criteria for Defining Interictal Epileptiform Discharges in EEG.” Neurology. 2022 Sep 05;99(10):430-432. doi: 10.1212/WNL.0000000000200991. PMCID: PMC9519249.
+244. Zafar SF, Rosenthal ES, Postma EN, Sanches P, Ayub MA, Subapriya R, Kim JA, Rubin DB, Lee H, Patel AB, Hsu J, Patorno E, **Westover MB**. “Antiseizure medication treatment and outcomes in subarachnoid hemorrhage patients undergoing continuous EEG monitoring.” *Neurocritical Care.* 2021 Nov 29. doi: 10.1007/s12028-021-01387-x. Online ahead of print. PMCID: PMC9117405.
 
-245. Song JL, **Westover MB**, Zhang R. “A mechanistic model of calcium homeostasis leading to occurrence and propagation of secondary brain injury.” J Neurophysiol. 2022 Nov 01;128(5):1168-1180. doi: 10.1152/jn.00045.2022. Epub 2022 Oct 05. PMCID: PMC9621713.
+245. Kural MA, Jing J, Fürbass F, Perko H, Qerama E, Johnsen B, Fuchs S, **Westover MB**, Beniczky S. “Accurate identification of EEG recordings with interictal epileptiform discharges using a hybrid approach: Artificial intelligence supervised by human experts.” *Epilepsia*. 2022 Feb 20. doi: 10.1111/epi.17206. Epub ahead of print. PMCID: PMC9148170.
 
-246. Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C, Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, **Westover MB**. “EEG-based grading of immune effector cell-associated neurotoxicity syndrome.” Sci Rep. 2022 Nov 21;12(1):20011. doi: 10.1038/s41598-022-24010-1. PMCID: PMC9681864.
+246. “Automated Scoring of Respiratory Events in Sleep with a Single Effort Belt and Deep Neural Networks.” Nassi TE, Ganglberger W, Sun H, Bucklin AA, Biswal S, van Putten MJAM, Thomas RJ, **Westover MB**. *IEEE Transactions on Biomedical Engineering*. 2021 Dec 20;PP. doi: 10.1109/TBME.2021.3136753. Epub ahead of print. PMCID: PMC9119908.
 
-247. Amidi Y, Eckhardt CA, Quadri SA, Malik P, Firme MS, Jones DK, Jain A, Danish HH, Rubin DB, Jacobson CA, Cash SS, Lee JW, Dietrich J, **Westover MB**. “Forecasting immune effector cell-associated neurotoxicity syndrome after chimeric antigen receptor t-cell therapy.” J Immunother Cancer. 2022 Nov;10(11). doi: 10.1136/jitc-2022-005459. PMCID: PMC9716920.
+247. Sheikh Z, Selioutski O, Taraschenko O, Gilmore EJ, **Westover MB**\*, Cohen AB\*. **\*co-Senior authors.** “Systematic Evaluation of Research Priorities in Critical Care Electroencephalography.” *Journal of Clinical Neurophysiology.* 2022 Jan 20. doi: 10.1097/WNP.0000000000000916. Epub ahead of print. PMCID: PMC9296700.
 
-248. Zheng WL, Kim JA, Elmer J, Zafar SF, Ghanta M, Moura Junior V, Patel A, Rosenthal E, Brandon **Westover M**. “Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid hemorrhage.” Clin Neurophysiol. 2022 Nov;143:97-106. doi: 10.1016/j.clinph.2022.08.023. Epub 2022 Sep 11. PMCID: PMC9847346.
+248. Harid NM\*, Jing J\*, Hogan J\*, Nascimento FA, Ouyang A, Zheng WL, Ge WD, Zafar SF, Kim JA, Lam AD, Herlopian A, Maus D, Karakis I, Ng M, Hong S, Zhu Y, Kaplan P, Cash SS, Shafi MM, Martz G, Halford JJ, **Westover MB**. "Measuring Expertise in Identifying Interictal Epileptiform Discharges”. *Epileptic Disorders*. 2022 Jan 14. doi: 10.1684/epd.2021.1409. Epub ahead of print. PMCID: PMC9340812.
 
-249. Liang F, Baldyga K, Quan Q, Khatri A, Choi S, Wiener-Kronish J, Akeju O, **Westover MB**, Cody K, Shen Y, Marcantonio ER, Xie Z. “Preoperative Plasma Tau-PT217 and Tau-PT181 Are Associated With Postoperative Delirium.” Ann Surg. 2023 Jun 01;277(6):e1232-e1238. doi: 10.1097/SLA.0000000000005487. Epub 2022 Jul 06. PMCID: PMC9875943.
+249. Kulpanowski AM, Copen WA, Hancock B, Rosenthal ES, Schoenfeld D, Dodelson JA, Edlow BL, Taylor Kimberly W, Amorim E, **Westover MB**, Ming Ning M, Schaefer PW, Malhotra R, Giacino JT, Greer DM, Wu O. “Severe Cerebral Edema in Substance-Related Cardiac Arrest Patients.” *Resuscitation*. 2022 Feb 8:S0300-9572(22)00035-1. doi: 10.1016/j.resuscitation.2022.01.033. Epub ahead of print. PMCID: PMC9282938.
 
-250. Fernandes M, Donahue MA, Hoch D, Cash S, Zafar S, Jacobs C, Hosford M, Voinescu PE, Fureman B, Buchhalter J, McGraw CM, **Westover MB**, Moura LMVR. “A replicable, open-source, data integration method to support national practice-based research & quality improvement systems.” Epilepsy Res. 2022 Oct;186:107013. doi: 10.1016/j.eplepsyres.2022.107013. Epub 2022 Aug 18. PMCID: PMC9810436.
+250. Ge W, Alabsi H, Jain A, Ye E, Sun H, Fernandes M, Magdamo C, Tesh RA, Collens SI, Newhouse A, Mvr Moura L, Zafar S, Hsu J, Akeju O, Robbins GK, Mukerji SS, Das S, **Westover MB**. “Identifying Patients With Delirium Based on Unstructured Clinical Notes: Observational Study.” *Journal of Medical Internet Research (JMIR)*. 2022 Jun 24;6(6):e33834. doi: 10.2196/33834. PMCID: PMC9270709.
 
-251. Nascimento FA, Jing J, Strowd R, Sheikh IS, Weber D, Gavvala JR, Maheshwari A, Tanner A, Ng M, Vinayan KP, Sinha SR, Yacubian EM, Rao VR, Perry MS, Fountain NB, Karakis I, Wirrell E, Yuan F, Friedman D, Tankisi H, Rampp S, Fasano R, Wilmshurst JM, O'Donovan C, Schomer D, Kaplan PW, Sperling MR, Benbadis S, **Westover MB**, Beniczky S. “Competency-based EEG education: a list of "must-know" EEG findings for adult and child neurology residents.” Epileptic Disord. 2022 Oct 01;24(5):979-982. doi: 10.1684/epd.2022.1476. PMCID: PMC9812628.
+251. Nascimento FA, McLaren JR, **Westover MB**, Zafar SF, Stufflebeam SM. “Teaching NeuroImage: Sturge-Weber Syndrome in an Adult.” *Neurology*. 2022 May 10;98(19):814-815. doi: 10.1212/WNL.0000000000200512. Epub 2022 Apr 11. PMCID: PMC9141624.
 
-252. Nascimento FA, Jing J, Beniczky S, Olandoski M, Benbadis SR, Cole AJ, **Westover MB**. “EEG reading with or without clinical information - a real-world practice study.” Neurophysiol Clin. 2022 Oct;52(5):394-397. doi: 10.1016/j.neucli.2022.08.002. Epub 2022 Sep 17. PMCID: PMC9815944.
+252. Amorim E, Firme MS, Zheng WL, Shelton KT, Akeju O, Cudemus G, Yuval R, **Westover MB**. High incidence of epileptiform activity in adults undergoing extracorporeal membrane oxygenation. Clin Neurophysiol. 2022 Aug;140:4-11. doi: 10.1016/j.clinph.2022.04.018. Epub 2022 May 6. PMCID: PMC9340813.
 
-253. Martinez P, Sheikh I, **Westover MB**, Zafar SF. “Implications of stimulus-induced, rhythmic, periodic, or ictal discharges (SIRPIDs) in hospitalized patients.” Front Neurol. 2022;13:1062330. doi: 10.3389/fneur.2022.1062330. Epub 2023 Jan 23. PMCID: PMC9899805.
+253. Brink-Kjaer A, Leary EB, Sun H, **Westover MB**, Stone KL, Peppard PE, Lane NE, Cawthon PM, Redline S, Jennum P, Sorensen HBD, Mignot E. “Age estimation from sleep studies using deep learning predicts life expectancy.” NPJ Digit Med. 2022 Jul 22;5(1):103. doi: 10.1038/s41746-022-00630-9. PMCID: PMC9307657.
 
-254. Goldenholz DM, **Westover MB**. “Flexible realistic simulation of seizure occurrence recapitulating statistical properties of seizure diaries.” Epilepsia. 2023 Feb;64(2):396-405. doi: 10.1111/epi.17471. Epub 2022 Dec 04. PMCID: PMC9905290.
+254. Thangavel P, Thomas J, Peh WY, Jing J, Yuvaraj R, Cash SS, Chaudhari R, Karia S, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, **Westover MB**, Dauwels J. “Time-Frequency Decomposition of Scalp Electroencephalograms Improves Deep Learning-Based Epilepsy Diagnosis.” Int J Neural Syst. 2021 Aug;31(8):2150032. doi: 10.1142/S0129065721500325. Epub 2021 Jul 16. PMCID: PMC9340811.
 
-255. Qu JZ, Mueller A, McKay TB, **Westover MB**, Shelton KT, Shaefi S, D'Alessandro DA, Berra L, Brown EN, Houle TT, Akeju O, MINDDS Study Team. “Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac surgery (MINDDS): A single-centre, parallel-arm, randomised, placebo-controlled superiority trial.” EClinicalMedicine. 2023 Feb;56:101796. doi: 10.1016/j.eclinm.2022.101796. Epub 2022 Dec 24. PMCID: PMC9800196.
+255. Song JL, Li Q, Zhang B, **Westover MB**, Zhang R. A New Neural Mass Model Driven Method and Its Application in Early Epileptic Seizure Detection. IEEE Trans Biomed Eng. 2020 Aug;67(8):2194-2205. doi: 10.1109/TBME.2019.2957392. Epub 2019 Dec 3. PMCID: PMC9371613.
 
-256. Fernandes MB, Valizadeh N, Alabsi HS, Quadri SA, Tesh RA, Bucklin AA, Sun H, Jain A, Brenner LN, Ye E, Ge W, Collens SI, Lin S, Das S, Robbins GK, Zafar SF, Mukerji SS, **Westover MB**. “Classification of neurologic outcomes from medical notes using natural language processing.” Expert Syst Appl. 2023 Mar 15;214. doi: 10.1016/j.eswa.2022.119171. Epub 2022 Nov 06. PMCID: PMC9974159.
+256. Singh NM, Harrod JB, Subramanian S, Robinson M, Chang K, Cetin-Karayumak S, Dalca AV, Eickhoff S, Fox M, Franke L, Golland P, Haehn D, Iglesias JE, O'Donnell LJ, Ou Y, Rathi Y, Siddiqi SH, Sun H, **Westover MB**, Whitfield-Gabrieli S, Gollub RL. How Machine Learning is Powering Neuroimaging to Improve Brain Health. Neuroinformatics. 2022 Mar 28:10.1007/s12021-022-09572-9. doi: 10.1007/s12021-022-09572-9. Epub ahead of print. PMID: 35347570; PMCID: PMC9515245.
 
-257. Bucklin AA, Ganglberger W, Quadri SA, Tesh RA, Adra N, Da Silva Cardoso M, Leone MJ, Krishnamurthy PV, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins J, Ayub MA, Shao YP, Ye EM, Coughlin B, Sun H, Cash SS, Thompson BT, Akeju O, Kuller D, Thomas RJ, **Westover MB**. “High prevalence of sleep-disordered breathing in the intensive care unit - a cross-sectional study.” Sleep Breath. 2023 Jun;27(3):1013-1026. doi: 10.1007/s11325-022-02698-9. Epub 2022 Aug 16. PMCID: PMC9931933.
+257. Hanidziar D, **Westover MB**. Monitoring of sedation in mechanically ventilated patients using remote technology. Curr Opin Crit Care. 2022 Jun 01;28(3):360-366. doi: 10.1097/MCC.0000000000000940. PMID: 35653256; PMCID: PMC9434805.
 
-258. Chen Y, Li S, Ge W, Jing J, Chen HY, Doherty D, Herman A, Kaleem S, Ding K, Osman G, Swisher CB, Smith C, Maciel CB, Alkhachroum A, Lee JW, Dhakar MB, Gilmore EJ, Sivaraju A, Hirsch LJ, Omay SB, Blumenfeld H, Sheth KN, Struck AF, Edlow BL, **Westover MB**, Kim JA. “Quantitative epileptiform burden and electroencephalography background features predict post-traumatic epilepsy.” J Neurol Neurosurg Psychiatry. 2023 Mar;94(3):245-249. doi: 10.1136/jnnp-2022-329542. Epub 2022 Oct 14. PMCID: PMC9931627.
+258. Torres-Lopez VM, Rovenolt GE, Olcese AJ, Garcia GE, Chacko SM, Robinson A, Gaiser E, Acosta J, Herman AL, Kuohn LR, Leary M, Soto AL, Zhang Q, Fatima S, Falcone GJ, Payabvash MS, Sharma R, Struck AF, Sheth KN, **Westover MB**, Kim JA. Development and Validation of a Model to Identify Critical Brain Injuries Using Natural Language Processing of Text Computed Tomography Reports. JAMA Netw Open. 2022 Aug 1;5(8):e2227109. doi: 10.1001/jamanetworkopen.2022.27109. Erratum in: JAMA Netw Open. 2022 Sep 1;5(9):e2237810. PMID: 35972739; PMCID: PMC9382443.
 
-259. Ye EM, Sun H, Krishnamurthy PV, Adra N, Ganglberger W, Thomas RJ, Lam AD, **Westover MB**. “Dementia detection from brain activity during sleep.” Sleep. 2023 Mar 09;46(3). doi: 10.1093/sleep/zsac286. PMCID: PMC9995788.
+259. McLaren JR, Jing J, **Westover MB**, Nascimento FA. Journal Club: Criteria for Defining Interictal Epileptiform Discharges in EEG. Neurology. 2022 Jul 19;99(10):430–2. doi: 10.1212/WNL.0000000000200991. Epub ahead of print. PMID: 35853743; PMCID: PMC9519249.
 
-260. Sun H, Ye E, Paixao L, Ganglberger W, Chu CJ, Zhang C, Rosand J, Mignot E, Cash SS, Gozal D, Thomas RJ, **Westover MB**. “The sleep and wake electroencephalogram over the lifespan.” Neurobiol Aging. 2023 Apr;124:60-70. doi: 10.1016/j.neurobiolaging.2023.01.006. Epub 2023 Jan 19. PMCID: PMC9957961.
+260. Song JL, **Westover MB**, Zhang R. A mechanistic model of calcium homeostasis leading to occurrence and propagation of secondary brain injury. J Neurophysiol. 2022 Nov 1;128(5):1168-1180. doi: 10.1152/jn.00045.2022. Epub 2022 Oct 5. PMCID: PMC9621713.
 
-261. Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N, Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O, Kuller D, Thomas RJ, **Westover MB**. “Sleep staging in the ICU with heart rate variability and breathing signals. An exploratory cross-sectional study using deep neural networks.” Front Netw Physiol. 2023;3:1120390. doi: 10.3389/fnetp.2023.1120390. Epub 2023 Feb 27. PMCID: PMC10013021.
+261. Jones DK, Eckhardt CA, Sun H, Tesh RA, Malik P, Quadri S, Firme MS, van Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Nascimento FA, Sheikh IS, Jacobson C, Frigault M, Kimchi EY, Cash SS, Lee JW, Dietrich J, **Westover MB**. “EEG-based grading of immune effector cell-associated neurotoxicity syndrome.” *Scientific Reports*. 2022 Nov 21;12(1):20011. doi: 10.1038/s41598-022-24010-1. PMCID: PMC9681864.
 
-262. Chwalisz BK, Le VK, Cheng JR, Jain A, Brandon **Westover M**, Cheng HT. “COVID-19-induced headache in Boston and the vicinity.” J Clin Virol Plus. 2023 Jun;3(2):100148. doi: 10.1016/j.jcvp.2023.100148. Epub 2023 Apr 07. PMCID: PMC10079317.
+262. Amidi Y, Eckhardt CA, Quadri SA, Malik P, Firme MS, Jones DK, Jain A, Danish HH, Rubin DB, Jacobson CA, Cash SS, Lee JW, Dietrich J, **Westover MB**. Forecasting immune effector cell-associated neurotoxicity syndrome after chimeric antigen receptor t-cell therapy. J Immunother Cancer. 2022 Nov;10(11):e005459. doi: 10.1136/jitc-2022-005459. PMCID: PMC9716920.
 
-263. Jing J, Ge W, Struck AF, Fernandes MB, Hong S, An S, Fatima S, Herlopian A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan PW, Dhakar MB, Jayagopal LA, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal ES, Zafar SF, Sun J, **Westover MB**. “Interrater Reliability of Expert Electroencephalographers Identifying Seizures and Rhythmic and Periodic Patterns in EEGs.” Neurology. 2023 Apr 25;100(17):e1737-e1749. doi: 10.1212/WNL.0000000000201670. Epub 2022 Dec 02. PMCID: PMC10136018.
+263. Zheng WL, Kim JA, Elmer J, Zafar SF, Ghanta M, Moura Junior V, Patel A, Rosenthal E, **Westover MB**. “Automated EEG-based prediction of delayed cerebral ischemia after subarachnoid hemorrhage.” Clin Neurophysiol. 2022 Sep 11;143:97-106. doi: 10.1016/j.clinph.2022.08.023. Epub ahead of print. PMCID: PMC9847346.
 
-264. Coelho LMG, Blacker D, Hsu J, Newhouse JP, **Westover MB**, Zafar SF, Moura LMVR. “Association of Early Seizure Prophylaxis With Posttraumatic Seizures and Mortality: A Meta-analysis With Evidence Quality Assessment.” Neurol Clin Pract. 2023 Jun;13(3):e200145. doi: 10.1212/CPJ.0000000000200145. Epub 2023 Mar 30. PMCID: PMC10101717.
+264. Liang F, Baldyga K, Quan Q, Khatri A, Choi S, Wiener-Kronish J, Akeju O, **Westover MB**, Cody K, Shen Y, Marcantonio ER, Xie Z. “Preoperative Plasma Tau-PT217 and Tau-PT181 Are Associated With Postoperative Delirium.” Ann Surg. 2022 Jul 6. doi: 10.1097/SLA.0000000000005487. Epub ahead of print. PMCID: PMC9875943.
 
-265. Boncompte G, Sun H, Elgueta MF, Benavides J, Carrasco M, Morales MI, Calderón N, Contreras V, **Westover MB**, Cortínez LI, Akeju O, Pedemonte JC. “Intraoperative electroencephalographic marker of preoperative frailty: A prospective cohort study.” J Clin Anesth. 2023 Jun;86:111069. doi: 10.1016/j.jclinane.2023.111069. Epub 2023 Feb 02. PMCID: PMC10074446.
+265. Fernandes M, Donahue MA, Hoch D, Cash S, Zafar S, Jacobs C, Hosford M, Voinescu PE, Fureman B, Buchhalter J, McGraw CM, **Westover MB\***, Moura LMVR\*. “A replicable, open-source, data integration method to support national practice-based research & quality improvement systems.” Epilepsy Res. 2022 Oct;186:107013. doi: 10.1016/j.eplepsyres.2022.107013. Epub 2022 Aug 18. **\*\*co-senior authors.** *Epilepsy Research.* PMCID: PMC9810436.
 
-266. McInnis RP, Ayub MA, Jing J, Halford JJ, Mateen FJ, Brandon **Westover M**. “Epilepsy diagnosis using a clinical decision tool and artificially intelligent electroencephalography.” Epilepsy Behav. 2023 Apr;141:109135. doi: 10.1016/j.yebeh.2023.109135. Epub 2023 Mar 03. PMCID: PMC10082472.
+266. Nascimento FA, Jing J, Strowd R, Sheikh IS, Weber D, Gavvala JR, Maheshwari A, Tanner A, Ng M, Vinayan KP, Sinha SR, Yacubian EM, Rao VR, Perry MS, Fountain NB, Karakis I, Wirrell E, Yuan F, Friedman D, Tankisi H, Rampp S, Fasano R, Wilmshurst JM, O'Donovan C, Schomer D, Kaplan PW, Sperling MR, Benbadis S, **Westover MB**, Beniczky S. “Competency-based EEG education: a list of "must-know" EEG findings for adult and child neurology residents.” *Epileptic Disorders.* 2022 Oct 1;24(5):1-4. doi: 10.1684/epd.2022.1476. PMCID: PMC9812628.
 
-267. Goldenholz DM, Sun H, Ganglberger W, **Westover MB**. “Sample Size Analysis for Machine Learning Clinical Validation Studies.” Biomedicines. 2023 Feb 23;11(3). doi: 10.3390/biomedicines11030685. PMCID: PMC10045793.
+267. Noori A, Magdamo C, Liu X, Tyagi T, Li Z, Kondepudi A, Alabsi H, Rudmann E, Wilcox D, Brenner L, Robbins GK, Moura L, Zafar S, Benson NM, Hsu J, R Dickson J, Serrano-Pozo A, Hyman BT, Blacker D, **Westover MB**, Mukerji SS, Das S. Development and Evaluation of a Natural Language Processing Annotation Tool to Facilitate Phenotyping of Cognitive Status in Electronic Health Records: Diagnostic Study. J Med Internet Res. 2022 Aug 30;24(8):e40384. doi: 10.2196/40384. PMID: 36040790; PMCID: PMC9472045.
 
-268. Jing J, Ge W, Hong S, Fernandes MB, Lin Z, Yang C, An S, Struck AF, Herlopian A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan PW, Dhakar MB, Arcot Jayagopal L, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal ES, Zafar SF, Sun J, **Westover MB**. “Development of Expert-Level Classification of Seizures and Rhythmic and Periodic Patterns During EEG Interpretation.” Neurology. 2023 Apr 25;100(17):e1750-e1762. doi: 10.1212/WNL.0000000000207127. Epub 2023 Mar 06. PMCID: PMC10136013.
+268. Nascimento FA, Jing J, Beniczky S, Olandoski M, Benbadis SR, Cole AJ, **Westover MB**. EEG reading with or without clinical information - a real-world practice study. Neurophysiol Clin. 2022 Oct;52(5):394-397. doi: 10.1016/j.neucli.2022.08.002. Epub 2022 Sep 17. PMCID: PMC9815944.
 
-269. Fernandes M, **Westover MB**, Zafar SF. “Identifying inpatient hospitalizations with continuous electroencephalogram monitoring from administrative data.” Res Sq. 2023 May 08. doi: 10.21203/rs.3.rs-2882806/v1. PMCID: PMC10197757.
+269. Martinez P, Sheikh I, **Westover MB**, Zafar SF. Implications of stimulus-induced, rhythmic, periodic, or ictal discharges (SIRPIDs) in hospitalized patients. Front Neurol. 2023 Jan 23;13:1062330. doi: 10.3389/fneur.2022.1062330. PMID: 36756343; PMCID: PMC9899805.
 
-270. Chen PM, Stekhoven SS, Haider A, Jing J, Ge W, Rosenthal ES, **Westover MB**, Zafar SF. “Association of Epileptiform Activity With Outcomes in Toxic-Metabolic Encephalopathy.” Crit Care Explor. 2023 May;5(5):e0913. doi: 10.1097/CCE.0000000000000913. Epub 2023 May 05. PMCID: PMC10166342.
+270. Goldenholz DM, **Westover MB**. Flexible realistic simulation of seizure occurrence recapitulating statistical properties of seizure diaries. Epilepsia. 2023 Feb;64(2):396-405. doi: 10.1111/epi.17471. Epub 2022 Dec 4. PMID: 36401798; PMCID: PMC9905290.
 
-271. Lin Z, Glass L, Brandon **Westover M**, Xiao C, Sun J. “SCRIB: Set-Classifier with Class-Specific Risk Bounds for Blackbox Models.” Proc AAAI Conf Artif Intell. 2022 Jun 30;36(7):7497-7505. doi: 10.1609/aaai.v36i7.20714. PMCID: PMC10155818.
+271. Qu JZ, Mueller A, McKay TB, **Westover MB**, Shelton KT, Shaefi S, D'Alessandro DA, Berra L, Brown EN, Houle TT, Akeju O; MINDDS Study Team. Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac surgery (MINDDS): A single-centre, parallel-arm, randomised, placebo-controlled superiority trial. EClinicalMedicine. 2022 Dec 24;56:101796. doi: 10.1016/j.eclinm.2022.101796. PMID: 36590787; PMCID: PMC9800196.
 
-272. Nasiri S, Ganglberger W, Sun H, Thomas RJ, **Westover MB**. “Exploiting labels from multiple experts in automated sleep scoring.” Sleep. 2023 May 10;46(5). doi: 10.1093/sleep/zsad034. PMCID: PMC10171620.
+272. Fernandes MB, Valizadeh N, Alabsi HS, Quadri SA, Tesh RA, Bucklin AA, Sun H, Jain A, Brenner LN, Ye E, Ge W, Collens SI, Lin S, Das S, Robbins GK, Zafar SF, Mukerji SS, **Westover MB.** Classification of neurologic outcomes from medical notes using natural language processing. Expert Syst Appl. 2023 Mar 15;214:119171. doi: 10.1016/j.eswa.2022.119171. Epub 2022 Nov 6. PMID: 36865787; PMCID: PMC9974159.
 
-273. Chinappen DM, Xiao G, Jing J, Spencer ER, Eden UT, Kramer MA, **Westover MB**, Chu CJ. “Spike height improves prediction of future seizure risk.” Clin Neurophysiol. 2023 Jun;150:49-55. doi: 10.1016/j.clinph.2023.02.180. Epub 2023 Mar 21. PMCID: PMC10192090.
+273. Bucklin AA, Ganglberger W, Quadri SA, Tesh RA, Adra N, Da Silva Cardoso M, Leone MJ, Krishnamurthy PV, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins J, Ayub MA, Shao YP, Ye EM, Coughlin B, Sun H, Cash SS, Thompson BT, Akeju O, Kuller D, Thomas RJ, **Westover MB.** High prevalence of sleep-disordered breathing in the intensive care unit - a cross-sectional study. Sleep Breath. 2022 Aug 16;. doi: 10.1007/s11325-022-02698-9. \[Epub ahead of print\] PubMed PMID: 35971023; PMCID: PMC9931933.
 
-274. Adra N, Dümmer LW, Paixao L, Tesh RA, Sun H, Ganglberger W, Westmeijer M, Da Silva Cardoso M, Kumar A, Ye E, Henry J, Cash SS, Kitchener E, Leveroni CL, Au R, Rosand J, Salinas J, Lam AD, Thomas RJ, **Westover MB**. “Decoding information about cognitive health from the brainwaves of sleep.” Sci Rep. 2023 Jul 15;13(1):11448. doi: 10.1038/s41598-023-37128-7. PMCID: PMC10349883.
+274. Chen Y, Li S, Ge W, Jing J, Chen HY, Doherty D, Herman A, Kaleem S, Ding K, Osman G, Swisher CB, Smith C, Maciel CB, Alkhachroum A, Lee JW, Dhakar MB, Gilmore EJ, Sivaraju A, Hirsch LJ, Omay SB, Blumenfeld H, Sheth KN, Struck AF, Edlow BL, **Westover MB**, Kim JA. Quantitative epileptiform burden and electroencephalography background features predict post-traumatic epilepsy. J Neurol Neurosurg Psychiatry. 2023 Mar;94(3):245-249. doi: 10.1136/jnnp-2022-329542. Epub 2022 Oct 14. PMID: 36241423; PMCID: PMC9931627.
 
-275. Rathmell CS, Akeju O, Inouye SK, **Westover MB**. “Estimating the number of cases of dementia that might be prevented by preventing delirium.” Br J Anaesth. 2023 Jun;130(6):e477-e478. doi: 10.1016/j.bja.2023.03.001. Epub 2023 Apr 06. PMCID: PMC10329187.
+275. Ye EM, Sun H, Krishnamurthy PV, Adra N, Ganglberger W, Thomas RJ, Lam AD, **Westover MB.** Dementia detection from brain activity during sleep. Sleep. 2023 Mar 9;46(3). doi: 10.1093/sleep/zsac286. PMID: 36448766; PMCID: PMC9995788.
 
-276. Wilcox DR, Rudmann EA, Ye E, Noori A, Magdamo C, Jain A, Alabsi H, Foy B, Triant VA, Robbins GK, **Westover MB**, Das S, Mukerji SS. “Cognitive concerns are a risk factor for mortality in people with HIV and coronavirus disease 2019.” AIDS. 2023 Aug 01;37(10):1565-1571. doi: 10.1097/QAD.0000000000003595. Epub 2023 May 09. PMCID: PMC10355333.
+276. Sun H, Ye E, Paixao L, Ganglberger W, Chu CJ, Zhang C, Rosand J, Mignot E, Cash SS, Gozal D, Thomas RJ, **Westover MB.** The sleep and wake electroencephalogram over the lifespan. Neurobiol Aging. 2023 Apr;124:60-70. doi: 10.1016/j.neurobiolaging.2023.01.006. Epub 2023 Jan 19. PMID: 36739622; PMCID: PMC9957961.
 
-277. Sinha N, Dauwels J, Kaiser M, Cash SS, **Westover MB**, Wang Y, Taylor PN. “Reply: Computer models to inform epilepsy surgery strategies: prediction of postoperative outcome.” Brain. 2017 May 01;140(5):e31. doi: 10.1093/brain/awx068. PMCID: PMC10448005.
+277. Ganglberger W, Krishnamurthy PV, Quadri SA, Tesh RA, Bucklin AA, Adra N, Da Silva Cardoso M, Leone MJ, Hemmige A, Rajan S, Panneerselvam E, Paixao L, Higgins J, Ayub MA, Shao YP, Coughlin B, Sun H, Ye EM, Cash SS, Thompson BT, Akeju O, Kuller D, Thomas RJ, **Westover MB**. Sleep staging in the ICU with heart rate variability and breathing signals. An exploratory cross-sectional study using deep neural networks. Front Netw Physiol. 2023 Feb 27;3:1120390. doi: 10.3389/fnetp.2023.1120390. PMID: 36926545; PMCID: PMC10013021.
 
-278. Ramantani G, **Westover MB**, Gliske S, Sarnthein J, Sarma S, Wang Y, Baud MO, Stacey WC, Conrad EC. “Passive and active markers of cortical excitability in epilepsy.” Epilepsia. 2023 Dec;64 Suppl 3(Suppl 3):S25-S36. doi: 10.1111/epi.17578. Epub 2023 Mar 22. PMCID: PMC10512778.
+278. Chwalisz BK, Le VK, Cheng JR, Jain A, **Westover MB**, Cheng HT. COVID-19-induced headache in Boston and the vicinity. J Clin Virol Plus. 2023 Apr 7:100148. doi: 10.1016/j.jcvp.2023.100148. Epub ahead of print. PMCID: PMC10079317.
 
-279. Amorim E, Zheng WL, Jing J, Ghassemi MM, Lee JW, Wu O, Herman ST, Pang T, Sivaraju A, Gaspard N, Hirsch L, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer J, van Putten MJAM, **Westover MB**. “Neurophysiology State Dynamics Underlying Acute Neurologic Recovery After Cardiac Arrest.” Neurology. 2023 Aug 29;101(9):e940-e952. doi: 10.1212/WNL.0000000000207537. Epub 2023 Jul 06. PMCID: PMC10501085.
+279. Jing J, Ge W, Struck AF, Fernandes MB, Hong S, An S, Fatima S, Herlopian A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan PW, Dhakar MB, Jayagopal LA, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal ES, Zafar SF, Sun J, **Westover MB**. Interrater Reliability of Expert Electroencephalographers Identifying Seizures and Rhythmic and Periodic Patterns in EEGs. Neurology. 2023 Apr 25;100(17):e1737-e1749. doi: 10.1212/WNL.0000000000201670. Epub 2022 Dec 2. PMID: 36460472; PMCID: PMC10136018.
 
-280. Berger M, Ryu D, Reese M, McGuigan S, Evered LA, Price CC, Scott DA, **Westover MB**, Eckenhoff R, Bonanni L, Sweeney A, Babiloni C. “A Real-Time Neurophysiologic Stress Test for the Aging Brain: Novel Perioperative and ICU Applications of EEG in Older Surgical Patients.” Neurotherapeutics. 2023 Jul;20(4):975-1000. doi: 10.1007/s13311-023-01401-4. Epub 2023 Jul 12. PMCID: PMC10457272.
+280. Coelho LMG, Blacker D, Hsu J, Newhouse JP, **Westover MB,** Zafar SF, Moura LMVR. Association of Early Seizure Prophylaxis With Posttraumatic Seizures and Mortality: A Meta-analysis With Evidence Quality Assessment. Neurol Clin Pract. 2023 Jun;13(3):e200145. doi: 10.1212/CPJ.0000000000200145. Epub 2023 Mar 30. PMID: 37066107; PMCID: PMC10101717.
 
-281. Ryan SL, Liu X, McKenna V, Ghanta M, Muniz C, Renwick R, **Westover MB**, Kimchi EY. “Associations between early in-hospital medications and the development of delirium in patients with stroke.” J Stroke Cerebrovasc Dis. 2023 Sep;32(9):107249. doi: 10.1016/j.jstrokecerebrovasdis.2023.107249. Epub 2023 Aug 01. PMCID: PMC10529367.
+281. Boncompte G, Sun H, Elgueta MF, Benavides J, Carrasco M, Morales MI, Calderón N, Contreras V, Westover MB, Cortínez LI, Akeju O, Pedemonte JC. Intraoperative electroencephalographic marker of preoperative frailty: A prospective cohort study. J Clin Anesth. 2023 Jun;86:111069. doi: 10.1016/j.jclinane.2023.111069. Epub 2023 Feb 2. PMID: 36738630; PMCID: PMC10074446.
 
-282. Leone MJ, Dashti HS, Coughlin B, Tesh RA, Quadri SA, Bucklin AA, Adra N, Krishnamurthy PV, Ye EM, Hemmige A, Rajan S, Panneerselvam E, Higgins J, Ayub MA, Ganglberger W, Paixao L, Houle TT, Thompson BT, Johnson-Akeju O, Saxena R, Kimchi E, Cash SS, Thomas RJ, **Westover MB**. “Sound and light levels in intensive care units in a large urban hospital in the United States.” Chronobiol Int. 2023 Jun 03;40(6):759-768. doi: 10.1080/07420528.2023.2207647. Epub 2023 May 05. PMCID: PMC10524721.
+282. McInnis RP, Ayub MA, Jing J, Halford JJ, Mateen FJ, **Westover MB**. Epilepsy diagnosis using a clinical decision tool and artificially intelligent electroencephalography. Epilepsy Behav. 2023 Apr;141:109135. doi: 10.1016/j.yebeh.2023.109135. Epub 2023 Mar 3. PMID: 36871319; PMCID: PMC10082472.
 
-283. Namirembe GE, Baker S, Albanese M, Mueller A, Qu JZ, Mekonnen J, Wiredu K, **Westover MB**, Houle TT, Akeju O, Minimizing Intensive Care Unit Neurological Dysfunction with Dexmedetomidine-Induced Sleep Study Team. “Association Between Postoperative Delirium and Long-Term Subjective Cognitive Decline in Older Patients Undergoing Cardiac Surgery: A Secondary Analysis of the Minimizing Intensive Care Unit Neurological Dysfunction with Dexmedetomidine-Induced Sleep Trial.” J Cardiothorac Vasc Anesth. 2023 Sep;37(9):1700-1706. doi: 10.1053/j.jvca.2023.04.035. Epub 2023 Apr 30. PMCID: PMC10524446.
+283. Goldenholz DM, Sun H, Ganglberger W, **Westover MB**. Sample Size Analysis for Machine Learning Clinical Validation Studies. Biomedicines. 2023 Feb 23;11(3):685. doi: 10.3390/biomedicines11030685. PMID: 36979665; PMCID: PMC10045793.
 
-284. Parikh H, Hoffman K, Sun H, Zafar SF, Ge W, Jing J, Liu L, Sun J, Struck A, Volfovsky A, Rudin C, **Westover MB**. “Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: a retrospective cross-sectional study.” Lancet Digit Health. 2023 Aug;5(8):e495-e502. doi: 10.1016/S2589-7500(23)00088-2. Epub 2023 Jun 07. PMCID: PMC10528143.
+284. Jing J, Ge W, Hong S, Fernandes MB, Lin Z, Yang C, An S, Struck AF, Herlopian A, Karakis I, Halford JJ, Ng MC, Johnson EL, Appavu BL, Sarkis RA, Osman G, Kaplan PW, Dhakar MB, Arcot Jayagopal L, Sheikh Z, Taraschenko O, Schmitt S, Haider HA, Kim JA, Swisher CB, Gaspard N, Cervenka MC, Rodriguez Ruiz AA, Lee JW, Tabaeizadeh M, Gilmore EJ, Nordstrom K, Yoo JY, Holmes MG, Herman ST, Williams JA, Pathmanathan J, Nascimento FA, Fan Z, Nasiri S, Shafi MM, Cash SS, Hoch DB, Cole AJ, Rosenthal ES, Zafar SF, Sun J, **Westover MB**. Development of Expert-Level Classification of Seizures and Rhythmic and Periodic Patterns During EEG Interpretation. Neurology. 2023 Apr 25;100(17):e1750-e1762. doi: 10.1212/WNL.0000000000207127. Epub 2023 Mar 6. PMID: 36878708; PMCID: PMC10136013.
 
-285. Eckhardt CA, Sun H, Malik P, Quadri S, Santana Firme M, Jones DK, van Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Danish HH, Jacobson CA, Rubin DB, Kimchi EY, Cash SS, Frigault MJ, Lee JW, Dietrich J, **Westover MB**. “Automated detection of immune effector cell-associated neurotoxicity syndrome via quantitative EEG.” Ann Clin Transl Neurol. 2023 Oct;10(10):1776-1789. doi: 10.1002/acn3.51866. Epub 2023 Aug 06. PMCID: PMC10578889.
+285. Fernandes M, Cardall A, Jing J, Ge W, Moura LMVR, Jacobs C, McGraw C, Zafar SF, **Westover MB**. Identification of patients with epilepsy using automated electronic health records phenotyping. Epilepsia. 2023 Jun;64(6):1472-1481. doi: 10.1111/epi.17589. Epub 2023 Apr 04. PMID: 36934317; PMCID: PMC10239346.
 
-286. Singh SD, Oreskovic T, Carr S, Papier K, Conroy M, Senff JR, Chemali Z, Gutierrez-Martinez L, Parodi L, Mayerhofer E, Marini S, Nunley C, Newhouse A, Ouyang A, Brouwers HB, **Westover B**, Rivier C, Falcone G, Howard V, Howard G, Pikula A, Ibrahim S, Sheth KN, Yechoor N, Lazar RM, Anderson CD, Tanzi RE, Fricchione G, Littlejohns T, Rosand J. “The predictive validity of a Brain Care Score for dementia and stroke: data from the UK Biobank cohort.” Front Neurol. 2023;14:1291020. doi: 10.3389/fneur.2023.1291020. Epub 2023 Dec 01. PMCID: PMC10725202.
+286. Fernandes M, **Westover MB**, Zafar SF. Identifying inpatient hospitalizations with continuous electroencephalogram monitoring from administrative data. Res Sq \[Preprint\]. 2023 May 8:rs.3.rs-2882806. doi: 10.21203/rs.3.rs-2882806/v1. PMID: 37214908; PMCID: PMC10197757.
 
-287. Ge W, Rice HJ, Sheikh IS, **Westover MB**, Weathers AL, Jones LK, Moura L. “Improving Neurology Clinical Care With Natural Language Processing Tools.” Neurology. 2023 Nov 27;101(22):1010-1018. doi: 10.1212/WNL.0000000000207853. PMCID: PMC10727205.
+287. Chen PM, Stekhoven SS, Haider A, Jing J, Ge W, Rosenthal ES, **Westover MB,** Zafar SF. Association of Epileptiform Activity With Outcomes in Toxic-Metabolic Encephalopathy. Crit Care Explor. 2023 May 5;5(5):e0913. doi: 10.1097/CCE.0000000000000913. PMID: 37168691; PMCID: PMC10166342.
 
-288. Yang C, Qian C, Singh N, Xiao C, **Westover MB**, Solomonik E, Sun J. “ATD: Augmenting CP Tensor Decomposition by Self Supervision.” Adv Neural Inf Process Syst. 2022;35:32039-32052. PMCID: PMC10664864.
+288. Lin Z, Glass L, **Westover MB**, Xiao C, Sun J. SCRIB: Set-Classifier with Class-Specific Risk Bounds for Blackbox Models. Proc AAAI Conf Artif Intell. 2022 Jun 30;36(7):7497-7505. doi: 10.1609/aaai.v36i7.20714. PMID: 37144139; PMCID: PMC10155818.
 
-289. Yang C, Xiao C, **Westover MB**, Sun J. “Self-Supervised Electroencephalogram Representation Learning for Automatic Sleep Staging: Model Development and Evaluation Study.” JMIR AI. 2023;2(1):e46769. doi: 10.2196/46769. Epub 2023 Jul 26. PMCID: PMC10715804.
+289. Nasiri S, Ganglberger W, Sun H, Thomas RJ, **Westover MB**. Exploiting labels from multiple experts in automated sleep scoring. Sleep. 2023 May 10;46(5):zsad034. doi: 10.1093/sleep/zsad034. PMID: 36795078; PMCID: PMC10171620.
 
-290. Sun H, Adra N, Ayub MA, Ganglberger W, Ye E, Fernandes M, Paixao L, Fan Z, Gupta A, Ghanta M, Moura Junior VF, Rosand J, **Westover MB**, Thomas RJ. “Assessing Risk of Health Outcomes From Brain Activity in Sleep: A Retrospective Cohort Study.” Neurol Clin Pract. 2024 Feb;14(1):e200225. doi: 10.1212/CPJ.0000000000200225. Epub 2023 Dec 08. PMCID: PMC10759032.
+290. Chinappen DM, Xiao G, Jing J, Spencer ER, Eden UT, Kramer MA, **Westover MB\***, Chu CJ\*. Spike height improves prediction of future seizure risk. Clin Neurophysiol. 2023 Jun;150:49-55. doi: 10.1016/j.clinph.2023.02.180. Epub 2023 Mar 21. PMID: 37002980; PMCID: PMC10192090. **\* co-senior authors.**
 
-291. Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, **Westover MB**, Xu H, Kong XJ. “Classification of autism spectrum disorder using electroencephalography in Chinese children: a cross-sectional retrospective study.” Front Neurosci. 2024;18:1330556. doi: 10.3389/fnins.2024.1330556. Epub 2024 Jan 25. PMCID: PMC10850305.
+291. Adra N\*, Dümmer L, Paixao L\*, Tesh RA\*, Sun H, Ganglberger W, Westmeijer M, Cardoso MDS, Kumar A, Ye E, Henry J, Cash SS, Kitchener E, Leveroni C, Au R, Rosand J, Salinas J, Lam A, Thomas RJ\*\*, **Westover MB**\*\*. “Decoding information about cognitive health from the brainwaves of sleep.” 2023 Jul 15;13(1):11448. doi: 10.1038/s41598-023-37128-7. PMID: 37454163; PMCID: PMC10349883. \* Co-first authors, \*\* Co-senior authors.
 
-292. Fernandes M, Sun H, Chemali Z, Mukerji SS, M V R Moura L, Zafar SF, Sonni A, Biffi A, Rosand J, Brandon **Westover M**. “Brain health scores to predict neurological outcomes from electronic health records.” Int J Med Inform. 2023 Dec;180:105270. doi: 10.1016/j.ijmedinf.2023.105270. Epub 2023 Oct 24. PMCID: PMC10842359.
+292. Rathmell CS, Akeju O, Inouye SK, **Westover MB**. Estimating the number of cases of dementia that might be prevented by preventing delirium. Br J Anaesth. 2023 Jun;130(6):e477-e478. doi: 10.1016/j.bja.2023.03.001. Epub 2023 Apr 6. PMID: 37031027; PMCID: PMC10329187.
 
-293. Wei R, Ganglberger W, Sun H, Hadar PN, Gollub RL, Pieper S, Billot B, Au R, Eugenio Iglesias J, Cash SS, Kim S, Shin C, **Westover MB**, Joseph Thomas R. “Linking brain structure, cognition, and sleep: insights from clinical data.” Sleep. 2024 Feb 08;47(2). doi: 10.1093/sleep/zsad294. PMCID: PMC10851868.
+293. Wilcox DR, Rudmann EA, Ye E, Noori A, Magdamo C, Jain A, Alabsi H, Foy B, Triant VA, Robbins GK, **Westover MB**, Das S, Mukerji SS. Cognitive concerns are a risk factor for mortality in people with HIV and coronavirus disease 2019. AIDS. 2023 Aug 1;37(10):1565-1571. doi: 10.1097/QAD.0000000000003595. Epub 2023 May 9. PMID: 37195278; PMCID: PMC10355333.
 
-294. Dhakal K, Rosenthal ES, Kulpanowski AM, Dodelson JA, Wang Z, Cudemus-Deseda G, Villien M, Edlow BL, Presciutti AM, Januzzi JL, Ning M, Taylor Kimberly W, Amorim E, Brandon **Westover M**, Copen WA, Schaefer PW, Giacino JT, Greer DM, Wu O. “Increased task-relevant fMRI responsiveness in comatose cardiac arrest patients is associated with improved neurologic outcomes.” J Cereb Blood Flow Metab. 2024 Jan;44(1):50-65. doi: 10.1177/0271678X231197392. Epub 2023 Sep 20. PMCID: PMC10905635.
+294. Sinha N, Dauwels J, Kaiser M, Cash SS, **Westover MB**, Wang Y, Taylor PN. Reply: Computer models to inform epilepsy surgery strategies: prediction of postoperative outcome. Brain. 2017 May 1;140(5):e31. doi: 10.1093/brain/awx068. PMID: 28334902; PMCID: PMC10448005.
 
-295. Goldenholz DM, Karoly PJ, Viana PF, Nurse E, Loddenkemper T, Schulze-Bonhage A, Vieluf S, Bruno E, Nasseri M, Richardson MP, Brinkmann BH, **Westover MB**. “Minimum clinical utility standards for wearable seizure detectors: A simulation study.” Epilepsia. 2024 Apr;65(4):1017-1028. doi: 10.1111/epi.17917. Epub 2024 Feb 17. PMCID: PMC11018505.
+295. Ramantani G, **Westover MB**, Gliske S, Sarnthein J, Sarma S, Wang Y, Baud MO, Stacey WC, Conrad EC. Passive and active markers of cortical excitability in epilepsy. Epilepsia. 2023 Mar 10:10.1111/epi.17578. doi: 10.1111/epi.17578. Epub ahead of print. PMID: 36897228; PMCID: PMC10512778.
 
-296. Sun H, Li P, Gao L, Yang J, Yu L, Buchman AS, Bennett DA, **Westover MB**, Hu K. “Altered Motor Activity Patterns within 10-Minute Timescale Predict Incident Clinical Alzheimer's Disease.” J Alzheimers Dis. 2024;98(1):209-220. doi: 10.3233/JAD-230928. PMCID: PMC10977378.
+296. Amorim E, Zheng WL, Jing J, Ghassemi MM, Lee JW, Wu O, Herman ST, Pang T, Sivaraju A, Gaspard N, Hirsch L, Ruijter BJ, Tjepkema-Cloostermans MC, Hofmeijer J, van Putten MJAM, **Westover MB**. Neurophysiology State Dynamics Underlying Acute Neurologic Recovery After Cardiac Arrest. Neurology. 2023 Aug 29;101(9):e940-e952. doi: 10.1212/WNL.0000000000207537. Epub 2023 Jul 6. PMID: 37414565; PMCID: PMC10501085.
 
-297. Barnett AJ, Guo Z, Jing J, Ge W, Kaplan PW, Kong WY, Karakis I, Herlopian A, Jayagopal LA, Taraschenko O, Selioutski O, Osman G, Goldenholz D, Rudin C, **Westover MB**. “Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal Injury Continuum Using Interpretable Machine Learning.” NEJM AI. 2024 Jun;1(6). doi: 10.1056/aioa2300331. Epub 2024 May 23. PMCID: PMC11175595.
+297. Berger M, Ryu D, Reese M, McGuigan S, Evered LA, Price CC, Scott DA, **Westover MB**, Eckenhoff R, Bonanni L, Sweeney A, Babiloni C. A Real-Time Neurophysiologic Stress Test for the Aging Brain: Novel Perioperative and ICU Applications of EEG in Older Surgical Patients. Neurotherapeutics. 2023 Jul;20(4):975-1000. doi: 10.1007/s13311-023-01401-4. Epub 2023 Jul 12. PMID: 37436580; PMCID: PMC10457272.
 
-298. Goldenholz DM, Eccleston C, Moss R, **Westover MB**. “Prospective validation of a seizure diary forecasting falls short.” Epilepsia. 2024 Jun;65(6):1730-1736. doi: 10.1111/epi.17984. Epub 2024 Apr 12. PMCID: PMC11166505.
+298. Ryan SL, Liu X, McKenna V, Ghanta M, Muniz C, Renwick R, **Westover MB**, Kimchi EY. Associations between early in-hospital medications and the development of delirium in patients with stroke. J Stroke Cerebrovasc Dis. 2023 Sep;32(9):107249. doi: 10.1016/j.jstrokecerebrovasdis.2023.107249. Epub 2023 Aug 1. PMID: 37536017; PMCID: PMC10529367.
 
-299. Goldenholz D, Brinkmann BH, **Westover MB**. “How accurate do self-reported seizures need to be for effective medication management in epilepsy?.” Epilepsia. 2024 Jul;65(7):e104-e112. doi: 10.1111/epi.18019. Epub 2024 May 22. PMCID: PMC11251847.
+299. Sound and light levels in intensive care units in a large urban hospital in the United States. Leone MJ, Dashti HS, Coughlin B, Tesh RA, Quadri SA, Bucklin AA, Adra N, Krishnamurthy PV, Ye EM, Hemmige A, Rajan S, Panneerselvam E, Higgins J, Ayub MA, Ganglberger W, Paixao L, Houle TT, Thompson BT, Johnson-Akeju O, Saxena R, Cash SS, Thomas RJ, **Westover MB**. Chronobiology International. 2023 May 5:1-10. doi: 10.1080/07420528.2023.2207647. Online ahead of print. PMID: 37144470. PMCID: PMC10524721.
 
-300. Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, **Westover MB**, Zafar SF. “How many patients do you need? Investigating trial designs for anti-seizure treatment in acute brain injury patients.” Ann Clin Transl Neurol. 2024 Jul;11(7):1681-1690. doi: 10.1002/acn3.52059. Epub 2024 Jun 12. PMCID: PMC11251465.
+300. Namirembe GE, Baker S, Albanese M, Mueller A, Qu JZ, Mekonnen J, Wiredu K, **Westover MB**, Houle TT, Akeju O; Minimizing Intensive Care Unit Neurological Dysfunction with Dexmedetomidine-Induced Sleep Study Team. Association Between Postoperative Delirium and Long-Term Subjective Cognitive Decline in Older Patients Undergoing Cardiac Surgery: A Secondary Analysis of the Minimizing Intensive Care Unit Neurological Dysfunction with Dexmedetomidine-Induced Sleep Trial. J Cardiothorac Vasc Anesth. 2023 Sep;37(9):1700-1706. doi: 10.1053/j.jvca.2023.04.035. Epub 2023 Apr 30. PMID: 37217424; PMCID: PMC10524446.
 
-301. Ouyang A, Zhang C, Adra N, Tesh RA, Sun H, Lei D, Jing J, Fan P, Paixao L, Ganglberger W, Briggs L, Salinas J, Bevers MB, Wrann CD, Chemali Z, Fricchione G, Thomas RJ, Rosand J, Tanzi RE, **Westover MB**. “Effects of Aerobic Exercise on Brain Age and Health in Middle-Aged and Older Adults: A Single-Arm Pilot Clinical Trial.” Life (Basel). 2024 Jul 08;14(7). doi: 10.3390/life14070855. PMCID: PMC11278044.
+301. Parikh H, Hoffman K, Sun H, Zafar SF, Ge W, Jing J, Liu L, Sun J, Struck A, Volfovsky A, Rudin C, **Westover MB.** Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: a retrospective cross-sectional study. Lancet Digit Health. 2023 Aug;5(8):e495-e502. doi: 10.1016/S2589-7500(23)00088-2. Epub 2023 Jun 7. PMID: 37295971; PMCID: PMC10528143.
 
-302. Singh SD, Rivier CA, Papier K, Chemali Z, Gutierrez-Martinez L, Parodi L, Mayerhofer E, Senff J, Clocchiatti-Tuozzo S, Nunley C, Newhouse A, Ouyang A, **Westover MB**, Tanzi RE, Lazar RM, Pikula A, Ibrahim S, Brouwers HB, Howard VJ, Howard G, Yechoor N, Littlejohns T, Sheth KN, Rosand J, Fricchione G, Anderson CD, Falcone GJ. “The predictive validity of a Brain Care Score for late-life depression and a composite outcome of dementia, stroke, and late-life depression: data from the UK Biobank cohort.” Front Psychiatry. 2024;15:1373797. doi: 10.3389/fpsyt.2024.1373797. Epub 2024 Jul 23. PMCID: PMC11301016.
+302. Eckhardt CA, Sun H, Malik P, Quadri S, Santana Firme M, Jones DK, van Sleuwen M, Jain A, Fan Z, Jing J, Ge W, Danish HH, Jacobson CA, Rubin DB, Kimchi EY, Cash SS, Frigault MJ, Lee JW, Dietrich J, **Westover MB**. Automated detection of immune effector cell-associated neurotoxicity syndrome via quantitative EEG. Ann Clin Transl Neurol. 2023 Oct;10(10):1776-1789. doi: 10.1002/acn3.51866. Epub 2023 Aug 6. PMID: 37545104; PMCID: PMC10578889.
 
-303. Nascimento FA, Jing J, Traner C, Kong WY, Olandoski M, Kapur S, Duhaime E, Strowd R, Moeller J, **Westover MB**. “A randomized controlled educational pilot trial of interictal epileptiform discharge identification for neurology residents.” Epileptic Disord. 2024 Aug;26(4):444-459. doi: 10.1002/epd2.20229. Epub 2024 Apr 26. PMCID: PMC11329359.
+303. Singh SD, Oreskovic T, Carr S, Papier K, Conroy M, Senff JR, Chemali Z, Gutierrez-Martinez L, Parodi L, Mayerhofer E, Marini S, Nunley C, Newhouse A, Ouyang A, Brouwers HB, **Westover B**, Rivier C, Falcone G, Howard V, Howard G, Pikula A, Ibrahim S, Sheth KN, Yechoor N, Lazar RM, Anderson CD, Tanzi RE, Fricchione G, Littlejohns T, Rosand J. The predictive validity of a Brain Care Score for dementia and stroke: data from the UK Biobank cohort. Front Neurol. 2023 Dec 1;14:1291020. doi: 10.3389/fneur.2023.1291020. PMID: 38107629; PMCID: PMC10725202.
 
-304. Marcinski Nascimento KJ, **Westover MB**, Nascimento FA. “Teaching the 6 EEG Spectrogram Patterns Using an Infographic.” Neurol Educ. 2024 Dec 25;3(4):e200158. doi: 10.1212/NE9.0000000000200158. Epub 2024 Sep 25. PMCID: PMC11436318.
+304. Ge W, Rice HJ, Sheikh IS, **Westover MB**, Weathers AL, Jones LK, Moura L. Improving Neurology Clinical Care With Natural Language Processing Tools. Neurology. 2023 Nov 27;101(22):1010-1018. doi: 10.1212/WNL.0000000000207853. PMID: 37816638; PMCID: PMC10727205.
 
-305. Luccarelli J, Smith JR, Fricchione G, **Westover MB**. “Generalized Periodic Discharges Associated With Catatonia and Delirium: A Case Series.” J Neuropsychiatry Clin Neurosci. 2024;36(4):340-343. doi: 10.1176/appi.neuropsych.20230174. Epub 2024 May 09. PMCID: PMC11479820.
+305. Yang C, Qian C, Singh N, Xiao C, **Westover MB**, Solomonik E, Sun J. ATD: Augmenting CP Tensor Decomposition by Self Supervision. Adv Neural Inf Process Syst. 2022;35:32039-32052. PMID: 37994346; PMCID: PMC10664864.
 
-306. Fernandes M, Cardall A, Moura LM, McGraw C, Zafar SF, **Westover MB**. “Extracting seizure control metrics from clinic notes of patients with epilepsy: A natural language processing approach.” Epilepsy Res. 2024 Nov;207:107451. doi: 10.1016/j.eplepsyres.2024.107451. Epub 2024 Sep 10. PMCID: PMC11499027.
+306. Palepu K, Sadeghi K, Kleinschmidt DF, Donoghue J, Chapman S, Arslan AR, **Westover MB**, Cash SS, Pathmanathan J. An examination of sleep spindle metrics in the Sleep Heart Health Study: superiority of automated spindle detection over total sigma power in assessing age-related spindle decline. BMC Neurol. 2023 Oct 06;23(1):359. doi: 10.1186/s12883-023-03376-3. PMID: 37803266; PMCID: PMC10557170.
 
-307. Sanches PR, Tabaeizadeh M, Moura LMVR, Rosenthal ES, Caboclo LO, Hsu J, Patorno E, **Westover MB**, Zafar SF. “Anti-seizure medication treatment and outcomes in acute ischemic stroke patients undergoing continuous EEG monitoring.” Neurol Sci. 2022 Sep;43(9):5441-5449. doi: 10.1007/s10072-022-06183-9. Epub 2022 Jun 17. PMCID: PMC11550088.
+307. Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni R, Reyna MA, Clifford GD, **Westover MB**. The International Cardiac Arrest Research Consortium Electroencephalography Database. Crit Care Med. 2023 Dec 01;51(12):1802-1811. doi: 10.1097/CCM.0000000000006074. Epub 2023 Oct 19. PMID: 37855659; PMCID: PMC10841086.
 
-308. Thangavel P, Thomas J, Sinha N, Peh WY, Yuvaraj R, Cash SS, Chaudhari R, Karia S, Jing J, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, **Westover B**, Dauwels J. “Improving automated diagnosis of epilepsy from EEGs beyond IEDs.” J Neural Eng. 2022 Nov 24;19(6). doi: 10.1088/1741-2552/ac9c93. PMCID: PMC11549972.
+308. Amerineni R, Sun H, Fernandes MB, **Westover MB**, Moura L, Patorno E, Hsu J, Zafar SF. Real-World Continuous EEG Utilization and Outcomes in Hospitalized Patients With Acute Cerebrovascular Diseases. J Clin Neurophysiol. 2025 Jan 01;42(1):20-27. doi: 10.1097/WNP.0000000000001043. Epub 2023 Oct 30. PMID: 37938032; PMCID: PMC11058112.
 
-309. McGraw CM, Rao S, Manjunath S, Jing J, Brandon **Westover M**. “Automated quantification of periodic discharges in human electroencephalogram.” Biomed Phys Eng Express. 2024 Sep 20;10(6). doi: 10.1088/2057-1976/ad6c53. PMCID: PMC11580140.
+309. Yang C, Xiao C, Westover MB, Sun J. Self-Supervised Electroencephalogram Representation Learning for Automatic Sleep Staging: Model Development and Evaluation Study. JMIR AI. 2023 Jan-Dec;2(1):e46769. doi: 10.2196/46769. Epub 2023 Jul 26. PMID: 38090533; PMCID: PMC10715804.
 
-310. Ng MC, Zafar S, Foreman B, Kim J, Struck AF, **Westover MB**. “Commentary on stimulus-induced arousal with transient electroencephalographic improvement distinguishes nonictal from ictal generalized periodic discharges.” Epilepsia. 2024 Dec;65(12):3484-3487. doi: 10.1111/epi.18159. Epub 2024 Oct 18. PMCID: PMC11649443.
+310. Sun H, Adra N, Ayub MA, Ganglberger W, Ye E, Fernandes MB, Paixao L, Fan Z, Gupta A, Ghanta M, Junior VM, Rosand J, **Westover MB\***, Thomas RJ\* \*co-senior authors. “Assessing Risk of Health Outcomes from Brain Activity in Sleep: A Retrospective Cohort Study.” *Neurol Clin Pract*. 2024 Feb;14(1):e200225. doi: 10.1212/CPJ.0000000000200225. Epub 2023 Dec 8. PMID: 38173542; PMCID: PMC10759032.
 
-311. Chang CY, Zhang B, Moss R, Picard R, **Westover MB**, Goldenholz D. “Necessary for seizure forecasting outcome metrics: Seizure frequency and benchmark model.” Epilepsy Res. 2024 Dec;208:107474. doi: 10.1016/j.eplepsyres.2024.107474. Epub 2024 Nov 08. PMCID: PMC11614381.
+311. Ke SY, Wu H, Sun H, Zhou A, Liu J, Zheng X, Liu K, **Westover MB\***, **Xu H, Kong XJ**\*. Classification of autism spectrum disorder using electroencephalography in Chinese children: a cross-sectional retrospective study. Front Neurosci. 2024 Jan 25;18:1330556. doi: 10.3389/fnins.2024.1330556. PMID: 38332856; PMCID: PMC10850305. **\*co-senior authors**.
 
-312. Sun H, Shen S, Thomas RJ, **Westover MB**, Zhang C. “Sleep as a window to understand and regulate Alzheimer's disease: emerging roles of thalamic reticular nucleus.” Neural Regen Res. 2025 Jun 01;20(6):1711-1712. doi: 10.4103/NRR.NRR-D-24-00351. Epub 2024 Jul 10. PMCID: PMC11688547.
+312. Fernandes M, Sun H, Chemali Z, Mukerji SS, M V R Moura L, Zafar SF, Sonni A, Biffi A, Rosand J, **Westover MB**. Brain health scores to predict neurological outcomes from electronic health records. Int J Med Inform. 2023 Dec;180:105270. doi: 10.1016/j.ijmedinf.2023.105270. Epub 2023 Oct 24. PMID: 37890202; PMCID: PMC10842359.
 
-313. He H, Li C, Ganglberger W, Gallagher K, Hristov R, Ouroutzoglou M, Sun H, Sun J, **Westover MB**, Katabi D. “What radio waves tell us about sleep!.” Sleep. 2025 Jan 13;48(1). doi: 10.1093/sleep/zsae187. PMCID: PMC11725512.
+313. Wei R, Ganglberger W, Sun H, Hadar PN, Gollub RL, Pieper S, Billot B, Au R, Eugenio Iglesias J, Cash SS, Kim S, Shin C, **Westover MB\*,** Thomas RJ\*. Linking brain structure, cognition, and sleep: insights from clinical data. Sleep. 2024 Feb 8;47(2):zsad294. doi: 10.1093/sleep/zsad294. PMID: 37950486; PMCID: PMC10851868. **\*co-senior authors.**
 
-314. Hadar PN, Westmeijer M, Sun H, Meulenbrugge EJ, Jing J, Paixao L, Tesh RA, Da Silva Cardoso M, Arnal P, Au R, Shin C, Kim S, Thomas RJ, Cash SS, **Westover MB**. “Epilepsy is associated with the accelerated aging of brain activity in sleep.” Front Physiol. 2024;15:1458592. doi: 10.3389/fphys.2024.1458592. Epub 2024 Nov 28. PMCID: PMC11634596.
+314. Dhakal K, Rosenthal ES, Kulpanowski AM, Dodelson JA, Wang Z, Cudemus-Deseda G, Villien M, Edlow BL, Presciutti AM, Januzzi JL, Ning M, Taylor Kimberly W, Amorim E, Brandon **Westover MB**, Copen WA, Schaefer PW, Giacino JT, Greer DM, Wu O. Increased task-relevant fMRI responsiveness in comatose cardiac arrest patients is associated with improved neurologic outcomes. J Cereb Blood Flow Metab. 2024 Jan;44(1):50-65. doi: 10.1177/0271678X231197392. Epub 2023 Sep 20. PMID: 37728641; PMCID: PMC10905635.
 
-315. Fernandes M, Gallagher K, Turley N, Gupta A, **Westover MB**, Singhal AB, Zafar SF. “Automated extraction of post-stroke functional outcomes from unstructured electronic health records.” Eur Stroke J. 2025 Sep;10(3):829-836. doi: 10.1177/23969873251314340. Epub 2025 Jan 22. PMCID: PMC11752148.
+315. Song J, **Westover MB**, Zhang R. A neural mass model for disturbance of alpha rhythm in the minimal hepatic encephalopathy. Mol Cell Neurosci. 2024 Mar;128:103918. doi: 10.1016/j.mcn.2024.103918. Epub 2024 Feb 01. PMID: 38296121.
 
-316. Rivier CA, Singh S, Senff J, Tack RW, Marini S, Clocchiatti-Tuozzo S, Huo S, Renedo D, Papier K, Conroy M, Littlejohns TJ, Chemali Z, Kourkoulis C, Payabvash S, Newhouse A, **Westover MB**, Lazar RM, Pikula A, Ibrahim S, Howard VJ, Howard G, Brouwers HB, Van Duijn CM, Fricchione G, Tanzi RE, Yechoor N, Sheth KN, Anderson CD, Rosand J, Falcone GJ. “Brain Care Score and Neuroimaging Markers of Brain Health in Asymptomatic Middle-Age Persons.” Neurology. 2024 Aug 27;103(4):e209687. doi: 10.1212/WNL.0000000000209687. Epub 2024 Jul 25. PMCID: PMC11760050.
+316. McCullar KS, Abbaspour S, Wang W, Aguirre AD, **Westover MB**, Klerman EB. Timing of diuretic administration effects on urine volume in hospitalized patients. Front Physiol. 2023;14:1208324. doi: 10.3389/fphys.2023.1208324. Epub 2024 Jan 23. PMID: 38321985; PMCID: PMC10844419.
 
-317. Shivdat S, Zhan T, De Palma A, Zheng WL, Krishnamurthy P, Paneerselvam E, Snider S, Bevers M, O'Reilly UM, Lee JW, **Westover MB**, Amorim E. “Early Burst Suppression Similarity Association with Structural Brain Injury Severity on MRI After Cardiac Arrest.” Neurocrit Care. 2025 Feb;42(1):175-184. doi: 10.1007/s12028-024-02047-6. Epub 2024 Jul 24. PMCID: PMC11757804.
+317. Goldenholz DM, Karoly PJ, Viana PF, Nurse E, Loddenkemper T, Schulze-Bonhage A, Vieluf S, Bruno E, Nasseri M, Richardson MP, Brinkmann BH, **Westover MB**. Minimum clinical utility standards for wearable seizure detectors: A simulation study. Epilepsia. 2024 Apr;65(4):1017-1028. doi: 10.1111/epi.17917. Epub 2024 Feb 17. PMID: 38366862; PMCID: PMC11018505.
 
-318. Nassi TE, Oppersma E, Labarca G, Donker DW, **Westover MB**, Thomas RJ. “Morphological Prediction of Continuous Positive Airway Pressure-associated Acute Respiratory Instability.” Ann Am Thorac Soc. 2025 Jan;22(1):138-149. doi: 10.1513/AnnalsATS.202311-979OC. PMCID: PMC11708763.
+318. Sun H, Li P, Gao L, Yang J, Yu L, Buchman AS, Bennett DA, **Westover MB**, Hu K. Altered Motor Activity Patterns within 10-Minute Timescale Predict Incident Clinical Alzheimer's Disease. J Alzheimers Dis. 2024;98(1):209-220. doi: 10.3233/JAD-230928. PMID: 38393904; PMCID: PMC10977378.
 
-319. Sun S, Lomachinsky V, Smith LH, Newhouse JP, **Westover MB**, Blacker DL, Schwamm LH, Haneuse S, Moura LMVR. “Benzodiazepine Initiation and the Risk of Falls or Fall-Related Injuries in Older Adults Following Acute Ischemic Stroke.” Neurol Clin Pract. 2025 Jun;15(3):e200452. doi: 10.1212/CPJ.0000000000200452. Epub 2025 Mar 18. PMCID: PMC11936338.
+319. Barnett AJ\*, Guo Z\*, Jing J\*, Ge W, Kaplan PW, Kong WY, Karakis I, Herlopian A, Jayagopal LA, Taraschenko O, Selioutski O, Osman G, Goldenholz D, Rudin C†, **Westover MB**†. Improving Clinician Performance in Classifying EEG Patterns on the Ictal-Interictal Injury Continuum Using Interpretable Machine Learning. NEJM AI. 2024 Jun;1(6):10.1056/aioa2300331. doi: 10.1056/aioa2300331. Epub 2024 May 23. PMID: 38872809; PMCID: PMC11175595. Co-first authors, †co-senior authors.
 
-320. Fernandes M, **Westover MB**, Singhal AB, Zafar SF. “Automated Extraction of Stroke Severity From Unstructured Electronic Health Records Using Natural Language Processing.” J Am Heart Assoc. 2024 Nov 05;13(21):e036386. doi: 10.1161/JAHA.124.036386. Epub 2024 Oct 25. PMCID: PMC11935650.
+320. Goldenholz DM, Eccleston C, Moss R, Westover MB. Prospective validation of a seizure diary forecasting falls short. Epilepsia. 2024 Jun;65(6):1730-1736. doi: 10.1111/epi.17984. Epub 2024 Apr 12. PMID: 38606580; PMCID: PMC11166505.
 
-321. Akras Z, Jing J, **Westover MB**, Zafar SF. “Using artificial intelligence to optimize anti-seizure treatment and EEG-guided decisions in severe brain injury.” Neurotherapeutics. 2025 Jan;22(1):e00524. doi: 10.1016/j.neurot.2025.e00524. Epub 2025 Jan 23. PMCID: PMC11840355.
+321. Goldenholz D, Brinkmann BH, **Westover MB.** How accurate do self-reported seizures need to be for effective medication management in epilepsy? Epilepsia. 2024 Jul;65(7):e104-e112. doi: 10.1111/epi.18019. Epub 2024 May 22. PMID: 38776216; PMCID: PMC11251847.
 
-322. Freedman IG, Boncompte G, Qu JZ, Khawaja ZQ, Turco I, Mueller A, Wiredu K, McKay TB, **Westover MB**, Pedemonte JC, Akeju O. “Anesthesia-induced electroencephalogram oscillations and perioperative outcomes in older adults undergoing cardiac surgery.” J Clin Anesth. 2025 Mar;102:111770. doi: 10.1016/j.jclinane.2025.111770. Epub 2025 Feb 07. PMCID: PMC11953626.
+322. Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, **Westover MB**, Zafar SF. How many patients do you need? Investigating trial designs for anti-seizure treatment in acute brain injury patients. Ann Clin Transl Neurol. 2024 Jul;11(7):1681-1690. doi: 10.1002/acn3.52059. Epub 2024 Jun 12. PMID: 38867375; PMCID: PMC11251465.
 
-323. Goldenholz DM, Goldenholz SR, Habib S, **Westover MB**. “Inductive reasoning with large language models: A simulated randomized controlled trial for epilepsy.” Epilepsy Res. 2025 Mar;211:107532. doi: 10.1016/j.eplepsyres.2025.107532. Epub 2025 Feb 24. PMCID: PMC11908886.
+323. Ouyang A, Zhang C, Adra N, Tesh RA, Sun H, Lei D, Jing J, Fan P, Paixao L, Ganglberger W, Briggs L, Salinas J, Bevers MB, Wrann CD, Chemali Z, Fricchione G, Thomas RJ, Rosand J, Tanzi RE, **Westover MB**. Effects of Aerobic Exercise on Brain Age and Health in Middle-Aged and Older Adults: A Single-Arm Pilot Clinical Trial. Life (Basel). 2024 Jul 8;14(7):855. doi: 10.3390/life14070855. PMID: 39063609; PMCID: PMC11278044.
 
-324. Ge W, Godeiro Coelho LM, Donahue MA, Rice HJ, Blacker D, Hsu J, Newhouse JP, Hernández-Díaz S, Haneuse S, **Westover B**, Moura LMVR. “Automated identification of fall-related injuries in unstructured clinical notes.” Am J Epidemiol. 2025 Apr 08;194(4):1097-1105. doi: 10.1093/aje/kwae240. PMCID: PMC11978607.
+324. Singh SD, Rivier CA, Papier K, Chemali Z, Gutierrez-Martinez L, Parodi L, Mayerhofer E, Senff J, Clocchiatti-Tuozzo S, Nunley C, Newhouse A, Ouyang A, **Westover MB**, Tanzi RE, Lazar RM, Pikula A, Ibrahim S, Brouwers HB, Howard VJ, Howard G, Yechoor N, Littlejohns T, Sheth KN, Rosand J, Fricchione G, Anderson CD, Falcone GJ. The predictive validity of a Brain Care Score for late-life depression and a composite outcome of dementia, stroke, and late-life depression: data from the UK Biobank cohort. Front Psychiatry. 2024 Jul 23;15:1373797. doi: 10.3389/fpsyt.2024.1373797. PMID: 39109366; PMCID: PMC11301016.
 
-325. Azarian M, Ramezani A, Sharafkhaneh A, Maghsoudi A, Kryger M, Thomas RJ, **Westover MB**, Razjouyan J. “The Association between All-Cause Mortality and Obstructive Sleep Apnea in Adults: A U-Shaped Curve.” Ann Am Thorac Soc. 2025 Apr;22(4):581-590. doi: 10.1513/AnnalsATS.202407-755OC. PMCID: PMC12005042.
+325. Singh SD, Rivier CA, Papier K, Chemali Z, Gutierrez-Martinez L, Parodi L, Mayerhofer E, Senff J, Clocchiatti-Tuozzo S, Nunley C, Newhouse A, Ouyang A, **Westover MB**, Tanzi RE, Lazar RM, Pikula A, Ibrahim S, Brouwers HB, Howard VJ, Howard G, Yechoor N, Littlejohns T, Sheth KN, Rosand J, Fricchione G, Anderson CD, Falcone GJ. The predictive validity of a Brain Care Score for late-life depression and a composite outcome of dementia, stroke, and late-life depression: data from the UK Biobank cohort. Front Psychiatry. 2024 Jul 23;15:1373797. doi: 10.3389/fpsyt.2024.1373797. PMID: 39109366; PMCID: PMC11301016.
 
-326. Shaw KM, Shao YP, Ghanta M, Junior VM, Kimchi EY, Houle TT, Akeju O, **Westover MB**. “Daily Automated Prediction of Delirium Risk in Hospitalized Patients: Model Development and Validation.” JMIR Med Inform. 2025 Apr 18;13:e60442. doi: 10.2196/60442. PMCID: PMC12048784.
+326. Nascimento FA, Jing J, Traner C, Kong WY, Olandoski M, Kapur S, Duhaime E, Strowd R, Moeller J, **Westover MB**. A randomized controlled educational pilot trial of interictal epileptiform discharge identification for neurology residents. Epileptic Disord. 2024 Aug;26(4):444-459. doi: 10.1002/epd2.20229. Epub 2024 Apr 26. PMID: 38669007; PMCID: PMC11329359.
 
-327. Sumsion D, Davis E, Fernandes M, Wei R, Milde R, Veltink JM, Kong WY, Xiong Y, Rao S, **Westover T**, Petersen L, Turley N, Singh A, Buss S, Mukerji S, Zafar S, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Stone K, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas R, **Westover MB**, Sun H. “Identification of Patients With Congestive Heart Failure From the Electronic Health Records of Two Hospitals: Retrospective Study.” JMIR Med Inform. 2025 Apr 10;13:e64113. doi: 10.2196/64113. PMCID: PMC12022513.
+327. Marcinski Nascimento KJ, **Westover MB**, Nascimento FA. Teaching the 6 EEG Spectrogram Patterns Using an Infographic. Neurol Educ. 2024 Sep 25;3(4):e200158. doi: 10.1212/NE9.0000000000200158. PMID: 39360183; PMCID: PMC11436318.
 
-328. Sun H, Dang R, Haack M, Hauser K, Scott-Sutherland J, **Westover MB**, Parthasarathy S, Redline S, Thomas RJ, Mullington JM. “Facility-measured nocturnal hypoxemia and sleep among adults with long COVID versus age- and sex-matched healthy adults: a preliminary observational study.” Sleep Adv. 2025 Apr;6(2):zpaf017. doi: 10.1093/sleepadvances/zpaf017. Epub 2025 Mar 22. PMCID: PMC12070477.
+328. Luccarelli J, Smith JR, Fricchione G, **Westover MB**. Generalized Periodic Discharges Associated With Catatonia and Delirium: A Case Series. J Neuropsychiatry Clin Neurosci. 2024 Fall;36(4):340-343. doi: 10.1176/appi.neuropsych.20230174. Epub 2024 May 9. PMID: 38720623; PMCID: PMC11479820.
 
-329. Zhou S, Song G, Sun H, Zhang D, Leng Y, **Westover MB**, Hong S. “Continuous sleep depth index annotation with deep learning yields novel digital biomarkers for sleep health.” NPJ Digit Med. 2025 Apr 11;8(1):203. doi: 10.1038/s41746-025-01607-0. PMCID: PMC11992070.
+329. Fernandes M, Cardall A, Moura LM, McGraw C, Zafar SF, **Westover MB.** Extracting seizure control metrics from clinic notes of patients with epilepsy: A natural language processing approach. Epilepsy Res. 2024 Nov;207:107451. doi: 10.1016/j.eplepsyres.2024.107451. Epub 2024 Sep 10. PMID: 39276641; PMCID: PMC11499027.
 
-330. Ganglberger W, Nasiri S, Sun H, Kim S, Shin C, **Westover MB**, Thomas RJ. “Refining sleep staging accuracy: transfer learning coupled with scorability models.” Sleep. 2024 Nov 08;47(11). doi: 10.1093/sleep/zsae202. PMCID: PMC12104150.
+330. Sanches PR, Tabaeizadeh M, Moura LMVR, Rosenthal ES, Caboclo LO, Hsu J, Patorno E, **Westover MB**, Zafar SF. Anti-seizure medication treatment and outcomes in acute ischemic stroke patients undergoing continuous EEG monitoring. Neurol Sci. 2022 Sep;43(9):5441-5449. doi: 10.1007/s10072-022-06183-9. Epub 2022 Jun 17. PMID: 35713732; PMCID: PMC11550088.
 
-331. Baizer L, Bures R, Nadkarni G, Reyes-Guzman C, Ladwa S, Cade B, **Westover MB**, Durmer J, de Zambotti M, Desai M, Parekh A, Si B, Fernandez-Mendoza J, Minor K, Mazzotti DR, Lee S, Katabi D, Kiss O, Spira AP, Morris J, Seixas A, Kioumourtzoglou MA, Bridges JFP, Brown M, Hale L, Purcell S. “Big data approaches for novel mechanistic insights on sleep and circadian rhythms: a workshop summary.” Sleep. 2025 Jun 13;48(6). doi: 10.1093/sleep/zsaf035. PMCID: PMC12163129.
+331. Thangavel P, Thomas J, Sinha N, Peh WY, Yuvaraj R, Cash SS, Chaudhari R, Karia S, Jing J, Rathakrishnan R, Saini V, Shah N, Srivastava R, Tan YL, **Westover MB**, Dauwels J. Improving automated diagnosis of epilepsy from EEGs beyond IEDs. J Neural Eng. 2022 Nov 24;19(6):10.1088/1741-2552/ac9c93. doi: 10.1088/1741-2552/ac9c93. PMID: 36270485; PMCID: PMC11549972.
 
-332. Krumm L, Kranz DD, Halimeh M, Nelde A, Amorim E, Zafar S, Jing J, Thomas RJ, **Westover MB**, Meisel C. “Toward a Universal Map of EEG: A Semantic, Low-Dimensional Manifold for EEG Classification, Clustering, and Prognostication.” Ann Neurol. 2025 Aug;98(2):357-368. doi: 10.1002/ana.27260. Epub 2025 Jun 20. PMCID: PMC12278028.
+332. McGraw CM, Rao S, Manjunath S, Jing J, **Westover MB.** Automated quantification of periodic discharges in human electroencephalogram. Biomed Phys Eng Express. 2024 Sep 20;10(6):10.1088/2057-1976/ad6c53. doi: 10.1088/2057-1976/ad6c53. PMID: 39111323; PMCID: PMC11580140.
 
-333. **Westover AM**, **Westover TM**, **Westover MB**. “Interrater Reliability Estimation via Maximum Likelihood for Gwet's Chance Agreement Model.” Open J Stat. 2024 Oct;14(5):481-491. doi: 10.4236/ojs.2024.145021. Epub 2024 Oct 28. PMCID: PMC12061032.
+333. Ng MC, Zafar S, Foreman B, Kim J, Struck AF, **Westover MB**. Commentary on stimulus-induced arousal with transient electroencephalographic improvement distinguishes nonictal from ictal generalized periodic discharges. Epilepsia. 2024 Dec;65(12):3484-3487. doi: 10.1111/epi.18159. Epub 2024 Oct 18. PMID: 39422357; PMCID: PMC11649443.
 
-334. Li J, Goldenholz DM, Alkofer M, Sun C, Nascimento FA, Halford JJ, Dean BC, Galanti M, Struck AF, Greenblatt AS, Lam AD, Herlopian A, Nwankwo C, Weber D, Maus D, Haider HA, Karakis I, Yoo JY, Ng MC, Selioutski O, Taraschenko O, Osman G, Katyal R, Schmitt SE, Benbadis S, Cash SS, Tatum WO, Sheikh Z, Kong WY, Bayas G, Turley N, Hong S, **Westover MB**, Jing J. “Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales.” NEJM AI. 2025 Jul;2(7). doi: 10.1056/aioa2401221. Epub 2025 Jun 26. PMCID: PMC12276842.
+334. Chang CY, Zhang B, Moss R, Picard R, **Westover MB**, Goldenholz D. Necessary for seizure forecasting outcome metrics: Seizure frequency and benchmark model. Epilepsy Res. 2024 Dec;208:107474. doi: 10.1016/j.eplepsyres.2024.107474. Epub 2024 Nov 8. PMID: 39522392; PMCID: PMC11614381.
 
-335. Leng Y, He Y, Amini S, Magdamo C, Paschalidis I, Mukerji SS, Moura LMVR, **Westover MB**, Vranceanu AM, Ritchie CS, Blacker D, Dickson JR, Das S. “A GPT-4o-powered framework for identifying cognitive impairment stages in electronic health records.” NPJ Digit Med. 2025 Jul 03;8(1):401. doi: 10.1038/s41746-025-01834-5. PMCID: PMC12229571.
+335. Sun H, Shen S, Thomas RJ, **Westover MB,** Zhang C. Sleep as a window to understand and regulate Alzheimer's disease: emerging roles of thalamic reticular nucleus. Neural Regen Res. 2025 Jun 1;20(6):1711-1712. doi: 10.4103/NRR.NRR-D-24-00351. Epub 2024 Jul 10. PMID: 39104106; PMCID: PMC11688547.
 
-336. McDevitt WM, Jones TJ, Quinn L, Easter CL, Jing J, **Westover MB**, Scholefield BR, Seri S, Drury NE. “Surgery on the aortic arch and feasibility of electroencephalography (SAFE) monitoring in neonates: protocol for a prospective observational cohort study.” BMJ Open. 2025 Jul 10;15(7):e106423. doi: 10.1136/bmjopen-2025-106423. PMCID: PMC12258354.
+336. He H, Li C, Ganglberger W, Gallagher K, Hristov R, Ouroutzoglou M, Sun H, Sun J, **Westover MB,** Katabi D. What radio waves tell us about sleep! Sleep. 2025 Jan 13;48(1):zsae187. doi: 10.1093/sleep/zsae187. PMID: 39155830; PMCID: PMC11725512.
 
-337. Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E, Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, **Westover MB**. “Automated detection of interictal epileptiform discharges with few electroencephalographic channels.” Epilepsia. 2025 May 03;66(7):e114-20. doi: 10.1111/epi.18431. Epub ahead of print. PMCID: PMC12291011.
+337. Hadar PN, Westmeijer M, Sun H, Meulenbrugge EJ, Jing J, Paixao L, Tesh RA, Da Silva Cardoso M, Arnal P, Au R, Shin C, Kim S, Thomas RJ, Cash SS, **Westover MB.** Epilepsy is associated with the accelerated aging of brain activity in sleep. Front Physiol. 2024 Nov 28;15:1458592. doi: 10.3389/fphys.2024.1458592. PMID: 39668843; PMCID: PMC11634596.
 
-338. Li J, Aguirre AD, Moura V, Jin J, Liu C, Zhong L, Sun C, Clifford G, **Westover MB**, Hong S. “An Electrocardiogram Foundation Model Built on over 10 Million Recordings.” NEJM AI. 2025 Jul;2(7). doi: 10.1056/aioa2401033. Epub 2025 Jun 26. PMCID: PMC12327759.
+338. Fernandes M, Gallagher K, Turley N, Gupta A, **Westover MB,** Singhal AB, Zafar SF. Automated extraction of post-stroke functional outcomes from unstructured electronic health records. Eur Stroke J. 2025 Jan 22:23969873251314340. doi: 10.1177/23969873251314340. Epub ahead of print. PMID: 39838914; PMCID: PMC11752148.
 
-339. Yuan D, Katyal R, Sheikh I, Karakis I, Benbadis S, Amin U, Vinayan KP, Barot N, Weber D, Greenblatt A, Beniczky S, **Westover MB**, Nascimento FA. “Utility of the IFCN criteria for identifying interictal epileptiform discharges by experts: A decision hygiene approach to improve inter-rater reliability.” Clin Neurophysiol. 2025 May;173:138-146. doi: 10.1016/j.clinph.2025.02.275. Epub 2025 Mar 08. PMCID: PMC12335889.
+339. Rivier CA, Singh S, Senff J, Tack RW, Marini S, Clocchiatti-Tuozzo S, Huo S, Renedo D, Papier K, Conroy M, Littlejohns TJ, Chemali Z, Kourkoulis C, Payabvash S, Newhouse A, **Westover MB**, Lazar RM, Pikula A, Ibrahim S, Howard VJ, Howard G, Brouwers HB, Van Duijn CM, Fricchione G, Tanzi RE, Yechoor N, Sheth KN, Anderson CD, Rosand J, Falcone GJ. Brain Care Score and Neuroimaging Markers of Brain Health in Asymptomatic Middle-Age Persons. Neurology. 2024 Aug 27;103(4):e209687. doi: 10.1212/WNL.0000000000209687. Epub 2024 Jul 25. Erratum in: Neurology. 2024 Dec 24;103(12):e210123. doi: 10.1212/WNL.0000000000210123. PMID: 39052961; PMCID: PMC11760050.
 
-340. Tesh RA, Zahoor A, Banks J, Gallagher K, Eckhardt CA, Sun H, Karakis I, Katyal R, Williams J, Nayak C, Herlopian A, Ng MC, Greenblatt AS, Meyers E, Westmeijer M, Harrison DS, Ganglberger W, Galina Gheihman, Fan T, Struck AF, Sheikh IS, Nascimento FA, **Westover MB**. “Inter-Rater Reliability of EEG-Based Encephalopathy Grading.” J Clin Neurophysiol. 2026 Mar 01;43(3):237-244. doi: 10.1097/WNP.0000000000001185. Epub 2025 Jul 02. PMCID: PMC12335890.
+340. Shivdat S, Zhan T, De Palma A, Zheng WL, Krishnamurthy P, Paneerselvam E, Snider S, Bevers M, O'Reilly UM, Lee JW, **Westover MB**, Amorim E. Early Burst Suppression Similarity Association with Structural Brain Injury Severity on MRI After Cardiac Arrest. Neurocrit Care. 2024 Jul 24:10.1007/s12028-024-02047-6. doi: 10.1007/s12028-024-02047-6. Epub ahead of print. PMID: 39043984; PMCID: PMC11757804.
 
-341. Caffarelli M, Simmons R, Tolokh I, Karukonda V, Guterman EL, Smith W, Fox CK, **Westover MB**, Amorim E. “A Quantitative Electroencephalographic Index for Stroke Detection in Adults.” J Clin Neurophysiol. 2026 Jan 01;43(1):23-31. doi: 10.1097/WNP.0000000000001151. Epub 2025 Mar 05. PMCID: PMC12360042.
+341. Nassi TE, Oppersma E, Labarca G, Donker DW, **Westover MB\***, Thomas RJ\*. Morphological Prediction of CPAP Associated Acute Respiratory Instability. Ann Am Thorac Soc. 2024 Sep 17;22(1):138–49. doi: 10.1513/AnnalsATS.202311-979OC. Epub ahead of print. PMID: 39288402; PMCID: PMC11708763.**\*co-senior authors.**
 
-342. Sun C, Jing J, Turley N, Alcott C, Kang WY, Cole AJ, Goldenholz DM, Lam A, Amorim E, Chu C, Cash S, Junior VM, Gupta A, Ghanta M, Nearing B, Nascimento FA, Struck A, Kim J, Sartipi S, Tauton AM, Fernandes M, Sun H, Bayas G, Gallagher K, Wagenaar JB, Sinha N, Lee-Messer C, Silvers CT, Gunapati B, Rosand J, Peters J, Loddenkemper T, Lee JW, Zafar S, **Westover MB**. “Harvard Electroencephalography Database: A comprehensive clinical electroencephalographic resource from four Boston hospitals.” Epilepsia. 2025 Sep;66(9):3411-3425. doi: 10.1111/epi.18487. Epub 2025 Jun 04. PMCID: PMC12455399.
+342. Sun S, Lomachinsky V, Smith LH, Newhouse JP, **Westover MB**, Blacker DL, Schwamm LH, Haneuse S, Moura LMVR. Benzodiazepine Initiation and the Risk of Falls or Fall-Related Injuries in Older Adults Following Acute Ischemic Stroke. Neurol Clin Pract. 2025 Jun;15(3):e200452. doi: 10.1212/CPJ.0000000000200452. Epub 2025 Mar 18. PMID: 40144887; PMCID: PMC11936338.
 
-343. Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Moura Junior V, Ghanta M, Gupta A, Stone KL, Kjaer MR, Sum-Ping O, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Sun H, Thomas RJ, **Westover MB**. “CAISR: achieving human-level performance in automated sleep analysis across all clinical sleep metrics.” Sleep. 2025 Aug 14;48(8). doi: 10.1093/sleep/zsaf134. PMCID: PMC12341759.
+343. Fernandes M, **Westover MB,** Singhal AB, Zafar SF. Automated Extraction of Stroke Severity From Unstructured Electronic Health Records Using Natural Language Processing. J Am Heart Assoc. 2024 Nov 5;13(21):e036386. doi: 10.1161/JAHA.124.036386. Epub 2024 Oct 25. PMID: 39450737; PMCID: PMC11935650.
 
-344. Nassi T, Amidi Y, Oppersma E, Donker DW, Redeker NS, **Westover MB**, Thomas RJ. “Unraveling sleep apnea dynamics: quantifying loop gain using dynamical modeling of ventilatory control.” Sleep. 2026 Feb 10;49(2). doi: 10.1093/sleep/zsaf213. PMCID: PMC12398341.
+344. Nascimento FA, Katyal R, Kass NR, Yuan D, Sirven JI, **Westover MB**, Beniczky S. Electroencephalography in Clinical Practice: Neurology Professionals' Views on Optimal Standards of Care. J Clin Neurophysiol. 2025 Nov 01;42(7):639-642. doi: 10.1097/WNP.0000000000001142. Epub 2025 Jan 17. PMID: 39820182.
 
-345. Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, **Westover MB**. “Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth.” J Sleep Res. 2026 Feb;35(1):e70074. doi: 10.1111/jsr.70074. Epub 2025 Apr 25. PMCID: PMC12353260.
+345. Akras Z, Jing J, **Westover MB**, Zafar SF. Using artificial intelligence to optimize anti-seizure treatment and EEG-guided decisions in severe brain injury. Neurotherapeutics. 2025 Jan;22(1):e00524. doi: 10.1016/j.neurot.2025.e00524. Epub 2025 Jan 23. PMID: 39855915; PMCID: PMC11840355.
 
-346. Singh A, Sartipi S, Sun H, Milde R, Turley N, Quinn C, Harrold GK, Gillani RL, Turbett SE, Das S, Zafar S, Fernandes M, **Westover MB**, Mukerji SS. “A Machine Learning Approach for Identifying People With Neuroinfectious Diseases in Electronic Health Records: Algorithm Development and Validation.” JMIR Med Inform. 2025 Aug 29;13:e63157. doi: 10.2196/63157. PMCID: PMC12396800.
+346. Freedman IG, Boncompte G, Qu JZ, Khawaja ZQ, Turco I, Mueller A, Wiredu K, McKay TB, **Westover MB**, Pedemonte JC, Akeju O. Anesthesia-induced electroencephalogram oscillations and perioperative outcomes in older adults undergoing cardiac surgery. J Clin Anesth. 2025 Mar;102:111770. doi: 10.1016/j.jclinane.2025.111770. Epub 2025 Feb 7. PMID: 39921932; PMCID: PMC11953626.
 
-347. Huang GB, **Westover MB**, Tan EK, Wang H, Cui D, Ma WY, Wang T, He Q, Wei H, Wang N, Tian Q, Lam KY, Yao X, Wong TY. “Artificial intelligence without restriction surpassing human intelligence with probability one: Theoretical insight into secrets of the brain with AI twins of the brain.” Neurocomputing (Amst). 2025 Feb 28;619. doi: 10.1016/j.neucom.2024.129053. Epub 2024 Dec 16. PMCID: PMC12656881.
+347. Goldenholz DM, Goldenholz SR, Habib S, **Westover MB.** Inductive reasoning with large language models: A simulated randomized controlled trial for epilepsy. Epilepsy Res. 2025 Mar;211:107532. doi: 10.1016/j.eplepsyres.2025.107532. Epub 2025 Feb 24. PMID: 40020525; PMCID: PMC11908886.
 
-348. Kalkach-Aparicio M, Fatima S, Selte A, Sheikh IS, Cormier J, Gallagher K, Avagyan G, Cespedes J, Krishnamurthy PV, Elazim AA, Khan N, Hussein OM, Maganti R, Larocque J, Holla S, Desai M, **Westover B**, Hirsch LJ, Struck AF. “Seizure Assessment and Forecasting With Efficient Rapid-EEG: A Retrospective Multicenter Comparative Effectiveness Study.” Neurology. 2024 Jul 23;103(2):e209621. doi: 10.1212/WNL.0000000000209621. Epub 2024 Jun 14. PMCID: PMC12530332.
+348. Ge W, Godeiro Coelho LM, Donahue MA, Rice HJ, Blacker D, Hsu J, Newhouse JP, Hernández-Díaz S, Haneuse S, **Westover MB**, Moura LMVR. Automated identification of fall-related injuries in unstructured clinical notes. Am J Epidemiol. 2025 Apr 8;194(4):1097-1105. doi: 10.1093/aje/kwae240. PMID: 39060160; PMCID: PMC11978607. **\* co-senior authors.**
 
-349. Siddiquee AT, Hwang YH, Kim S, Lee SK, Lee MH, Kim HJ, Kim YJ, Kim BJ, Hadar PN, **Westover MB**, Thomas RJ, Kim NH, Shin C. “Obstructive Sleep Apnea and Cerebral Microbleeds in Middle-Aged and Older Adults.” JAMA Netw Open. 2025 Oct 01;8(10):e2539874. doi: 10.1001/jamanetworkopen.2025.39874. PMCID: PMC12569715.
+349. Azarian M, Ramezani A, Sharafkhaneh A, Maghsoudi A, Kryger M, Thomas RJ, **Westover MB,** Razjouyan J. The Association between All-Cause Mortality and Obstructive Sleep Apnea in Adults: A U-Shaped Curve. Ann Am Thorac Soc. 2025 Apr;22(4):581-590. doi: 10.1513/AnnalsATS.202407-755OC. PMID: 39746198; PMCID: PMC12005042.
 
-350. Tripathi A, Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Sun H, Stone KL, Mignot E, Hwang D, Trotti LM, Reyna MA, Clifford GD, Katwa U, Thomas RJ, **Westover MB**. “Automated analysis of the American Academy of Sleep Medicine Inter-Scorer Reliability gold-standard polysomnogram dataset.” J Clin Sleep Med. 2025 Nov 01;21(11):1821-1829. doi: 10.5664/jcsm.11848. PMCID: PMC12582208.
+350. Shaw KM, Shao YP, Ghanta M, Junior VM, Kimchi EY, Houle TT, Akeju O, **Westover MB.** Daily Automated Prediction of Delirium Risk in Hospitalized Patients: Model Development and Validation. JMIR Med Inform. 2025 Apr 18;13:e60442. doi: 10.2196/60442. PMID: 39721068; PMCID: PMC12048784.
 
-351. Donahue MA, Brooks JD, Hsu J, Price M, Blacker D, Schwamm LH, Newhouse JP, **Westover MB**, Haneuse S, Moura LMVR. “Differences in patterns of outpatient epilepsy-specific medication initiation after acute ischemic stroke in the Medicare population.” Epilepsia. 2025 Aug;66(8):2728-2742. doi: 10.1111/epi.18396. Epub 2025 Apr 04. PMCID: PMC12353908.
+351. Pathmanathan J, **Westover MB**, Sivakumaran S, Donoghue J, Puryear CB. The role of sleep in Alzheimer's disease: a mini review. Front Neurosci. 2025;19:1428733. doi: 10.3389/fnins.2025.1428733. Epub 2025 Feb 05. PMID: 39975973; PMCID: PMC11835855.
 
-352. Bayas G, Bayas G, Bayas A, Bayas Cardenas EO, Franco N, Sigcha CM, Shapiro K, Moskowitz S, Espinosa PS, Dey RK, Camia CS, Coates S, Stow C, Turley N, Jing J, **Westover MB**. “Decreasing the Epilepsy Treatment Gap in Tena, Ecuador: A Report From 2021 to 2023.” Cureus. 2025 Oct;17(10):e94581. doi: 10.7759/cureus.94581. Epub 2025 Oct 14. PMCID: PMC12614661.
+352. McLaren JR, Yuan D, Beniczky S, **Westover MB**, Nascimento FA. The future of EEG education in the era of artificial intelligence. Epilepsia. 2025 Jun;66(6):1838-1842. doi: 10.1111/epi.18326. Epub 2025 Mar 04. PMID: 40035709; PMCID: PMC12169395.
 
-353. Pathmanathan J, Little D, Sadeghi K, Di Marco T, Kleinschmidt D, Nerrie J, Tjiptarto N, Arslan A, Hubbard J, Olivieri A, Puryear CB, Brandon **Westover M**, Donoghue J. “The Insomnia EEG Score: a new tool for the classification of people with poor sleep.” Sleep. 2026 Apr 16;49(4). doi: 10.1093/sleep/zsaf353. PMID: 41217192.
+353. Sumsion D, Davis E, Fernandes M, Wei R, Milde R, Veltink JM, Kong WY, Xiong Y, Rao S, Westover T, Petersen L, Turley N, Singh A, Buss S, Mukerji S, Zafar S, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Stone K, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas R, **Westover MB\*,** Sun H\*. Identification of Patients With Congestive Heart Failure From the Electronic Health Records of Two Hospitals: Retrospective Study. JMIR Med Inform. 2025 Apr 10;13:e64113. doi: 10.2196/64113. PMID: 40208662; PMCID: PMC12022513. \* **co-senior authors**.
 
-354. **Westover MB**, Kaplan PW, Husain AM. “Controversies: Periodic discharges in critically ill patients -" urgent treatment is essential".” Clin Neurophysiol Pract. 2025;10:286-291. doi: 10.1016/j.cnp.2025.06.010. Epub 2025 Jul 05. PMCID: PMC12284540.
+354. Sun H, Dang R, Haack M, Hauser K, Scott-Sutherland J, **Westover MB**, Parthasarathy S, Redline S, Thomas RJ, Mullington JM. Facility-measured nocturnal hypoxemia and sleep among adults with long COVID versus age- and sex-matched healthy adults: a preliminary observational study. Sleep Adv. 2025 Mar 22;6(2):zpaf017. doi: 10.1093/sleepadvances/zpaf017. PMID: 40365527; PMCID: PMC12070477.
 
-355. Vlasac IM, Bormes GW, Do E, Benkhoukha SS, Diallo N, Fryou NL, Gioia S, Akeju O, Joseph C, Kuan A, Lapan J, Oluwadara D, Team TP, Rahman SA, Saxena R, Scheer FAJL, **Westover MB**, Winkelman JW, Woodson F, Lane JM. “A Novel Home-Based Study of Circadian Rhythms: Design, Rationale, and Methods for the Circadia Study.” Sleep. 2023 Aug 09. doi: 10.1093/sleep/zsad197. Epub ahead of print. PMID: 37555446.
+355. Zhou S, Song G, Sun H, Zhang D, Leng Y, **Westover MB**, Hong S. Continuous sleep depth index annotation with deep learning yields novel digital biomarkers for sleep health. NPJ Digit Med. 2025 Apr 11;8(1):203. doi: 10.1038/s41746-025-01607-0. PMID: 40216900; PMCID: PMC11992070.
 
-356. Wang Z, Kulpanowski AM, Copen WA, Rosenthal ES, Dodelson JA, McCrory DE, Edlow BL, Taylor Kimberly W, Amorim E, Brandon **Westover M**, Ning M, Zabihi M, Schaefer PW, Malhotra R, Giacino JT, Greer DM, Wu O. “Automated detection of severe cerebral edema using explainable deep transfer learning after hypoxic ischemic brain injury.” Resuscitation. 2025 Sep;214:110652. doi: 10.1016/j.resuscitation.2025.110652. Epub 2025 May 23. PMCID: PMC12715856.
+356. Ganglberger W, Nasiri S, Sun H, Kim S, Shin C, **Westover MB\*,** Thomas RJ\*. Refining sleep staging accuracy: transfer learning coupled with scorability models. Sleep. 2024 Nov 8;47(11):zsae202. doi: 10.1093/sleep/zsae202. PMID: 39215679; PMCID: PMC12104150. **\*co-first authors; \*\*co-senior authors.**
 
-357. Sun H, Ganglberger W, Nasiri S, Nassi TE, Meulenbrugge EJ, Lam AD, Zafar S, Gupta A, Ghanta M, Moura Junior VF, Shin C, Au R, Cash SS, Thomas RJ, **Westover MB**. “Health-oriented sleep states: making sleep states reflect health conditions.” Sleep. 2026 Feb 10;49(2). doi: 10.1093/sleep/zsaf229. PMID: 40795277.
+357. Baizer L, Bures R, Nadkarni G, Reyes-Guzman C, Ladwa S, Cade B, **Westover MB**, Durmer J, de Zambotti M, Desai M, Parekh A, Si B, Fernandez-Mendoza J, Minor K, Mazzotti DR, Lee S, Katabi D, Kiss O, Spira AP, Morris J, Seixas A, Kioumourtzoglou MA, Bridges JFP, Brown M, Hale L, Purcell S. Big data approaches for novel mechanistic insights on sleep and circadian rhythms: a workshop summary. Sleep. 2025 Jun 13;48(6):zsaf035. doi: 10.1093/sleep/zsaf035. PMID: 39945146; PMCID: PMC12163129.
 
-358. Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, **Westover MB**, Maski K, Katwa U. “The Boston Children's Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms.” Sleep. 2025 Sep 16. doi: 10.1093/sleep/zsaf273. Epub ahead of print. PMID: 40971987.
+358. Reese M, Wright MC, Roberts KC, Browndyke JN, Bennett M, Acker L, Devinney MJ, Reekes TH, Waligorska T, Shaw LM, Blennow K, Zetterberg H, Cohen HJ, Mathew JP, Whitson HE, **Westover MB**, Woldorff MG, Berger M, MADCO-PC, INTUIT, PRIME, and MARBLE study groups. Associations between anaesthetic dose-adjusted intraoperative EEG alpha power, processing speed, and postoperative delirium: analysis of data from three prospective studies. Br J Anaesth. 2025 Jul;135(1):109-120. doi: 10.1016/j.bja.2024.12.041. Epub 2025 Apr 11. PMID: 40221315; PMCID: PMC12226762.
 
-359. Ning MH, Rodionov A, Ross JM, Ozdemir RA, Burch M, Lian SJ, Alsop D, Cavallari M, Dickerson B, Fong T, Jones RN, Libermann T, Marcantonio E, Santarnecchi E, Schmitt EM, Touroutoglou A, Travison T, Acker L, Smith MR, Sun H, **Westover MB**, Pascual-Leone Á, Berger M, Inouye SK, Shafi M. “Prediction of postoperative delirium in older adults from preoperative cognition and occipital alpha power from resting-state electroencephalogram.” Age Ageing. 2025 Oct 30;54(11). doi: 10.1093/ageing/afaf330. PMCID: PMC13171208.
+359. Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong WY, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, **Westover MB**, Sun H. Automated phenotyping of mild cognitive impairment and Alzheimer's disease and related dementias using electronic health records. Int J Med Inform. 2025 Aug;200:105917. doi: 10.1016/j.ijmedinf.2025.105917. Epub 2025 Apr 11. PMID: 40222334.
 
-360. Cheng D, Fernandes MB, **Westover MB**, Moura L, Zafar SF. “Real-World Antiseizure Medication Prophylaxis and Outcomes in Hospitalized Adults with Acute Brain Injuries.” Neurocrit Care. 2026 Apr;44(2):656-665. doi: 10.1007/s12028-025-02345-7. Epub 2025 Oct 01. PMID: 41034682.
+360. Haider MA, Khalil MH, Fernandes MB, **Westover MB**, Zafar SF. Association of Time to Continuous EEG Initiation With Outcomes in Critically Ill Patients. J Clin Neurophysiol. 2026 Jan 01;43(1):17-22. doi: 10.1097/WNP.0000000000001161. Epub 2025 Apr 16. PMID: 40237584.
 
-361. Chang CY, Moss R, **Westover MB**, Goldenholz DM. “Rigorous evaluation of five models for e-diary-only seizure forecasting: Retrospective and prospective datasets do not outperform the Napkin method.” Epilepsia. 2026 Feb;67(2):753-761. doi: 10.1111/epi.18677. Epub 2025 Oct 14. PMCID: PMC12959853.
+361. **Westover MB**, Westover AM. General AI May Revolutionize Neurology-Or It Might Be Bad. JAMA Neurol. 2025 Oct 01;82(10):977-978. doi: 10.1001/jamaneurol.2025.0905. PMID: 40323622.
 
-362. Habib M, Cazé de Medeiros R, Ahsan SM, McDonald Wojciechowski A, Donahue MA, Blacker D, Newhouse JP, Schwamm LH, **Westover MB**, Moura LMVR. “Claims-Based Machine Learning Classifier of Modified Rankin Scale in Acute Ischemic Stroke.” J Am Heart Assoc. 2025 Oct 21;14(20):e041635. doi: 10.1161/JAHA.125.041635. Epub 2025 Oct 14. PMCID: PMC12684556.
+362. Krumm L, Kranz DD, Halimeh M, Nelde A, Amorim E, Zafar S, Jing J, Thomas RJ, **Westover MB**\*, Meisel C\*. Toward a Universal Map of EEG: A Semantic, Low-Dimensional Manifold for EEG Classification, Clustering, and Prognostication. Ann Neurol. 2025 Aug;98(2):357-368. doi: 10.1002/ana.27260. Epub 2025 Jun 20. PMID: 40539771; PMCID: PMC12278028. **\* co-senior authors.**
 
-363. Nascimento FA, Yuan D, Sheikh IS, Hirsch LJ, Beniczky S, **Westover MB**. “The EEG Talk experience: Lessons in e-teaching EEG.” Epileptic Disord. 2025 Dec;27(6):1337-1339. doi: 10.1002/epd2.70096. Epub 2025 Sep 04. PMID: 40904123.
+363. Westover AM, Westover TM, **Westover MB.** Interrater Reliability Estimation via Maximum Likelihood for Gwet's Chance Agreement Model. Open J Stat. 2024 Oct;14(5):481-491. doi: 10.4236/ojs.2024.145021. Epub 2024 Oct 28. PMID: 40342797; PMCID: PMC12061032.
 
-364. Kong WY, Nascimento FA, Struck A, Duhaime E, Kapur S, Amorim E, Kapinos G, Rodriguez A, Thomas B, Desai M, Lee JW, **Westover MB**, Jing J. “Evaluating crowdsourcing for ICU EEG annotation: A comparison with expert performance.” Epilepsia. 2025 Nov;66(11):4366-4380. doi: 10.1111/epi.18547. Epub 2025 Aug 06. PMID: 40768345.
+364. Choksi D, Gutiérrez-Martínez L, Rist PM, Buring JE, Senff JR, Marini S, Kourkoulis C, Chemali Z, Newhouse A, **Westover MB**, Tanzi RE, Fricchione G, Singh S, Rosand J, Anderson CD, Yechoor N. Use of the Brain Care Score to Estimate the Risk of Incident Cerebrovascular Events in Middle-Aged Women. Neurology. 2025 Jun 10;104(11):e213674. doi: 10.1212/WNL.0000000000213674. Epub 2025 May 16. PMID: 40378376; PMCID: PMC12089658.
 
-365. Suen C, Ma J, Lin X, Thomas RJ, **Westover MB**, Stone K, Yaffe K, Ensrud KE, Redline S, Tanzi RE, Sun H, Zhang C. “Linking sleep microstructure, blood markers of inflammation and metabolism, and cognition: mediation analysis in the osteoporotic fractures in men study.” Geroscience. 2026 Feb;48(1):1277-1289. doi: 10.1007/s11357-025-01730-6. Epub 2025 Jun 14. PMCID: PMC12972494.
+365. Luccarelli J, Smith JR, Turley N, Rogers JP, Sun H, Kohrman SI, Fricchione G, **Westover MB**. Electrographic Features of Catatonia With or Without Comorbid Delirium. J Neuropsychiatry Clin Neurosci. 2026;38(1):61-67. doi: 10.1176/appi.neuropsych.20240215. Epub 2025 Jun 13. PMID: 40509792; PMCID: PMC12357770.
+
+366. Banks JC, Hariri S, Kveraga K, Ouyang A, Gallagher K, Quadri SA, Tesh RA, Reed PU, Thomas RJ, **Westover MB**, Sun H, Subramaniam B. Sleep-Based Brain Age Is Reduced in Advanced Inner Engineering Meditators. Mindfulness (N Y). 2025;16(6):1675-1692. doi: 10.1007/s12671-025-02583-y. Epub 2025 May 16. PMID: 40535579; PMCID: PMC12170783.
+
+367. Li J, Goldenholz DM, Alkofer M, Sun C, Nascimento FA, Halford JJ, Dean BC, Galanti M, Struck AF, Greenblatt AS, Lam AD, Herlopian A, Nwankwo C, Weber D, Maus D, Haider HA, Karakis I, Yoo JY, Ng MC, Selioutski O, Taraschenko O, Osman G, Katyal R, Schmitt SE, Benbadis S, Cash SS, Tatum WO, Sheikh Z, Kong WY, Bayas G, Turley N, Hong S, **Westover MB\*,** Jing J\*. Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales. NEJM AI. 2025 Jul;2(7):10.1056/aioa2401221. doi: 10.1056/aioa2401221. Epub 2025 Jun 26. PMID: 40689158; PMCID: PMC12276842. \***co-senior authors.**
+
+368. Leng Y, He Y, Amini S, Magdamo C, Paschalidis I, Mukerji SS, Moura LMVR, **Westover MB,** Vranceanu AM, Ritchie CS, Blacker D, Dickson JR, Das S. A GPT-4o-powered framework for identifying cognitive impairment stages in electronic health records. NPJ Digit Med. 2025 Jul 3;8(1):401. doi: 10.1038/s41746-025-01834-5. PMID: 40610683; PMCID: PMC12229571.
+
+369. McDevitt WM, Jones TJ, Quinn L, Easter CL, Jing J, **Westover MB,** Scholefield BR, Seri S, Drury NE. Surgery on the aortic arch and feasibility of electroencephalography (SAFE) monitoring in neonates: protocol for a prospective observational cohort study. BMJ Open. 2025 Jul 10;15(7):e106423. doi: 10.1136/bmjopen-2025-106423. PMID: 40639843; PMCID: PMC12258354.
+
+370. Alkofer M, Yang C, Ganglberger W, Beal J, Hegde M, Kang JY, Yoo JY, Gelfand MA, Thio LL, Kutluay E, Campbell Z, Schmitt S, Gleichgerrcht E, Waterhouse E, Lopez MR, Eisenschenk S, Galanti M, Singh RK, Wills KE, Meulenbrugge EJ, Dlugos D, Dean B, Halford JJ, Goldenholz D, Jing J, Thomas R, **Westover MB.** Automated detection of interictal epileptiform discharges with few electroencephalographic channels. Epilepsia. 2025 May 3;66(7):e114–20. doi: 10.1111/epi.18431. Epub ahead of print. PMID: 40317534; PMCID: PMC12291011.
+
+371. Li J, Aguirre AD, Moura V, Jin J, Liu C, Zhong L, Sun C, Clifford G, **Westover MB**, Hong S. An Electrocardiogram Foundation Model Built on over 10 Million Recordings. NEJM AI. 2025 Jul;2(7):10.1056/aioa2401033. doi: 10.1056/aioa2401033. Epub 2025 Jun 26. PMID: 40771651; PMCID: PMC12327759.
+
+372. Yuan D, Katyal R, Sheikh I, Karakis I, Benbadis S, Amin U, Vinayan KP, Barot N, Weber D, Greenblatt A, Beniczky S, **Westover MB,** Nascimento FA. Utility of the IFCN criteria for identifying interictal epileptiform discharges by experts: A decision hygiene approach to improve inter-rater reliability. Clin Neurophysiol. 2025 May;173:138-146. doi: 10.1016/j.clinph.2025.02.275. Epub 2025 Mar 8. PMID: 40117757; PMCID: PMC12335889.
+
+373. Tesh RA, Zahoor A, Banks J, Gallagher K, Eckhardt CA, Sun H, Karakis I, Katyal R, Williams J, Nayak C, Herlopian A, Ng MC, Greenblatt AS, Meyers E, Westmeijer M, Harrison DS, Ganglberger W, Galina Gheihman, Fan T, Struck AF, Sheikh IS, Nascimento FA, **Westover MB**. Inter-Rater Reliability of EEG-Based Encephalopathy Grading. J Clin Neurophysiol. 2025 Jul 2:10.1097/WNP.0000000000001185. doi: 10.1097/WNP.0000000000001185. Epub ahead of print. PMID: 40601962; PMCID: PMC12335890.
+
+374. Caffarelli M, Simmons R, Tolokh I, Karukonda V, Guterman EL, Smith W, Fox CK, **Westover MB,** Amorim E. A Quantitative Electroencephalographic Index for Stroke Detection in Adults. J Clin Neurophysiol. 2025 Mar 5;. doi: 10.1097/WNP.0000000000001151. \[Epub ahead of print\] PubMed PMID: 40048377; PubMed Central PMCID: PMC12360042.
+
+375. Sun C, Jing J, Turley N, Alcott C, Kang WY, Cole AJ, Goldenholz DM, Lam A, Amorim E, Chu C, Cash S, Junior VM, Gupta A, Ghanta M, Nearing B, Nascimento FA, Struck A, Kim J, Sartipi S, Tauton AM, Fernandes M, Sun H, Bayas G, Gallagher K, Wagenaar JB, Sinha N, Lee-Messer C, Silvers CT, Gunapati B, Rosand J, Peters J, Loddenkemper T, Lee JW, Zafar S, **Westover MB.** Harvard Electroencephalography Database: A comprehensive clinical electroencephalographic resource from four Boston hospitals. Epilepsia. 2025 Sep;66(9):3411-3425. doi: 10.1111/epi.18487. Epub 2025 Jun 4. PubMed PMID: 40464151; PubMed Central PMCID: PMC12455399.
+
+376. Nasiri, S., Ganglberger, W., Nassi, T., Meulenbrugge, E. J., Moura Junior, V., Ghanta, M., Gupta, A., Stone, K. L., Kjaer, M. R., Sum-Ping, O., Mignot, E., Hwang, D., Trotti, L. M., Clifford, G. D., Katwa, U., Sun, H.††, Thomas, R. J.††, **Westover, M. B.††** "CAISR: Achieving Human-Level Performance in Automated Sleep Analysis Across All Clinical Sleep Metrics." *Sleep. 2025 Aug 14;48(8). doi: 10.1093/sleep/zsaf134. PubMed PMID: 40554678; PubMed Central PMCID: PMC12341759.* **††Co-senior authors.**
+
+377. Nassi T, Amidi Y, Oppersma E, Donker DW, Redeker NS, **Westover MB**\*, Thomas RJ\*. Unravelling Sleep Apnea Dynamics: Quantifying Loop Gain Using Dynamical Modelling of Ventilatory Control. Sleep. 2025 Jul 24;. doi: 10.1093/sleep/zsaf213. \[Epub ahead of print\] PubMed PMID: 40704699; PubMed Central PMCID: PMC12398341. **\* co-senior authors.**
+
+378. Meulenbrugge EJ, Sun H, Ganglberger W, Nasiri S, Thomas RJ, **Westover MB.** Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth. J Sleep Res. 2025 Apr 25:e70074. doi: 10.1111/jsr.70074. Epub ahead of print. PMID: 40276961; PMCID: PMC12353260.
+
+379. Brooks JD, de Medeiros RC, Sun S, Sankaranarayanan M, **Westover MB**, Schwamm LH, Newhouse JP, Haneuse S, Moura LMVR. Choice of antiseizure medications and associated outcomes in Medicare beneficiaries after acute ischemic stroke. Epilepsia. 2025 Dec;66(12):4857-4868. doi: 10.1111/epi.18594. Epub 2025 Aug 06. PMID: 40770930; PMCID: PMC13649624.
+
+380. Singh A, Sartipi S, Sun H, Milde R, Quinn C, Harrold GK, Gillani R, Turbett S, Das S, Zafar S, Fernandes M, **Westover MB\*,** Mukerji SS\*. "A Machine Learning Approach for Identifying People with Neuroinfectious Diseases in Electronic Health Records: Algorithm Development and Validation." JMIR Med Inform. 2025 Aug 29;13:e63157. doi: 10.2196/63157. PMID: 40882236; PMCID: PMC12396800. **\* co-first authors.**
+
+381. Huang GB, **Westover MB**, Tan EK, Wang H, Cui D, Ma WY, Wang T, He Q, Wei H, Wang N, Tian Q, Lam KY, Yao X, Wong TY. Artificial intelligence without restriction surpassing human intelligence with probability one: Theoretical insight into secrets of the brain with AI twins of the brain. Neurocomputing (Amst). 2025 Feb 28;619:129053. doi: 10.1016/j.neucom.2024.129053. Epub 2024 Dec 16. PMCID: PMC12656881.
+
+382. Kalkach-Aparicio M, Fatima S, Selte A, Sheikh IS, Cormier J, Gallagher K, Avagyan G, Cespedes J, Krishnamurthy PV, Elazim AA, Khan N, Hussein OM, Maganti R, Larocque J, Holla S, Desai M, **Westover MB**, Hirsch LJ, Struck AF. Seizure Assessment and Forecasting With Efficient Rapid-EEG: A Retrospective Multicenter Comparative Effectiveness Study. Neurology. 2024 Jul 23;103(2):e209621. doi: 10.1212/WNL.0000000000209621. Epub 2024 Jun 14. Erratum in: Neurology. 2024 Nov 12;103(9):e209840. doi: 10.1212/WNL.0000000000209840. Erratum in: Neurology. 2024 Dec 24;103(12):e210123. doi: 10.1212/WNL.0000000000210123. PMID: 38875512; PMCID: PMC12530332.
+
+383. Siddiquee AT, Hwang YH, Kim S, Lee SK, Lee MH, Kim HJ, Kim YJ, Kim BJ, Hadar PN, **Westover MB**, Thomas RJ, Kim NH, Shin C. Obstructive Sleep Apnea and Cerebral Microbleeds in Middle-Aged and Older Adults. JAMA Netw Open. 2025 Oct 1;8(10):e2539874. doi: 10.1001/jamanetworkopen.2025.39874. PMID: 41148136; PMCID: PMC12569715.
+
+384. Tripathi A, Nasiri S, Ganglberger W, Nassi T, Meulenbrugge EJ, Sun H, Stone KL, Mignot E, Hwang D, Trotti LM, Reyna MA, Clifford GD, Katwa U, Thomas RJ, **Westover MB**. Automated analysis of the American Academy of Sleep Medicine Inter-Scorer Reliability gold-standard polysomnogram dataset. J Clin Sleep Med. 2025 Nov 1;21(11):1821-1829. doi: 10.5664/jcsm.11848. PMID: 40790924; PMCID: PMC12582208.
+
+385. Donahue MA, Brooks JD, Hsu J, Price M, Blacker D, Schwamm LH, Newhouse JP, **Westover MB,** Haneuse S, Moura LMVR. Differences in patterns of outpatient epilepsy-specific medication initiation after acute ischemic stroke in the Medicare population. Epilepsia. 2025 Aug;66(8):2728-2742. doi: 10.1111/epi.18396. Epub 2025 Apr 4. PMID: 40184019; PMCID: PMC12353908.
+
+386. Bayas G, Bayas G, Bayas A, Bayas Cardenas EO, Franco N, Sigcha CM, Shapiro K, Moskowitz S, Espinosa PS, Dey RK, Camia CS, Coates S, Stow C, Turley N, Jing J, **Westover MB.** Decreasing the Epilepsy Treatment Gap in Tena, Ecuador: A Report From 2021 to 2023. Cureus. 2025 Oct 14;17(10):e94581. doi: 10.7759/cureus.94581. PMID: 41246783; PMCID: PMC12614661.
+
+387. Pathmanathan J, Little D, Sadeghi K, Di Marco T, Kleinschmidt D, Nerrie J, Tjiptarto N, Arslan A, Hubbard J, Olivieri A, Puryear CB, **Westover MB,** Donoghue J. The insomnia EEG score (IES): a new tool for the classification of people with poor sleep. Sleep. 2025 Nov 11:zsaf353. doi: 10.1093/sleep/zsaf353. Epub ahead of print. PMID: 41217192.
+
+388. **Westover MB**, Kaplan PW, Husain AM. Controversies: Periodic discharges in critically ill patients -" urgent treatment is essential". Clin Neurophysiol Pract. 2025 Jul 5;10:286-291. doi: 10.1016/j.cnp.2025.06.010. PMID: 40703850; PMCID: PMC12284540.
+
+389. Vlasac IM, Bormes GW, Do E, Benkhoukha SS, Diallo N, Fryou NL, Gioia S, Akeju O, Joseph C, Kuan A, Lapan J, Oluwadara D, Team TP, Rahman SA, Saxena R, Scheer FAJL, **Westover MB**, Winkelman JW, Woodson F, Lane JM. A Novel Home-Based Study of Circadian Rhythms: Design, Rationale, and Methods for the Circadia Study. Sleep. 2023 Aug 9:zsad197. doi: 10.1093/sleep/zsad197. Epub ahead of print. PMID: 37555446.
+
+390. Wang Z, Kulpanowski AM, Copen WA, Rosenthal ES, Dodelson JA, McCrory DE, Edlow BL, Taylor Kimberly W, Amorim E, **M. Brandon Westover**, Ning M, Zabihi M, Schaefer PW, Malhotra R, Giacino JT, Greer DM, Wu O. Automated detection of severe cerebral edema using explainable deep transfer learning after hypoxic ischemic brain injury. Resuscitation. 2025 Sep;214:110652. doi: 10.1016/j.resuscitation.2025.110652. Epub 2025 May 23. PMID: 40414341; PMCID: PMC12715856.
+
+391. Sun H, Ganglberger W, Nasiri S, Nassi TE, Meulenbrugge EJ, Lam AD, Zafar S, Gupta A, Ghanta M, Moura Junior VF, Shin C, Au R, Cash SS, Thomas RJ, **Westover MB**. Health-Oriented Sleep States: Making Sleep States Reflect Health Conditions. Sleep. 2025 Aug 7:zsaf229. doi: 10.1093/sleep/zsaf229. Epub ahead of print. PMID: 40795277.\*
+
+392. Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Waters S, Gupta A, Ghanta M, Mouda Junior V, Nasiri S, Nearing B, Stone KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo G, Trotti LM, Clifford GD, Tsien Silvers C, Gunapati B, Thomas RJ†, **Westover MB\*,** Maski K\*, Katwa U\*. "The Boston Children's Hospital Sleep Corpus: A collection of 15,695 Annotated Pediatric Polysomnograms." Sleep. 2025 Sep 16:zsaf273. doi: 10.1093/sleep/zsaf273. Epub ahead of print. PMID: 40971987. **\*Co-senior authors**.\*
+
+393. Ning MH, Rodionov A, Ross JM, Ozdemir RA, Burch M, Lian SJ, Alsop D, Cavallari M, Dickerson B, Fong T, Jones RN, Libermann T, Marcantonio E, Santarnecchi E, Schmitt EM, Touroutoglou A, Travison T, Acker L, Smith MR, Sun H, **Westover MB**, Pascual-Leone Á, Berger M, Inouye SK, Shafi M. Prediction of postoperative delirium in older adults from preoperative cognition and occipital alpha power from resting-state electroencephalogram. Age Ageing. 2025 Oct 30;54(11):afaf330. doi: 10.1093/ageing/afaf330. PMID: 41222553; PMCID: PMC13171208.
+
+394. Cheng D, Fernandes MB, **Westover MB**, Moura L, Zafar SF. Real-World Antiseizure Medication Prophylaxis and Outcomes in Hospitalized Adults with Acute Brain Injuries. Neurocrit Care. 2026 Apr;44(2):656-665. doi: 10.1007/s12028-025-02345-7. Epub 2025 Oct 1. PMID: 41034682.
+
+395. Chang CY, Moss R, **Westover MB**, Goldenholz DM. Rigorous evaluation of five models for e-diary-only seizure forecasting: Retrospective and prospective datasets do not outperform the Napkin method. Epilepsia. 2026 Feb;67(2):753-761. doi: 10.1111/epi.18677. Epub 2025 Oct 14. PMID: 41085335; PMCID: PMC12959853.
+
+396. Habib M, Cazé de Medeiros R, Ahsan SM, McDonald Wojciechowski A, Donahue MA, Blacker D, Newhouse JP, Schwamm LH, **Westover MB**, Moura LMVR. Claims-Based Machine Learning Classifier of Modified Rankin Scale in Acute Ischemic Stroke. J Am Heart Assoc. 2025 Oct 21;14(20):e041635. doi: 10.1161/JAHA.125.041635. Epub 2025 Oct 14. PMID: 41085187; PMCID: PMC12684556.
+
+397. Nascimento FA, Yuan D, Sheikh IS, Hirsch LJ, Beniczky S, **Westover MB.** The EEG Talk experience: Lessons in e-teaching EEG. Epileptic Disord. 2025 Sep 4. doi: 10.1002/epd2.70096. Epub ahead of print. PMID: 40904123.\*\*
+
+398. Kong WY, Nascimento FA, Struck A, Duhaime E, Kapur S, Amorim E, Kapinos G, Rodriguez A, Thomas B, Desai M, Lee JW, Westover MB, Jing J. Evaluating crowdsourcing for ICU EEG annotation: A comparison with expert performance. Epilepsia. 2025 Aug 6. doi: 10.1111/epi.18547. Epub ahead of print. PMID: 40768345.\*\*
+
+399. Suen C, Ma J, Lin X, Thomas RJ, **Westover MB**, Stone K, Yaffe K, Ensrud KE, Redline S, Tanzi RE, Sun H, Zhang C. Linking sleep microstructure, blood markers of inflammation and metabolism, and cognition: mediation analysis in the osteoporotic fractures in men study. Geroscience. 2026 Feb;48(1):1277-1289. doi: 10.1007/s11357-025-01730-6. Epub 2025 Jun 14. PMID: 40515807; PMCID: PMC12972494.
+
+400. Lam AD, Johnson EL, Sarkis RA, Blank LJ, Gaston TE, Shafi MM, Zepeda R, Pellerin KR, Jette N, Greve DN, Chibnik LB, Amariglio RE, Marshall GA, **Westover MB**. Late-onset unexplained epilepsy as a risk factor for cognitive impairment and dementia: Protocol for a multi-center prospective longitudinal observational study (ELUCID). Epilepsia Open. 2026 Feb;11(1):363-375. doi: 10.1002/epi4.70184. Epub 2025 Nov 29. PMID: 41317246; PMCID: PMC12903818.
+
+401. Tăuțan AM, Jing J, Basovic L, Hadar PN, Sartipi S, Fernandes MP, Kim J, Struck AF, **Westover MB,** Zafar SF. Automated estimation of frequency and spatial extent of periodic and rhythmic epileptiform activity from continuous electroencephalography data. J Neural Eng. 2025 Dec 16;22(6). doi: 10.1088/1741-2552/ae2716. PMID: 41330044.
+
+402. Clive C, Singh A, Overmeer B, Boris S, Peterson L, Searle J, Hooke G, Turley N, Fernandes M, Gupta A, Ghanta M, Junior VM, Mukeriji S, Zafar S, Amorim E, **Westover MB**, Sun H. Large-scale automated phenotyping of cardiac arrest and withdrawal of life-sustaining therapy using electronic health record data. Resuscitation. 2026 Jan;218:110919. doi: 10.1016/j.resuscitation.2025.110919. Epub 2025 Dec 8. PMID: 41371332.
+
+403. Chang CY, Moss R, **Westover MB**, Goldenholz DM. Deployable seizure forecasting requires clinically meaningful performance: Response to Stirling et al. Epilepsia. 2026 Apr;67(4):1587-1588. doi: 10.1002/epi.70083. Epub 2025 Dec 31. PMID: 41474369; PMCID: PMC12854151.
+
+404. Wiredu K, Sun H, Boncompte G, **Westover MB**, Pedemonte JC, Akeju O. The Predictive Power of Intraoperative EEG and Clinical Characteristics for Postoperative Delirium Following Cardiac Surgery. J Clin Neurophysiol. 2026 Jan 1;43(1):32-38. doi: 10.1097/WNP.0000000000001146. Epub 2025 Jan 28. PMID: 41481100.
+
+405. Goldenholz DM, Cheng JC, Chang CY, Moss R, **Westover MB.** Does Missing Medication Acutely Change Seizure Risk? A Prospective Study. Ann Neurol. 2026 Apr;99(4):1076-1082. doi: 10.1002/ana.78134. Epub 2026 Jan 5. PMID: 41489031; PMCID: PMC12782288.
+
+406. Thapa R, Kjaer MR, He B, Covert I, Moore Iv H, Hanif U, Ganjoo G, **Westover MB**, Jennum P, Brink-Kjaer A, Mignot E, Zou J. A multimodal sleep foundation model for disease prediction. Nat Med. 2026 Feb;32(2):752-762. doi: 10.1038/s41591-025-04133-4. Epub 2026 Jan 6. PMID: 41495409; PMCID: PMC12920147.
+
+407. Nascimento FA, McLaren JR, Zhao W, Katyal R, Sheikh IS, Kong WY, Aljaafari D, Barot N, Benbadis S, Friedman D, Gavvala JR, Halford J, Hogan RE, Kaplan PW, Karakis I, Maheshwari A, Matthews R, O'Donovan C, Rampp S, Schuele S, Sirven J, Tatum WO, Williams J, Yacubian EM, Yuan D, Beniczky S, Sibony O, **Westover MB**. Noise in the diagnosis of epilepsy by experts. Epileptic Disord. 2026 Apr;28(2):457-469. doi: 10.1002/epd2.70181. Epub 2026 Jan 20. PMID: 41556879.
+
+408. Nascimento FA, **Westover MB**. The indispensable human factor in EEG-based artificial intelligence. Epilepsia. 2026 Mar;67(3):1517-1518. doi: 10.1002/epi.70085. Epub 2026 Jan 24. PMID: 41579049.
+
+409. Zhao W, Ting YL, Marcinski Nascimento KJ, Poll SR, Pineda Alvarez DE, **Westover MB**, Nascimento FA. Conventional clinical characteristics do not predict the result of genetic testing in adults with epilepsy. Seizure. 2025 Dec;133:157-160. doi: 10.1016/j.seizure.2025.10.015. Epub 2025 Oct 22. PMID: 41637156.
+
+410. Liu K, Sun B, Wang BK, Chen J, **Westover MB,** Tian FY, Sun H, Kong XJ. An Electroencephalographic Study of Sleep Spindle and Infraslow Oscillation in Children With Autism Spectrum Disorder. J Sleep Res. 2026 Feb 10:e70309. doi: 10.1111/jsr.70309. Epub ahead of print. PMID: 41668405.
+
+411. Zafar SF, Park H, Letourneau AR, Rock AE, **Westover MB,** Mukerji SS. Strategies for Safer Cefepime Use to Prevent Neurotoxicity Using the Electronic Health Record. Crit Care Explor. 2026 Feb 11;8(2):e1380. doi: 10.1097/CCE.0000000000001380. PMID: 41670408; PMCID: PMC12900184.
+
+412. Savietto SF, Guillot A, Pathmanathan J, Harris M, Nordstrom K, **Westover MB**, Lemoine D, Donoghue J. Usability and stability of longitudinal at-home sleep evaluation using the Waveband electroencephalogram headband in an insomnia population. Sleep Adv. 2026 Jan 21;7(1):zpag001. doi: 10.1093/sleepadvances/zpag001. PMID: 41710032; PMCID: PMC12910617.
+
+413. Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre AD, Reinertsen E, Song S, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna MA, **Westover MB,** Clifford GD. The Harvard-Emory ECG Database. Sci Data. 2026 Feb 25;13(1):516. doi: 10.1038/s41597-026-06861-9. PMID: 41741499; PMCID: PMC13046864.
+
+414. Pedemonte JC, Sun H, Freedman IG, Turco I, Wiredu K, Penna A, Egana JI, Gutierrez R, Ibacache M, Cortinez LI, **Westover MB**, Akeju O, Boncompte G. Inferring preoperative cognitive function from intraoperative electroencephalography in elderly patients using machine learning. IEEE Trans Biomed Eng. 2026 Mar 6;PP. doi: 10.1109/TBME.2026.3671187. Epub ahead of print. PMID: 41790820.
+
+415. Tripathi A, Gupta A, Ganglberger W, Waters S, Sun H, Nasiri S, Mitra A, Stone KL, Mignot E, Hwang D, Reyna MA, Trotti LM, Clifford GD, Maski K, Katwa U, Thomas RJ, **Westover MB**. Pediatric SleepNet: A Deep Learning Network for Reliable Pediatric Sleep Staging Across Developmental Stages. Sleep. 2026 Mar 10:zsag064. doi: 10.1093/sleep/zsag064. Epub ahead of print. PMID: 41804802.
+
+416. Sun H, Milton S, Fang Y, Taha HB, Shiju S, Thomas RJ, Ganglberger W, Pase MP, Hughes T, Purcell S, Redline S, Stone KL, Yaffe K, **Westover MB**, Leng Y. Machine Learning-Based Sleep Electroencephalographic Brain Age Index and Dementia Risk: An Individual Participant Data Meta-Analysis. JAMA Netw Open. 2026 Mar 2;9(3):e261521. doi: 10.1001/jamanetworkopen.2026.1521. PMID: 41854616; PMCID: PMC13003368.
+
+417. Savietto SF, Guillot A, Harris M, Pathmanathan J, Chan AM, **Westover MB**, Hill D, Bertaina-Anglade V, Viardot G, Arnal P, Donoghue J. Multicenter evaluation of the Waveband System for automated sleep assessment in patients with insomnia symptoms. Sleep. 2026 Mar 28:zsag069. doi: 10.1093/sleep/zsag069. Epub ahead of print. PMID: 41903179.
+
+418. Runcie M, Nolan N, Yoo O, Silbergleit R, Nascimento FA, Kennedy M, **Westover MB**, Goldstein JN. EEG in patients with altered mental status in the emergency department. Int J Emerg Med. 2026 Apr 2;19(1):137. doi: 10.1186/s12245-026-01200-6. PMID: 41928084; PMCID: PMC13173918.
+
+419. Ganglberger W, Sun H, Turley N, Tripathi A, Hadar P, Gupta A, Gallagher K, Tesh R, Kim S, Nasiri S, Leng Y, Harrison S, Stone KL, Hughes T, Redline S, Au R, Manoach DS, Landolt HP, Huber R, Mignot E, Shin C, Cash SS, Thomas RJ, **Westover MB.** Brain Health from Sleep EEG: A Multicohort, Deep Learning Biomarker for Cognition, Disease, and Mortality. NEJM AI. 2026 Mar;3:10.1056/aioa2500487. doi: 10.1056/aioa2500487. Epub 2026 Feb 26. PMID: 41953210; PMCID: PMC13055923.
+
+420. Marino FR, Ganglberger W, Sun H, Liu Y, Ding H, Thomas RJ, Au R, **Westover MB**. Better sleep now, better cognition later? Predicting cognitive function using a machine learning-based sleep EEG brain health score. Sleep. 2026 Aug 14;49(8). doi: 10.1093/sleep/zsag100. PMID: 41964500.
+
+421. Tăuțan AM, Sarami M, Sartipi S, Turley N, Gupta A, Ghanta M, Fernandes MP, Mitra A, Kim J, Struck AF, **Westover MB,** Zafar SF. Electroencephalogram Monitoring in Critical Care: Multicenter Analysis of Timing, Duration, and Readmissions. Crit Care Explor. 2026 Apr 22;8(4):e1402. doi: 10.1097/CCE.0000000000001402. PMID: 42012873; PMCID: PMC13102442.
+
+422. Sun H, Dang R, Li P, Xiao W, Scott-Sutherland J, Sassower KC, **Westover MB,** Felsenstein D, Thomas RJ, Haack M, Mullington JM. Facility-Measured Sleep Electroencephalographic Microstructures in Long COVID. Sleep. 2026 Apr 22:zsag090. doi: 10.1093/sleep/zsag090. Epub ahead of print. PMID: 42017829.
+
+423. Hilger SG, Rosenthal ES, Kulpanowski AM, Dodelson JA, Cudemus-Deseda G, Villien M, Edlow BL, Januzzi JL, Ning M, Kimberly WT, Amorim E, **Westover MB**, Copen WA, Schaefer PW, Giacino JT, Greer DM, Wu O. Connectome disruptions after hypoxic-ischaemic injury associate with consciousness disorder severity. Brain Commun. 2026 Apr 2;8(2):fcag117. doi: 10.1093/braincomms/fcag117. PMID: 42051852; PMCID: PMC13111490.
+
+424. Husain AM, Beniczky S, Bensalem-Owen M, Bland J, Brinkman BH, Hanajima R, Holub M, Jehi L, Nandedkar S, Shahrizaila N, Tankisi H, Tannemaat MR, **Westover MB**, Paulus W. IFCN position statement: use of artificial intelligence in clinical neurophysiology. Clin Neurophysiol. 2026 Apr 16:2111893. doi: 10.1016/j.clinph.2026.2111893. Epub ahead of print. PMID: 42067415.
+
+425. Blank LJ, Johnson EL, Pellerin KR, Sarkis RA, Gaston TE, Shafi MM, Zepeda R, Camitan M, Anderson T, Hankerson A, Jan A, Jung K, Leake M, **Westover MB**, Lam AD. Late-Onset Seizures: Etiology and Demographics in US Tertiary Care Epilepsy Centers. Neurology. 2026 Jun 9;106(11):e214948. doi: 10.1212/WNL.0000000000214948. Epub 2026 May 7. PMID: 42096671.
+
+426. Maschke C, Hadar PN, Zhang Y, Li J, Ganjoo G, Hoopes A, Guazzo A, Gupta A, Ghanta M, Nearing B, Silvers CT, Gunapati B, Thomas R, Kim JA, Mukerji SS, Dalca A, Zafar S, Lam AD, Mignot E, **Westover MB.** The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data. Sci Data. 2026 May 21. doi: 10.1038/s41597-026-07421-x. Epub ahead of print. PMID: 42168237.
+
+427. Mendu M, Tesh RA, Pellerin K, Steward GE, Cerda IH, Williams M, Colman M, Shah S, Lam AD, Cash SS, **Westover MB**, Kimchi EY. Video-based detection of Delirium in hospitalized adults. PLOS Digit Health. 2026 May 29;5(5):e0001462. doi: 10.1371/journal.pdig.0001462. PMID: 42213702; PMCID: PMC13221075.
+
+428. Goldenholz DM, Goldenholz SR, Mullan H, Moss R, Drislane FW, **Westover MB**. Self-Reported Seizure Durations. JAMA Neurol. 2026 Sep 01;83(9):933-935. doi: 10.1001/jamaneurol.2026.1644. PMID: 42258203; PMCID: PMC13247841.
+
+429. Safavynia SA, Barra ME, Der Nigoghossian C, Shinnick D, Waldrop G, Choi JM, Ganglberger W, Shen Q, Doyle K, Walline MC, **Westover MB**, Brown EN, Fins JJ, Victor J, Edlow BL, Claassen J, Schiff ND, Thaweethai T. Determinants of Delayed Recovery of Consciousness After Analgosedation Discontinuation in the ICU: Insights From Patients With COVID-19 Hypoxemic Respiratory Failure. Crit Care Med. 2026 Aug 01;54(8):2076-2089. doi: 10.1097/CCM.0000000000007205. Epub 2026 Jun 15. PMID: 42294965.
+
+430. Nassi T, Oppersma E, Donker DW, **Westover MB**, Thomas RJ. Quantification of ventilatory control in sleep apnea: from physiological insight to computable loop gain. Sleep. 2026 Sep 09;49(9). doi: 10.1093/sleep/zsag155. PMID: 42315124; PMCID: PMC13553299.
+
+431. Fernandes M, Turley N, Sun H, Mukerji SS, Moura LMVR, **Westover MB**, Zafar SF. Automated Prediction of Glasgow Coma Scale Scores From Unstructured Electronic Health Records Using Natural Language Processing: Development and Validation Study. J Med Internet Res. 2026 Jun 29;28:e81245. doi: 10.2196/81245. PMID: 42372230; PMCID: PMC13313573.
+
+432. Chen S, Chen X, Huang W, Lei F, Shan C, Jin Z, Shi Y, Wang Y, Zhao R, Xu X, Lv D, Li Y, Pan S, Chiang A, **Westover MB**, Hong S, Zhang C, Yin S, Liu CF, Yi H, Tang X, Leng Y. BCGNet: an AI model trained on 600 K hours of sleep data for a novel under-pillow contactless monitoring device. NPJ Digit Med. 2026 Jul 03. doi: 10.1038/s41746-026-02885-y. Epub ahead of print. PMID: 42399358.
+
+433. Gupta A, Tripathi A, Ganglberger W, Waters S, Sun H, Nasiri S, Stone KL, Mignot E, Hwang D, Reyna MA, Trotti LM, Clifford GD, Maski K, Katwa U, Thomas RJ, **Westover MB**. PANDA pediatric arousal neural detection architecture. NPJ Digit Med. 2026 Jul 07. doi: 10.1038/s41746-026-02967-x. Epub ahead of print. PMID: 42414584.
+
+434. Hwang N, **Westover MB**, Mazzotti DR, Thomas RJ, Trotti LM, Hwang D, Gratton M, Shi J, Yan R, Mignot E, Clifford GD, Katwa UA, Becker KA, Klimper MT, Jara JK, Sun H. Large language model derived regular expressions for sleep phenotyping from electronic health record: a feasibility study. Sleep Adv. 2026;7(3):zpag059. doi: 10.1093/sleepadvances/zpag059. Epub 2026 Jun 11. PMID: 42460030; PMCID: PMC13372092.
+
+435. Wen S, Ferri R, Li Q, Deng W, **Westover MB**, Thomas RJ, Nasiri S. The Respiration-Limb Coactivation Index (RLCI): A Continuous Signal-Based Biomarker for Stratifying Cardiovascular Disease Risk in a Cross-Sectional Sleep Cohort. Sleep. 2026 Jul 28:zsag204. doi: 10.1093/sleep/zsag204. Epub ahead of print. PMID: 42518228.
+
+436. Ganglberger W, Sun H, Quinn TM, **Westover MB**, Thomas RJ. Dynamic instability of breathing during sleep predicts cognition, disease, and mortality. Sleep. 2026 Jul 31:zsag212. doi: 10.1093/sleep/zsag212. Epub ahead of print. PMID: 42536396.
+
+437. Li Q, Wen S, Sun H, Ganglberger W, Tripathi A, Turley N, Waters S, Gupta A, Gupta A, Ghanta M, Nearing B, Wu H, Stone KL, Robichaux C, Zhang Z, Li Q, Ganjoo G, Silvers CT, Gunapati B, Maski K, Nasiri S, Hwang D, Trotti LM, Katwa U, Clifford GD, Mignot E, Thomas RJ, **Westover MB**. The Human Sleep Project: A Multi-Center Clinical Polysomnography Dataset Across the Human Lifespan. Sleep. 2026 Aug 05:zsag215. doi: 10.1093/sleep/zsag215. Epub ahead of print. PMID: 42555111.
+
+438. Sun C, Karakis I, Herlopian A, Ng MC, Osman G, Sheikh Z, Taraschenko O, Yoo JY, Appavu BL, Arcot Jayagopal L, Kaplan PW, Lee JW, Selioutski O, Haider HA, Halford JJ, Hoch DB, Lam A, Nascimento FA, Pathmanathan J, Schmitt S, De Stefano P, Fisch U, Gijs J, Castro-Lima H, Kong WY, Cervenka MC, Dhakar MB, Fatima S, Gaspard N, Gilmore EJ, Herman ST, Holmes MG, Johnson EL, Muniz CF, Rosenthal ES, Rodriguez Ruiz AA, Sarkis RA, Shafi MM, Swisher CB, Tabaeizadeh M, Benbadis SR, Chan F, Chu CJ, Dolatshahi M, Greenblatt AS, Katyal R, Nwankwo C, Amorim E, Tatum WO, Weber D, Loddenkemper T, Peters JM, Katwa U, Maski K, Thomas RJ, Hong S, Yuan D, Cash SS, Cole AJ, Goldenholz DM, Stow C, Kim JA, Zafar SF, Struck AF, **Westover MB**, Jing J. Toward unified and comprehensive automated electroencephalogram interpretation: a multicentre development and validation of an electroencephalogram foundation model. Lancet Digit Health. 2026 Sep;8(9):101039. doi: 10.1016/j.landig.2026.101039. Epub 2026 Aug 25. PMID: 42642264.
+
+439. Dey RK, Yaramis A, Turley N, Mullan H, Chougule S, Gallagher K, Bayas G, Barot N, Drislane FW, Shafi MM, Pang T, Goldenholz DM, Struck AF, Kim J, Zafar S, Lee JW, Amorim E, **Westover MB**. Prognostic Significance of EEG Patterns in Post-Cardiac Arrest Coma: A Multicenter Retrospective Cohort Study of 1,000 Patients. Neurol Open Access. 2026 Sep;2(3). doi: 10.1212/wn9.0000000000000099. Epub 2026 Aug 25. PMID: 42677185; PMCID: PMC13528602.
+
+440. Goldenholz DM, Goldenholz SR, Bhansali R, Kaptchuk TJ, **Westover MB**. Counterintuitive: reducing regression-to-the-mean worsens efficiency in simulated clinical trials. Seizure. 2026 Nov;142:168-174. doi: 10.1016/j.seizure.2026.09.002. Epub 2026 Sep 03. PMID: 42715842; PMCID: PMC13580671.
+
+441. Marino FR, Ganglberger W, Sun H, Liu Y, Ding H, Thomas RJ, Au R, **Westover MB**. Sleep electroencephalography-derived brain health and long-term cognitive decline in community-dwelling adults. Sleep Adv. 2026;7(3):zpag089. doi: 10.1093/sleepadvances/zpag089. Epub 2026 Aug 06. PMID: 42769852; PMCID: PMC13592772.
+
+442. Furlow S, Houston P, Bao K, Zhou B, Velasquez G, Peterson K, Hayman A, Bains A, Lieberman O, Hendrickson CM, Zier L, Singhal NS, Hemphill JC, Zafar S, **Westover MB**, Fernandes M, Amorim E. Automated Derivation of Cerebral Performance Category at Hospital Discharge After Cardiac Arrest Using Natural Language Processing and Machine Learning. Neurocrit Care. 2026 Sep 28. doi: 10.1007/s12028-026-02650-9. Epub ahead of print. PMID: 42806261.
 
 **Peer-reviewed publications (accepted, in press)**
 
-1.  Nascimento FA, Katyal R, Kass NR, Yuan D, Sirven JI, Westover MB, Beniczky S. "Electroencephalography in clinical practice: results from an AAN Practice Current survey." Journal of Clinical Neurophysiology.\*\*
+1.  Sartipi S, Godfrey DS, Tauțan AM, Fernandes MP, Ghanta M, Gupta A, Nearing B, Kim J, Struck AF, Loddenkemper T, Peters J, Lee JW, **Westover MB**, Zafar SF. Automated Extraction of Seizures and Ictal-Interictal Continuum Patterns from EEG Reports to Enable Large-Scale Neurophysiology and Neurocritical Care Research. Available at SSRN. doi: 10.2139/ssrn.5489575. *SSRN*.\*\*
 
-2.  Sartipi S, Godfrey DS, Tauțan AM, Fernandes MP, Ghanta M, Gupta A, Nearing B, Kim J, Struck AF, Loddenkemper T, Peters J, Lee JW, Westover MB, Zafar SF. Automated Extraction of Seizures and Ictal-Interictal Continuum Patterns from EEG Reports to Enable Large-Scale Neurophysiology and Neurocritical Care Research. Available at SSRN. doi: 10.2139/ssrn.5489575. SSRN.\*\*
+**Peer-reviewed publications (other - 10 total)**
 
-**Peer-reviewed publications (other - 8 total)**
+1.  **Westover MB**. “Review of Peter Dayan & L. F. Abbott's Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems.” Philosophical Psychology. 2002. 15: 563-567.
 
-1.  Westover MB. “Review of Peter Dayan & L. F. Abbott's Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems.” Philosophical Psychology. 2002. 15: 563-567.
+2.  Bianchi MT and **Westover MB**. (2009) “Comment on: Analysis of SPARCL trial data for reduction of future stroke risk in older stroke patients with recent stroke or TIA.” Neurology 73(10):817-818.
 
-2.  Bianchi MT and Westover MB. (2009) “Comment on: Analysis of SPARCL trial data for reduction of future stroke risk in older stroke patients with recent stroke or TIA.” Neurology 73(10):817-818.
+3.  **Westover MB, Gaspard N. “**Not a simple plumbing problem: Updating our understanding of delayed cerebral ischemia in aneurysmal subarachnoid hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):171-3. PMCID: PMC4894327. *I**nvited review as Guest Editor for a special issue of JCN on the neurophysiology of subarachnoid hemorrhage.***
 
-3.  Westover MB, Gaspard N. “Not a simple plumbing problem: Updating our understanding of delayed cerebral ischemia in aneurysmal subarachnoid hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):171-3. PMCID: PMC4894327. Invited review as Guest Editor for a special issue of JCN on the neurophysiology of subarachnoid hemorrhage.
+4.  Dreier J, Fabricius M, Cenk A, Sakowitz O, Shuttleworth C, Dohmen C, Graf R, Vajkoczy P, Helbok R, Suzuki M; Schiefecker A,; Major S, Winkler M, Kang EJ, Milakara D, Oliveira-Ferreira A, Reiffurth C, Revankar G, Sugimoto K, Dengler N, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg C. Piilgaard H, Rosenthal ES, **Westover MB**, Maslarova A, Santos E, Hertle D, Sanchez-Porras R, Jewell S, Balança B, Platz J, Hinzman J, Luckl J, Schoknecht K, Schöll M, Drenckhahn C, Feuerstein D, Eriksen N, Horst V, Bretz J, Jahnke P, Scheel M, Bohner G, Rostrup E, Pakkenberg B, Heinemann U, Claassen J, Carlson A, Kowoll C, Lublinsky S, Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov S, Andrew R, Farkas E, Gueresir, E, Vatter H, Chung L, Brennan K Lieutaud T, Marinesco S, Maas A, Sahuquillo J, Dahlem M, Richter F, Herreras O, Boutelle M, Okonkwo D, Bullock R, Witte OW, Martus P, Van den Maagdenberg A, Ferrari M, Dijkhuizen R, Shutter L, Andaluz N, Schulte A, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong A, Hartings J. “Recording, analysis, and interpretation of spreading depolarizations in neurointensive care: review and recommendations of the COSBID research group.” Journal of Cerebral Blood Flow and Metabolism. 2016 Jun 17. pii: 0271678X16654496. \[Epub ahead of print\] PMID: 27317657.
 
-4.  Dreier J, Fabricius M, Cenk A, Sakowitz O, Shuttleworth C, Dohmen C, Graf R, Vajkoczy P, Helbok R, Suzuki M; Schiefecker A,; Major S, Winkler M, Kang EJ, Milakara D, Oliveira-Ferreira A, Reiffurth C, Revankar G, Sugimoto K, Dengler N, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg C. Piilgaard H, Rosenthal ES, Westover MB, Maslarova A, Santos E, Hertle D, Sanchez-Porras R, Jewell S, Balança B, Platz J, Hinzman J, Luckl J, Schoknecht K, Schöll M, Drenckhahn C, Feuerstein D, Eriksen N, Horst V, Bretz J, Jahnke P, Scheel M, Bohner G, Rostrup E, Pakkenberg B, Heinemann U, Claassen J, Carlson A, Kowoll C, Lublinsky S, Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov S, Andrew R, Farkas E, Gueresir, E, Vatter H, Chung L, Brennan K Lieutaud T, Marinesco S, Maas A, Sahuquillo J, Dahlem M, Richter F, Herreras O, Boutelle M, Okonkwo D, Bullock R, Witte OW, Martus P, Van den Maagdenberg A, Ferrari M, Dijkhuizen R, Shutter L, Andaluz N, Schulte A, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong A, Hartings J. “Recording, analysis, and interpretation of spreading depolarizations in neurointensive care: review and recommendations of the COSBID research group.” Journal of Cerebral Blood Flow and Metabolism. 2016 Jun 17. pii: 0271678X16654496. \[Epub ahead of print\] PMID: 27317657.
+5.  **Westover MB,** Halford JJ, Bianchi MT. What it should mean for an algorithm to pass a statistical Turing test for detection of epileptiform discharges. Clin Neurophysiol. 2017 Jul;128(7):1406-1407. doi: 10.1016/j.clinph.2017.02.026. Epub 2017 Mar 16. PMID: 28495216; PMCID: PMC9359665.
 
-5.  Westover MB, Halford JJ, Bianchi MT. What it should mean for an algorithm to pass a statistical Turing test for detection of epileptiform discharges. Clin Neurophysiol. 2017 Jul;128(7):1406-1407. doi: 10.1016/j.clinph.2017.02.026. Epub 2017 Mar 16. PMID: 28495216; PMCID: PMC9359665.
+6.  Bianchi MT, Thomas RJ, **Westover MB**. An open request to epidemiologists: please stop querying self-reported sleep duration. Sleep Med. 2017 Jul;35:92-93. doi: 10.1016/j.sleep.2017.02.001. Epub 2017 Feb 17. PMCID: PMC9371612.
 
-6.  Bianchi MT, Thomas RJ, Westover MB. An open request to epidemiologists: please stop querying self-reported sleep duration. Sleep Med. 2017 Jul;35:92-93. doi: 10.1016/j.sleep.2017.02.001. Epub 2017 Feb 17. PMCID: PMC9371612.
+7.  Singla S, Garcia GE, Rovenolt GE, Soto AL, Gilmore EJ, Hirsch LJ, Blumenfeld H, Sheth KN, Omay SB, Struck AF, **Westover MB**, Kim JA. “Detecting Seizures and Epileptiform Abnormalities in Acute Brain Injury.” Curr Neurol Neurosci Rep. 2020 Jul 27;20(9):42. doi: 10.1007/s11910-020-01060-4. Review. PMC9353690.
 
-7.  Singla S, Garcia GE, Rovenolt GE, Soto AL, Gilmore EJ, Hirsch LJ, Blumenfeld H, Sheth KN, Omay SB, Struck AF, Westover MB, Kim JA. “Detecting Seizures and Epileptiform Abnormalities in Acute Brain Injury.” Curr Neurol Neurosci Rep. 2020 Jul 27;20(9):42. doi: 10.1007/s11910-020-01060-4. Review. PMC9353690.
+8.  Nasiri S, Ganglberger W, Sun H, Thomas RJ, **Westover MB**. Exploiting Labels from Multiple Experts in Automated Sleep Scoring. Sleep. 2023 Feb 16:zsad034. doi: 10.1093/sleep/zsad034. Epub ahead of print. PMID: 36795078.
 
-8.  Nasiri S, Ganglberger W, Sun H, Thomas RJ, Westover MB. Exploiting Labels from Multiple Experts in Automated Sleep Scoring. Sleep. 2023 Feb 16:zsad034. doi: 10.1093/sleep/zsad034. Epub ahead of print. PMID: 36795078.
+9.  Amorim E, **Westover MB**. Reply to "Continuous EEG in patients with extracorporeal membrane oxygenation support: Clinical need in multidisciplinary collaboration and standardized monitoring". Clin Neurophysiol. 2022 Oct;142:275-276. doi: 10.1016/j.clinph.2022.07.488. Epub 2022 Jul 26. PMID: 35933303.
 
-9.  
+10. Nascimento FA, Beniczky S, **Westover MB**, Yuan D. The quest for an ideal EEG competency assessment. Clin Neurophysiol. 2026 Oct;190:2111972. doi: 10.1016/j.clinph.2026.2111972. Epub 2026 Jun 10. PMID: 42287920.
 
 **Non-Peer-reviewed Articles**
 
-1.  Westover MB, O’Sullivan JA. “Towards an information theoretic framework for object recognition.” IEEE 2004 International Symposium on Information Theory, Chicago, Illinois, June 27-July 2, 2004.
+1.  **Westover MB**, O’Sullivan JA. “Towards an information theoretic framework for object recognition.” IEEE 2004 International Symposium on Information Theory, Chicago, Illinois, June 27-July 2, 2004.
 
-2.  Westover MB, O’Sullivan JA. “Achievable rates for pattern recognition: Binary and Gaussian cases.” IEEE 2005 International Symposium on Information Theory, Adelaide, Australia, Sept 4-9, 2005.
+2.  **Westover MB**, O’Sullivan JA. “Achievable rates for pattern recognition: Binary and Gaussian cases.” IEEE 2005 International Symposium on Information Theory, Adelaide, Australia, Sept 4-9, 2005.
 
-3.  O'Sullivan JA, Singla N, and Westover MB. "Successive Refinement for Pattern Recognition," IEEE Information Theory Workshop, Punta del Este, Uruguay, Feb 2006.
+3.  O'Sullivan JA, Singla N, and **Westover MB.** "Successive Refinement for Pattern Recognition," IEEE Information Theory Workshop, Punta del Este, Uruguay, Feb 2006.
 
-4.  Liddle S, Zhang R, Grover L, Khitrov M, Brown J, Cobb JP, Goldman J, Chou J, Westover MB, Yagoda D, Reisner A, “Safety Evaluation of a Medical Device Data System”. International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'12), San Diego, California, USA on August 28 -September 1, 2012.
+4.  Liddle S, Zhang R, Grover L, Khitrov M, Brown J, Cobb JP, Goldman J, Chou J, **Westover MB**, Yagoda D, Reisner A, “Safety Evaluation of a Medical Device Data System”. International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'12), <span class="mark">San Diego, California, USA on August 28 -September 1, 2012.</span>
 
-5.  Bianchi MT, Thomas RJ, Westover MB. “Response.” Sleep Med. 2017 Aug 3. pii: S1389-9457(17)30316-7. doi: 10.1016/j.sleep.2017.07.017. \[Epub ahead of print\] PMID: 2884338
+5.  Bianchi MT, Thomas RJ, **Westover MB**. “Response.” Sleep Med. 2017 Aug 3. pii: S1389-9457(17)30316-7. doi: 10.1016/j.sleep.2017.07.017. \[Epub ahead of print\] PMID: 2884338
 
 6.  Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni R, Reyna MA, Clifford GD, Westover MB. “The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography Database.” medRxiv. 2023 Aug 28:2023.08.28.23294672. doi: 10.1101/2023.08.28.23294672. Preprint. PMID: 37693458.
 
-7.  Sun H, Ganglberger W, Westover MB, Thomas RJ. "Sleep as a Window into Brain Health: Clinical Implications from the Sleeping Brain Wave-Structure Associations." SLEEP. 2025 May. (Editorial).\*\*
-
-8.  
+7.  Sun H, Ganglberger W, **Westover MB**, Thomas RJ. "Sleep as a Window into Brain Health: Clinical Implications from the Sleeping Brain Wave-Structure Associations." SLEEP. 2025 May. (Editorial).\*\*
 
 **Book Chapters**
 
-1.  Westover MB, Thomas TT, Greer DM, “Delirium” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 86-89.
+1.  **Westover MB**, Thomas TT, Greer DM, “Delirium” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 86-89.
 
-2.  Westover MB, Choi E, Awad KM, Greer DM, Editors. Pocket Neurology. Lippincott Williams & Wilkins, 2010.
+2.  **Westover MB**, Choi E, Awad KM, Greer DM, Editors. Pocket Neurology. Lippincott Williams & Wilkins, 2010.
 
-3.  Westover MB, Peters JM, Bromfield EB, “Seizures and Other Spells” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 57-79.
+3.  **Westover MB**, Peters JM, Bromfield EB, “Seizures and Other Spells” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 57-79.
 
-4.  Westover MB, Xia, Z, Cho TA, “Meningitis, Encephalitis, & Brain Abscesses” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 136-149.
+4.  **Westover MB,** Xia, Z, Cho TA, “Meningitis, Encephalitis, & Brain Abscesses” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 136-149.
 
-5.  Thomas TT, Westover MB, “Rapidly Progressive Dementia” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 89-96.
+5.  Thomas TT, **Westover MB**, “Rapidly Progressive Dementia” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 89-96.
 
-6.  Kummer TT, Westover MB, “Central Nervous System Vasculitis” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 175-177.
+6.  Kummer TT, **Westover MB**, “Central Nervous System Vasculitis” in Pocket Neurology, ed. Westover MB, Choi E, Awad KM, and Greer DM, Lippincott Williams & Wilkins, 2010, 175-177.
 
-7.  Westover MB, Awad K, "Ischemic Stroke, Muscular Dystrophy and Friedreich’s Ataxia" in MGH Cardiology Board Review. Springer-Verlag, London, 2013.
+7.  **Westover MB,** Awad K, "Ischemic Stroke, Muscular Dystrophy and Friedreich’s Ataxia" in MGH Cardiology Board Review. Springer-Verlag, London, 2013.
 
-8.  Westover MB, Edlow BL, Greer DM, “Coma After Cardiac Arrest: Management and Neurological Prognostication” in MGH Cardiology Board Review. Springer-Verlag, London, 2013.
+8.  **Westover MB,** Edlow BL, Greer DM, “Coma After Cardiac Arrest: Management and Neurological Prognostication” in MGH Cardiology Board Review. Springer-Verlag, London, 2013.
 
-9.  Westover MB, Shafi MM, “Seizures” in Pocket ICU, Lippincott Williams & Wilkins, 2013.
+9.  **Westover MB,** Shafi MM, “Seizures” in Pocket ICU, Lippincott Williams & Wilkins, 2013.
 
 <!-- -->
 
@@ -1222,7 +1375,7 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 **Local Invited Presentations:**
 
-1.  “What is monkey cortex layer four for?.” Neuroanatomy & Neurobiology Department, Washington University School of Medicine, St. Louis, MO (2002)
+1.  “What is monkey cortex layer four for?” Neuroanatomy & Neurobiology Department, Washington University School of Medicine, St. Louis, MO (2002)
 
 2.  “EEG Patterns in the Neurological ICU.” MGH Neurosciences ICU, Boston, MA (2010)
 
@@ -1298,8 +1451,6 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 21. “AI in ICU EEG.” American Epilepsy Society Annual Meeting, Los Angeles, CA (2024)
 
-22. 
-
 **International Meetings:**
 
 1.  “Opportunities for Intelligent Computing in Clinical Neurophysiology.” Nanyang Technical University Symposium on Novel Technologies for Clinical Practice in Neurology, Singapore (2012)
@@ -1344,364 +1495,134 @@ None.
 
 **<u>Teaching prior to Stanford:</u>**
 
-**Courses**
+*Courses*
 
-2001–2002 Instructor for Computational Neuroscience, Washington University School of Medicine, Department of Anatomy and Neurobiology.
+| 2001–2002 | Instructor for Computational Neuroscience, Washington University School of Medicine, Department of Anatomy and Neurobiology. |
+|----|----|
+| 2003 | Instructor for Detection and Estimation Theory, Washington University, Department of Electrical and Systems Engineering. |
+| 2004 | Instructor for Information Theory, Washington University, Department of Electrical and Systems Engineering. |
+| 2008–2009 | Instructor for Neuroanatomy Laboratory, Harvard Medical School. |
+| 2012–2025 | Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology. |
+| 2013–2017 | Course Director and Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology. |
 
-2003 Instructor for Detection and Estimation Theory, Washington University, Department of Electrical and Systems Engineering.
+*Tutorials and Lectures*
 
-2004 Instructor for Information Theory, Washington University, Department of Electrical and Systems Engineering.
+| 10/2009 | Granger Causality Analysis Techniques for EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA. |
+|----|----|
+| 5/2010 | Synchronization Likelihood for Functional Connectivity Analysis of EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA. |
+| 7/2008 | Probability in Medical Reasoning. Neurology Residents, Brigham and Women’s Hospital, Boston, MA. |
+| 9/2009 | Invited lecturer, Bayes’ Rule for Physicians. Partners Neurology, MGH/BWH, Boston, MA. |
+| 6/2010 | EEG Alphabet Soup: GCSE, NCSE, PLEDs, BIPLEDs, GPEDs, & DEADs. Partners Neurology, MGH/BWH, Boston, MA. |
+| 8/2011 | Status Epilepticus: Diagnosis and Management. Partners Neurology, MGH/BWH, Boston, MA. |
+| 9/2012 | Introduction to ICU EEG: Seizures, Spikes, PEDs, Ischemia, and Coma. Partners Neurology, MGH/BWH, Boston, MA. |
+| 7/2018 | Quantitative Electroencephalography. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
+| 7/2019 | Recognizing Seizures and Ischemia in Critical Care EEG Monitoring. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
+| 6/2020 | Emergency Electroencephalography. Emergency Medicine Residents, Massachusetts General Hospital, Boston, MA. |
+| 7/2020 | Introduction to Spectrograms in ICU EEG. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
 
-2008–2009 Instructor for Neuroanatomy Laboratory, Harvard Medical School.
+*Clinical Supervisory and Training*
 
-2012–2025 Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology.
+| 2012– | Supervisor, MGH Adult Epilepsy Clinic (½-day session per week). |
+|----|----|
+| 2012– | Attending Physician, MGH Inpatient Neurology Service (2-week block per year), supervising neurology residents and Harvard medical students. |
+| 2012– | Attending Physician, MGH General Neurology Consult Service (2-week block per year), supervising neurology residents. |
+| 2012– | Director, MGH Critical Care EEG Monitoring Service (≈10 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows. |
+| 2012– | Attending, MGH Epilepsy Monitoring Unit (≈6 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows. |
+| 2012– | Faculty, Outpatient EEG Reading Service (≈2 days per month), supervising Epilepsy and Clinical Neurophysiology Fellows. |
 
-2013–2017 Course Director and Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology.
+*Research Supervisory and Training Responsibilities*
 
-**Tutorials and Lectures**
-
-10/2009 Granger Causality Analysis Techniques for EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.
-
-5/2010 Synchronization Likelihood for Functional Connectivity Analysis of EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.
-
-7/2008 Probability in Medical Reasoning. Neurology Residents, Brigham and Women’s Hospital, Boston, MA.
-
-9/2009 Invited lecturer, Bayes’ Rule for Physicians. Partners Neurology, MGH/BWH, Boston, MA.
-
-6/2010 EEG Alphabet Soup: GCSE, NCSE, PLEDs, BIPLEDs, GPEDs, & DEADs. Partners Neurology, MGH/BWH, Boston, MA.
-
-8/2011 Status Epilepticus: Diagnosis and Management. Partners Neurology, MGH/BWH, Boston, MA.
-
-9/2012 Introduction to ICU EEG: Seizures, Spikes, PEDs, Ischemia, and Coma. Partners Neurology, MGH/BWH, Boston, MA.
-
-7/2018 Quantitative Electroencephalography. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.
-
-7/2019 Recognizing Seizures and Ischemia in Critical Care EEG Monitoring. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.
-
-6/2020 Emergency Electroencephalography. Emergency Medicine Residents, Massachusetts General Hospital, Boston, MA.
-
-7/2020 Introduction to Spectrograms in ICU EEG. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.
-
-**Clinical Supervisory and Training**
-
-2012– Supervisor, MGH Adult Epilepsy Clinic (½-day session per week).
-
-2012– Attending Physician, MGH Inpatient Neurology Service (2-week block per year), supervising neurology residents and Harvard medical students.
-
-2012– Attending Physician, MGH General Neurology Consult Service (2-week block per year), supervising neurology residents.
-
-2012– Director, MGH Critical Care EEG Monitoring Service (≈10 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.
-
-2012– Attending, MGH Epilepsy Monitoring Unit (≈6 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.
-
-2012– Faculty, Outpatient EEG Reading Service (≈2 days per month), supervising Epilepsy and Clinical Neurophysiology Fellows.
-
-**Research Supervisory and Training Responsibilities**
-
-2012– Supervisor of postdoctoral research fellows (average 5–10 fellows per year), Massachusetts General Hospital.
-
-2012– Supervisor of graduate students (average 2–4 per year), Massachusetts General Hospital and MIT.
+| 2012– | Supervisor of postdoctoral research fellows (average 5–10 fellows per year), Massachusetts General Hospital. |
+|----|----|
+| 2012– | Supervisor of graduate students (average 2–4 per year), Massachusetts General Hospital and MIT. |
 
 10. **<span class="smallcaps">Trainees</span>**
 
 **Postdoctoral Fellows**
 
-2013-2014 Jing Jin, PhD from NTU in Singapore. postdoctoral fellow at MGH
-
-2013-2014 Zhang Rui, PhD, visiting scholar from NTU in Singapore, mentoring for 2 months through present. Professor of Mathematics at Northwestern University, Xi’An, China
-
-2014-2018 Sunil Belur Nagaraj, PhD, electrical engineering postdoctoral fellow. an Assistant Professor at University of Groningen, Department of Clinical Pharmacology, Groningen, Netherlands
-
-2014- Lauren McClain, PhD. Research Fellow. a PhD student at Fordham University, New York
-
-2019- Eline Oppersma, PhD. Visiting scholar. Assistant Professor of Technical Medicine at University of Twente, Netherlands
-
-2019- WenDong Ge, PhD. Postdoctoral fellow.
-
-2015–present Sahar Zafar, MD (K23).
-
-2014–2020 Jennifer Kim, MD, PhD (K23).
-
-2014–2019 Edilberto Amorim, MD (K23).
-
-2019–present Marta Priscila Bento Fernandes, PhD.
-
-2020–2022 Rajesh Amerineni, PhD.
-
-2019–2022 Wendong Ge, PhD.
-
-2019–2022 Weilong Zheng, PhD.
-
-2022–2024 Yalda Amidi, PhD.
-
-2021–2023 Samaneh Nasiri, PhD.
-
-2019–present Wolfgang Ganglberger, PhD.
-
-2024–present Shadi Sartipi, PhD.
-
-2024–present Alexandra Tautan, PhD.
-
-2024–present Ayush Tripathi, PhD.
-
-2024–present Samuel Waters, PhD.
-
-2024–present ChenXi Sun, PhD.
-
-2024–present Charlotte Maschke, PhD.
-
-2024–present Bruce Nearing, PhD.
-
-2024–present Ayan Mitra, PhD.
-
-2016–2018 Sungtae An, MS / PhD.
-
-2016–present Haoqi Sun, MD.
-
-2013–present Jing Jin, PhD.
+| Sahar Zafar, MD (K23)               | 2015–present |
+|-------------------------------------|--------------|
+| Jennifer Kim, MD, PhD (K23)         | 2014–2020    |
+| Edilberto Amorim, MD (K23)          | 2014–2019    |
+| Marta Priscila Bento Fernandes, PhD | 2019–present |
+| Rajesh Amerineni, PhD               | 2020–2022    |
+| Wendong Ge, PhD                     | 2019–2022    |
+| Weilong Zheng, PhD                  | 2019–2022    |
+| Yalda Amidi, PhD                    | 2022–2024    |
+| Samaneh Nasiri, PhD                 | 2021–2023    |
+| Wolfgang Ganglberger, PhD           | 2019–present |
+| Shadi Sartipi, PhD                  | 2024–present |
+| Alexandra Tautan, PhD               | 2024–present |
+| Ayush Tripathi, PhD                 | 2024–present |
+| Samuel Waters, PhD                  | 2024–present |
+| ChenXi Sun, PhD                     | 2024–present |
+| Charlotte Maschke, PhD              | 2024–present |
+| Bruce Nearing, PhD                  | 2024–present |
+| Ayan Mitra, PhD                     | 2024–present |
+| Sungtae An, MS / PhD                | 2016–2018    |
+| Haoqi Sun, MD                       | 2016–present |
+| Jing Jin, PhD                       | 2013–present |
 
 **Graduate Students**
 
-2014- Mohammed Ghassemi, MIT PhD candidate (now graduated), mentorship resulted in Advanced Multimodal Neuroimaging Training Program (AMNTP) fellowship award, 3 published manuscripts. CEO of a startup company, Ghamut
-
-2014- Jingzhi An, PhD candidate at Harvard/MIT HST program.
-
-2014-2019 Moura, Junior Valdery, MS (computer science), programmer analyst / research assistant at MGH. Project: establishing a database for the Clinical Data Animation Center (CDAC). 3 peer-reviewed publications to d. Project Manager for Landmark Project \#4 at Partners Healthcare
-
-2014-2017 Apeksha Shenoy, MS (electrical engineering), programmer analyst / research assistant. a Senior Consultant at Boston Strategic Partners
-
-2015- Elham Bagheri, MS (electrical and systems engineering). Nanyang Technical University (NTU), Singapore, PhD candidate, co-supervised with Prof.
-
-2015- John Thomas, MS (electrical and systems engineering). Nanyang Technical University (NTU), Singapore, PhD candidate, co-supervised with Prof.
-
-2015-2016 Siddharth Biswal, MS, computer programmer / research assistant. a PhD candidate at Georgia Institute of Technology
-
-2015- Gladia Hotan, PhD candidate at MIT. Mentorship resulted in 2 publications to date.
-
-2015-2016 Ellis Wickering, MS, University of Twente, Netherlands. working as an computer programmer at Prolira
-
-2016- Jefferson T, Oliva, PhD candidate in University of Sao Paulo, Brazil, Institute of Mathematics and Computer Sciences.
-
-2016- Jord Vink, MS, University of Twente, Netherlands, 3 month research internship with me at MGH, co-mentored with Dr. working at Brain Science Tools, Netherlands
-
-2016- Wei-Hung Sun, MD, masters student in the Harvard Biomedical Informatics program. a PhD candidate at MIT in computer science
-
-2016- Manohar Ghanta, MS (computer science). Computer engineer / research assistant.
-
-2016- Yu-Ping Shao, MS (computer science). Computer engineer / data scientist / research assistant.
-
-2016- Sungtae An, MS (computer science). Georgia Tech PhD candidate, co-supervised with Dr.
-
-2016- Kunal Malhotra, MS (computer science). Georgia Tech (GAT) PhD candidate, co-supervised with Dr.
-
-2016- Haoqi Sun, MD (computer science). Nanyang Technical University (NTU), Singapore, PhD candidate, co-supervised with Prof.
-
-2016- Senan Ebrahim, MD, PhD student in the Harvard Medical School HST program; co-supervised with Dr.
-
-2016-2017 Sophia Bechek, research assistant. a PhD candidate at Stanford
-
-2016-2018 Balaji Goparaju, MSc. a Data Scientist at Novartis Institutes for BioMedical Research (NIBR)
-
-2016- Jiang Ling Song, MS (mathematics), Northwestern University, Xian, China.
-
-2017 Dennis Rebergen, Research internship.
-
-2017- Emile d’Angremont, Research internship.
-
-2017-2018 Peiyun Ni, MD/PhD candidate at Harvard Medical School / MIT. Project: Antiepileptic drug treatment after an unprovoked first seizure: A decision analysis.
-
-2016-2017 Nishant Sinha, PhD candidate (now graduated) at NTU, Singapore, department of computer science.
-
-2018- Qiang Li, PhD candidate in Mathematics, Northwestern University, Xi’An, China.
-
-2018-2019 Kicky van Leeuwen, Masters student in Technical Medicine from U. Twente, Netherlands. a Medical Machine Learning Scientist at Medicx
-
-2018- Michael Leone, MSc.
-
-2014–2020 Jingzhi An, PhD.
-
-2014–2019 Mohammad Ghassemi, PhD.
-
-2016–2017 Jefferson T. Oliva, PhD.
-
-2018–2020 Qiang Li, PhD.
-
-2024–present Arnav Gupta.
-
-2021–2025 Thijs Nassi, MSc.
+| Jingzhi An, PhD         | 2014–2020    |
+|-------------------------|--------------|
+| Mohammad Ghassemi, PhD  | 2014–2019    |
+| Jefferson T. Oliva, PhD | 2016–2017    |
+| Qiang Li, PhD           | 2018–2020    |
+| Arnav Gupta             | 2024–present |
+| Thijs Nassi, MSc        | 2021–2025    |
 
 **Medical Students / Residents / Fellows**
 
-Mentorship for 4 months (2 summers), resulted in 4 scientific publications.
-
-2011-2012 Sarah Wahlster, MD, Neurology resident. Assistant Professor of Neurology at University of Washington
-
-2011-2012 Craig Williamson, MD, Neurology resident, Mentorship for 1 year, resulted in 1 published scientific manuscript. Assistant Professor of Neurology at University of Michigan
-
-2013-2014 Lidia Moura, MD, Epilepsy Fellow at MGH. Two abstracts, 1 published scientific manuscript. Assistant Professor at Harvard Medical School
-
-2013-2014 Marcus Ng, MD, Epilepsy Fellow at MGH. One published manuscript. Assistant Professor at University of Manitoba, Winnipeg, Canada
-
-2013-2014 Deirdre O'Rourke, MD, Epilepsy Fellow at MGH, mentorship for 1 year, resulted in 1 abstract and 1 published manuscript. Neurologist at Connolly Hospital Blanchardstown/ Beaumont Hospital Dublin
-
-2013-2014 Sandipan Pati, MD, Epilepsy Fellow at MGH. 1 abstract, 2 published scientific manuscripts. Assistant Professor of Neurology at UAB Birmingham
-
-2013-2014 Aaron Berkowitz, MD, PhD, neurology resident at BWH/MGH/Partners. Assistant Professor of Neurology at Harvard Medical School / Brigham and Women’s hospital
-
-2014 Vincent Alvarez, MD, visiting Research Fellow from Universite de Lausanne (Switzerland). 5 published manuscripts. an Attending Neurologist at Hopital du Valais, Sion, Switzerland
-
-2014 Sanjay Menon, MD, Neurosciences ICU Fellow at MGH, mentorship for 6 months.
-
-2014 Ammar Kheder, MD, Epilepsy Fellow at MGH, mentorship for 1 year. an Assistant Professor Of Clinical Neurology at U
-
-2014- Aaron Struck, MD, Epilepsy Fellow at MGH. 2 abstracts, 8 published manuscripts. Assistant Professor of Neurology at University of Wisconsin
-
-2014-2016 Gina Deck, MD, Epilepsy Fellow at MGH, mentorship for 1 year. an Assistant Professor of neurology at The Warren Alpert Medical School of Brown University
-
-2014- Edilberto Amorim, MD, neurointenstive care fellow at MGH. Research on the prognostic value quantification of EEG reactivity in coma in patients with anoxic brain injury.
-
-2014- Jennifer Kim, MD, PhD, neurology resident at MGH/BWH. Project: “Identifying EEG Hallmarks for Increased Seizure Risk in SAH: A Quantitative EEG Analysis.” Starting in July 2019, will be Assistant Professor of Neuro.
-
-2014-2017 Katherine O’Connor, Project: Predicting delayed cerebral ischemia in patients with aneurysmal subarachnoid hemorrhage.
-
-2015- Sahar Zafar, MD, neurointenstive care fellow at MGH. Research on the impact of pathological brain activity and its treatments on neurological outcome in ICU patients.
-
-2015-2017 Carlos Muniz, MD. Epilepsy / Neurophysiology Fellow. a practicing neurologist in Towson, Maryland
-
-2016- Ilya Toloch, MD, PhD, neurology resident at BWH/MGH/Partners.
-
-2016-2016 Eva Postma, MD, University of Twente, Netherlands, visiting scholar for 6 months in my laboratory, co-mentored by Dr.
-
-2016-2017 Jia Jian, PhD (mathematics), Northwestern University (NWU), Xian, China. an Associate Professor of Mathematics at NWU
-
-2016 Honghui Zhang, PhD (mathematics), Northwestern University, Xian, China.
-
-2014-2018 Durga Jonnalagadda, MD, Projects: Diagnosing severity of delirium in hospitalized patients from EEG recordings.
-
-2017- Aline Herlopian, MD. Fellow in Clinical Neurophysiology and Epilepsy at Harvard Medical School, MGH. Projects: Characterizing EEG patterns in patients with CAR-T cell encephalopathy, and Measuring expert inter-rater a. Assistant Professor of Neurology at Yale
-
-2017- Hassan Aboul Nour, MD. Project: Estimating the effect of exposure to inadvertent pharmacological burst suppression during critical illness on neurologic outcomes.
-
-2017-2018 Elahe Bordbar, MD. Research Fellow. a Resident in Neurology at Temple University
-
-2017- Muhammad Edhi, MD. Research Fellow.
-
-2017- Farrukh Javed, MD. Research Fellow. a Neurology Resident at University of Virginia
-
-2017- Solomon Kassa, MD. Research Fellow.
-
-2017-2019 Maryum Shoukat, MD. Research Fellow.
-
-2017- Mohammad Tabaeizadeh, MD. Research Fellow.
-
-2017-2018 Erik Bao, MD candidate in the Harvard/MIT Health Sciences & Technology.
-
-2017-2018 Monica (Ling-Ya) Chao, MD candidate in Harvard HST program.
-
-2018- Kendrick Shaw, MD, PhD. Anesthesia Resident and incoming faculty (Instructor) at Harvard Medical School / MGH. Project: Predicting delirium using electronic health record data.
-
-2018- Chris McGray, MD, PhD. Fellow in Epilepsy and Clinical Neurophysiology.
-
-2018- Sophia Ryan, MD. Harvard Medical School/CRICO Patient Safety and Quality Fellow at Harvard Medical School.
-
-2018- Benjamin Grannan, MD. Resident in Neurosurgery at Harvard Medical School / MGH. Project: Deep learning analysis of CT images to detect cases in need of surgical intervention.
-
-2019- Eliezer Sternberg, MD. Fellow in Epilepsy and Clinical Neurophysiology.
-
-2014–2015 Elliott Akama-Garren.
-
-2014–2020 Jennifer Kim, MD, PhD.
-
-2018–present Eyal Kimchi, MD, PhD (K23).
-
-2022–present Daniel Goldenholz, MD, PhD (K23).
-
-2022–present Peter Hadar, MD, PhD.
-
-2022–2025 Wan Yee Kong, MD, MSc.
-
-2022–present James Lucarelli, MD, PhD.
-
-2023–present Callison Alcott, MD, PhD.
-
-2011–2012 Sarah Wahlster, MD.
-
-2011–2012 Craig Williamson, MD.
-
-2013–2014 Lidia Moura, MD.
-
-2013–2014 Marcus Ng, MD.
-
-2013–2014 Patrick Chen, MD.
-
-2013–2014 Deirdre O’Rourke, MD.
-
-2013–2014 Sandipan Pati, MD.
-
-2013–2014 Ammar Kheder, MD.
-
-2013–2014 Aaron Berkowitz, MD, PhD.
-
-2017–2019 Luis Paixao, MD.
-
-2017–present Aline Herlopian, MD.
-
-2020–2021 Nitish Harid, MD.
+| Elliott Akama-Garren             | 2014–2015    |
+|----------------------------------|--------------|
+| Jennifer Kim, MD, PhD            | 2014–2020    |
+| Eyal Kimchi, MD, PhD (K23)       | 2018–present |
+| Daniel Goldenholz, MD, PhD (K23) | 2022–present |
+| Peter Hadar, MD, PhD             | 2022–present |
+| Wan Yee Kong, MD, MSc            | 2022–2025    |
+| James Lucarelli, MD, PhD         | 2022–present |
+| Callison Alcott, MD, PhD         | 2023–present |
+| Sarah Wahlster, MD               | 2011–2012    |
+| Craig Williamson, MD             | 2011–2012    |
+| Lidia Moura, MD                  | 2013–2014    |
+| Marcus Ng, MD                    | 2013–2014    |
+| Patrick Chen, MD                 | 2013–2014    |
+| Deirdre O’Rourke, MD             | 2013–2014    |
+| Sandipan Pati, MD                | 2013–2014    |
+| Ammar Kheder, MD                 | 2013–2014    |
+| Aaron Berkowitz, MD, PhD         | 2013–2014    |
+| Luis Paixao, MD                  | 2017–2019    |
+| Aline Herlopian, MD              | 2017–present |
+| Nitish Harid, MD                 | 2020–2021    |
 
 **Undergraduate Students**
 
-2010; 2011 Nathaniel Eiseman, Senior at Tulane.
-
-2012 Matthew Ferguson, sophomore at Washington University in Saint Louis.
-
-2012 Justine Cormier, BS, medical student at Boston University School of Medicine. Neurology Resident at Yale
-
-2014 Elliot Akama-Garren, MIT undergraduate, mentorship for 6 months; resulted in 1 publication. an MD-PhD student at Harvard Medical School
-
-2016- Greta Gadbois, BS (mathematics), research assistant.
-
-2017 Wade Whitt, undergraduate student at BYU. Projects: Correlation of EEG findings in delirious patients with neurologic outcomes.
-
-2018- Jacob Hogan, undergraduate student at BYU. Project: Estimating the causal effect of burst suppression on neurologic outcomes.
-
-2018–2023 Alek Westover.
-
-2021–2022 Danny Jones.
-
-2021–2022 Jaden Barfuss.
-
-2021–2023 Jayme Banks.
-
-2023–2024 Leia Jekel.
-
-2023–2024 Rebecca Milde.
-
-2023–2024 Moritz Alkofer.
-
-2023–2024 Elijah Davis.
-
-2023–present Dan Sumsion.
-
-2023–present Lydia Petersen.
-
-2023–present Kiwi (Yiwen) Xiong.
-
-2024–present Luke Jackson.
-
-2024–present Carlos Nuñez-Sosa.
-
-2024–present Amber Peng.
-
-2024–present Mitchell McCauley.
-
-2024–present Patrick Wynn.
-
-2024–present Elijah Keldsen.
+| Nathaniel Eiseman  | 2010–2011    |
+|--------------------|--------------|
+| Wade Whitt         | 2017–2019    |
+| Jacob Hogan        | 2018–2020    |
+| Alek Westover      | 2018–2023    |
+| Danny Jones        | 2021–2022    |
+| Jaden Barfuss      | 2021–2022    |
+| Jayme Banks        | 2021–2023    |
+| Leia Jekel         | 2023–2024    |
+| Rebecca Milde      | 2023–2024    |
+| Moritz Alkofer     | 2023–2024    |
+| Elijah Davis       | 2023–2024    |
+| Dan Sumsion        | 2023–present |
+| Lydia Petersen     | 2023–present |
+| Kiwi (Yiwen) Xiong | 2023–present |
+| Luke Jackson       | 2024–present |
+| Carlos Nuñez-Sosa  | 2024–present |
+| Amber Peng         | 2024–present |
+| Mitchell McCauley  | 2024–present |
+| Patrick Wynn       | 2024–present |
+| Elijah Keldsen     | 2024–present |
 
 **High School Students**
 
-2018 Alek Westover, High school student.
-
-2016–2017 Sophia Bechek.
-
-2023–2024 Samvrit Rao.
+| Sophia Bechek | 2016–2017 |
+|---------------|-----------|
+| Samvrit Rao   | 2023–2024 |

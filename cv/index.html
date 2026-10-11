@@ -91,6 +91,8 @@ sitemap: false
   .cv hr { border: 0; border-top: 1px solid #ddd; margin: 24px 0; }
   .cv table { border-collapse: collapse; margin: 12px 0; }
   .cv table th, .cv table td { padding: 4px 12px 4px 0; text-align: left; vertical-align: top; }
+  /* CV tables have no header row; pandoc still emits the first row as <th>. */
+  .cv table th { font-weight: normal; }
 
   .lastbuilt {
     text-align: center; color: #888; font-size: 12px;
@@ -113,7 +115,7 @@ sitemap: false
   {{ cv_md | markdownify }}
 </div>
 
-<p class="lastbuilt">Rendered from <code>cv/1-Westover_CV.docx</code>. The Word and PDF downloads above are the authoritative copies.</p>
+<p class="lastbuilt">Exported from the master Google Doc. The Word and PDF downloads above are the authoritative copies.</p>
 
 </body>
 </html>
