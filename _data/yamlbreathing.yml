@@ -4,7 +4,7 @@
   description: ''
   authors: Ganglberger W, Sun H, Quinn TM, Westover MB, Thomas RJ
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/42536396
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Ganglberger_Sleep_42536396.pdf
     display: 'Sleep. 2026. doi: 10.1093/sleep/zsag212. PMID: 42536396.'
   highlight: 0
 - title: '"The Respiration-Limb Coactivation Index (RLCI): A Continuous Signal-Based
@@ -14,7 +14,7 @@
   description: ''
   authors: Wen S, Ferri R, Li Q, Deng W, Westover MB, Thomas RJ, Nasiri S
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/42518228
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Wen_Sleep_42518228.pdf
     display: 'Sleep. 2026. doi: 10.1093/sleep/zsag204. PMID: 42518228.'
   highlight: 0
 - title: '"BCGNet: an AI model trained on 600 K hours of sleep data for a novel under-pillow
