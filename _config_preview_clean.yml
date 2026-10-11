@@ -1,2 +1,3 @@
-# Used by `./preview.sh clean`: the site exactly as visitors would see it.
+# Default for ./preview.sh: the site exactly as visitors would see it.
+# (`./preview.sh notes` skips this file to turn the review notes on.)
 preview_notes: false
