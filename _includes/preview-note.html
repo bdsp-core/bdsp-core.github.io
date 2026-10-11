@@ -1,0 +1,2 @@
+{% comment %}A reviewer's note, shown only in the local preview build
+(`preview_notes: true` in _config_preview.yml). Never rendered on the live site.{% endcomment %}{% if site.preview_notes %}<p class="rd-note"><b>{{ include.title }}</b> {{ include.text }}</p>{% endif %}

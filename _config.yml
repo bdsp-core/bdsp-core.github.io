@@ -17,6 +17,16 @@ include:
   - .htaccess
   - _pages
 
+# Root-level leftovers that must not be published. research.md is an unfinished
+# template that clashed with _pages/research.md for the /research/ address.
+exclude:
+  - research.md
+  - _config_preview.yml
+  - _config_preview_clean.yml
+  - preview.sh
+  - vendor
+  - venv
+
 sass:
   sass_dir: _sass
 
