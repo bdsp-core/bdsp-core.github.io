@@ -1,10 +1,10 @@
-**Curriculum Vitae: updated October 10, 2026**
+**Curriculum Vitae: updated October 11, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
 Name M. Brandon Westover, MD, PhD
 
-Current Position Professor of Neurology, Stanford University
+Current Position Professor of Neurology and Neurological Sciences, Stanford University
 
 Current Affiliation Stanford University
 
@@ -44,7 +44,7 @@ Current Affiliation Stanford University
 
 11/22 – 5/26 Emily Fisher Landau Professor of Neurology, Harvard Medical School, Boston, MA
 
-5/26 – present Professor of Neurology, Stanford University, Stanford, CA
+5/26 – present Professor of Neurology and Neurological Sciences, Stanford University, Stanford, CA
 
 **Other Appointments:**
 
