@@ -1,5 +1,7 @@
 # `build_cv` — automated CV pipeline
 
+> **Superseded (October 2026).** The CV is now a single Google Doc, "Westover CV (master)", and the files in `cv/` are exported from it. This folder documents the earlier Sheets-based pipeline, which no longer runs. Current instructions are in the README of [`mb-westover/cv-build`](https://github.com/mb-westover/cv-build).
+
 This folder is a **read-only snapshot** of the code that builds Brandon Westover's CV every Sunday and publishes the PDF to <https://bdsp-core.github.io/brandon/>. It lives here so that anyone with access to the website repo can read, audit, and propose changes — **but the live code that actually runs in production is in the private repo [`mb-westover/cv-build`](https://github.com/mb-westover/cv-build)**.
 
 > **TL;DR — to change something, edit a file in `mb-westover/cv-build` and push.** The next scheduled run (or a manual `gh workflow run build-cv.yml`) will rebuild and publish the CV.
