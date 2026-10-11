@@ -4,9 +4,9 @@
 
 Name M. Brandon Westover, MD, PhD
 
-Current Position Emily Fisher Landau Professor of Neurology, Harvard Medical School, Beth Israel Deaconess Medical Center (BIDMC)
+Current Position Professor of Neurology, Stanford University
 
-Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
+Current Affiliation Stanford University
 
 2.  **<span class="smallcaps">Education History</span>**
 
@@ -80,7 +80,7 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 5.  **<span class="smallcaps">Bibliography</span>**
 
-**Peer-reviewed original research (442 total, <span class="mark">5 in press, 10 submitted, 5 in review</span>)**
+**Peer-reviewed original research (442 total, 5 in press, 10 submitted, 5 in review)**
 
 1.  Eliasmith C, **Westover MB**, Anderson CH. “A general framework for neurobiological modeling: An application to the vestibular system.” *Neurocomputing*. 2002. 46:1071-1076. PMCID: PMC6788744.
 
@@ -138,7 +138,7 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 25. Shafi, MM\*, **Westover MB\*,** Cole AJ, Kilbride RD, Hoch DB, Cash SS. “Absence of Early Epileptiform Abnormalities Predicts Lack of Seizures on Continuou*s EEG”. Neurology. Oct 2012; 79:1796-801.* PMCID: PMC3475619. ***\*joint first authorship.***
 
-26. *Srinivasan P, **Westover*** **MB**, Bianchi MT. “Propagation of Uncertainty in Bayesian
+26. *Srinivasan P, **Westover *****MB**, Bianchi MT. “Propagation of Uncertainty in Bayesian
 
 > Diagnostic Test Interpretation”. *Southern Medical Journal.* 2012 Sep;105(9):452-9. PMCID: PMC6785978.
 
@@ -172,8 +172,8 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 38. Eiseman, A, Bianchi MT, **Westover MB.** “The Information Theoretic Perspective on Medical Diagnostic Inference.” *<span class="mark">Hospital Practice.</span>* 2014 Apr;42(2):125-38. PMCID PMC6993929.
 
-39. Bai Z, Huang GB, Wang D, Wang H, **Westover MB.** “Sparse Extreme Learning Machine for Classiﬁcation.” *IEEE Transactions on Cybernetics*, "Sparse Extreme Learning Machine for Classification," *Cybernetics, IEEE Transactions on* , vol.PP, no.99, pp.1,1\
-    doi: 10.1109/TCYB.2014.2298235. PMCID: PMC4883115.
+39. Bai Z, Huang GB, Wang D, Wang H, **Westover MB.** “Sparse Extreme Learning Machine for Classiﬁcation.” *IEEE Transactions on Cybernetics*, "Sparse Extreme Learning Machine for Classification," *Cybernetics, IEEE Transactions on* , vol.PP, no.99, pp.1,1  
+    > doi: 10.1109/TCYB.2014.2298235. PMCID: PMC4883115.
 
 40. Shafi MM\*, **Westover MB\***, Oberman L, Cash SS, Pascual-Leone A. “Modulation of EEG functional connectivity networks in subjects undergoing repetitive transcranial magnetic stimulation.” *Brain Topography.* 2014 Jan;27(1):172-91. doi: 10.1007/s10548-013-0277-y. Epub 2013 Mar 8. PMCID: PMC4026010. **\*joint first authorship.**
 
@@ -1001,7 +1001,7 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 2.  Bianchi MT and **Westover MB**. (2009) “Comment on: Analysis of SPARCL trial data for reduction of future stroke risk in older stroke patients with recent stroke or TIA.” Neurology 73(10):817-818.
 
-3.  **Westover MB, Gaspard N. “**Not a simple plumbing problem: Updating our understanding of delayed cerebral ischemia in aneurysmal subarachnoid hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):171-3. PMCID: PMC4894327. *I**nvited review as Guest Editor for a special issue of JCN on the neurophysiology of subarachnoid hemorrhage.***
+3.  **Westover MB, Gaspard N. “**Not a simple plumbing problem: Updating our understanding of delayed cerebral ischemia in aneurysmal subarachnoid hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):171-3. PMCID: PMC4894327. *I**nvited review as Guest Editor for a special issue of JCN on the neurophysiology of subarachnoid hemorrhage. ***
 
 4.  Dreier J, Fabricius M, Cenk A, Sakowitz O, Shuttleworth C, Dohmen C, Graf R, Vajkoczy P, Helbok R, Suzuki M; Schiefecker A,; Major S, Winkler M, Kang EJ, Milakara D, Oliveira-Ferreira A, Reiffurth C, Revankar G, Sugimoto K, Dengler N, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg C. Piilgaard H, Rosenthal ES, **Westover MB**, Maslarova A, Santos E, Hertle D, Sanchez-Porras R, Jewell S, Balança B, Platz J, Hinzman J, Luckl J, Schoknecht K, Schöll M, Drenckhahn C, Feuerstein D, Eriksen N, Horst V, Bretz J, Jahnke P, Scheel M, Bohner G, Rostrup E, Pakkenberg B, Heinemann U, Claassen J, Carlson A, Kowoll C, Lublinsky S, Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov S, Andrew R, Farkas E, Gueresir, E, Vatter H, Chung L, Brennan K Lieutaud T, Marinesco S, Maas A, Sahuquillo J, Dahlem M, Richter F, Herreras O, Boutelle M, Okonkwo D, Bullock R, Witte OW, Martus P, Van den Maagdenberg A, Ferrari M, Dijkhuizen R, Shutter L, Andaluz N, Schulte A, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong A, Hartings J. “Recording, analysis, and interpretation of spreading depolarizations in neurointensive care: review and recommendations of the COSBID research group.” Journal of Cerebral Blood Flow and Metabolism. 2016 Jun 17. pii: 0271678X16654496. \[Epub ahead of print\] PMID: 27317657.
 
@@ -1333,51 +1333,49 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 **Grand Rounds:**
 
-1.  “Little; Yellow; Different: Hyperbilirubinemia in preterm infants of lactating depressed female Green Monkeys receiving CACKLE-modified dairy supplements.” Neonatology Grand Rounds, Stanford University, Stanford, CA (2022)
+1.  “Monitoring and Closed-Loop Control of Burst Suppression.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2013)
 
-2.  “Monitoring and Closed-Loop Control of Burst Suppression.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2013)
+2.  “Continuous Brain Monitoring in Critical Care.” Anesthesia, Critical Care and Pain Medicine Grand Rounds, Massachusetts General Hospital, Boston, MA (2013)
 
-3.  “Continuous Brain Monitoring in Critical Care.” Anesthesia, Critical Care and Pain Medicine Grand Rounds, Massachusetts General Hospital, Boston, MA (2013)
+3.  “Why Brains Need Computers.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2016)
 
-4.  “Why Brains Need Computers.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2016)
+4.  “Towards Personalized Critical Care Brain Monitoring.” Neurology Grand Rounds, Stanford University, Palo Alto, CA (2017)
 
-5.  “Towards Personalized Critical Care Brain Monitoring.” Neurology Grand Rounds, Stanford University, Palo Alto, CA (2017)
+5.  “Machine Learning in Neurology.” Neurology Grand Rounds, University of Wisconsin, Madison, WI (2019)
 
-6.  “Machine Learning in Neurology.” Neurology Grand Rounds, University of Wisconsin, Madison, WI (2019)
+6.  “Early Ischemia Detection Using EEG in Subarachnoid Hemorrhage.” Neurology Grand Rounds, University Hospitals Cleveland Medical Center, Cleveland, OH (2019)
 
-7.  “Early Ischemia Detection Using EEG in Subarachnoid Hemorrhage.” Neurology Grand Rounds, University Hospitals Cleveland Medical Center, Cleveland, OH (2019)
+7.  “Automating Clinical Neurophysiology.” Neurology Grand Rounds, Stanford University, Palo Alto, CA (2019)
 
-8.  “Automating Clinical Neurophysiology.” Neurology Grand Rounds, Stanford University, Palo Alto, CA (2019)
+8.  “AI in Clinical Neurophysiology.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2020)
 
-9.  “AI in Clinical Neurophysiology.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2020)
+9.  “Covid-19 Outcome Risk Prediction.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2020)
 
-10. “Covid-19 Outcome Risk Prediction.” Neurology Grand Rounds, Massachusetts General Hospital, Boston, MA (2020)
+10. “Automated EEG Analysis in Clinical Care.” Neurology Grand Rounds, University of California San Diego, San Diego, CA (2020)
 
-11. “Automated EEG Analysis in Clinical Care.” Neurology Grand Rounds, University of California San Diego, San Diego, CA (2020)
+11. “Denoising the Diagnosis of Epilepsy.” Neurology Grand Rounds, Einstein Medical Center Philadelphia, Philadelphia, PA (2022)
 
-12. “Denoising the Diagnosis of Epilepsy.” Neurology Grand Rounds, Einstein Medical Center Philadelphia, Philadelphia, PA (2022)
+12. “Quantifying the Ictal-Interictal-Injury Continuum.” Neurocritical Care Grand Rounds, University of Washington, Seattle, WA (2022)
 
-13. “Quantifying the Ictal-Interictal-Injury Continuum.” Neurocritical Care Grand Rounds, University of Washington, Seattle, WA (2022)
+13. “Superhuman Management of Seizures in the ICU.” Neurology Grand Rounds, Yale School of Medicine, New Haven, CT (2023)
 
-14. “Superhuman Management of Seizures in the ICU.” Neurology Grand Rounds, Yale School of Medicine, New Haven, CT (2023)
+14. “Optimizing Detection and Treatment of Nonconvulsive Status Epilepticus.” Geschwind Pan-Harvard Grand Rounds, Harvard Medical School, Boston, MA (2023)
 
-15. “Optimizing Detection and Treatment of Nonconvulsive Status Epilepticus.” Geschwind Pan-Harvard Grand Rounds, Harvard Medical School, Boston, MA (2023)
+15. “Big Data and AI to Achieve Superhuman Detection and Treatment of Seizures in ICU Patients.” Healthcare Delivery Science Grand Rounds, Beth Israel Deaconess Medical Center / Harvard Medical School, Boston, MA (2023)
 
-16. “Big Data and AI to Achieve Superhuman Detection and Treatment of Seizures in ICU Patients.” Healthcare Delivery Science Grand Rounds, Beth Israel Deaconess Medical Center / Harvard Medical School, Boston, MA (2023)
+16. “Toward Optimal Treatment of Harmful Brain Activity in Critical Illness.” Neurology Grand Rounds, University Hospital Cleveland Medical Center, Cleveland, OH (2024)
 
-17. “Toward Optimal Treatment of Harmful Brain Activity in Critical Illness.” Neurology Grand Rounds, University Hospital Cleveland Medical Center, Cleveland, OH (2024)
+17. “Reducing Noise in the Diagnosis of Epilepsy.” Neurology Grand Rounds, University of Texas Houston, Houston, TX (2024)
 
-18. “Reducing Noise in the Diagnosis of Epilepsy.” Neurology Grand Rounds, University of Texas Houston, Houston, TX (2024)
+18. “Reducing Noise in the Diagnosis of Epilepsy.” Neurology Grand Rounds, University of Pennsylvania, Philadelphia, PA (2024)
 
-19. “Reducing Noise in the Diagnosis of Epilepsy.” Neurology Grand Rounds, University of Pennsylvania, Philadelphia, PA (2024)
+19. “Reducing Diagnostic Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, Beth Israel Deaconess Medical Center / Harvard Medical School, Boston, MA (2025)
 
-20. “Reducing Diagnostic Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, Beth Israel Deaconess Medical Center / Harvard Medical School, Boston, MA (2025)
+20. “Reducing Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, University of Michigan, Ann Arbor, MI (2025)
 
-21. “Reducing Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, University of Michigan, Ann Arbor, MI (2025)
+21. “Reducing Diagnostic Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, Stanford University, Palo Alto, CA (2025)
 
-22. “Reducing Diagnostic Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, Stanford University, Palo Alto, CA (2025)
-
-23. “Designing Randomized Trials for Nonconvulsive Status Epilepticus Using Observational Data.” Neurology Grand Rounds, Montefiore Einstein, Bronx, NY (2026)
+22. “Designing Randomized Trials for Nonconvulsive Status Epilepticus Using Observational Data.” Neurology Grand Rounds, Montefiore Einstein, Bronx, NY (2026)
 
 **Local Invited Presentations:**
 
@@ -1479,7 +1477,9 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 30. “Machine Learning Approaches to Studying Neurophysiology in LoUE.” Defining the Landscape of Late-Onset Unexplained Epilepsy Conference, South Casco, ME (2025)
 
-31. “Big Data in Epilepsy Research.” NINDS Curing the Epilepsies Conference, Bethesda, MD (2026)
+31. “Data-Driven Biomarkers for Brain Health from Sleep.” SLEEP 2025 Annual Meeting, Seattle, WA (2025)
+
+32. “Big Data in Epilepsy Research.” NINDS Curing the Epilepsies Conference, Bethesda, MD (2026)
 
 **International Meetings:**
 
@@ -1519,9 +1519,7 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 18. “MORGOTH: Automating the Interpretation of Clinical Neurophysiology Tests.” International Conference on Technology and Analysis for Seizures (ICTALS), Montreal, Canada (2025)
 
-19. “Data-Driven Biomarkers for Brain Health from Sleep.” SLEEP 2025 Annual Meeting, Seattle, WA (2025)
-
-20. “Artificial Intelligence in Neurology: Promise and Peril.” Donald Baxter Lecture, Montreal Neurological Institute, Montreal, Canada (2025)
+19. “Artificial Intelligence in Neurology: Promise and Peril.” Donald Baxter Lecture, Montreal Neurological Institute, Montreal, Canada (2025)
 
 <!-- -->
 
@@ -1535,44 +1533,44 @@ None.
 
 *Courses*
 
-| 2001–2002 | Instructor for Computational Neuroscience, Washington University School of Medicine, Department of Anatomy and Neurobiology. |
-|----|----|
-| 2003 | Instructor for Detection and Estimation Theory, Washington University, Department of Electrical and Systems Engineering. |
-| 2004 | Instructor for Information Theory, Washington University, Department of Electrical and Systems Engineering. |
-| 2008–2009 | Instructor for Neuroanatomy Laboratory, Harvard Medical School. |
-| 2012–2025 | Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology. |
+| 2001–2002 | Instructor for Computational Neuroscience, Washington University School of Medicine, Department of Anatomy and Neurobiology.                                      |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2003      | Instructor for Detection and Estimation Theory, Washington University, Department of Electrical and Systems Engineering.                                          |
+| 2004      | Instructor for Information Theory, Washington University, Department of Electrical and Systems Engineering.                                                       |
+| 2008–2009 | Instructor for Neuroanatomy Laboratory, Harvard Medical School.                                                                                                   |
+| 2012–2025 | Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology.                     |
 | 2013–2017 | Course Director and Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology. |
 
 *Tutorials and Lectures*
 
-| 10/2009 | Granger Causality Analysis Techniques for EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA. |
-|----|----|
-| 5/2010 | Synchronization Likelihood for Functional Connectivity Analysis of EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA. |
-| 7/2008 | Probability in Medical Reasoning. Neurology Residents, Brigham and Women’s Hospital, Boston, MA. |
-| 9/2009 | Invited lecturer, Bayes’ Rule for Physicians. Partners Neurology, MGH/BWH, Boston, MA. |
-| 6/2010 | EEG Alphabet Soup: GCSE, NCSE, PLEDs, BIPLEDs, GPEDs, & DEADs. Partners Neurology, MGH/BWH, Boston, MA. |
-| 8/2011 | Status Epilepticus: Diagnosis and Management. Partners Neurology, MGH/BWH, Boston, MA. |
-| 9/2012 | Introduction to ICU EEG: Seizures, Spikes, PEDs, Ischemia, and Coma. Partners Neurology, MGH/BWH, Boston, MA. |
-| 7/2018 | Quantitative Electroencephalography. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
-| 7/2019 | Recognizing Seizures and Ischemia in Critical Care EEG Monitoring. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
-| 6/2020 | Emergency Electroencephalography. Emergency Medicine Residents, Massachusetts General Hospital, Boston, MA. |
-| 7/2020 | Introduction to Spectrograms in ICU EEG. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
+| 10/2009 | Granger Causality Analysis Techniques for EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.                               |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 5/2010  | Synchronization Likelihood for Functional Connectivity Analysis of EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.      |
+| 7/2008  | Probability in Medical Reasoning. Neurology Residents, Brigham and Women’s Hospital, Boston, MA.                                            |
+| 9/2009  | Invited lecturer, Bayes’ Rule for Physicians. Partners Neurology, MGH/BWH, Boston, MA.                                                      |
+| 6/2010  | EEG Alphabet Soup: GCSE, NCSE, PLEDs, BIPLEDs, GPEDs, & DEADs. Partners Neurology, MGH/BWH, Boston, MA.                                     |
+| 8/2011  | Status Epilepticus: Diagnosis and Management. Partners Neurology, MGH/BWH, Boston, MA.                                                      |
+| 9/2012  | Introduction to ICU EEG: Seizures, Spikes, PEDs, Ischemia, and Coma. Partners Neurology, MGH/BWH, Boston, MA.                               |
+| 7/2018  | Quantitative Electroencephalography. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.                               |
+| 7/2019  | Recognizing Seizures and Ischemia in Critical Care EEG Monitoring. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
+| 6/2020  | Emergency Electroencephalography. Emergency Medicine Residents, Massachusetts General Hospital, Boston, MA.                                 |
+| 7/2020  | Introduction to Spectrograms in ICU EEG. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.                           |
 
 *Clinical Supervisory and Training*
 
-| 2012– | Supervisor, MGH Adult Epilepsy Clinic (½-day session per week). |
-|----|----|
+| 2012– | Supervisor, MGH Adult Epilepsy Clinic (½-day session per week).                                                                             |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 2012– | Attending Physician, MGH Inpatient Neurology Service (2-week block per year), supervising neurology residents and Harvard medical students. |
-| 2012– | Attending Physician, MGH General Neurology Consult Service (2-week block per year), supervising neurology residents. |
-| 2012– | Director, MGH Critical Care EEG Monitoring Service (≈10 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows. |
-| 2012– | Attending, MGH Epilepsy Monitoring Unit (≈6 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows. |
-| 2012– | Faculty, Outpatient EEG Reading Service (≈2 days per month), supervising Epilepsy and Clinical Neurophysiology Fellows. |
+| 2012– | Attending Physician, MGH General Neurology Consult Service (2-week block per year), supervising neurology residents.                        |
+| 2012– | Director, MGH Critical Care EEG Monitoring Service (≈10 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.         |
+| 2012– | Attending, MGH Epilepsy Monitoring Unit (≈6 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.                     |
+| 2012– | Faculty, Outpatient EEG Reading Service (≈2 days per month), supervising Epilepsy and Clinical Neurophysiology Fellows.                     |
 
 *Research Supervisory and Training Responsibilities*
 
 | 2012– | Supervisor of postdoctoral research fellows (average 5–10 fellows per year), Massachusetts General Hospital. |
-|----|----|
-| 2012– | Supervisor of graduate students (average 2–4 per year), Massachusetts General Hospital and MIT. |
+|-------|--------------------------------------------------------------------------------------------------------------|
+| 2012– | Supervisor of graduate students (average 2–4 per year), Massachusetts General Hospital and MIT.              |
 
 10. **<span class="smallcaps">Trainees</span>**
 
