@@ -171,6 +171,15 @@ def add_license(name, content_b64):
     return gh("PUT", f"/repos/{ORG_NAME}/{name}/contents/{TARGET_PATH}", body)
 
 
+PRIVATE_NAMES = set()   # filled in main(); used by label()
+
+
+def label(name):
+    """Repo name for log output. This log is public, so private repos are
+    shown as a placeholder rather than by name."""
+    return "(private repo)" if name in PRIVATE_NAMES else name
+
+
 def main():
     if not GITHUB_TOKEN:
         print("ERROR: GITHUB_TOKEN or ORG_PAT env var not set; cannot list org repos.")
@@ -185,7 +194,8 @@ def main():
     print(f"DRY_RUN={DRY_RUN}  SKIP={sorted(SKIP_REPOS) or '(none)'}\n")
 
     repos = list_org_repos()
-    print(f"Scanning {len(repos)} repos in {ORG_NAME}/...\n")
+    PRIVATE_NAMES.update(r["name"] for r in repos if r.get("visibility", "public") != "public" or r.get("private"))
+    print(f"Scanning {len(repos)} repos in {ORG_NAME}/ ({len(PRIVATE_NAMES)} private, not named below)...\n")
 
     already, skipped, errored, to_add = [], [], [], []
     for r in sorted(repos, key=lambda x: x["name"].lower()):
@@ -205,16 +215,16 @@ def main():
             if repo_has_license(name):
                 already.append(name); continue
             to_add.append(name)
-            print(f"  + missing {TARGET_PATH}: {name}")
+            print(f"  + missing {TARGET_PATH}: {label(name)}")
         except HTTPError as e:
             message, raw = summarize_http_error(e)
             if is_token_permission_error(e, message):
-                print(f"\nWhile checking {name}: HTTP {e.code} {message}\n")
+                print(f"\nWhile checking {label(name)}: HTTP {e.code} {message}\n")
                 print(PERMISSION_HELP)
                 write_step_summary(f"### License sync failed\n\n```\n{PERMISSION_HELP}\n```")
                 return 3
             errored.append((name, f"HTTP {e.code}: {raw}"))
-            print(f"  ! {name}: HTTP {e.code} {raw}")
+            print(f"  ! {label(name)}: HTTP {e.code}" + ("" if name in PRIVATE_NAMES else f" {raw}"))
 
     print(f"\nScan complete: {len(to_add)} repos need {TARGET_PATH}.")
 
@@ -222,30 +232,30 @@ def main():
     if DRY_RUN:
         for name in to_add:
             added.append(f"{name} [DRY_RUN]")
-            print(f"  + [dry] {name}")
+            print(f"  + [dry] {label(name)}")
     else:
         for index, name in enumerate(to_add, start=1):
             try:
                 add_license(name, license_b64)
                 added.append(name)
-                print(f"  + added {TARGET_PATH} to {name}")
+                print(f"  + added {TARGET_PATH} to {label(name)}")
             except HTTPError as e:
                 message, raw = summarize_http_error(e)
                 if is_token_permission_error(e, message):
                     remaining = len(to_add) - index
-                    print(f"\nWhile writing {name}: HTTP {e.code} {message}\n")
+                    print(f"\nWhile writing {label(name)}: HTTP {e.code} {message}\n")
                     print(PERMISSION_HELP)
                     print(f"Repos still unattempted after permission failure: {remaining}")
                     write_step_summary(
                         "### License sync failed\n\n"
-                        f"First failing repo: `{name}`\n\n"
+                        f"First failing repo: `{label(name)}`\n\n"
                         f"Repos needing `{TARGET_PATH}`: **{len(to_add)}**\n\n"
                         f"Repos still unattempted: **{remaining}**\n\n"
                         f"```\n{PERMISSION_HELP}\n```"
                     )
                     return 3
                 errored.append((name, f"HTTP {e.code}: {raw}"))
-                print(f"  ! {name}: HTTP {e.code} {raw}")
+                print(f"  ! {label(name)}: HTTP {e.code}" + ("" if name in PRIVATE_NAMES else f" {raw}"))
 
     print(f"\nSummary")
     print(f"  added:              {len(added)}")
@@ -253,7 +263,7 @@ def main():
     print(f"  skipped:            {len(skipped)}")
     if skipped:
         for n, why in skipped:
-            print(f"    - {n} ({why})")
+            print(f"    - {label(n)} ({why})")
     print(f"  errored:            {len(errored)}")
     return 0 if not errored else 1
 
