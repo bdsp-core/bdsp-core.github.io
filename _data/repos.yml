@@ -1,0 +1,1376 @@
+- name: BCH-PSG-dataset
+  description: Boston Children's Hospital polysomnography dataset for pediatric sleep
+    research.
+  url: https://github.com/bdsp-core/BCH-PSG-dataset
+  language: Python
+  stars: 2
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: BCH-SleepStaging
+  description: Sleep staging models for Boston Children's Hospital polysomnography
+    data.
+  url: https://github.com/bdsp-core/BCH-SleepStaging
+  language: Python
+  stars: 3
+  forks: 0
+  updated_at: '2026-09-22'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: bdsp-sleep-data
+  description: general code for handling sleep data on BDSP platform.
+  url: https://github.com/bdsp-core/bdsp-sleep-data
+  language: Jupyter Notebook
+  stars: 3
+  forks: 1
+  updated_at: '2026-05-31'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: CAISR-App
+  description: CAISR - Downloadable/Executable Software Repository
+  url: https://github.com/bdsp-core/CAISR-App
+  language: Python
+  stars: 25
+  forks: 8
+  updated_at: '2026-10-08'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: ecg_respiration_sleep_staging
+  description: Sleep staging using ECG-derived respiration signals.
+  url: https://github.com/bdsp-core/ecg_respiration_sleep_staging
+  language: Python
+  stars: 28
+  forks: 4
+  updated_at: '2026-08-20'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: ecg_respiration_sleep_staging_icu
+  description: 'Repository for "Sleep in the Intensive Care Unit through the Lens
+    of Breathing and Heart Rate Variability: A Cross-Sectional Study"'
+  url: https://github.com/bdsp-core/ecg_respiration_sleep_staging_icu
+  language: ''
+  stars: 4
+  forks: 1
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: ICU_SLEEP
+  description: 'ICU-SLEEP (NCT03355053): randomized trial of nocturnal dexmedetomidine
+    in ICU patients — analysis code, deidentification pipeline, and ancillary materials.'
+  url: https://github.com/bdsp-core/ICU_SLEEP
+  language: Jupyter Notebook
+  stars: 2
+  forks: 0
+  updated_at: '2026-05-16'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: Ordinal-Sleep-Depth
+  description: Ordinal regression models for continuous sleep depth estimation from
+    EEG.
+  url: https://github.com/bdsp-core/Ordinal-Sleep-Depth
+  language: Python
+  stars: 2
+  forks: 0
+  updated_at: '2026-04-15'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: outcome-oriented-sleep-staging
+  description: Sleep staging optimized for clinical outcome prediction rather than
+    epoch-level accuracy.
+  url: https://github.com/bdsp-core/outcome-oriented-sleep-staging
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: PANDA-Sleep
+  description: PANDA deep learning framework for automated sleep staging across pediatric
+    and adult populations.
+  url: https://github.com/bdsp-core/PANDA-Sleep
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-02-19'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: Physionet2018_Challenge_Submission
+  description: 'The code and trained models that were submitted for the official winning
+    entry of the Physionet 2018: You Snooze You Win challenge'
+  url: https://github.com/bdsp-core/Physionet2018_Challenge_Submission
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep-outcome-prediction
+  description: Predicting clinical outcomes from sleep study features and polysomnography
+    data.
+  url: https://github.com/bdsp-core/sleep-outcome-prediction
+  language: Python
+  stars: 5
+  forks: 2
+  updated_at: '2026-09-15'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep-phenomics-automation
+  description: Sleep Phenomics Automation
+  url: https://github.com/bdsp-core/sleep-phenomics-automation
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-08-01'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep_eeg_age_norm
+  description: Age-based normative values for sleep EEG parameters across the lifespan.
+  url: https://github.com/bdsp-core/sleep_eeg_age_norm
+  language: Jupyter Notebook
+  stars: 2
+  forks: 2
+  updated_at: '2025-06-04'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep_staging_2000pts
+  description: Automated sleep staging model trained and validated on 2,000 patients.
+  url: https://github.com/bdsp-core/sleep_staging_2000pts
+  language: Python
+  stars: 1
+  forks: 2
+  updated_at: '2025-06-04'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: sleep_staging_tl_scorability
+  description: 'Code and data associated to publication "Refining sleep staging accuracy:
+    Transfer learning coupled with scorability models"'
+  url: https://github.com/bdsp-core/sleep_staging_tl_scorability
+  language: Python
+  stars: 0
+  forks: 2
+  updated_at: '2025-06-05'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: spindle_optimization
+  description: Optimization of sleep spindle detection algorithms and parameters.
+  url: https://github.com/bdsp-core/spindle_optimization
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Sleep Staging & Sleep AI
+  category_slug: sleep-staging-sleep-ai
+  topics: []
+  sort_order: 0
+- name: bai-dementia
+  description: 'Reproducibility package for:'
+  url: https://github.com/bdsp-core/bai-dementia
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-26'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: BigBrainImagingDatabase
+  description: Large-scale brain imaging database for multi-modal neurological research.
+  url: https://github.com/bdsp-core/BigBrainImagingDatabase
+  language: Jupyter Notebook
+  stars: 1
+  forks: 1
+  updated_at: '2026-08-31'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: BrainHealthExercise_Dataset
+  description: Dataset for studying exercise effects on brain health metrics.
+  url: https://github.com/bdsp-core/BrainHealthExercise_Dataset
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2025-06-04'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: dementia-detection-from-sleep
+  description: 'Reproducibility package for:'
+  url: https://github.com/bdsp-core/dementia-detection-from-sleep
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-26'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: meditation-sleep-brain-age
+  description: The code repository for the meditation and sleep EEG-based brain age
+    project.
+  url: https://github.com/bdsp-core/meditation-sleep-brain-age
+  language: Python
+  stars: 1
+  forks: 2
+  updated_at: '2025-06-05'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: mri-cognition-eeg-wei2024
+  description: Repo for https://doi.org/10.1093/sleep/zsad294
+  url: https://github.com/bdsp-core/mri-cognition-eeg-wei2024
+  language: Jupyter Notebook
+  stars: 0
+  forks: 1
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: philosophers-stone
+  description: Transforms overnight sleep EEG into a 1024-D brain-health latent space
+    and an easy-to-use Brain Health Score. Multi-task deep learning predicts cognition,
+    disease risk, and mortality patterns from a single EEG channel.
+  url: https://github.com/bdsp-core/philosophers-stone
+  language: Python
+  stars: 20
+  forks: 2
+  updated_at: '2026-10-05'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: SleepEEGBasedBrainAge
+  description: Brain age estimation from sleep EEG recordings using deep learning.
+  url: https://github.com/bdsp-core/SleepEEGBasedBrainAge
+  language: Python
+  stars: 4
+  forks: 0
+  updated_at: '2026-07-14'
+  visibility: public
+  category: Brain Age & Brain Health
+  category_slug: brain-age-brain-health
+  topics: []
+  sort_order: 1
+- name: breathing-stability-index
+  description: 'Breathing Stability Index: SLEEP 2026 paper code, Python API, and
+    EDF/HDF5 CLI'
+  url: https://github.com/bdsp-core/breathing-stability-index
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-10-05'
+  visibility: public
+  category: Breathing & Respiratory
+  category_slug: breathing-respiratory
+  topics: []
+  sort_order: 2
+- name: HLG_Mackey-Glass
+  description: Hurst-Ljapunov-Grassberger analysis using Mackey-Glass equations for
+    respiratory signal dynamics.
+  url: https://github.com/bdsp-core/HLG_Mackey-Glass
+  language: Python
+  stars: 1
+  forks: 1
+  updated_at: '2026-03-01'
+  visibility: public
+  category: Breathing & Respiratory
+  category_slug: breathing-respiratory
+  topics: []
+  sort_order: 2
+- name: Morphological-Prediction-of-CPAP-Associated-Acute-Respiratory-Instability
+  description: Predicting acute respiratory instability from CPAP waveform morphology.
+  url: https://github.com/bdsp-core/Morphological-Prediction-of-CPAP-Associated-Acute-Respiratory-Instability
+  language: Python
+  stars: 0
+  forks: 1
+  updated_at: '2025-06-05'
+  visibility: public
+  category: Breathing & Respiratory
+  category_slug: breathing-respiratory
+  topics: []
+  sort_order: 2
+- name: self_similarity
+  description: Computing self-similarity for high loop gain and central apnea analysis.
+  url: https://github.com/bdsp-core/self_similarity
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Breathing & Respiratory
+  category_slug: breathing-respiratory
+  topics: []
+  sort_order: 2
+- name: cyclops
+  description: EEG seizure detection and continuous monitoring analysis tool.
+  url: https://github.com/bdsp-core/cyclops
+  language: Python
+  stars: 1
+  forks: 1
+  updated_at: '2025-06-05'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: grond
+  description: GROND (Generalized Rhythmic and Oscillatory Neurophysiology Descriptor)
+    is an automated system for joint characterization — lateralization, spatial localization,
+    discharge timing, and frequency estimation — of periodic discharges (PD) and…
+  url: https://github.com/bdsp-core/grond
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-28'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: IFCN6
+  description: This is a graphical user interface that allows spike annotations.
+  url: https://github.com/bdsp-core/IFCN6
+  language: MATLAB
+  stars: 4
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: IIIC-Frequency-Analysis
+  description: Calculates frequency, spatial extent, location, evolution, and other
+    parameters for rhythmic and periodic EEG patterns
+  url: https://github.com/bdsp-core/IIIC-Frequency-Analysis
+  language: MATLAB
+  stars: 2
+  forks: 1
+  updated_at: '2026-09-24'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: IIIC-Frequency-Analysis-2
+  description: Code and dataset used for the development of algorithms that automatically
+    detect the frequency and spatial extent of epileptiform activity, specifically
+    for LPD, GPD, LRDA, GRDA.
+  url: https://github.com/bdsp-core/IIIC-Frequency-Analysis-2
+  language: Jupyter Notebook
+  stars: 2
+  forks: 1
+  updated_at: '2026-10-02'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: IIIC-IRR
+  description: Code to reproduce figures in "Interrater Reliability of Expert Electroencephalographers
+    Identifying Seizures and Rhythmic and Periodic Patterns in EEGs"
+  url: https://github.com/bdsp-core/IIIC-IRR
+  language: MATLAB
+  stars: 4
+  forks: 2
+  updated_at: '2024-02-08'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: IIIC-SPaRCNet
+  description: SPaRCNet deep learning model for classifying IIIC patterns on EEG.
+  url: https://github.com/bdsp-core/IIIC-SPaRCNet
+  language: MATLAB
+  stars: 18
+  forks: 8
+  updated_at: '2026-09-15'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: morgoth
+  description: Deep learning framework for EEG pattern classification and seizure
+    detection.
+  url: https://github.com/bdsp-core/morgoth
+  language: Python
+  stars: 8
+  forks: 4
+  updated_at: '2026-10-07'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: prophet
+  description: Seizure prediction and forecasting model using EEG data.
+  url: https://github.com/bdsp-core/prophet
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-15'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics:
+  - bdsp-omop
+  sort_order: 3
+- name: Rapid_IIIC_Labeling_GUI
+  description: GUI tool for rapid labeling of IIIC patterns on EEG recordings.
+  url: https://github.com/bdsp-core/Rapid_IIIC_Labeling_GUI
+  language: MATLAB
+  stars: 1
+  forks: 0
+  updated_at: '2026-08-06'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: Rapid_IIIC_Labeling_GUI_MultipleEEGs
+  description: GUI for rapid labeling of segments from multiple EEGs, and instructions
+    for preparing data for these labeling tasks
+  url: https://github.com/bdsp-core/Rapid_IIIC_Labeling_GUI_MultipleEEGs
+  language: ''
+  stars: 2
+  forks: 1
+  updated_at: '2026-09-15'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: seizure_forecasting_crash_analysis
+  description: Analysis of seizure forecasting model failures and edge cases.
+  url: https://github.com/bdsp-core/seizure_forecasting_crash_analysis
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-06-04'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: spike-test-pilot-trial
+  description: Pilot clinical trial for validating automated spike detection systems.
+  url: https://github.com/bdsp-core/spike-test-pilot-trial
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-22'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: SpikeNet1
+  description: Deep learning model for automated interictal epileptiform spike detection
+    (version 1).
+  url: https://github.com/bdsp-core/SpikeNet1
+  language: Python
+  stars: 3
+  forks: 1
+  updated_at: '2026-09-15'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: SpikeNet2
+  description: Deep learning model for automated interictal epileptiform spike detection
+    (version 2).
+  url: https://github.com/bdsp-core/SpikeNet2
+  language: Jupyter Notebook
+  stars: 18
+  forks: 3
+  updated_at: '2026-07-15'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: TEEGLLTEEG
+  description: code to train and run TEEGLLTEEG
+  url: https://github.com/bdsp-core/TEEGLLTEEG
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2025-03-26'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: timeline-viewer
+  description: Interactive timeline viewer for EEG events, seizures, and clinical
+    annotations.
+  url: https://github.com/bdsp-core/timeline-viewer
+  language: JavaScript
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Seizures, IIIC Patterns & Spike Detection
+  category_slug: seizures-iiic-patterns-spike-detection
+  topics: []
+  sort_order: 3
+- name: E-CAM-S
+  description: 'Code and data to accompany "Physiological Assessment of Delirium Severity:
+    The Electroencephalographic Confusion Assessment Method Severity Score (E-CAM-S)"'
+  url: https://github.com/bdsp-core/E-CAM-S
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-15'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: E-ICANS
+  description: EEG-based assessment of Immune Effector Cell-Associated Neurotoxicity
+    Syndrome (ICANS).
+  url: https://github.com/bdsp-core/E-ICANS
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-09'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: EGG-IRR-1.0
+  description: Inter-rater reliability of EEG-based encephalopathy grading
+  url: https://github.com/bdsp-core/EGG-IRR-1.0
+  language: MATLAB
+  stars: 1
+  forks: 0
+  updated_at: '2026-04-26'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: ICANS-forecasting-after-CAR-T-cell-therapy
+  description: MATLAB Code for the CAR-T project
+  url: https://github.com/bdsp-core/ICANS-forecasting-after-CAR-T-cell-therapy
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-08'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: irr-aware-eeg
+  description: Code and analysis for incorporating inter-rater reliability into EEG
+    feature–based severity modeling, with application to visual EEG grading of encephalopathy.
+  url: https://github.com/bdsp-core/irr-aware-eeg
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2025-12-12'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: kimchi_delirium_2019
+  description: EEG-based delirium prediction models (Kimchi et al., 2019).
+  url: https://github.com/bdsp-core/kimchi_delirium_2019
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2023-02-13'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: rass_delirium_eeg_prediction
+  description: RASS-based delirium prediction using EEG features.
+  url: https://github.com/bdsp-core/rass_delirium_eeg_prediction
+  language: Python
+  stars: 6
+  forks: 3
+  updated_at: '2023-10-30'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: VE-CAM-S
+  description: VE-CAM-S score for assessing delirium severity from visual EEG features
+  url: https://github.com/bdsp-core/VE-CAM-S
+  language: Python
+  stars: 3
+  forks: 0
+  updated_at: '2026-03-24'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: VE-ICANS
+  description: Code for the VE-ICANS research project
+  url: https://github.com/bdsp-core/VE-ICANS
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-07'
+  visibility: public
+  category: Delirium, Encephalopathy & CAR-T Neurotoxicity
+  category_slug: delirium-encephalopathy-car-t-neurotoxicity
+  topics: []
+  sort_order: 4
+- name: ADARRI
+  description: 'ADARRI: a novel method to detect spurious R-peaks in the electrocardiogram
+    for heart rate variability analysis in the intensive care unit'
+  url: https://github.com/bdsp-core/ADARRI
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-03'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: cdac-burst-suppression-data
+  description: Variability in Pharmacologically-induced Coma for Treatment of Refractory
+    Status Epilepticus
+  url: https://github.com/bdsp-core/cdac-burst-suppression-data
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: covid_acuity_score
+  description: COVID risk prediction code
+  url: https://github.com/bdsp-core/covid_acuity_score
+  language: Python
+  stars: 0
+  forks: 1
+  updated_at: '2026-05-24'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: EEG_mulitmodal_sedation
+  description: Multimodal EEG analysis for sedation level monitoring in ICU patients.
+  url: https://github.com/bdsp-core/EEG_mulitmodal_sedation
+  language: ''
+  stars: 1
+  forks: 1
+  updated_at: '2023-01-01'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: hrv-tools
+  description: ECG, RR intervals, Heart Rate Variability & Co
+  url: https://github.com/bdsp-core/hrv-tools
+  language: Python
+  stars: 1
+  forks: 1
+  updated_at: '2026-05-29'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: Hypothermia-EEG
+  description: EEG analysis during therapeutic hypothermia in post-cardiac arrest
+    ICU patients.
+  url: https://github.com/bdsp-core/Hypothermia-EEG
+  language: MATLAB
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: icare-dl
+  description: Predicting Neurological Outcome in Comatose Patients after Cardiac
+    Arrest with Deep Neural Networks
+  url: https://github.com/bdsp-core/icare-dl
+  language: MATLAB
+  stars: 17
+  forks: 6
+  updated_at: '2026-05-30'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: IMPS
+  description: 'SOFA-LR: a logistic regression based improvement on the SOFA score
+    that accommodates missing data'
+  url: https://github.com/bdsp-core/IMPS
+  language: Jupyter Notebook
+  stars: 0
+  forks: 1
+  updated_at: '2025-02-17'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: nax-gcs
+  description: 'Code accompanying the manuscript "Automated Prediction of Glasgow
+    Coma Scale Scores from Unstructured Electronic Health Records: a Natural Language
+    Processing Approach".'
+  url: https://github.com/bdsp-core/nax-gcs
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-04-17'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: SAH-Annals-2018
+  description: 'Code and data for Ann Neurol . 2018 May;83(5):958-969. doi: 10.1002/ana.25232.
+    Epub 2018 May 16.'
+  url: https://github.com/bdsp-core/SAH-Annals-2018
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2025-06-05'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: SAH_DCI_Prediction_EEG
+  description: The repository contains the implementation for automated prediction
+    of delayed cerebral ischemia after subarachnoid hemorrhage from EEG
+  url: https://github.com/bdsp-core/SAH_DCI_Prediction_EEG
+  language: MATLAB
+  stars: 2
+  forks: 1
+  updated_at: '2025-06-10'
+  visibility: public
+  category: ICU & Critical Care
+  category_slug: icu-critical-care
+  topics: []
+  sort_order: 5
+- name: NAX-Epilepsy
+  description: NAX algorithm for automated epilepsy phenotyping from clinical notes.
+  url: https://github.com/bdsp-core/NAX-Epilepsy
+  language: Python
+  stars: 2
+  forks: 0
+  updated_at: '2026-05-27'
+  visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: NAX-MCI-AD
+  description: NAX algorithm for mild cognitive impairment and Alzheimer's disease
+    phenotyping.
+  url: https://github.com/bdsp-core/NAX-MCI-AD
+  language: Jupyter Notebook
+  stars: 1
+  forks: 1
+  updated_at: '2026-05-27'
+  visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: NAX-Narcolepsy
+  description: NAX algorithm for automated narcolepsy phenotyping from clinical notes.
+  url: https://github.com/bdsp-core/NAX-Narcolepsy
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-14'
+  visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: NAX-Parkinsons
+  description: NAX algorithm for automated Parkinson's disease phenotyping from clinical
+    notes.
+  url: https://github.com/bdsp-core/NAX-Parkinsons
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: NIDX
+  description: 'Code for: "A Machine Learning Approach for Identifying People with
+    Neuroinfectious Diseases in Electronic Health Records"'
+  url: https://github.com/bdsp-core/NIDX
+  language: Python
+  stars: 0
+  forks: 1
+  updated_at: '2025-06-05'
+  visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: SDH-EHR-Phenotyping-NAX
+  description: NAX-based phenotyping for subdural hematoma from EHR data.
+  url: https://github.com/bdsp-core/SDH-EHR-Phenotyping-NAX
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-03-07'
+  visibility: public
+  category: EHR Phenotyping & Clinical NLP
+  category_slug: ehr-phenotyping-clinical-nlp
+  topics: []
+  sort_order: 6
+- name: Noise_in_Diagnosing_Epilepsy
+  description: Code and data to reproduce results in our paper about noise in the
+    diagnosis of epilepsy
+  url: https://github.com/bdsp-core/Noise_in_Diagnosing_Epilepsy
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-07'
+  visibility: public
+  category: Noise & Diagnostic Variability
+  category_slug: noise-diagnostic-variability
+  topics: []
+  sort_order: 7
+- name: aws-open-data-registry
+  description: A registry of publicly available datasets on AWS
+  url: https://github.com/bdsp-core/aws-open-data-registry
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2025-06-05'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: aws-open-data-registry-browser
+  description: 'A browser for open-data-registry: https://github.com/awslabs/open-data-registry'
+  url: https://github.com/bdsp-core/aws-open-data-registry-browser
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2023-05-26'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: bdsp-core.github.io
+  description: CCNL / BDSP Website
+  url: https://github.com/bdsp-core/bdsp-core.github.io
+  language: HTML
+  stars: 2
+  forks: 5
+  updated_at: '2026-10-11'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: cdac-downloads
+  description: Downloadable assets (PDFs, slides, checklists, manuscripts) linked
+    from the CDAC / BDSP website
+  url: https://github.com/bdsp-core/cdac-downloads
+  language: HTML
+  stars: 1
+  forks: 0
+  updated_at: '2026-10-11'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: epilepsy-algolia-sync
+  description: Epilepsy.Science
+  url: https://github.com/bdsp-core/epilepsy-algolia-sync
+  language: JavaScript
+  stars: 0
+  forks: 0
+  updated_at: '2025-06-05'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: Harvard-EEG-Database-Tools
+  description: Tools for managing and querying the Harvard EEG Database.
+  url: https://github.com/bdsp-core/Harvard-EEG-Database-Tools
+  language: Jupyter Notebook
+  stars: 20
+  forks: 2
+  updated_at: '2026-09-21'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: philter-plus-deidentification
+  description: 'This is the repository to store the code related to deidentifying
+    unstructured clinical data. '
+  url: https://github.com/bdsp-core/philter-plus-deidentification
+  language: Python
+  stars: 2
+  forks: 1
+  updated_at: '2026-10-11'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics:
+  - bdsp-ingest
+  sort_order: 8
+- name: Physionet_build_forked
+  description: Archived BDSP fork of MIT-LCP/physionet-build; active webapp lives
+    in a private repository / a private repository.
+  url: https://github.com/bdsp-core/Physionet_build_forked
+  language: JavaScript
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: plot-ecg
+  description: Utility for plotting and visualizing ECG signal data.
+  url: https://github.com/bdsp-core/plot-ecg
+  language: ''
+  stars: 1
+  forks: 0
+  updated_at: '2026-04-07'
+  visibility: public
+  category: Data Platforms & Infrastructure
+  category_slug: data-platforms-infrastructure
+  topics: []
+  sort_order: 8
+- name: paper-agents-figures
+  description: Multi-agent pipeline for reviewing scientific manuscript figures
+  url: https://github.com/bdsp-core/paper-agents-figures
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-05-24'
+  visibility: public
+  category: Research Tools & Manuscript AI
+  category_slug: research-tools-manuscript-ai
+  topics: []
+  sort_order: 9
+- name: paper-agents-manuscript
+  description: Multi-agent pipeline for reviewing and rewriting scientific manuscript
+    drafts before journal submission.
+  url: https://github.com/bdsp-core/paper-agents-manuscript
+  language: Python
+  stars: 1
+  forks: 0
+  updated_at: '2026-06-04'
+  visibility: public
+  category: Research Tools & Manuscript AI
+  category_slug: research-tools-manuscript-ai
+  topics: []
+  sort_order: 9
+- name: PAT-PaperAssessmentTool
+  description: Multi-agent AI pipeline for reviewing scientific manuscripts before
+    journal submission.
+  url: https://github.com/bdsp-core/PAT-PaperAssessmentTool
+  language: Python
+  stars: 6
+  forks: 1
+  updated_at: '2026-09-16'
+  visibility: public
+  category: Research Tools & Manuscript AI
+  category_slug: research-tools-manuscript-ai
+  topics: []
+  sort_order: 9
+- name: 2helps2b-seizure-risk
+  description: '2HELPS2B EEG-based seizure-risk score | Data: bdsp.io/content/9p4thx40feddul6enpmd/1.0.0'
+  url: https://github.com/bdsp-core/2helps2b-seizure-risk
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: cceeg-multistate-seizure-risk
+  description: 'Time-dependent risk of seizures in critically ill patients on continuous
+    EEG | Data: bdsp.io/content/cnx0eassf5x587gn979b/1.0.0'
+  url: https://github.com/bdsp-core/cceeg-multistate-seizure-risk
+  language: R
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: ceeg-multimodal-cardiac-arrest
+  description: 'Continuous EEG enhances multimodal outcome prediction in HIE | Data:
+    bdsp.io/content/ubvgu6sprqwfdtqtzdbc/1.0.0'
+  url: https://github.com/bdsp-core/ceeg-multimodal-cardiac-arrest
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: cicadas
+  description: CICADAS (Causal Inference for Critical-Care Anti-Seizure Treatment
+    with Disease Dynamics, Automated PKPD/Trial Simulation, and Survival Optimization)
+    is a simulation-based framework for emulating randomized trials of anti-seizure
+    treatment…
+  url: https://github.com/bdsp-core/cicadas
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-07'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: cortex
+  description: 'CORTEX (Continuous Optimization Response Testing for EEG eXpertise):
+    an adaptive Bayesian test of how well a clinician reads an EEG. A joint particle-filter
+    engine over 7 tasks asks the most informative question next and stops once skill
+    is certain. Cross-validated cut scores; Laplace/EKF clinical runtime.'
+  url: https://github.com/bdsp-core/cortex
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-19'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - adaptive-testing
+  - bayesian-inference
+  - clinical-ai
+  - eeg
+  - epilepsy
+  - item-response-theory
+  - kalman-filter
+  - mcmc
+  - metropolis-hastings
+  - neurology
+  - particle-filter
+  - psychometrics
+  - reproducible-research
+  - sequential-monte-carlo
+  - signal-detection-theory
+  sort_order: 10
+- name: ddesvsfs-pnes-screening
+  description: 'DDESVSFS epileptic-vs-functional-seizure screening tool | Data: bdsp.io/content/wiher11yebsxeigs9uwb/1.0.0'
+  url: https://github.com/bdsp-core/ddesvsfs-pnes-screening
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: eeg-report-extraction
+  description: Code accompanying Sartipi et al. — five-stage LLM pipeline for extracting
+    seizure and IIC pattern attributes from free-text EEG reports. Data + DOI on bdsp.io.
+  url: https://github.com/bdsp-core/eeg-report-extraction
+  language: Jupyter Notebook
+  stars: 1
+  forks: 0
+  updated_at: '2026-06-30'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: eeg-spectrogram-atlas
+  description: 'A Primer on EEG Spectrograms teaching atlas | Data: bdsp.io/content/xxdpcilmmlr5ryqjze1m/1.0.0'
+  url: https://github.com/bdsp-core/eeg-spectrogram-atlas
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: epileptiform-activity-discharge-outcome
+  description: 'Effects of epileptiform activity on discharge outcome | Data: bdsp.io/content/m4ynzavwxzut9x9r8fwo/1.0.1'
+  url: https://github.com/bdsp-core/epileptiform-activity-discharge-outcome
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: epileptiform-burden-outcomes
+  description: 'Automated epileptiform-burden annotation and outcomes | Data: bdsp.io/content/p2kbp8gt12sjcszgx7to/1.0.0'
+  url: https://github.com/bdsp-core/epileptiform-burden-outcomes
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: hie-eeg-prognostics-1000
+  description: 'Prognostic EEG patterns in post-cardiac-arrest coma | Data: bdsp.io/content/yzzwxkgymmwioq3pet9l/1.0.0'
+  url: https://github.com/bdsp-core/hie-eeg-prognostics-1000
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: iiic-crowdsourcing-wanyee
+  description: Code and data pointers for Kong et al. 2025 (Epilepsia, doi:10.1111/epi.18547)
+    — Evaluating crowdsourcing for ICU EEG annotation
+  url: https://github.com/bdsp-core/iiic-crowdsourcing-wanyee
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-06'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - bdsp
+  - clinical-neurophysiology
+  - crowdsourcing
+  - eeg
+  - epilepsia
+  - iiic
+  sort_order: 10
+- name: interpretable-ied-criteria
+  description: 'Interpretable quantitative criteria for evaluating IEDs | Data: bdsp.io/content/tkotnm1cuc7bw8r3fvoo/1.0.0'
+  url: https://github.com/bdsp-core/interpretable-ied-criteria
+  language: MATLAB
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: morgoth-slowing-growth-curves
+  description: Lifespan × sleep-stage normative "growth curves" for quantitative EEG
+    slowing. A single per-segment deviation-from-normal field both detects pathological
+    slowing (focal vs generalized) — placing most of an 18-expert panel under its
+    curve…
+  url: https://github.com/bdsp-core/morgoth-slowing-growth-curves
+  language: HTML
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - bdsp-omop
+  sort_order: 10
+- name: NESI
+  description: A unified, continuous, EEG-based index of encephalopathy severity for
+    critical care.
+  url: https://github.com/bdsp-core/NESI
+  language: Python
+  stars: 2
+  forks: 0
+  updated_at: '2026-10-10'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - bdsp-omop
+  sort_order: 10
+- name: neurobrowser
+  description: Ultrafast EEG template matching under Dynamic Time Warping — a Python
+    port of the algorithm at the core of NeuroBrowser.
+  url: https://github.com/bdsp-core/neurobrowser
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-06'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: Neurotech-EEG-Wrangling
+  description: Pipeline for converting clinical Natus/Xltek NeuroWorks EEG recordings
+    into a de-identified, BIDS-compliant dataset and uploading to the Brain Data Science
+    Platform (BDSP).
+  url: https://github.com/bdsp-core/Neurotech-EEG-Wrangling
+  language: Python
+  stars: 0
+  forks: 1
+  updated_at: '2026-09-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics:
+  - bdsp-omop
+  sort_order: 10
+- name: optimal-spindle-detection-cognition
+  description: 'Optimal spindle detection parameters for cognition | Data: bdsp.io/content/5pmbqulds7k6ac6mnkdi/1.0.0'
+  url: https://github.com/bdsp-core/optimal-spindle-detection-cognition
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: rct-antiseizure-trial-design
+  description: 'Trial-design simulation for anti-seizure treatment | Data: bdsp.io/content/nu7k0916y63wxk4j2dbi/1.0.0'
+  url: https://github.com/bdsp-core/rct-antiseizure-trial-design
+  language: Jupyter Notebook
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: spectral-smoothing-vs-multitaper
+  description: 'Multitaper spectral estimation as kernel smoothing of a tapered periodogram:
+    proof, Python code, paper figures'
+  url: https://github.com/bdsp-core/spectral-smoothing-vs-multitaper
+  language: TeX
+  stars: 0
+  forks: 0
+  updated_at: '2026-09-29'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: spike-learning-game
+  description: 'Reproduction code and data manifest for:'
+  url: https://github.com/bdsp-core/spike-learning-game
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-05-28'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: tme-epileptiform-outcomes
+  description: 'Epileptiform activity and outcomes in toxic-metabolic encephalopathy
+    | Data: bdsp.io/content/ac53nz73hxtilu3fc3lf/1.0.0'
+  url: https://github.com/bdsp-core/tme-epileptiform-outcomes
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
