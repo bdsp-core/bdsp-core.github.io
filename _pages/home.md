@@ -1,95 +1,89 @@
 ---
-title: "CDAC - Home"
+title: "CDAC - The Westover Lab at Stanford"
 layout: homelay
-excerpt: "Clinical Data Animation Center (CDAC) — brain-health AI research at Stanford University School of Medicine."
+excerpt: "CDAC, the Westover Lab at Stanford: AI methods for EEG, sleep recordings and clinical records, with the data and tools shared for other researchers."
 sitemap: false
 permalink: /
 ---
 
-Transforming clinical data into life-saving insights for brain health.
+<div class="rd" markdown="0">
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-<!--     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active" style="height: 50px"></li>
-        <li data-target="#carousel" data-slide-to="1" style="height: 50px"></li>
-        <li data-target="#carousel" data-slide-to="2" style="height: 50px"></li>
-        <p>test test test</p>
-    </ol> -->
+  <div class="rd-stack">
+    {% include preview-note.html title="Identity." text="The name now carries a plain descriptor, and the menu has five destinations. Values, Resources, Pictures, Fun, News and EEGTalk are in the footer; nothing is removed." %}
+    <div class="rd-hero">
+      <div class="rd-stack">
+        <p class="rd-label">Clinical Data Animation Center &middot; Stanford Medicine</p>
+        <h1>Making brain data useful for neurological care</h1>
+        <p class="rd-lede">We develop and validate AI methods for EEG, sleep recordings and clinical records, to improve how neurological disease is measured, predicted and treated. We release the data and tools behind this work so other researchers can use them.</p>
+        <p>Led by <a href="{{ site.url }}{{ site.baseurl }}/brandon/">M. Brandon Westover, MD, PhD</a>, CDAC brings together clinicians, scientists and engineers at Stanford and collaborating institutions.</p>
+        <div class="rd-routes">
+          <a class="rd-btn is-primary" href="{{ site.url }}{{ site.baseurl }}/research/">Explore our research</a>
+          <a class="rd-btn" href="{{ site.url }}{{ site.baseurl }}/code">Find data and software</a>
+          <a class="rd-btn" href="{{ site.url }}{{ site.baseurl }}/openings">Join the team</a>
+        </div>
+      </div>
+      <figure class="rd-figure">
+        <div class="rd-mat"><img src="{{ site.url }}{{ site.baseurl }}/images/home/sleep-spectrograms.jpg" alt="Two overnight sleep EEG spectrograms with sleep-stage plots above them. The first, from a 58-year-old man, is labelled high risk; the second, from a 61-year-old man, is labelled low risk."></div>
+        <figcaption><strong>Two nights of sleep, as a model reads them.</strong> Each panel shows one person's sleep stages (top) and the frequency content of their EEG through the night (bottom). A model trained on sleep recordings placed the first night at the 95th percentile of predicted mortality risk and the second at the 5th. <a href="{{ site.url }}{{ site.baseurl }}/research/">What sleep reveals about brain health</a></figcaption>
+      </figure>
+    </div>
+    {% include preview-note.html title="Hero." text="The heading says what the group does, and one explained figure replaces the 17-image carousel (those images are still on the Pictures page). Please confirm the caption." %}
+  </div>
 
-<div class="carousel-inner" markdown="0">
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Flames.png_resized.jpg" alt="Flames visualization" style="height: 300px !important" />
+  <div class="rd-stack">
+    <h2>Who we are</h2>
+    <dl class="rd-identity">
+      <dt>The group</dt>
+      <dd>The Clinical Data Animation Center (CDAC), the research group of M. Brandon Westover.</dd>
+      <dt>Based at</dt>
+      <dd>Department of Neurology and Neurological Sciences, Stanford University School of Medicine.</dd>
+      <dt>Led by</dt>
+      <dd>M. Brandon Westover, MD, PhD, Director of the Stanford Epilepsy Center and of the Neurologic Artificial Intelligence Center.</dd>
+      <dt>Platform</dt>
+      <dd>CDAC runs the <a href="https://bdsp.io/">Brain Data Science Platform (BDSP)</a>, which shares clinical EEG, sleep and related datasets with researchers.</dd>
+      <dt>People</dt>
+      <dd><a href="{{ site.url }}{{ site.baseurl }}/team">The team, affiliated investigators and collaborators</a></dd>
+    </dl>
+    {% include preview-note.html title="Needs your wording." text="Two lines are left out until you supply them: one sentence on how the Neurologic AI Center relates to CDAC, and the list of collaborating institutions you want named here." %}
+  </div>
+
+  <div class="rd-stack">
+    <h2>What we have built</h2>
+    <p class="rd-measure rd-muted">Four examples, each with the evidence behind it. The full record is on the <a href="{{ site.url }}{{ site.baseurl }}/publications">publications page</a>.</p>
+    <div class="rd-grid2">
+      <div class="rd-item">
+        <p class="rd-label">EEG interpretation</p>
+        <h3>A foundation model for reading clinical EEG</h3>
+        <p>MORGOTH was developed and validated across multiple centres to interpret EEG automatically and comprehensively.</p>
+        <p class="rd-links"><a href="https://pubmed.ncbi.nlm.nih.gov/42642264/">Lancet Digital Health, 2026</a><a href="https://github.com/bdsp-core/morgoth">Code</a></p>
+      </div>
+      <div class="rd-item">
+        <p class="rd-label">Sleep and brain health</p>
+        <h3>Measures of brain health from a night of sleep</h3>
+        <p>Sleep EEG yields a brain age and a brain health score that track cognition and long-term outcomes.</p>
+        <p class="rd-links"><a href="https://pubmed.ncbi.nlm.nih.gov/42769852/">Sleep Advances, 2026</a><a href="https://github.com/bdsp-core/SleepEEGBasedBrainAge">Code</a></p>
+      </div>
+      <div class="rd-item">
+        <p class="rd-label">Critical care</p>
+        <h3>EEG patterns and recovery after cardiac arrest</h3>
+        <p>A multicentre study of 1,000 patients in coma after cardiac arrest, alongside the I-CARE EEG database that we share with other researchers.</p>
+        <p class="rd-links"><a href="https://pubmed.ncbi.nlm.nih.gov/42677185/">Neurology Open Access, 2026</a><a href="https://bdsp.io/content/bdsp-icare/2.0/">I-CARE data</a></p>
+      </div>
+      <div class="rd-item">
+        <p class="rd-label">Shared data</p>
+        <h3>Clinical sleep recordings across the human lifespan</h3>
+        <p>The Human Sleep Project is a multi-centre polysomnography dataset, released through BDSP for other groups to build on.</p>
+        <p class="rd-links"><a href="https://pubmed.ncbi.nlm.nih.gov/42555111/">Sleep, 2026</a><a href="https://bdsp.io/">Data on BDSP</a></p>
+      </div>
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/wordcloud.jpg" alt="Word cloud of CDAC research topics" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starfish.png_resized.jpg" alt="Starfish visualization" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDzoo.png_resized.jpg" alt="IED zoo: examples of interictal epileptiform discharges" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cdac_pig.jpg" alt="CDAC mascot" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSamples_resized.jpg" alt="UMAP embedding with sample EEG patterns" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDfeatures.png_resized.jpg" alt="IED features visualization" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CPDspreading.png_resized.jpg" alt="Spreading of cortical phenomena" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_model_180K.png_resized.jpg" alt="PACMAP embedding of SSD model on 180K samples" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_model_180K_resized.jpg" alt="UMAP embedding of SSD model on 180K samples" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bdsp_bdc_spectrogram_image.jpg" alt="BDSP spectrogram example" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PACMAPwithSSD_spikeBurden_180K.png_resized.jpg" alt="PACMAP embedding colored by spike burden" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IEDwithVotes.png_resized.jpg" alt="IED examples with annotator votes" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IIICqualitative.png_resized.jpg" alt="Qualitative IIIC patterns" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPwithSSD_spikeBurden_180K_resized.jpg" alt="UMAP embedding colored by spike burden" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UMAPspreading.png_resized.jpg" alt="UMAP showing spreading patterns" style="height: 300px !important" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ProtoEEG_layout_newscreenshot.jpg" alt="ProtoEEG interface screenshot" style="height: 300px !important" />
-    </div>
+    {% include preview-note.html title="Your pick." text="I chose these four from recent papers. Swap in the four that best represent the program; each needs a one-line description and its links." %}
+  </div>
+
+  <div class="rd-stack">
+    <h2>Latest</h2>
+    {% include news-list.html limit=6 %}
+    <p><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">All news</a></p>
+    {% include preview-note.html title="News." text="Same automatic feed as before. The only addition is the label (Paper, Preprint, Data &amp; code, News), worked out from where each item was published." %}
+  </div>
+
 </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-The Clinical Data Animation Center (CDAC) conducts research to preserve and enhance brain health through advanced data science. Affiliated with [Stanford University](https://med.stanford.edu/), [Harvard Medical School](https://hms.harvard.edu/), [Beth Israel Deaconess Medical Center](https://www.bidmc.org/), and [Massachusetts General Hospital](https://www.massgeneral.org/), we focus on critical neurological conditions including sleep disorders, dementia, epilepsy, and acute brain injuries.
-
-**Our Approach:** We develop AI models that help doctors clarify risk-benefit tradeoffs in medical decisions, predict neurological outcomes in critical care, and automate complex clinical tasks. Working with diverse patient populations ensures our models perform effectively in real-world settings.
-
-**Our Platform:** CDAC manages the [Brain Data Science Platform (BDSP)](https://bdsp.io/), an NIH-approved repository that advances collaborative, open science in neurology research. Through the BDSP Contributing Collaborators Consortium (BDSPC3), we unite research consortia worldwide to share data and collaborate across diverse neurology topics.
-
-**Our Impact:** Our work empowers clinicians with better decision-making tools and accelerates neurological research worldwide, ultimately improving outcomes for patients with brain-related conditions.
-
-*CDAC receives support from the National Institutes of Health, National Science Foundation, American Academy of Neurology, American Academy of Sleep Medicine, the Glenn Foundation for Medical Research, and AWS.*
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/website_logos.jpg" style="height: 50px">
-</figure>

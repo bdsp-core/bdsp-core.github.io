@@ -25,6 +25,7 @@ jobs:
       run: |
         pip install google-auth google-auth-oauthlib google-auth-httplib2
         pip install google-api-python-client PyYAML beautifulsoup4
+        pip install cryptography   # sync_repos.py encrypts the members-only repo list
     
     - name: Sync Team Data from Google Sheets
       env:
@@ -91,6 +92,8 @@ jobs:
     - name: Sync GitHub Repos
       env:
         GITHUB_TOKEN: ${{ secrets.ORG_PAT }}
+        # Shared password group members type on /code/ to see private repos.
+        MEMBERS_PASSWORD: ${{ secrets.MEMBERS_PASSWORD }}
       run: |
         python sync_repos.py
 
@@ -110,13 +113,13 @@ jobs:
     - name: Check for changes
       id: verify-changed-files
       run: |
-        git diff --quiet _data/*.yml _pages/quotes.md || echo "changed=true" >> $GITHUB_OUTPUT
+        git diff --quiet _data/*.yml _pages/quotes.md assets/members-repos.json || echo "changed=true" >> $GITHUB_OUTPUT
     
     - name: Commit and push if changed
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        git add _data/*.yml _pages/quotes.md
+        git add _data/*.yml _pages/quotes.md assets/members-repos.json
         git commit -m "Update data from Google Sheets and PubMed"
         git push

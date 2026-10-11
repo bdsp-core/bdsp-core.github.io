@@ -1,0 +1,14 @@
+{% comment %}News items with a type label. The feed itself stays automatic
+(_data/news.yml, synced from the news Google Sheet); only the label is derived
+here, from where the item was published. Usage: {% include news-list.html limit=6 %}{% endcomment %}
+<ul class="rd-news">
+{% for article in site.data.news limit: include.limit %}
+  {% assign h = article.headline | downcase %}
+  {% assign kind = "News" %}
+  {% if h contains "medrxiv" or h contains "biorxiv" or h contains "arxiv" or h contains "ssrn" %}{% assign kind = "Preprint" %}
+  {% elsif h contains "bdsp.io" %}{% assign kind = "Data & code" %}
+  {% elsif h contains "pubmed.ncbi" or h contains "is published in" %}{% assign kind = "Paper" %}
+  {% endif %}
+  <li><time>{{ article.date }}</time><span class="rd-tag">{{ kind }}</span><span>{{ article.headline | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</span></li>
+{% endfor %}
+</ul>

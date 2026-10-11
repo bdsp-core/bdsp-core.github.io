@@ -1,28 +1,15 @@
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">CDAC @ Stanford Medicine</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a class="hoverhighlight" href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Papers</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/code">Code</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/labvalues">Values</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/pictures">Pics</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/resources">Resources</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/openings">Openings</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/fun">Fun</a></li>
-    <li><a href="https://nascimentofabioa.wixsite.com/mysite/">EEGTalk</a></li>
-	  </ul>
-	</div>
+<header class="rd-header">
+  <div class="rd-wrap">
+    <a class="rd-brand" href="{{ site.url }}{{ site.baseurl }}/">
+      <strong>CDAC &middot; The Westover Lab at Stanford</strong>
+      <span>AI and data science for neurological care</span>
+    </a>
+    <nav class="rd-nav" aria-label="Main">
+      <a href="{{ site.url }}{{ site.baseurl }}/research/"{% if page.url contains '/research' %} class="is-current"{% endif %}>Research</a>
+      <a href="{{ site.url }}{{ site.baseurl }}/publications"{% if page.url contains '/publications' %} class="is-current"{% endif %}>Publications</a>
+      <a href="{{ site.url }}{{ site.baseurl }}/code"{% if page.url contains '/code' %} class="is-current"{% endif %}>Data &amp; software</a>
+      <a href="{{ site.url }}{{ site.baseurl }}/team"{% if page.url contains '/team' or page.url contains '/brandon' %} class="is-current"{% endif %}>People</a>
+      <a href="{{ site.url }}{{ site.baseurl }}/openings"{% if page.url contains '/openings' %} class="is-current"{% endif %}>Join</a>
+    </nav>
   </div>
-</div>
+</header>

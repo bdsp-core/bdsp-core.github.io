@@ -1,0 +1,2 @@
+# Used by `./preview.sh clean`: the site exactly as visitors would see it.
+preview_notes: false
