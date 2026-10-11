@@ -1373,6 +1373,10 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 21. “Reducing Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, University of Michigan, Ann Arbor, MI (2025)
 
+22. “Reducing Diagnostic Noise in Neurology: Lessons from Epilepsy.” Neurology Grand Rounds, Stanford University, Palo Alto, CA (2025)
+
+23. “Designing Randomized Trials for Nonconvulsive Status Epilepticus Using Observational Data.” Neurology Grand Rounds, Montefiore Einstein, Bronx, NY (2026)
+
 **Local Invited Presentations:**
 
 1.  “What is monkey cortex layer four for?” Neuroanatomy & Neurobiology Department, Washington University School of Medicine, St. Louis, MO (2002)
@@ -1405,51 +1409,65 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 15. “Validating the Brain Age Index: Modifying Brain Aging Through Exercise.” McCance Center for Brain Health Faculty Meeting, Boston, MA (2019)
 
-16. “Automatic Detection of Nonconvulsive Seizures.” BIDMC Research Day, Boston, MA (2023)
+16. “Automating Clinical Neurophysiology.” Special Seminar, Department of Brain & Cognitive Sciences, MIT, Cambridge, MA (2020)
+
+17. “Automatic Detection of Nonconvulsive Seizures.” BIDMC Research Day, Boston, MA (2023)
 
 **National and Regional Meetings:**
 
 1.  “Automatic Detection of Beta Amyloid in Digital Images Using Visual Texture.” Alzheimer’s Disease Research Center, Washington University, St. Louis, MO (2005)
 
-2.  “Early Detection of Delayed Cerebral Ischemia Using EEG.” Greater Boston Epilepsy Society, Boston, MA (2015)
+2.  “EEG Monitoring and Closed-Loop Control of Burst Suppression.” American Clinical Neurophysiology Society Annual Meeting, Miami, FL (2013)
 
-3.  “Polysomnographic Signatures of Brain Age.” Massachusetts Sleep Society, Westborough, MA (2017)
+3.  “Early Detection of Delayed Cerebral Ischemia Using EEG.” Greater Boston Epilepsy Society, Boston, MA (2015)
 
-4.  “Artificially Intelligent Brain Monitoring.” World Medical Innovation Forum, Boston, MA (2019)
+4.  “Why Brains Need Computers: How Computer Science and Engineering Can Improve Neurology.” Computational Health Distinguished Lecture Series, Georgia Institute of Technology, Atlanta, GA (2016)
 
-5.  “Expert-Level Automatic Detection of Epileptiform Discharges.” American Neurological Association, St. Louis, MO (2019)
+5.  “Polysomnographic Signatures of Brain Age.” Massachusetts Sleep Society, Westborough, MA (2017)
 
-6.  “EEG Monitoring for Early Detection of Cerebral Ischemia.” American Clinical Neurophysiology Society Annual Meeting, New Orleans, LA (2020)
+6.  “Artificially Intelligent Brain Monitoring.” World Medical Innovation Forum, Boston, MA (2019)
 
-7.  “Automating Clinical Neurophysiology.” Duke Comprehensive Epilepsy Center Quarterly Research Symposium, Durham, NC (2020)
+7.  “Expert-Level Automatic Detection of Epileptiform Discharges.” American Neurological Association, St. Louis, MO (2019)
 
-8.  “Big Data and Machine Learning to Advance Status Epilepticus Research.” American Neurological Association, Virtual Meeting (2020)
+8.  “Quantitative EEG for Ischemia Detection.” American Clinical Neurophysiology Society Annual Meeting, Las Vegas, NV (2019)
 
-9.  “Automated Detection of Seizures and Ictal–Interictal Continuum Patterns Using Deep Learning.” American Clinical Neurophysiology Society Annual Meeting, Virtual (2021)
+9.  “EEG Monitoring for Early Detection of Cerebral Ischemia.” American Clinical Neurophysiology Society Annual Meeting, New Orleans, LA (2020)
 
-10. “Sleep as a Window into Brain Health.” Harvard Sleep Grand Rounds, Virtual (2021)
+10. “Automating Clinical Neurophysiology.” Duke Comprehensive Epilepsy Center Quarterly Research Symposium, Durham, NC (2020)
 
-11. “Avoiding Pitfalls in EEG Interpretation.” American Academy of Neurology Annual Meeting, Seattle, WA (2022)
+11. “Big Data and Machine Learning to Advance Status Epilepticus Research.” American Neurological Association, Virtual Meeting (2020)
 
-12. “Artificial Intelligence in Sleep Medicine.” American Neurological Association Annual Meeting, Chicago, IL (2022)
+12. “Automated Detection of Seizures and Ictal–Interictal Continuum Patterns Using Deep Learning.” American Clinical Neurophysiology Society Annual Meeting, Virtual (2021)
 
-13. “Addressing Problems in Critical Care Neurophysiology Using Machine Learning.” Machine Learning in Medicine Seminar Series, Carnegie Mellon University, Pittsburgh, PA (2022)
+13. “Sleep as a Window into Brain Health.” Harvard Sleep Grand Rounds, Virtual (2021)
 
-14. “Epileptiform and Non-Epileptiform Findings in ICU Electroencephalography.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
+14. “Avoiding Pitfalls in EEG Interpretation.” American Academy of Neurology Annual Meeting, Seattle, WA (2022)
 
-15. “Neurophysiological Grading of Encephalopathy.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
+15. “Artificial Intelligence in Sleep Medicine.” American Neurological Association Annual Meeting, Chicago, IL (2022)
 
-16. “Identifying and Overcoming Barriers for Clinical Use of Artificial Intelligence in Sleep Medicine.” American Academy of Sleep Medicine Annual Meeting, Indianapolis, IN (2023)
+16. “Addressing Problems in Critical Care Neurophysiology Using Machine Learning.” Machine Learning in Medicine Seminar Series, Carnegie Mellon University, Pittsburgh, PA (2022)
 
-17. “Optimizing Treatment of Nonconvulsive Status Epilepticus.” American Epilepsy Society Annual Meeting, Orlando, FL (2023)
+17. “Epileptiform and Non-Epileptiform Findings in ICU Electroencephalography.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
 
-18. “Collaborating with Industry.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
+18. “Neurophysiological Grading of Encephalopathy.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
 
-19. “Quantitative EEG.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
+19. “Identifying and Overcoming Barriers for Clinical Use of Artificial Intelligence in Sleep Medicine.” American Academy of Sleep Medicine Annual Meeting, Indianapolis, IN (2023)
 
-20. “The EEG Map of Everything (MOE).” Critical Care EEG Monitoring Research Consortium Meeting, Orlando, FL (2024)
+20. “Optimizing Treatment of Nonconvulsive Status Epilepticus.” American Epilepsy Society Annual Meeting, Orlando, FL (2023)
 
-21. “AI in ICU EEG.” American Epilepsy Society Annual Meeting, Los Angeles, CA (2024)
+21. “Multimodal Monitoring and Brain Monitoring for Ischemia.” American Clinical Neurophysiology Society Annual Meeting, Austin, TX (2023)
+
+22. “Hot Topics in AI and ICU EEG.” American Clinical Neurophysiology Society Annual Meeting, Austin, TX (2023)
+
+23. “Collaborating with Industry.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
+
+24. “Quantitative EEG.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
+
+25. “The EEG Map of Everything (MOE).” Critical Care EEG Monitoring Research Consortium Meeting, Orlando, FL (2024)
+
+26. “AI in ICU EEG.” American Epilepsy Society Annual Meeting, Los Angeles, CA (2024)
+
+27. “Big Data in Epilepsy Research.” NINDS Curing the Epilepsies Conference, Bethesda, MD (2026)
 
 **International Meetings:**
 
