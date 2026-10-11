@@ -26,6 +26,8 @@ exclude:
   - preview.sh
   - vendor
   - venv
+  - Gemfile
+  - Gemfile.lock
 
 sass:
   sass_dir: _sass
