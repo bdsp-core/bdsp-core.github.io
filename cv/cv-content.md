@@ -40,9 +40,11 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 05/18-10/22 Associate Professor of Neurology, Harvard Medical School, Boston, MA
 
-10/22 – present Professor of Neurology, Harvard Medical School, Boston, MA
+10/22 – 5/26 Professor of Neurology, Harvard Medical School, Boston, MA
 
-11/22 – present Emily Fisher Landau Professor of Neurology, Harvard Medical School, Boston, MA
+11/22 – 5/26 Emily Fisher Landau Professor of Neurology, Harvard Medical School, Boston, MA
+
+5/26 – present Professor of Neurology, Stanford University, Stanford, CA
 
 **Other Appointments:**
 
@@ -1029,7 +1031,7 @@ Current Affiliation Beth Israel Deaconess Medical Center (BIDMC)
 
 6.  Amorim E, Zheng WL, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, van Putten MJAM, Sameni R, Reyna MA, Clifford GD, Westover MB. “The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography Database.” medRxiv. 2023 Aug 28:2023.08.28.23294672. doi: 10.1101/2023.08.28.23294672. Preprint. PMID: 37693458.
 
-7.  Sun H, Ganglberger W, **Westover MB**, Thomas RJ. "Sleep as a Window into Brain Health: Clinical Implications from the Sleeping Brain Wave-Structure Associations." SLEEP. 2025 May. (Editorial).\*\*
+7.  Sun H, Ganglberger W, **Westover MB**, Thomas RJ. "Sleep as a Window into Brain Health: Clinical Implications from the Sleeping Brain Wave-Structure Associations." SLEEP. 2025 Aug;48(8):zsaf127. doi: 10.1093/sleep/zsaf127. PMID: 40355550; PMCID: PMC12351272. (Editorial).\*\*
 
 **Book Chapters**
 
@@ -1413,6 +1415,8 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 17. “Automatic Detection of Nonconvulsive Seizures.” BIDMC Research Day, Boston, MA (2023)
 
+18. “Are We Still Worried AI Might Kill Us All? Yeah.” (with Alek Westover) BIDMC NeuroAI Special Interest Group, Boston, MA (2026)
+
 **National and Regional Meetings:**
 
 1.  “Automatic Detection of Beta Amyloid in Digital Images Using Visual Texture.” Alzheimer’s Disease Research Center, Washington University, St. Louis, MO (2005)
@@ -1447,27 +1451,35 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 16. “Addressing Problems in Critical Care Neurophysiology Using Machine Learning.” Machine Learning in Medicine Seminar Series, Carnegie Mellon University, Pittsburgh, PA (2022)
 
-17. “Epileptiform and Non-Epileptiform Findings in ICU Electroencephalography.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
+17. “Electroencephalogram-Based Brain Age and Its Relation with Cognitive Function and Sleep Quality.” American Federation for Aging Research (AFAR) Grantee Conference, Santa Barbara, CA (2022)
 
-18. “Neurophysiological Grading of Encephalopathy.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
+18. “Spectrograms in ICU EEG.” American Clinical Neurophysiology Society Fall Course: ICU EEG Monitoring, San Diego, CA (2022)
 
-19. “Identifying and Overcoming Barriers for Clinical Use of Artificial Intelligence in Sleep Medicine.” American Academy of Sleep Medicine Annual Meeting, Indianapolis, IN (2023)
+19. “Denoising and Debiasing the Diagnosis of Epilepsy.” NESET Fall Educational Meeting, Quincy, MA (2022)
 
-20. “Optimizing Treatment of Nonconvulsive Status Epilepticus.” American Epilepsy Society Annual Meeting, Orlando, FL (2023)
+20. “Epileptiform and Non-Epileptiform Findings in ICU Electroencephalography.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
 
-21. “Multimodal Monitoring and Brain Monitoring for Ischemia.” American Clinical Neurophysiology Society Annual Meeting, Austin, TX (2023)
+21. “Neurophysiological Grading of Encephalopathy.” American Academy of Neurology Annual Meeting, Boston, MA (2023)
 
-22. “Hot Topics in AI and ICU EEG.” American Clinical Neurophysiology Society Annual Meeting, Austin, TX (2023)
+22. “Identifying and Overcoming Barriers for Clinical Use of Artificial Intelligence in Sleep Medicine.” American Academy of Sleep Medicine Annual Meeting, Indianapolis, IN (2023)
 
-23. “Collaborating with Industry.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
+23. “Optimizing Treatment of Nonconvulsive Status Epilepticus.” American Epilepsy Society Annual Meeting, Orlando, FL (2023)
 
-24. “Quantitative EEG.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
+24. “Multimodal Monitoring and Brain Monitoring for Ischemia.” American Clinical Neurophysiology Society Annual Meeting, Austin, TX (2023)
 
-25. “The EEG Map of Everything (MOE).” Critical Care EEG Monitoring Research Consortium Meeting, Orlando, FL (2024)
+25. “Hot Topics in AI and ICU EEG.” American Clinical Neurophysiology Society Annual Meeting, Austin, TX (2023)
 
-26. “AI in ICU EEG.” American Epilepsy Society Annual Meeting, Los Angeles, CA (2024)
+26. “Collaborating with Industry.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
 
-27. “Big Data in Epilepsy Research.” NINDS Curing the Epilepsies Conference, Bethesda, MD (2026)
+27. “Quantitative EEG.” American Clinical Neurophysiology Society Annual Meeting, Orlando, FL (2024)
+
+28. “The EEG Map of Everything (MOE).” Critical Care EEG Monitoring Research Consortium Meeting, Orlando, FL (2024)
+
+29. “AI in ICU EEG.” American Epilepsy Society Annual Meeting, Los Angeles, CA (2024)
+
+30. “Machine Learning Approaches to Studying Neurophysiology in LoUE.” Defining the Landscape of Late-Onset Unexplained Epilepsy Conference, South Casco, ME (2025)
+
+31. “Big Data in Epilepsy Research.” NINDS Curing the Epilepsies Conference, Bethesda, MD (2026)
 
 **International Meetings:**
 
@@ -1495,13 +1507,21 @@ Role: Co-Investigator (PI: Yue Leng, via UCSF subcontract)
 
 12. “Quantifying the Ictal–Interictal Continuum.” International Conference on Technology and Analysis for Seizures (ICTALS), Bern, Switzerland (2022)
 
-13. “Denoising the Diagnosis of Epilepsy.” AI in Epilepsy Conference, Breckenridge, CO (2025)
+13. “The Brain Data Science Platform.” (with Junior Moura) International Epilepsy Data Ecosystem Workshop, Neuroscience School of Advanced Studies, Crans-Montana, Switzerland (2023)
 
-14. “MORGOTH: Automating the Interpretation of Clinical Neurophysiology Tests.” International Conference on Technology and Analysis for Seizures (ICTALS), Montreal, Canada (2025)
+14. “Quantitative EEG Primer.” Teaching Course: Continuous EEG Monitoring, International Congress of Clinical Neurophysiology (ICCN), Jakarta, Indonesia (2024)
 
-15. “Data-Driven Biomarkers for Brain Health from Sleep.” SLEEP 2025 Annual Meeting, Seattle, WA (2025)
+15. “Urgent Treatment for Periodic Discharges in Critically Ill Patients Is Essential.” Controversies Session, International Congress of Clinical Neurophysiology (ICCN), Jakarta, Indonesia (2024)
 
-16. “Artificial Intelligence in Neurology: Promise and Peril.” Donald Baxter Lecture, Montreal Neurological Institute, Montreal, Canada (2025)
+16. “Using AI in Continuous EEG Monitoring.” Symposium: Using Artificial Intelligence in Clinical EEG, International Congress of Clinical Neurophysiology (ICCN), Jakarta, Indonesia (2024)
+
+17. “Denoising the Diagnosis of Epilepsy.” AI in Epilepsy Conference, Breckenridge, CO (2025)
+
+18. “MORGOTH: Automating the Interpretation of Clinical Neurophysiology Tests.” International Conference on Technology and Analysis for Seizures (ICTALS), Montreal, Canada (2025)
+
+19. “Data-Driven Biomarkers for Brain Health from Sleep.” SLEEP 2025 Annual Meeting, Seattle, WA (2025)
+
+20. “Artificial Intelligence in Neurology: Promise and Peril.” Donald Baxter Lecture, Montreal Neurological Institute, Montreal, Canada (2025)
 
 <!-- -->
 
