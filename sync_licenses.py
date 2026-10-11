@@ -16,9 +16,9 @@ Skips:
   - repos listed in LICENSE_SYNC_SKIP env var (comma-separated)
 
 Requires:
-  GITHUB_TOKEN  PAT with `repo` scope (contents:write) across the org. Without
-                write scope, the script will list what it WOULD do and exit
-                non-zero on first PUT attempt.
+  GITHUB_TOKEN  PAT with `repo` scope (classic) or fine-grained
+                Contents: read and write + Metadata: read on the org repos.
+                ORG_PAT is also accepted for local/manual runs.
 
 Optional:
   LICENSE_DRY_RUN=1   print intended actions, make no API writes.
@@ -46,9 +46,68 @@ LICENSE_NAMES = {
     "unlicense", "unlicense.txt", "unlicense.md",
 }
 
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("ORG_PAT")
 DRY_RUN = os.environ.get("LICENSE_DRY_RUN") == "1"
 SKIP_REPOS = {s.strip() for s in os.environ.get("LICENSE_SYNC_SKIP", "").split(",") if s.strip()}
+
+PERMISSION_HELP = f"""\
+ERROR: token can list {ORG_NAME} repos but cannot write repository contents.
+
+The nightly license sync uses GitHub's Contents API to commit {TARGET_PATH} to
+each repo that lacks a root license file. GitHub will return 403 until the
+Actions secret used here has contents write access to the target repos.
+
+Fix the ORG_PAT secret with either:
+  Fine-grained PAT:
+    Resource owner: {ORG_NAME}
+    Repository access: All repositories, or the exact repos to sync
+    Repository permissions:
+      Contents: Read and write
+      Metadata: Read
+  Classic PAT:
+    repo scope
+
+Then update this repository's Actions secret named ORG_PAT and rerun the
+workflow. No repo writes were attempted after the first permission failure.
+"""
+
+
+def summarize_http_error(error):
+    """Return a readable GitHub API error body. Must be called at most once."""
+    try:
+        raw = error.read().decode("utf-8", errors="ignore")
+    except Exception:
+        raw = ""
+    message = raw
+    try:
+        payload = json.loads(raw)
+        message = payload.get("message") or raw
+    except Exception:
+        pass
+    return message, raw[:500]
+
+
+def is_token_permission_error(error, message):
+    if error.code not in {401, 403}:
+        return False
+    lower = (message or "").lower()
+    return (
+        "resource not accessible by personal access token" in lower
+        or "bad credentials" in lower
+        or "requires authentication" in lower
+        or ("must have" in lower and "permission" in lower)
+    )
+
+
+def write_step_summary(text):
+    path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not path:
+        return
+    try:
+        with open(path, "a", encoding="utf-8") as f:
+            f.write(text.rstrip() + "\n")
+    except OSError:
+        pass
 
 
 def gh(method, path, body=None):
@@ -114,7 +173,7 @@ def add_license(name, content_b64):
 
 def main():
     if not GITHUB_TOKEN:
-        print("ERROR: GITHUB_TOKEN env var not set; cannot list org repos.")
+        print("ERROR: GITHUB_TOKEN or ORG_PAT env var not set; cannot list org repos.")
         return 2
     try:
         license_text = fetch_license_source()
@@ -128,14 +187,7 @@ def main():
     repos = list_org_repos()
     print(f"Scanning {len(repos)} repos in {ORG_NAME}/...\n")
 
-    # If the GITHUB_TOKEN can list the org but lacks Contents:write on individual
-    # repos, EVERY per-repo PUT will return 403 with this message. Detecting it
-    # on the first few tries lets us bail out with a clear actionable summary
-    # instead of logging 200+ identical 403s every night.
-    SCOPE_MSG = "Resource not accessible by personal access token"
-    consecutive_scope_403 = 0
-
-    added, already, skipped, errored = [], [], [], []
+    already, skipped, errored, to_add = [], [], [], []
     for r in sorted(repos, key=lambda x: x["name"].lower()):
         name = r["name"]
         if name == SOURCE_REPO:
@@ -151,36 +203,49 @@ def main():
 
         try:
             if repo_has_license(name):
-                already.append(name); consecutive_scope_403 = 0; continue
-            if DRY_RUN:
-                added.append(f"{name} [DRY_RUN]")
-                print(f"  + [dry] {name}")
-                continue
-            add_license(name, license_b64)
-            added.append(name); consecutive_scope_403 = 0
-            print(f"  + added LICENSE.txt to {name}")
+                already.append(name); continue
+            to_add.append(name)
+            print(f"  + missing {TARGET_PATH}: {name}")
         except HTTPError as e:
+            message, raw = summarize_http_error(e)
+            if is_token_permission_error(e, message):
+                print(f"\nWhile checking {name}: HTTP {e.code} {message}\n")
+                print(PERMISSION_HELP)
+                write_step_summary(f"### License sync failed\n\n```\n{PERMISSION_HELP}\n```")
+                return 3
+            errored.append((name, f"HTTP {e.code}: {raw}"))
+            print(f"  ! {name}: HTTP {e.code} {raw}")
+
+    print(f"\nScan complete: {len(to_add)} repos need {TARGET_PATH}.")
+
+    added = []
+    if DRY_RUN:
+        for name in to_add:
+            added.append(f"{name} [DRY_RUN]")
+            print(f"  + [dry] {name}")
+    else:
+        for index, name in enumerate(to_add, start=1):
             try:
-                msg = e.read().decode(errors="ignore")[:300]
-            except Exception:
-                msg = ""
-            if e.code == 403 and SCOPE_MSG in msg:
-                consecutive_scope_403 += 1
-                if consecutive_scope_403 >= 3:
-                    print(f"\n*** ABORTING — GITHUB_TOKEN lacks per-repo Contents access. ***")
-                    print(f"*** {consecutive_scope_403}+ consecutive 403s with: \"{SCOPE_MSG}\".")
-                    print(f"***")
-                    print(f"*** The token can list the org but cannot read/write individual")
-                    print(f"*** repos. To fix, regenerate the ORG_PAT secret as either:")
-                    print(f"***   - fine-grained PAT: Resource owner=bdsp-core, Repository access=")
-                    print(f"***     All repositories, Permissions->Repository->Contents=Read & write,")
-                    print(f"***     Metadata=Read; OR")
-                    print(f"***   - classic PAT: scope `repo` (full repo access).")
-                    print(f"*** Then update Settings -> Secrets and variables -> Actions -> ORG_PAT.")
-                    print(f"*** (Exit 0 so the workflow's catalog publish step still runs.)")
-                    return 0
-            errored.append((name, f"HTTP {e.code}: {msg}"))
-            print(f"  ! {name}: HTTP {e.code} {msg}")
+                add_license(name, license_b64)
+                added.append(name)
+                print(f"  + added {TARGET_PATH} to {name}")
+            except HTTPError as e:
+                message, raw = summarize_http_error(e)
+                if is_token_permission_error(e, message):
+                    remaining = len(to_add) - index
+                    print(f"\nWhile writing {name}: HTTP {e.code} {message}\n")
+                    print(PERMISSION_HELP)
+                    print(f"Repos still unattempted after permission failure: {remaining}")
+                    write_step_summary(
+                        "### License sync failed\n\n"
+                        f"First failing repo: `{name}`\n\n"
+                        f"Repos needing `{TARGET_PATH}`: **{len(to_add)}**\n\n"
+                        f"Repos still unattempted: **{remaining}**\n\n"
+                        f"```\n{PERMISSION_HELP}\n```"
+                    )
+                    return 3
+                errored.append((name, f"HTTP {e.code}: {raw}"))
+                print(f"  ! {name}: HTTP {e.code} {raw}")
 
     print(f"\nSummary")
     print(f"  added:              {len(added)}")

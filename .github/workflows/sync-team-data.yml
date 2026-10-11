@@ -98,14 +98,15 @@ jobs:
         python sync_repos.py
 
     - name: Ensure noncommercial LICENSE.txt on all org repos
-      # Don't block the catalog publish if the PAT lacks contents:write on
-      # individual repos (it will list 403s in the log; catalog still ships).
+      # Don't block the catalog publish if the PAT lacks contents:write on the
+      # target repos. sync_licenses.py will stop at the first permission failure
+      # and print the exact ORG_PAT permission fix.
       continue-on-error: true
       env:
         # Same PAT as the repo-listing step; also needs `Contents: read &
         # write` on all org repos to commit LICENSE.txt to repos that lack one.
-        # If the token is fine-grained and limited to bdsp-core.github.io,
-        # every per-repo PUT will 403 here — see sync_licenses.py output.
+        # If the token is fine-grained and limited to bdsp-core.github.io, the
+        # first per-repo PUT will 403 and the script will bail with instructions.
         GITHUB_TOKEN: ${{ secrets.ORG_PAT }}
       run: |
         python sync_licenses.py
