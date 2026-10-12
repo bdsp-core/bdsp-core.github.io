@@ -860,7 +860,7 @@
   language: Jupyter Notebook
   stars: 0
   forks: 0
-  updated_at: '2026-03-14'
+  updated_at: '2026-10-11'
   visibility: public
   category: EHR Phenotyping & Clinical NLP
   category_slug: ehr-phenotyping-clinical-nlp
@@ -1035,7 +1035,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-05-24'
+  updated_at: '2026-10-11'
   visibility: public
   category: Research Tools & Manuscript AI
   category_slug: research-tools-manuscript-ai
@@ -1048,7 +1048,7 @@
   language: Python
   stars: 1
   forks: 0
-  updated_at: '2026-06-04'
+  updated_at: '2026-10-11'
   visibility: public
   category: Research Tools & Manuscript AI
   category_slug: research-tools-manuscript-ai
@@ -1129,7 +1129,7 @@
   language: Python
   stars: 0
   forks: 0
-  updated_at: '2026-09-19'
+  updated_at: '2026-10-11'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -1206,6 +1206,19 @@
   stars: 0
   forks: 0
   updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: GRDA-N3-encephaloapthy-model
+  description: Exploratory thalamocortical modeling of encephalopathic slowing and
+    GRDA
+  url: https://github.com/bdsp-core/GRDA-N3-encephaloapthy-model
+  language: ''
+  stars: 0
+  forks: 0
+  updated_at: '2026-10-12'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
