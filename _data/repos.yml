@@ -40,9 +40,9 @@
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
   language: Python
-  stars: 25
+  stars: 26
   forks: 8
-  updated_at: '2026-10-08'
+  updated_at: '2026-10-12'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -947,7 +947,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-11'
+  updated_at: '2026-10-12'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1290,7 +1290,7 @@
   language: Python
   stars: 2
   forks: 0
-  updated_at: '2026-10-10'
+  updated_at: '2026-10-12'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
