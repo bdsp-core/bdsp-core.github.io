@@ -77,10 +77,10 @@
   description: 'ICU-SLEEP (NCT03355053): randomized trial of nocturnal dexmedetomidine
     in ICU patients — analysis code, deidentification pipeline, and ancillary materials.'
   url: https://github.com/bdsp-core/ICU_SLEEP
-  language: Jupyter Notebook
+  language: R
   stars: 2
   forks: 0
-  updated_at: '2026-05-16'
+  updated_at: '2026-10-16'
   visibility: public
   category: Sleep Staging & Sleep AI
   category_slug: sleep-staging-sleep-ai
@@ -456,9 +456,9 @@
     detection.
   url: https://github.com/bdsp-core/morgoth
   language: Python
-  stars: 9
+  stars: 10
   forks: 4
-  updated_at: '2026-10-14'
+  updated_at: '2026-10-15'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -947,7 +947,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-14'
+  updated_at: '2026-10-15'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
