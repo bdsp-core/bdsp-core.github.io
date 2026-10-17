@@ -1,3 +1,13 @@
+- title: '"Between patterns and predictions: Interpretable latent EEG representations
+    for clinical insights."'
+  image: ''
+  description: ''
+  authors: Krumm L, Terziev R, Kranz DD, Westover MB, Meisel C
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/42887172
+    display: 'NeuroImage. Clinical. 2026. 52. 104077. doi: 10.1016/j.nicl.2026.104077.
+      PMID: 42887172.'
+  highlight: 0
 - title: '"Toward unified and comprehensive automated electroencephalogram interpretation:
     a multicentre development and validation of an electroencephalogram foundation
     model."'
