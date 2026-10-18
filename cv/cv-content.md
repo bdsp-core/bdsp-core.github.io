@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated October 11, 2026**
+**Curriculum Vitae: updated October 18, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -80,7 +80,7 @@ Current Affiliation Stanford University
 
 5.  **<span class="smallcaps">Bibliography</span>**
 
-**Peer-reviewed original research (443 total, 5 in press, 10 submitted, 5 in review)**
+**Peer-reviewed original research (445 total, 5 in press, 10 submitted, 5 in review)**
 
 1.  Eliasmith C, **Westover MB**, Anderson CH. “A general framework for neurobiological modeling: An application to the vestibular system.” *Neurocomputing*. 2002. 46:1071-1076. PMCID: PMC6788744.
 
@@ -992,6 +992,10 @@ Current Affiliation Stanford University
 442. Furlow S, Houston P, Bao K, Zhou B, Velasquez G, Peterson K, Hayman A, Bains A, Lieberman O, Hendrickson CM, Zier L, Singhal NS, Hemphill JC, Zafar S, **Westover MB**, Fernandes M, Amorim E. Automated Derivation of Cerebral Performance Category at Hospital Discharge After Cardiac Arrest Using Natural Language Processing and Machine Learning. Neurocrit Care. 2026 Sep 28. doi: 10.1007/s12028-026-02650-9. Epub ahead of print. PMID: 42806261.
 
 443. Zhang T, Nascimento FA, Karakis I, Keldsen EW, Sun C, Jing J, **Westover MB**. An adaptive, variable-length test for certifying electroencephalographic spike-detection skill: A retrospective feasibility study. Epilepsia. 2026 Oct 10. doi: 10.1002/epi.70519. Epub ahead of print. PMID: 42858246.
+
+444. Muqaddas S, Akras Z, Gallagher K, Sarami M, Yaramis AH, Akbar I, Haider Z, Wheelock J, Brace CJ, Philibert-Rosas S, Kim JA, Struck AF, **Westover MB**, Zafar SF. Clinical and imaging correlates of lateralized rhythmic delta activity: A multicenter cohort study. Clin Neurophysiol. 2026 Sep 25:2112413. doi: 10.1016/j.clinph.2026.2112413. Epub ahead of print. PMID: 42864229.
+
+445. Krumm L, Terziev R, Kranz DD, **Westover MB**, Meisel C. Between patterns and predictions: Interpretable latent EEG representations for clinical insights. Neuroimage Clin. 2026 Oct 14;52:104077. doi: 10.1016/j.nicl.2026.104077. Epub ahead of print. PMID: 42887172.
 
 **Peer-reviewed publications (accepted, in press)**
 
