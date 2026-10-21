@@ -61,6 +61,9 @@
     display: 'The Lancet. Digital health. 2026. 101039. doi: 10.1016/j.landig.2026.101039.
       PMID: 42642264.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Sun_Unknown_42642264_supp.pdf
+    label: Supplement (PDF)
 - title: '"Better sleep now, better cognition later? Predicting cognitive function
     using a machine learning-based sleep EEG brain health score."'
   image: ''
@@ -86,7 +89,7 @@
   description: ''
   authors: Nascimento FA, Beniczky S, Westover MB, Yuan D
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/42287920
+    url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_ClinNeurophysiol_42287920.pdf
     display: 'Clinical neurophysiology : official journal of the International Federation
       of Clinical Neurophysiology. 2026. 190. 2111972. doi: 10.1016/j.clinph.2026.2111972.
       PMID: 42287920.'
@@ -271,6 +274,9 @@
     display: 'Journal of neural engineering. 2025. 22(6). doi: 10.1088/1741-2552/ae2716.
       PMID: 41330044.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2025_Tautan_Unknown_41330044_supp.pdf
+    label: Supplement (PDF)
 - title: '"The Brain Imaging and Neurophysiology Database: BINDing multimodal neural
     data into a large-scale repository."'
   image: ''
@@ -339,6 +345,9 @@
     display: 'Epileptic disorders : international epilepsy journal with videotape.
       2025. 27(6). 1337-1339. doi: 10.1002/epd2.70096. PMID: 40904123.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2025_Nascimento_Unknown_40904123_supp.docx
+    label: Supplement (DOCX)
 - title: '"Evaluating crowdsourcing for ICU EEG annotation: A comparison with expert
     performance."'
   image: ''
@@ -349,6 +358,9 @@
     url: https://bdsp-core.github.io/cdac-downloads/2025_Kong_Unknown_40768345.pdf
     display: 'Epilepsia. 2025. 66(11). 4366-4380. doi: 10.1111/epi.18547. PMID: 40768345.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2025_Kong_Unknown_40768345_supp.docx
+    label: Supplement (DOCX)
 - title: '"Expert-Level Detection of Epilepsy Markers in EEG on Short and Long Timescales."'
   image: ''
   description: ''

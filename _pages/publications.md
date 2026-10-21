@@ -95,7 +95,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}</strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -125,7 +125,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlICUEEGterminology %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -133,7 +133,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlQEEG %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -141,7 +141,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlcEEG %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -149,7 +149,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlszRisk %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -157,7 +157,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlseizures %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -165,7 +165,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlstatusEpilepticus %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -173,7 +173,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlszIIIC %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -181,7 +181,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlszIIIC_harm %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -189,7 +189,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamltpw %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -197,7 +197,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlSAH %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -205,7 +205,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlPTE %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -213,7 +213,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamldelirium %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -221,7 +221,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlcarT %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -229,7 +229,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlcardiacArrest %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -237,7 +237,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlburstSuppression %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -245,7 +245,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlclosedLoopControl %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -257,7 +257,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlsleepStaging %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -265,7 +265,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlbreathing %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -273,7 +273,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlinsomnia %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -281,7 +281,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlbrainAge %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -289,7 +289,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlspindles %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -297,7 +297,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamldementia %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -306,7 +306,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlspikeDetection %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -314,7 +314,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlnoiseAndBias %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -322,7 +322,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlseizures %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -330,7 +330,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlszForecasting %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -338,7 +338,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlepilepsySurgery %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -346,7 +346,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamleeg %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -356,7 +356,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlconnectivity %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -364,7 +364,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlcompNeuro %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -374,7 +374,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamldecisionAnalysis %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -384,7 +384,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlnon_neuro_informatics %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -392,7 +392,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlML_AI %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -400,7 +400,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlriskPrediction %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -408,7 +408,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlehrPhenotyping %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -416,7 +416,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamltimeSeries %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -424,7 +424,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlcovid %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -434,7 +434,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlprobStatsCausal %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -442,7 +442,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlinfoTheory %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -450,7 +450,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlsedationAndAnesthesia %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -458,7 +458,7 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlgenNeuro %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )
 
@@ -466,6 +466,6 @@ permalink: /publications/
 [Back to Top](#  )
 {% for publi in site.data.yamlHRV_ECG %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% include pub-supp.html p=publi %}
 {% endfor %}
 [Back to Top](#  )

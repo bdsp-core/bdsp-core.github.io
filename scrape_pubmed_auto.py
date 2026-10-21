@@ -9,6 +9,7 @@ This script:
 4. Can be run periodically to keep publications up to date
 """
 
+import glob
 import json
 import os
 import re
@@ -34,21 +35,27 @@ EXCLUDE_PMIDS = {
 }
 
 
-def fetch_pdf_pmid_map():
-    """Return {PMID: download_url} for PDFs in the cdac-downloads repo whose
-    filename ends with _<PMID>.pdf. Falls back to {} on any network error."""
+SUPP_RE = re.compile(r"_(\d{7,9})_supp(\d*)\.([A-Za-z0-9]+)$", re.IGNORECASE)
+
+
+def fetch_downloads_listing():
+    """File names in the cdac-downloads repo root, or None on any network error."""
     try:
         req = Request(CDAC_DOWNLOADS_API, headers={"Accept": "application/vnd.github+json"})
         with urlopen(req, timeout=30) as resp:
             items = json.loads(resp.read())
     except Exception as e:
-        print(f"WARN: could not fetch cdac-downloads listing ({e}); new entries will link to PubMed only.")
-        return {}
+        print(f"WARN: could not fetch cdac-downloads listing ({e}); links left as they are.")
+        return None
+    return [it.get("name", "") for it in items if it.get("type") == "file"]
+
+
+def fetch_pdf_pmid_map(names=None):
+    """Return {PMID: download_url} for PDFs in the cdac-downloads repo whose
+    filename ends with _<PMID>.pdf. Falls back to {} on any network error."""
+    names = fetch_downloads_listing() if names is None else names
     out = {}
-    for it in items:
-        if it.get("type") != "file":
-            continue
-        name = it.get("name", "")
+    for name in names or []:
         m = PDF_PMID_RE.search(name)
         if m:
             out[m.group(1)] = CDAC_DOWNLOADS_BASE + name
@@ -56,11 +63,31 @@ def fetch_pdf_pmid_map():
     return out
 
 
+def fetch_supp_map(names):
+    """Return {PMID: [{url, label}, ...]} for supplementary files named
+    <same stem as the paper>_<PMID>_supp[N].<ext> in cdac-downloads."""
+    found = {}
+    for name in names or []:
+        m = SUPP_RE.search(name)
+        if m:
+            found.setdefault(m.group(1), []).append((int(m.group(2) or 0), m.group(3).upper(), name))
+    out = {}
+    for pmid, files in found.items():
+        files.sort()
+        several = len(files) > 1
+        out[pmid] = [{
+            "url": CDAC_DOWNLOADS_BASE + name,
+            "label": (f"Supplement {n} ({ext})" if several else f"Supplement ({ext})"),
+        } for n, ext, name in files]
+    return out
+
+
 class PubMedScraper:
     def __init__(self):
         self.base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
         self.email = "westover@mgh.harvard.edu"  # Required for API usage
-        self.pdf_pmid_map = fetch_pdf_pmid_map()
+        self.downloads = fetch_downloads_listing()
+        self.pdf_pmid_map = fetch_pdf_pmid_map(self.downloads)
         
         # Define category mappings based on keywords
         self.category_keywords = {
@@ -286,6 +313,9 @@ class PubMedScraper:
             print(f"Error parsing article: {e}")
             return None
 
+    def link_hosted_files(self):
+        link_hosted_files(self.downloads)
+
     def categorize_publication(self, publication):
         """Categorize a publication based on keywords."""
         title = publication.get('title', '') or ''
@@ -404,6 +434,8 @@ class PubMedScraper:
             else:
                 print(f"No new publications for {category}")
         
+        self.link_hosted_files()
+
         # Report uncategorized publications
         if uncategorized:
             print(f"\n{len(uncategorized)} uncategorized publications:")
@@ -413,8 +445,48 @@ class PubMedScraper:
                 print(f"  ... and {len(uncategorized) - 5} more")
 
 
+def link_hosted_files(names, data_dir="_data"):
+    """Point existing publication entries at files hosted in cdac-downloads.
+
+    Runs over every category file, not only the ones that gained papers, so a
+    PDF or supplement dropped into cdac-downloads gets linked on the next run:
+      - an entry still linking to PubMed is re-pointed to <...>_<PMID>.pdf;
+      - an entry gets a `supplements` list from <...>_<PMID>_supp[N].<ext>.
+    publist.yml (the hand-edited highlights) is left alone.
+    """
+    if names is None:
+        return
+    pdfs, supps = fetch_pdf_pmid_map(names), fetch_supp_map(names)
+    changed_files = 0
+    for path in sorted(glob.glob(os.path.join(data_dir, "yaml*.yml"))):
+        with open(path, encoding="utf-8") as f:
+            entries = yaml.safe_load(f) or []
+        changed = False
+        for e in entries:
+            url = (e.get("link") or {}).get("url", "")
+            m = re.search(r"pubmed\.ncbi\.nlm\.nih\.gov/(\d+)", url) or PDF_PMID_RE.search(url)
+            if not m:
+                continue
+            pmid = m.group(1)
+            if "pubmed.ncbi" in url and pmid in pdfs:
+                e["link"]["url"] = pdfs[pmid]
+                changed = True
+            if pmid in supps and e.get("supplements") != supps[pmid]:
+                e["supplements"] = supps[pmid]
+                changed = True
+        if changed:
+            with open(path, "w", encoding="utf-8") as f:
+                yaml.dump(entries, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+            changed_files += 1
+    print(f"Linked hosted PDFs and supplements: {changed_files} category files updated")
+
+
 def main():
-    """Main function."""
+    """Main function. `--links-only` skips PubMed and only refreshes links."""
+    import sys
+    if "--links-only" in sys.argv:
+        link_hosted_files(fetch_downloads_listing())
+        return
     scraper = PubMedScraper()
     scraper.update_publications()
     print("Publication update complete!")

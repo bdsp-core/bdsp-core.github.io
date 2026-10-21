@@ -1,0 +1,2 @@
+{% comment %}Supplement links for a publication entry, if cdac-downloads hosts any
+(set nightly by scrape_pubmed_auto.py). Usage: {% include pub-supp.html p=publi %}{% endcomment %}{% if include.p.supplements %} &middot; {% for s in include.p.supplements %}<a href="{{ s.url }}">{{ s.label }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
