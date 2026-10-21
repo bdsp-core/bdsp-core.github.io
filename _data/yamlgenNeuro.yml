@@ -18,6 +18,9 @@
     display: 'The Lancet. Digital health. 2026. 101039. doi: 10.1016/j.landig.2026.101039.
       PMID: 42642264.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Sun_Unknown_42642264_supp.pdf
+    label: Supplement (PDF)
 - title: '"The Brain Imaging and Neurophysiology Database: BINDing multimodal neural
     data into a large-scale repository."'
   image: ''
@@ -51,6 +54,9 @@
     url: https://bdsp-core.github.io/cdac-downloads/2025_Kong_Unknown_40768345.pdf
     display: 'Epilepsia. 2025. 66(11). 4366-4380. doi: 10.1111/epi.18547. PMID: 40768345.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2025_Kong_Unknown_40768345_supp.docx
+    label: Supplement (DOCX)
 - title: '"General AI May Revolutionize Neurology-Or It Might Be Bad."'
   image: ''
   description: ''

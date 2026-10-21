@@ -31,6 +31,23 @@
     display: 'Epileptic disorders : international epilepsy journal with videotape.
       2026. 28(2). 457-469. doi: 10.1002/epd2.70181. PMID: 41556879.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp1.pdf
+    label: Supplement 1 (PDF)
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp2.pdf
+    label: Supplement 2 (PDF)
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp3.docx
+    label: Supplement 3 (DOCX)
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp4.pdf
+    label: Supplement 4 (PDF)
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp5.pdf
+    label: Supplement 5 (PDF)
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp6.pdf
+    label: Supplement 6 (PDF)
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp7.docx
+    label: Supplement 7 (DOCX)
+  - url: https://bdsp-core.github.io/cdac-downloads/2026_Nascimento_Unknown_41556879_supp8.docx
+    label: Supplement 8 (DOCX)
 - title: '"Is it possible to vaccinate AI against bias? An exploratory study in epilepsy."'
   image: ''
   description: ''

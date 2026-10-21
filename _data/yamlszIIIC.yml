@@ -242,6 +242,9 @@
     display: 'Journal of neural engineering. 2025. doi: 10.1088/1741-2552/ae2716.
       PMID: 41330044.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2025_Tautan_Unknown_41330044_supp.pdf
+    label: Supplement (PDF)
 - title: '"Implications of stimulus-induced, rhythmic, periodic, or ictal discharges
     (SIRPIDs) in hospitalized patients."'
   image: ''

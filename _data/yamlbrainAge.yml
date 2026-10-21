@@ -85,6 +85,9 @@
     url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_Unknown_40795277.pdf
     display: 'Sleep. 2026. 49(2). doi: 10.1093/sleep/zsaf229. PMID: 40795277.'
   highlight: 0
+  supplements:
+  - url: https://bdsp-core.github.io/cdac-downloads/2025_Sun_Unknown_40795277_supp.pdf
+    label: Supplement (PDF)
 - title: '"Ordinal Sleep Depth: A Data-Driven Continuous Measurement of Sleep Depth."'
   image: ''
   description: ''
