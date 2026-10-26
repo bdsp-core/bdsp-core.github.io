@@ -1,3 +1,27 @@
+- title: '"Predicting One-Year CPAP Adherence and Use Trajectories Utilizing Baseline
+    and Early Use Data."'
+  image: ''
+  description: ''
+  authors: Hwang NH, Mishra S, Westover MB, Thomas RJ, Mignot E, Katwa U, Shi J, Yan
+    R, Becker KA, Hwang D, Klimper MT, Jara J, Stevens DR, Gratton MKP, Mazzotti DR,
+    Sun H
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/42926626
+    display: 'medRxiv : the preprint server for health sciences. 2026. doi: 10.64898/2026.10.01.26363483.
+      PMID: 42926626.'
+  highlight: 0
+- title: '"Machine Learning Models Using Electronic Health Record Data to Predict
+    Obstructive Sleep Apnea."'
+  image: ''
+  description: ''
+  authors: Hwang NH, Mazzotti DR, Mishra S, Westover MB, Hwang D, Thomas RJ, Mignot
+    E, Katwa U, Shi J, Yan R, Becker KA, Klimper MT, Jara J, Stevens DR, Gratton MKP,
+    Sun H
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/42926608
+    display: 'medRxiv : the preprint server for health sciences. 2026. doi: 10.64898/2026.10.05.26364806.
+      PMID: 42926608.'
+  highlight: 0
 - title: '"Dynamic instability of breathing during sleep predicts cognition, disease,
     and mortality."'
   image: ''
