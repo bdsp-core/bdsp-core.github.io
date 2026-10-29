@@ -24,18 +24,6 @@
   category_slug: sleep-staging-sleep-ai
   topics: []
   sort_order: 0
-- name: bdsp-sleep-data
-  description: general code for handling sleep data on BDSP platform.
-  url: https://github.com/bdsp-core/bdsp-sleep-data
-  language: Jupyter Notebook
-  stars: 3
-  forks: 1
-  updated_at: '2026-05-31'
-  visibility: public
-  category: Sleep Staging & Sleep AI
-  category_slug: sleep-staging-sleep-ai
-  topics: []
-  sort_order: 0
 - name: CAISR-App
   description: CAISR - Downloadable/Executable Software Repository
   url: https://github.com/bdsp-core/CAISR-App
@@ -457,7 +445,7 @@
   url: https://github.com/bdsp-core/morgoth
   language: Python
   stars: 12
-  forks: 4
+  forks: 5
   updated_at: '2026-10-23'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
@@ -947,7 +935,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-10-27'
+  updated_at: '2026-10-28'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -1074,6 +1062,19 @@
   stars: 0
   forks: 0
   updated_at: '2026-07-12'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: bdsp-python
+  description: Data guide and Python readers for standardized BDSP sleep/PSG H5 and
+    split Zarr recordings.
+  url: https://github.com/bdsp-core/bdsp-python
+  language: Python
+  stars: 0
+  forks: 0
+  updated_at: '2026-10-28'
   visibility: public
   category: Uncategorized
   category_slug: uncategorized
@@ -1282,6 +1283,34 @@
   category_slug: uncategorized
   topics:
   - bdsp-omop
+  sort_order: 10
+- name: morgoth-sz-hm
+  description: 'This repository extends the base Morgoth EEG model with two improvements
+    specifically targeting seizure detection:'
+  url: https://github.com/bdsp-core/morgoth-sz-hm
+  language: Python
+  stars: 1
+  forks: 1
+  updated_at: '2026-10-28'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
+  sort_order: 10
+- name: mri_viewer
+  description: 'We picked 100 brain MRI studies from the BIND report package, 10 for
+    each of 10 diagnoses: - acute ischemic stroke - chronic ischemic stroke - subdural
+    hematoma - glioblastoma - meningioma - hemorrhagic stroke - subarachnoid hemorrhage
+    - cavernous malformation'
+  url: https://github.com/bdsp-core/mri_viewer
+  language: Python
+  stars: 0
+  forks: 1
+  updated_at: '2026-10-28'
+  visibility: public
+  category: Uncategorized
+  category_slug: uncategorized
+  topics: []
   sort_order: 10
 - name: NESI
   description: A unified, continuous, EEG-based index of encephalopathy severity for
