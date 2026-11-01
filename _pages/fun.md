@@ -15,6 +15,13 @@ A pass-the-phone party game. Pick the number of teams, a difficulty tier (Hard �
 
 [**Launch Extreme Charades →**]({{ site.url }}{{ site.baseurl }}/fun/charades.html)
 
+### Bassline: learn to sing your part
+Learn the bass line of a four-part hymn, one section at a time. Follow the full score, hear the other voices, jump to any note, and sing into your microphone for live feedback on your pitch. Your voice is analyzed in your browser and never uploaded. Headphones work best.
+
+Hymns so far: *Come, Thou Fount of Every Blessing* and *All Creatures of Our God and King*.
+
+[**Launch Bassline →**](https://mb-westover.github.io/bassline/)
+
 ### Dynamotype onset/offset trainer
 A quiz tool to help you learn to recognize seizure **dynamotypes** — the characteristic onset and offset patterns of seizures. It drills you on the dynamotype taxonomy from Stacey and colleagues' "Dynamotypes for Dummies" toolbox and atlas.
 
