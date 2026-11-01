@@ -1,17 +1,3 @@
-- name: <a href="https://www.linkedin.com/in/drayanmitra/">Ayan Mitra, PhD<a/>
-  photo: Mitra_Ayan_CDAC.png
-  info: Clinical Research Manager
-  email: amitra1@bidmc.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
-- name: Kaileigh Gallagher, BSc
-  photo: kaileigh.jpg
-  info: Research coordinator
-  email: kgallagher23@mgh.harvard.edu
-  number_educ: 2
-  education1: Harvard Medical School
-  education2: Beth Israel Deaconess Medical Center
 - name: Niels Turley
   photo: niels_resized.jpg
   info: Research coordinator
@@ -25,14 +11,14 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-- name: <a href="https://www.linkedin.com/in/arka-roy-ph-d-53a5aa171/">Arka Roy, PhD<a/>
+- name: <a href="https://www.linkedin.com/in/arka-roy-ph-d-53a5aa171/">Arka Roy, PhD</a>
   photo: ARKA_ROY_CDAC.jpg
   info: Postdoctoral Research Fellow
   email: aroy11@bidmc.harvard.edu
   number_educ: 2
   education1: Beth Israel Deaconess Medical Center
   education2: Harvard Medical School
-- name: <a href="https://www.youtube.com/channel/UCm7YOqeu9mg22A59uWrETtA">Arnav Gupta<a/>
+- name: <a href="https://www.youtube.com/channel/UCm7YOqeu9mg22A59uWrETtA">Arnav Gupta</a>
   photo: ArnavGupta_150x150.jpg
   info: PhD Student
   email: agupta19@bidmc.harvard.edu
@@ -40,12 +26,6 @@
   education1: Harvard University
   education2: School of Engineering and Applied Sciences, Harvard University
   education3: Beth Israel Deaconess Medical Center
-- name: Marjan Sarami, MD
-  photo: marjanSarami.jpeg
-  info: Postdoctoral Research Fellow
-  email: msarami@bidmc.harvard.edu
-  number_educ: 1
-  education1: Beth Israel Deaconess Medical Center
 - name: Callison Alcott, MD, PhD
   photo: callisonAlcott.jpeg
   info: Child Neurology Resident
@@ -74,3 +54,16 @@
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
   education3: Beth Israel Deaconess Medical Center
+- name: Kaileigh Gallagher, BSc
+  photo: kaileigh.jpg
+  info: Research coordinator
+  email: kgallagher23@mgh.harvard.edu
+  number_educ: 2
+  education1: Harvard Medical School
+  education2: Beth Israel Deaconess Medical Center
+- name: Marjan Sarami, MD
+  photo: marjanSarami.jpeg
+  info: Postdoctoral Research Fellow
+  email: msarami@bidmc.harvard.edu
+  number_educ: 1
+  education1: Beth Israel Deaconess Medical Center
