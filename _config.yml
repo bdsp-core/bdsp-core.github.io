@@ -6,21 +6,30 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: CDAC Website
-email: your-email@domain.com
+title: CDAC - The Westover Lab at Stanford
+email: mbwest@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of CDAC.
+  CDAC, the Westover Lab at Stanford: AI methods for EEG, sleep recordings and clinical records, with the data and tools shared for other researchers.
 baseurl: ""
-url: ""
+url: "https://bdsp-core.github.io"
 
 include:
   - .htaccess
   - _pages
 
-# Root-level leftovers that must not be published. research.md is an unfinished
-# template that clashed with _pages/research.md for the /research/ address.
+# Working files that must not be published.
 exclude:
-  - research.md
+  - README.md
+  - AUTOMATED_PUBLICATIONS.md
+  - SETUP_GOOGLE_SHEETS_SYNC.md
+  - how_to_locally_edit_and_push.md
+  - requirements.txt
+  - "*.py"
+  - "*.ipynb"
+  - _pages/*.csv
+  - scrapeNCBI
+  - fun/src
+  - images/teampic/original_backup
   - _config_preview.yml
   - _config_preview_clean.yml
   - preview.sh

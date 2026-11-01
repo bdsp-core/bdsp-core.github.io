@@ -2,7 +2,6 @@
 title: "CDAC - Fun"
 layout: textlay
 excerpt: "Fun and useful interactive tools from the CDAC lab."
-sitemap: false
 permalink: /fun/
 ---
 

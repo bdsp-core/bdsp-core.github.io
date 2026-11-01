@@ -20,16 +20,7 @@ blockquote strong em {
 </style>
 
 # Interesting Links
-[EEG research | ](#eeg-research)
-[AI Safety | ](#ai-safety)
-
-[Back to Brandon's page](/brandon/)
-
-### EEG research
-blah blah
-
-[Back to Top](# )
-
+[AI Safety](#ai-safety)
 
 [Back to Brandon's page](/brandon/)
 
@@ -38,7 +29,7 @@ blah blah
 * [A Narrow Path](https://www.narrowpath.co/) - A Plan for Surviving Artificial Superintelligence proposed by Andrea Miotti, Tolga Bilge, Dave Kasten, James Newport
 * [AXRP (AI Existential Risk podcast)](https://www.youtube.com/playlist?list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK)
 * [Future of Life Institute](https://futureoflife.org/)
-* [U.S. Artificial Intelligence Safety Institute](https://www.nist.gov/aisi)
+* [Center for Advancing Innovation and Standards for Super Intelligence (NIST)](https://www.nist.gov/caissi)
 * [The Sideways View](https://sideways-view.com/) - Paul Christiano's blog
 * [Alek's blog](https://awestover.github.io/thoughts/AI-xrisk)
 

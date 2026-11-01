@@ -1,7 +1,7 @@
 ---
 title: "CDAC - Lab Resources"
 layout: textlay
-excerpt: "CDAC - Lab Resrouces"
+excerpt: "CDAC - Lab Resources"
 sitemap: false
 permalink: /resources/
 ---
@@ -10,17 +10,17 @@ permalink: /resources/
 This page includes links to resources for lab members.
 
 [OKRs | ](#lab-okrs)
-[Expectations | ](#expectations)
 [Papers in Progress | ](#papers-in-progress)
 [AWS onboarding | ](#bdsp-aws-ec2-onboarding-documentation)
-[Snowflake | ](#snowflake)
-[Checklists for writing papers](#checklists-for-paper-writing)
+[Snowflake | ](#snowflake-instructions)
+[Checklists for writing papers | ](#checklists-for-writing-papers)
+[EEG report writing templates](#eeg-report-writing-templates)
 
 **Last revised:  2023-01-05**
 
 ### Lab OKRs
 Periodically (typically every 3-6 months) members of the lab draft "objectives and key results". The lab PI also writes a set of OKRs for the lab. You can read about OKRs [here](https://www.whatmatters.com/). The lab OKRs are accessible to lab members [here](https://docs.google.com/document/d/19vgN_tTgaFeOmKnAcrsweqkeMgkukY79_1giEsRPn_w/edit?usp=sharing). Request access by emailing Brandon.  
-[Back to Top](#  )  
+[Back to Top](#cdac-lab-resources)  
 
 ### Papers in Progress
 A list of manuscripts that are planned or in progress, and anticipated authorship lists is [here](https://docs.google.com/document/d/1ALCjtQEkfHNqaJcqN3eXTDuMcfxWDMLHhREN-Mk2WgY/edit?usp=sharing). Request access by emailing Brandon.  

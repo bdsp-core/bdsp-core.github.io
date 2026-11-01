@@ -2,7 +2,6 @@
 title: "News"
 layout: textlay
 excerpt: "CDAC news archive."
-sitemap: false
 permalink: /allnews.html
 ---
 

@@ -117,7 +117,9 @@ def save_news_yaml(news_items):
             if i > 0:
                 f.write('\n')
             f.write(f"- date: {item['date']}\n")
-            f.write(f'  headline: "{item["headline"]}"\n')
+            # Escaped so a quote in a paper's title cannot break the site build
+            headline = item["headline"].replace("\\", "\\\\").replace('"', '\\"')
+            f.write(f'  headline: "{headline}"\n')
     
     print(f"Saved {len(sorted_items)} news items to {output_path}")
 

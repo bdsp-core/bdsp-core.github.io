@@ -2,7 +2,6 @@
 title: "CDAC - Research"
 layout: textlay
 excerpt: "Four questions the Westover Lab works on: reliable EEG interpretation, sleep and brain health, brain monitoring in critical illness, and shared data for neurological research."
-sitemap: false
 permalink: /research/
 ---
 

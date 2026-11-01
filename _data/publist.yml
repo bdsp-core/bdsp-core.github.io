@@ -12,8 +12,8 @@
   description: We designed an algorithm to identify five fiducial landmarks, and from these to quantify the six IFCN features of IEDs. We trained a simple model with these features to quantify the probability that the waveform is epileptiform and incorporated into a user-friendly interface. **The interface is available [here](https://github.com/bdsp-core/IFCN6)**. This model may assist clinical electroencephalographers in deciding whether candidate waveforms are epileptiform and may assist trainees learn to identify IEDs.
   authors: Nascimento FA, Barfuss JD, Jaffe A, M. Brandon Westover, Jing J.
   link:
-    url: https://bdsp-core.github.io/cdac-downloads/1-vestibularSystem-2002.pdf
-    display: "Clin Neurophysiol. 2022 Nov 17;146:10-17. doi: 10.1016/j.clinph.2022.10.018. Epub ahead of print. PMID: 36473334."
+    url: https://pubmed.ncbi.nlm.nih.gov/36473334/
+    display: "Clin Neurophysiol. 2022 Nov 17;146:10-17. doi: 10.1016/j.clinph.2022.10.018. PMID: 36473334."
   highlight: 1
 
 - title: "EEG-based grading of immune effector cell-associated neurotoxicity syndrome"
@@ -139,7 +139,7 @@
   authors: Ye EM, Sun H, Krishnamurthy PV, Adra N, Ganglberger W, Thomas RJ, Lam AD, Westover MB.
   link:
     url: https://bdsp-core.github.io/cdac-downloads/2023_Ye_Sleep_36448766.pdf
-    display: 'Sleep. 2022 Nov 30:zsac286. doi: 10.1093/sleep/zsac286. Epub ahead of print. PMID: 36448766.'
+    display: 'Sleep. 2022 Nov 30:zsac286. doi: 10.1093/sleep/zsac286. PMID: 36448766.'
   highlight: 1
 
 - title: 'Automated Annotation of Epileptiform Burden and Its Association with Outcomes.'

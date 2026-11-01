@@ -1,6 +1,6 @@
-# CCNL / BDSP Website
+# CDAC / BDSP Website
 
-This is the website of our research group at Harvard Medical School / Beth Israel Deaconess Medical Center / Massachusetts General Hospital / Broad Institute.
+This is the website of our research group in the Department of Neurology and Neurological Sciences at Stanford University.
 
 ## Overview
 
@@ -18,7 +18,7 @@ This Jekyll-based website serves as the digital presence for the Clinical Data A
 
 The website includes several automated processes that keep content up-to-date:
 
-### Scheduled Jobs (Daily at 2 AM Eastern)
+### Scheduled Jobs (Daily at 06:00 UTC)
 
 1. **Team Data Sync**: Updates team member information from Google Sheets
    - Syncs faculty, postdocs, students, staff, alumni, and collaborators
@@ -83,10 +83,10 @@ All automated jobs can also be triggered manually via GitHub Actions for immedia
 
 #### Images (`/images/`)
 
-- **`logopic/`**: Institutional logos (HMS, MGH, BIDMC, Broad Institute, etc.)
+- **`logopic/`**: Institutional logos
 - **`teampic/`**: Team member photos and headshots
   - Individual photos for faculty, students, staff
-  - Original backup copies in `original_backup/` subdirectory
+  - Original backup copies in `original_backup/` subdirectory (not published)
 - **`picpic/`**: Lab photos and social events
   - **`Gallery/`**: Photo gallery for lab activities, conferences, social events
 - **`pubpic/`**: Publication-related images and figures

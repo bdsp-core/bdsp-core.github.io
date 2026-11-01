@@ -2,7 +2,6 @@
 title: "CDAC - Join"
 layout: textlay
 excerpt: "Open positions and ways to join the Westover Lab at Stanford."
-sitemap: false
 permalink: /openings
 ---
 

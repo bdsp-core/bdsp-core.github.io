@@ -5,7 +5,7 @@ This repository now includes an automated system for keeping your publications p
 ## How It Works
 
 ### Daily Automatic Updates
-The system runs automatically every day at 2 AM UTC via GitHub Actions and:
+The system runs automatically every day at 06:00 UTC via GitHub Actions and:
 
 1. **Searches PubMed** for all publications with "Westover MB[Author]"
 2. **Categorizes publications** automatically based on keywords in titles and abstracts
@@ -98,7 +98,7 @@ The system uses the NCBI E-utilities API which:
 ✅ **Always up to date** - Publications appear automatically within 24 hours of PubMed indexing  
 ✅ **No manual work** - Completely automated categorization and formatting  
 ✅ **No duplicates** - Smart deduplication based on PMID  
-✅ **Comprehensive** - Captures all publications, including recent ones  
+✅ **Recent** - Picks up new publications indexed as `Westover MB` that match a topic keyword  
 ✅ **Consistent formatting** - All publications follow the same YAML structure  
 
 The system ensures your publications page stays current without any manual intervention!

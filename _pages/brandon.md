@@ -1,13 +1,12 @@
 ---
 title: "CDAC - Brandon"
 layout: textlay
-excerpt: "M. Brandon Westover, MD, PhD — Director of the Stanford Epilepsy Center, Department of Neurology and Neurological Sciences, Stanford University School of Medicine."
-sitemap: false
+excerpt: "M. Brandon Westover, MD, PhD — Professor of Neurology and Neurological Sciences and Director of the Stanford Epilepsy Center, Department of Neurology and Neurological Sciences, Stanford University School of Medicine."
 permalink: /brandon/
 ---
 <img style="float: right;" src="/images/teampic/mbw_gretchenPic_2022_12_17.jpeg"  height="400">
 ## M. Brandon Westover, MD, PhD
-Department of Neurology and Neurological Sciences, Stanford University School of Medicine  
+Professor of Neurology and Neurological Sciences, Stanford University School of Medicine  
 Director, Stanford Epilepsy Center  
 Director, Neurologic Artificial Intelligence Center  
 Associate Vice Chair for Biostatistical and Bioinformatics Neurosciences  
@@ -20,9 +19,7 @@ Office: Center for Academic Medicine (CAM), 453 Quarry Road, Floor 2, Room 221B,
 [Funding | ](#research-funding)
 [Disclosures | ](#disclosures)
 [Quotes | ](/quotes/)
-[Links | ](/links/)
-[Blog-A | ](/encrypted-blog-alek/)
-[Blog-AGT](/encrypted-blog-agt/)
+[Links](/links/)
 
 ### Affiliations
 [Stanford Medicine, Department of Neurology and Neurological Sciences](https://med.stanford.edu/neurology.html)  
@@ -33,7 +30,7 @@ Department of Biomedical Data Science
 Department of Psychiatry and Behavioral Sciences / Sleep Medicine  
 
 ### Bio
-M. Brandon Westover, MD, PhD is Director of the Stanford Epilepsy Center in the Department of Neurology and Neurological Sciences at Stanford University. He earned his PhD in Physics working in the field of information theory. He is a board-certified Neurologist and Clinical Neurophysiologist. His research group, the Clinical Data Animation Center, develops machine learning approaches to improve medical care for patients with neurological problems including anoxic brain injury, seizures, cerebral ischemia, delirium, and sleep disorders. He is a co-producer of EEGTalk, author of Pocket Neurology and Atlas of Intensive Care Quantitative EEG, and co-founder of Beacon Biosignals.  
+M. Brandon Westover, MD, PhD is Professor of Neurology and Neurological Sciences and Director of the Stanford Epilepsy Center in the Department of Neurology and Neurological Sciences at Stanford University. He earned his PhD in Physics working in the field of information theory. He is a board-certified Neurologist and Clinical Neurophysiologist. His research group, the Clinical Data Animation Center, develops machine learning approaches to improve medical care for patients with neurological problems including anoxic brain injury, seizures, cerebral ischemia, delirium, and sleep disorders. He is a co-producer of EEGTalk, author of Pocket Neurology and Atlas of Intensive Care Quantitative EEG, and co-founder of Beacon Biosignals.  
 
 ### Research funding
 _CDAC research is funded by the following grants_:   

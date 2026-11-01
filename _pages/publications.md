@@ -2,7 +2,6 @@
 title: "CDAC - Publications"
 layout: gridlay
 excerpt: "Publications of the Clinical Data Animation Center — peer-reviewed research across critical care neurology, sleep medicine, epilepsy, and clinical AI."
-sitemap: false
 permalink: /publications/
 ---
 
@@ -48,7 +47,7 @@ permalink: /publications/
 [Epilepsy after acute brain injury](#epilepsy-after-acute-brain-injury)
 
 **Brain Networks**
-[Connectivity](#funcational-connectivity)
+[Connectivity](#functional-connectivity)
 
 **Medical Decision Making**
 [Decision analysis](#decision-analysis)
@@ -352,7 +351,7 @@ permalink: /publications/
 
 ## Brain Networks
 [Back to Top](#  )
-### Funcational connectivity
+### Functional connectivity
 [Back to Top](#  )
 {% for publi in site.data.yamlconnectivity %}
   {{ publi.title }} <br />

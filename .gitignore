@@ -9,3 +9,8 @@ service-account-key.json
 # private/operational scratch (org-wide audit data; never push to the public site)
 _workdir/
 __pycache__/
+token.json
+.secrets/
+vendor/
+venv/
+.bundle/

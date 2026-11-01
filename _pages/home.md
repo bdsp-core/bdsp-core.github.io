@@ -2,7 +2,6 @@
 title: "CDAC - The Westover Lab at Stanford"
 layout: homelay
 excerpt: "CDAC, the Westover Lab at Stanford: AI methods for EEG, sleep recordings and clinical records, with the data and tools shared for other researchers."
-sitemap: false
 permalink: /
 ---
 

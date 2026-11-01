@@ -79,7 +79,7 @@ def format_team_member(row):
 
     # Handle name with optional link
     if row.get('Link'):
-        member['name'] = f'<a href="{row["Link"]}">{row["Name"]}<a/>'
+        member['name'] = f'<a href="{row["Link"]}">{row["Name"]}</a>'
     else:
         member['name'] = row['Name']
 

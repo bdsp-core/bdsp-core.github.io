@@ -85,7 +85,7 @@ def fetch_supp_map(names):
 class PubMedScraper:
     def __init__(self):
         self.base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
-        self.email = "westover@mgh.harvard.edu"  # Required for API usage
+        self.email = "mbwest@stanford.edu"  # Required for API usage
         self.downloads = fetch_downloads_listing()
         self.pdf_pmid_map = fetch_pdf_pmid_map(self.downloads)
         
@@ -216,9 +216,9 @@ class PubMedScraper:
             
             # Title
             title_elem = medline_citation.find('.//ArticleTitle')
-            if title_elem is not None and title_elem.text:
-                title = title_elem.text.strip()
-            else:
+            # itertext() because titles can begin with markup such as <i>
+            title = "".join(title_elem.itertext()).strip() if title_elem is not None else ""
+            if not title:
                 title = "Unknown Title"
             
             # Authors

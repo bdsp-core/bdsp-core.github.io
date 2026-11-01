@@ -2,7 +2,6 @@
 title: "CDAC - Code"
 layout: textlay
 excerpt: "CDAC Code Catalog"
-sitemap: false
 permalink: /code/
 ---
 

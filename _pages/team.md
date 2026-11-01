@@ -2,11 +2,9 @@
 title: "CDAC - Team"
 layout: gridlay
 excerpt: "CDAC: Team members"
-sitemap: false
 permalink: /team/
 ---
 
-<!-- Updated: May 29, 2025 - CSS-based image standardization -->
 # People
 
 {% include preview-note.html title="Regrouped, same people." text="The five lists are unchanged and still sync from the team spreadsheet. They are regrouped: the group as it is today comes first (Engineering plus Postdocs, Students, Staff), then the faculty who lead projects with it, then collaborators and alumni. Brandon is the first Faculty row. If someone sits in the wrong group, move their row in the spreadsheet." %}

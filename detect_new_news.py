@@ -42,7 +42,7 @@ LOOKBACK_DAYS = 30
 MAX_NEW_ITEMS = 20  # safety cap per run
 
 NCBI_AUTHOR = "Westover MB[Author]"
-NCBI_EMAIL = "westover@mgh.harvard.edu"
+NCBI_EMAIL = "mbwest@stanford.edu"
 NCBI_TOOL = "bdsp_news_detector"
 NCBI_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 
@@ -257,6 +257,8 @@ def build_pubmed_headline(item):
     title = sanitize_for_md_link_text(html.unescape(item["title"]))
     url = f"https://pubmed.ncbi.nlm.nih.gov/{item['pmid']}/"
     journal = item["journal"]
+    if journal and any(p in journal.lower() for p in ("medrxiv", "biorxiv", "arxiv", "ssrn")):
+        return f'[{title}]({url}) is available on {journal}'
     if journal:
         return f'[{title}]({url}) is published in {journal}'
     return f'[{title}]({url}) is published'

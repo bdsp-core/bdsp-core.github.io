@@ -2,7 +2,6 @@
 title: "CDAC - Lab Values"
 layout: textlay
 excerpt: "CDAC - Lab Values"
-sitemap: false
 permalink: /labvalues/
 ---
 
@@ -21,7 +20,7 @@ This Values and Expectations Statement provides guidelines and implementation de
 [Responding to Reviews |](#responding-to-reviews)
 [Conferences](#conferences)
 
-**Last revised:  2022-12-19**
+**Last revised:  2026-10-31**
 
 ### Lab Values Statement
 Each member of our lab brings something important to the team. We strive to create an environment where every lab member can achieve their full potential in the lab. Every voice should be heard. Diversity of thought and background are celebrated, and all are welcome. Respect for each other is integral to our lab culture.
@@ -94,7 +93,7 @@ _Inclusion_
 In lab-sponsored or lab-centric social events, it is expected that the invitation be extended to all lab members. For example, the CDAC lab meeting is always open to all lab members.
 
 _Lab Policy on Discrimination_  
-Lab members are expected to always show respect towards others. Lab members shall not discriminate or use any behavior or language that might be considered discriminatory. Lab members are expected to follow the discrimination policy outlined in the Harvard Handbook [LINK]. Our lab believes that kindness matters and lab members are expected to act accordingly.  
+Lab members are expected to always show respect towards others. Lab members shall not discriminate or use any behavior or language that might be considered discriminatory. Lab members are expected to follow Stanford's nondiscrimination policy. Our lab believes that kindness matters and lab members are expected to act accordingly.  
 [Back to Top](#  )
 
 ### Scientific Integrity
@@ -107,7 +106,7 @@ Lab members are expected to always show respect towards others. Lab members shal
 
 **Protocols** – New protocols or updates to protocols should be deposited to the Protocols folder in the lab Dropbox Team folder, which is overseen and organized by the Protocol Steward.
 
-**PHI (Protected Health Information)** —All lab members are expected to follow BIDMC rules regarding handling of PHI.
+**PHI (Protected Health Information)** —All lab members are expected to follow Stanford rules regarding handling of PHI.
 
 **Reporting results** – Negative results are just as important as positive results — and can end up saving time and resources for future researchers. For this reason, you are required to include all results (including negative ones) as well as detailed notes on failed procedures and methods.
 
@@ -117,7 +116,7 @@ Any form of data manipulation will not be tolerated and can ultimately result in
 
 
 ### Mental & Physical Wellbeing
-Harvard can be a stressful place full of high expectations. But remember that you are here first and foremost to learn. Your growth and development are paramount. The lab should be a place people love to be. Be proactive seeking help and be on the lookout for your lab mates’ wellbeing, and don’t hesitate to ask for help.
+Stanford can be a stressful place full of high expectations. But remember that you are here first and foremost to learn. Your growth and development are paramount. The lab should be a place people love to be. Be proactive seeking help and be on the lookout for your lab mates’ wellbeing, and don’t hesitate to ask for help.
 
 Productivity is a better metric than hours in the lab. That said, different disciplines have different metrics for productivity, and at the end of the day, I will judge your time here more by what you learned and how you grew than by what or where you published. Make space for your mental and physical wellbeing. Protect yourself and others by staying home when you are sick. Find alternative uses of your days such as data analysis or manuscript writing.  
 [Back to Top](#  )
