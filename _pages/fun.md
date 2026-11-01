@@ -22,6 +22,11 @@ Hymns so far: *Come, Thou Fount of Every Blessing* and *All Creatures of Our God
 
 [**Launch Bassline →**](https://mb-westover.github.io/bassline/)
 
+### Fine-Tuning Lab: toy universes
+Change one constant of nature and see what happens. Five simulations cover gravity, dark energy, the strong nuclear force, carbon's Hoyle state, and electromagnetism. Each one shows whether stars, galaxies, carbon, oxygen, and hydrogen still turn up, with our own universe drawn as a dashed line for comparison. These are simplified models, and the page explains what they leave out.
+
+[**Launch Fine-Tuning Lab →**](https://mb-westover.github.io/fine-tuning-lab/)
+
 ### Dynamotype onset/offset trainer
 A quiz tool to help you learn to recognize seizure **dynamotypes** — the characteristic onset and offset patterns of seizures. It drills you on the dynamotype taxonomy from Stacey and colleagues' "Dynamotypes for Dummies" toolbox and atlas.
 
