@@ -110,7 +110,7 @@
   number_educ: 1
   education1: In lab 2014-2018
 - name: <a href="https://www.aminer.cn/profile/63749783f5d67833f722697f">Zhang Rui,
-    PhD (ÊïôÊéà)</a>
+    PhD (教授)</a>
   photo: zhangRui.jpeg
   info: Professor of Mathematics, Northwestern University, Xian, China
   number_educ: 1
@@ -137,7 +137,7 @@
   info: Assistant Professor, State University of New York
   number_educ: 1
   education1: In lab 2015-2017
-- name: <a href="">Katherine O‚ÄôConnor, PhD</a>
+- name: Katherine O'Connor, PhD
   photo: stickFig.png
   info: Kinesiologist
   number_educ: 1
@@ -225,7 +225,7 @@
 - name: <a href="https://www.benefis.org/find-a-provider/find-a-provider?id=1252">Durga
     Jonnalagadda, MD</a>
   photo: durga.jpeg
-  info: Physician, Benefits Health System
+  info: Physician, Benefis Health System
   number_educ: 1
   education1: In lab 2014-2018
 - name: <a href="https://www.linkedin.com/in/wade-whitt-821779116/">Wade Whitt, MD</a>
@@ -233,8 +233,7 @@
   info: Medical student
   number_educ: 1
   education1: In lab 2017-2019
-- name: <a href="https://www.linkedin.com/in/wade-whitt-821779116/">Marinka Oudkerk
-    Pool</a>
+- name: Marinka Oudkerk Pool
   photo: Marinka-Oudkerk-Pool.jpeg
   info: Data scientist, Achme, The Netherlands
   number_educ: 1
@@ -269,7 +268,7 @@
   number_educ: 1
   education1: In lab 2017-2018
 - name: <a href="https://www.linkedin.com/in/emile-d-angremont-943ba26b/?originalSubdomain=nl">Emile
-    d‚ÄôAngremont, MSc</a>
+    d'Angremont, MSc</a>
   photo: emile.jpeg
   info: PhD student at UMCG University Medical Center Groningen
   number_educ: 1
@@ -350,7 +349,7 @@
   education1: In lab 2019-2020
 - name: Subapriya Rajan, MD
   photo: stickFig.png
-  info: '"Research Fellow. Current position: Neurology resident at West Virginia University"'
+  info: 'Research Fellow. Current position: Neurology resident at West Virginia University'
   number_educ: 1
   education1: In lab 2019-2020
 - name: Anudeepthi Neelagiri
@@ -372,7 +371,7 @@
 - name: <a href="https://www.aminer.cn/profile/637835a0f5d67833f7ae226d">Qiang Li,
     PhD</a>
   photo: LiQiang.jpeg
-  info: PhD student, Northwestern University, Xi‚Äôan, China
+  info: PhD student, Northwestern University, Xi'an, China
   number_educ: 1
   education1: In lab 2018-2020
 - name: Maryam Shoukat, MD
@@ -592,7 +591,7 @@
   info: Masters Student
   email: malkofer@bidmc.harvard.edu
   number_educ: 2
-  education1: Technische Universit√§t Berlin
+  education1: Technische Universität Berlin
   education2: In lab 2023-2024
 - name: Samvrit (Sam) Rao
   photo: samvritstem.jpeg
@@ -620,7 +619,7 @@
   info: Research Student Intern
   number_educ: 1
   education1: In lab 2024
-- name: Elija Davis
+- name: Elijah Davis
   photo: elijahDavis.jpeg
   info: Undergraduate - NAX project
   number_educ: 1
@@ -628,7 +627,6 @@
 - name: Erik-Jan Meulenbrugge, MSc
   photo: erik-jan.jpeg
   info: Bioinformaticist
-  email: wganglbe@bidmc.harvard.edu
   number_educ: 1
   education1: In lab 2021-2025
 - name: Thijs Nassi, MSc
@@ -639,7 +637,7 @@
   education1: In lab 2021-2025
 - name: Jun Li
   photo: JunLi_photo.jpg
-  info: Undergraduate studen in Computer Science
+  info: Undergraduate student in Computer Science
   email: jli47@bidmc.harvard.edu
   number_educ: 2
   education1: Peking University, Institute of Health Data Science
@@ -663,7 +661,7 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-- name: Charlotte Macshke, PhD
+- name: Charlotte Maschke, PhD
   photo: Maschke_Charlotte_CDAC.jpg
   info: Postdoctoral Research Fellow
   email: cmaschke@bidmc.harvard.edu
@@ -713,7 +711,7 @@
   education1: Florida Atlantic University
   education2: Biological Sciences
   education3: Beth Israel Deaconess Medical Center
-- name: <a href="www.linkedin.com/in/洋-洋-b25672126">Yangyang Yu, MD, PhD</a>
+- name: <a href="https://www.linkedin.com/in/洋-洋-b25672126">Yangyang Yu, MD, PhD</a>
   photo: Yu_Yangyang_CDAC.jpg
   info: Postdoctoral Research Fellow Visiting
   email: yyu13@bidmc.harvard.edu
@@ -729,7 +727,6 @@
 - name: Ryan Tesh, BSc
   photo: Ryan-Tesh.jpeg
   info: Research coordinator
-  email: tnassi@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
@@ -740,7 +737,7 @@
   number_educ: 2
   education1: Harvard Medical School
   education2: Beth Israel Deaconess Medical Center
-- name: <a href="www.linkedin.com/in/imad-akbar-972b79278">Imad Akbar, MD</a>
+- name: <a href="https://www.linkedin.com/in/imad-akbar-972b79278">Imad Akbar, MD</a>
   photo: Akbar_Imad_CDAC.jpeg
   info: Postdoctoral Research Fellow Intern
   email: iakbar@bidmc.harvard.edu

@@ -10,7 +10,6 @@
 - name: <a href="https://volfovsky.github.io/about/">Alex Volfovsky, PhD</a>
   photo: Alex_Volfovsky_photo.jpeg
   info: Associate Professor
-  email: rthomas1@bidmc.harvard.edu
   number_educ: 2
   education1: Duke University, Department of Statistical Science
   education2: Almost Matching Exactly Lab
@@ -25,7 +24,6 @@
 - name: <a href="https://alab.ucsf.edu/people/ed-amorim-md">Eddy Amorim, MD</a>
   photo: eddy.jpeg
   info: Assistant Professor of Neurology
-  email: hsun3@bidmc.harvard.edu
   number_educ: 2
   education1: University of California, San Francisco
   education2: San Francisco General Hospital
@@ -41,7 +39,6 @@
     MD</a>
   photo: sahar.jpeg
   info: Assistant Professor of Neurology
-  email: hsun3@bidmc.harvard.edu
   number_educ: 3
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
@@ -106,7 +103,7 @@
   photo: samaneh.jpeg
   info: Assistant Professor
   number_educ: 2
-  education1: Departent of Biomedical Informatics
+  education1: Department of Biomedical Informatics
   education2: Emory University School of Medicine
 - name: <a href="https://lopour.eng.uci.edu/">Beth A. Lopour, PhD</a>
   photo: Lopour_Beth_CDACjpg.jpg
@@ -119,4 +116,4 @@
   photo: Shrey_Daniel_CDAC.jpg
   info: Visiting scholar
   number_educ: 1
-  education1: Children‚Äôs Hospital of Orange County
+  education1: Children's Hospital of Orange County

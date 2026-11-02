@@ -1,6 +1,6 @@
 - name: <a href="/brandon/">M. Brandon Westover, MD, PhD</a>
   photo: mbw_gretchenPic_2022_12_17.jpeg
-  info: Professor of Neurology
+  info: Professor of Neurology and Neurological Sciences. PI.
   email: mbwest@stanford.edu
   number_educ: 1
   education1: Stanford University School of Medicine
@@ -31,14 +31,12 @@
     MD</a>
   photo: sahar.jpeg
   info: Assistant Professor of Neurology
-  email: hsun3@bidmc.harvard.edu
   number_educ: 2
   education1: Harvard Medical School
   education2: Massachusetts General Hospital
 - name: <a href="https://alab.ucsf.edu/people/ed-amorim-md">Eddy Amorim, MD</a>
   photo: eddy.jpeg
   info: Assistant Professor of Neurology
-  email: hsun3@bidmc.harvard.edu
   number_educ: 2
   education1: University of California, San Francisco
   education2: San Francisco General Hospital
