@@ -948,7 +948,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-11-01'
+  updated_at: '2026-11-02'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
@@ -994,10 +994,10 @@
 - name: NESI
   description: Yet Another Management Application — internal project management tools.
   url: https://github.com/bdsp-core/NESI
-  language: Python
+  language: Jupyter Notebook
   stars: 2
   forks: 0
-  updated_at: '2026-11-02'
+  updated_at: '2026-11-03'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
