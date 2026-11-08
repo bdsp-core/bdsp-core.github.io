@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated November 1, 2026**
+**Curriculum Vitae: updated November 8, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -80,7 +80,7 @@ Current Affiliation Stanford University
 
 5.  **<span class="smallcaps">Bibliography</span>**
 
-**Peer-reviewed original research (446 total, 5 in press, 10 submitted, 5 in review)**
+**Peer-reviewed original research (447 total, 5 in press, 10 submitted, 5 in review)**
 
 1.  Eliasmith C, **Westover MB**, Anderson CH. “A general framework for neurobiological modeling: An application to the vestibular system.” *Neurocomputing*. 2002. 46:1071-1076. PMCID: PMC6788744.
 
@@ -998,6 +998,8 @@ Current Affiliation Stanford University
 445. Krumm L, Terziev R, Kranz DD, **Westover MB**, Meisel C. Between patterns and predictions: Interpretable latent EEG representations for clinical insights. Neuroimage Clin. 2026 Oct 14;52:104077. doi: 10.1016/j.nicl.2026.104077. Epub ahead of print. PMID: 42887172.
 
 446. Kim J, Aguila CA, Ojemann WKS, Adenekan O, Asuncion J, Jing J, **Westover MB**, Davis KA, Litt B, Conrad EC. Quantifying Interictal Spike Asymmetry on Scalp EEG to Lateralize the Seizure-Onset Zone in Temporal Lobe Epilepsy. Neurol Open Access. 2026 Sep;2(3):e000157. doi: 10.1212/wn9.0000000000000157. Epub 2026 Aug 12. PMID: 42959984; PMCID: PMC13718986.
+
+447. Jing J, Sun C, Zhang T, Byrd M, Tăuţan AM, Basovic L, Hadar PN, Fernandes MP, Goldenholz D, Kim J, Struck AF, Zafar SF, **Westover MB**. GROND: automated characterization of periodic and rhythmic EEG patterns. J Neural Eng. 2026 Nov 03;23(6):066002. doi: 10.1088/1741-2552/aeb331. PMID: 42863487; PMCID: PMC13729739.
 
 **Peer-reviewed publications (accepted, in press)**
 
