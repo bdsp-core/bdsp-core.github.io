@@ -462,7 +462,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="#faith" class="toc-link">Faith <span class="quote-count">(5)</span></a>
 <a href="#good-and-evil" class="toc-link">Good and Evil <span class="quote-count">(17)</span></a>
 <a href="#happiness" class="toc-link">Happiness <span class="quote-count">(2)</span></a>
-<a href="#human-nature" class="toc-link">Human Nature <span class="quote-count">(6)</span></a>
+<a href="#human-nature" class="toc-link">Human Nature <span class="quote-count">(7)</span></a>
 <a href="#humor" class="toc-link">Humor <span class="quote-count">(1)</span></a>
 <a href="#joy" class="toc-link">Joy <span class="quote-count">(1)</span></a>
 <a href="#logic" class="toc-link">Logic <span class="quote-count">(4)</span></a>
@@ -837,8 +837,10 @@ document.addEventListener('DOMContentLoaded', function() {
 [Back to Brandon's page](/brandon/)
 
 <div class="section-header" id="human-nature">
-<h3 style="margin: 0; color: white;">Human Nature <span class="quote-count">(6 quotes)</span></h3>
+<h3 style="margin: 0; color: white;">Human Nature <span class="quote-count">(7 quotes)</span></h3>
 </div>
+> A time is coming when people will go mad, and when they see someone who is not mad, they will attack them, saying, ‘You are mad; you are not like us.’  
+
 > Yet, I didn't understand that she was intentionally disguising her feelings with sarcasm; that was usually the last resort of people who are timid and chaste of heart, whose souls have been coarsely and impudently invaded; and who, until the last moment, refuse to yield out of pride and are afraid to express their own feelings to you.  
 
 > Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.  
