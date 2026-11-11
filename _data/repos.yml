@@ -532,9 +532,9 @@
     (version 2).
   url: https://github.com/bdsp-core/SpikeNet2
   language: Jupyter Notebook
-  stars: 19
+  stars: 20
   forks: 3
-  updated_at: '2026-11-05'
+  updated_at: '2026-11-10'
   visibility: public
   category: Seizures, IIIC Patterns & Spike Detection
   category_slug: seizures-iiic-patterns-spike-detection
@@ -948,7 +948,7 @@
   language: HTML
   stars: 2
   forks: 5
-  updated_at: '2026-11-09'
+  updated_at: '2026-11-10'
   visibility: public
   category: Data Platforms & Infrastructure
   category_slug: data-platforms-infrastructure
