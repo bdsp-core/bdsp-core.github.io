@@ -9,6 +9,11 @@ permalink: /fun/
 
 A small collection of interactive tools, demos, and learning aids built by the lab. Most run entirely in your browser — nothing to install.
 
+### The secretary problem, in pictures
+You interview candidates one at a time and must hire or pass on the spot. The best strategy is to pass on the first 37%, then hire the first person who beats everyone before them, and it wins 37% of the time. This walkthrough shows where both numbers come from, with a playable round, a figure for each step of the argument, and a full derivation at the end.
+
+[**Launch the secretary problem →**]({{ site.url }}{{ site.baseurl }}/fun/secretary_problem.html)
+
 ### Extreme Charades
 A pass-the-phone party game. Pick the number of teams, a difficulty tier (Hard → Brutal → Fiendish), and a word pack, then hand the phone around and act it out — no talking, no pointing, no spelling. Tap **Got it** when your team guesses, **Skip** to pass, and tap the timer to pause mid-turn. Highest score after all rounds wins. Designed for a phone screen.
 
