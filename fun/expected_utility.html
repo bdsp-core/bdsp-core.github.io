@@ -277,7 +277,7 @@ table.pay tbody th{color:var(--ink)}
     <div class="verdict" id="v4" aria-live="polite"></div>
     <p class="cap">Each bar shows the values of "utility for $3,000" that would explain one of your choices. Expected utility needs a single value that explains both.</p>
   </div>
-  <p>Question 2 is Question 1 watered down: C is a 25% chance of A, and D is a 25% chance of B. Independence says your answers should match. Choosing A and then D is common, and it is a simplified version of a problem Maurice Allais posed in 1953. Whether that shows people choose badly or that the rule asks too much is still argued.</p>
+  <p>Question 2 is Question 1 watered down: C is a 25% chance of A, and D is a 25% chance of B. Independence says your answers should match. Choosing A and then D is common. These two questions are the version Daniel Kahneman and Amos Tversky used in 1979, a simplified form of a problem Maurice Allais posed in 1953. Whether that shows people choose badly or that the rule asks too much is still argued.</p>
 </section>
 
 <section id="proof">
@@ -335,6 +335,7 @@ table.pay tbody th{color:var(--ink)}
     <li>M. Allais (1953), for the choice problems that violate independence.</li>
     <li>L. J. Savage, <em>The Foundations of Statistics</em> (1954).</li>
     <li>F. J. Anscombe and R. J. Aumann, "A definition of subjective probability," <em>Annals of Mathematical Statistics</em> 34 (1963), pp. 199–205.</li>
+    <li>D. Kahneman and A. Tversky, "Prospect theory: an analysis of decision under risk," <em>Econometrica</em> 47 (1979), pp. 263–291. The two questions in Figure 4 are their Problems 3 and 4.</li>
   </ul>
 </section>
 
@@ -390,7 +391,7 @@ function fig2(){
   pos.forEach((p,i)=>{S(svg,"circle",{cx:p[0],cy:p[1],r:35,class:i===hold?"f-win":"f-empty",stroke:"var(--ink)","stroke-width":1.5});
     S(svg,"text",{x:p[0],y:p[1]+4,"text-anchor":"middle",class:i===hold?"on":"ink",style:"font-size:"+(i===2?11:12)+"px"},names[i]);});
   const v=$("#v2");v.className="verdict"+(n>=3?" bad":"");
-  v.innerHTML=n===0?"You start with a week in the <b>City</b>. Move the slider to accept swaps.":"After <b>"+n+"</b> swap"+(n>1?"s":"")+" you hold a week in the <b>"+names[hold]+"</b> and have paid <b>$"+n+"</b>."+(hold===0?" You are back where you started, $"+n+" poorer, and still willing to swap.":n>=3?" You have been round the circle "+Math.floor(n/3)+" time"+(n>=6?"s":"")+" already.":"");
+  v.innerHTML=n===0?"You start with a week in the <b>City</b>. Move the slider to accept swaps.":"After <b>"+n+"</b> swap"+(n>1?"s":"")+" you hold a week "+(hold===1?"at":"in")+" the <b>"+names[hold]+"</b> and have paid <b>$"+n+"</b>."+(hold===0?" You are back where you started, $"+n+" poorer, and still willing to swap.":n>=3?" You have been round the circle "+(n<6?"once":n<9?"twice":Math.floor(n/3)+" times")+" already.":"");
 }
 $("#mp").oninput=fig2;figs.push(fig2);
 
