@@ -19,12 +19,12 @@ Shannon asked three things of a measure of uncertainty: that it change smoothly,
 
 [**Launch the entropy explainer →**]({{ site.url }}{{ site.baseurl }}/fun/shannon_entropy.html)
 
-### Cox's theorem
+### How to have consistent beliefs: Cox's theorem
 Ask only that degrees of plausibility be numbers, that they respect common sense, and that two ways of working out the same thing agree. Cox's theorem says those requirements force the rules of probability. Four interactive figures show why, starting with rules for "and" that contradict themselves and ending with the product and sum rules. A seven-step proof follows.
 
 [**Launch Cox's theorem →**]({{ site.url }}{{ site.baseurl }}/fun/cox_theorem.html)
 
-### The Dutch book argument
+### How to have consistent beliefs: the Dutch book argument
 Treat each of your degrees of belief as a price you would pay for a $1 bet. If those prices break the rules of probability, a bookie can offer you bets that each look fair and together lose you money whatever happens. Three interactive figures build the intuition: a single ticket, a three-horse race you can be booked on, and a turn as the bookie. The full derivation follows.
 
 [**Launch the Dutch book argument →**]({{ site.url }}{{ site.baseurl }}/fun/dutch_book.html)
