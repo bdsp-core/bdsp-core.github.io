@@ -9,6 +9,11 @@ permalink: /fun/
 
 A small collection of interactive tools, demos, and learning aids built by the lab. Most run entirely in your browser — nothing to install.
 
+### Where the entropy formula comes from
+Shannon asked three things of a measure of uncertainty: that it change smoothly, that more equally likely options mean more uncertainty, and that a choice made in stages carry the same uncertainty as the choice made at once. Four interactive figures show how those requirements lead to the formula −Σ p log p, and why other measures fail them. A four-step proof follows.
+
+[**Launch the entropy explainer →**]({{ site.url }}{{ site.baseurl }}/fun/shannon_entropy.html)
+
 ### Cox's theorem
 Ask only that degrees of plausibility be numbers, that they respect common sense, and that two ways of working out the same thing agree. Cox's theorem says those requirements force the rules of probability. Four interactive figures show why, starting with rules for "and" that contradict themselves and ending with the product and sum rules. A seven-step proof follows.
 
