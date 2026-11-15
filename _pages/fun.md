@@ -9,6 +9,11 @@ permalink: /fun/
 
 A small collection of interactive tools, demos, and learning aids built by the lab. Most run entirely in your browser — nothing to install.
 
+### The Dutch book argument
+Treat each of your degrees of belief as a price you would pay for a $1 bet. If those prices break the rules of probability, a bookie can offer you bets that each look fair and together lose you money whatever happens. Three interactive figures build the intuition: a single ticket, a three-horse race you can be booked on, and a turn as the bookie. The full derivation follows.
+
+[**Launch the Dutch book argument →**]({{ site.url }}{{ site.baseurl }}/fun/dutch_book.html)
+
 ### The secretary problem, in pictures
 You interview candidates one at a time and must hire or pass on the spot. The best strategy is to pass on the first 37%, then hire the first person who beats everyone before them, and it wins 37% of the time. This walkthrough shows where both numbers come from, with a playable round, a figure for each step of the argument, and a full derivation at the end.
 
