@@ -9,6 +9,11 @@ permalink: /fun/
 
 A small collection of interactive tools, demos, and learning aids built by the lab. Most run entirely in your browser — nothing to install.
 
+### Cox's theorem
+Ask only that degrees of plausibility be numbers, that they respect common sense, and that two ways of working out the same thing agree. Cox's theorem says those requirements force the rules of probability. Four interactive figures show why, starting with rules for "and" that contradict themselves and ending with the product and sum rules. A seven-step proof follows.
+
+[**Launch Cox's theorem →**]({{ site.url }}{{ site.baseurl }}/fun/cox_theorem.html)
+
 ### The Dutch book argument
 Treat each of your degrees of belief as a price you would pay for a $1 bet. If those prices break the rules of probability, a bookie can offer you bets that each look fair and together lose you money whatever happens. Three interactive figures build the intuition: a single ticket, a three-horse race you can be booked on, and a turn as the bookie. The full derivation follows.
 
