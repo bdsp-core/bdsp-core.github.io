@@ -9,6 +9,11 @@ permalink: /fun/
 
 A small collection of interactive tools, demos, and learning aids built by the lab. Most run entirely in your browser — nothing to install.
 
+### Where expected utility comes from
+Von Neumann and Morgenstern showed that if your preferences among gambles obey four rules, they can be summarized by one number per outcome, and you always prefer the gamble whose number is higher on average. Four interactive figures cover the rules: measuring your own utility curve with a gamble, why preferences must not cycle, why mixing in a side possibility cannot change a preference, and a two-question test that many people's choices fail. A four-step proof follows.
+
+[**Launch the expected utility explainer →**]({{ site.url }}{{ site.baseurl }}/fun/expected_utility.html)
+
 ### Where the entropy formula comes from
 Shannon asked three things of a measure of uncertainty: that it change smoothly, that more equally likely options mean more uncertainty, and that a choice made in stages carry the same uncertainty as the choice made at once. Four interactive figures show how those requirements lead to the formula −Σ p log p, and why other measures fail them. A four-step proof follows.
 
