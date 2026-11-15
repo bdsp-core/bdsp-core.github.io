@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated November 8, 2026**
+**Curriculum Vitae: updated November 15, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -80,7 +80,7 @@ Current Affiliation Stanford University
 
 5.  **<span class="smallcaps">Bibliography</span>**
 
-**Peer-reviewed original research (447 total, 5 in press, 10 submitted, 5 in review)**
+**Peer-reviewed original research (448 total, 5 in press, 10 submitted, 5 in review)**
 
 1.  Eliasmith C, **Westover MB**, Anderson CH. “A general framework for neurobiological modeling: An application to the vestibular system.” *Neurocomputing*. 2002. 46:1071-1076. PMCID: PMC6788744.
 
@@ -138,7 +138,7 @@ Current Affiliation Stanford University
 
 25. Shafi, MM\*, **Westover MB\*,** Cole AJ, Kilbride RD, Hoch DB, Cash SS. “Absence of Early Epileptiform Abnormalities Predicts Lack of Seizures on Continuou*s EEG”. Neurology. Oct 2012; 79:1796-801.* PMCID: PMC3475619. ***\*joint first authorship.***
 
-26. *Srinivasan P, **Westover *****MB**, Bianchi MT. “Propagation of Uncertainty in Bayesian
+26. *Srinivasan P, **Westover*** **MB**, Bianchi MT. “Propagation of Uncertainty in Bayesian
 
 > Diagnostic Test Interpretation”. *Southern Medical Journal.* 2012 Sep;105(9):452-9. PMCID: PMC6785978.
 
@@ -173,7 +173,7 @@ Current Affiliation Stanford University
 38. Eiseman, A, Bianchi MT, **Westover MB.** “The Information Theoretic Perspective on Medical Diagnostic Inference.” *<span class="mark">Hospital Practice.</span>* 2014 Apr;42(2):125-38. PMCID PMC6993929.
 
 39. Bai Z, Huang GB, Wang D, Wang H, **Westover MB.** “Sparse Extreme Learning Machine for Classiﬁcation.” *IEEE Transactions on Cybernetics*, "Sparse Extreme Learning Machine for Classification," *Cybernetics, IEEE Transactions on* , vol.PP, no.99, pp.1,1  
-    > doi: 10.1109/TCYB.2014.2298235. PMCID: PMC4883115.
+    doi: 10.1109/TCYB.2014.2298235. PMCID: PMC4883115.
 
 40. Shafi MM\*, **Westover MB\***, Oberman L, Cash SS, Pascual-Leone A. “Modulation of EEG functional connectivity networks in subjects undergoing repetitive transcranial magnetic stimulation.” *Brain Topography.* 2014 Jan;27(1):172-91. doi: 10.1007/s10548-013-0277-y. Epub 2013 Mar 8. PMCID: PMC4026010. **\*joint first authorship.**
 
@@ -1001,6 +1001,8 @@ Current Affiliation Stanford University
 
 447. Jing J, Sun C, Zhang T, Byrd M, Tăuţan AM, Basovic L, Hadar PN, Fernandes MP, Goldenholz D, Kim J, Struck AF, Zafar SF, **Westover MB**. GROND: automated characterization of periodic and rhythmic EEG patterns. J Neural Eng. 2026 Nov 03;23(6):066002. doi: 10.1088/1741-2552/aeb331. PMID: 42863487; PMCID: PMC13729739.
 
+448. Bhansali RM, **Westover MB**, Goldenholz DM. Is it possible to vaccinate AI against bias? An exploratory study in epilepsy. Epilepsy Behav. 2026 Nov 10;186:111379. doi: 10.1016/j.yebeh.2026.111379. Epub ahead of print. PMID: 43014131.
+
 **Peer-reviewed publications (accepted, in press)**
 
 1.  Sartipi S, Godfrey DS, Tauțan AM, Fernandes MP, Ghanta M, Gupta A, Nearing B, Kim J, Struck AF, Loddenkemper T, Peters J, Lee JW, **Westover MB**, Zafar SF. Automated Extraction of Seizures and Ictal-Interictal Continuum Patterns from EEG Reports to Enable Large-Scale Neurophysiology and Neurocritical Care Research. Available at SSRN. doi: 10.2139/ssrn.5489575. *SSRN*.\*\*
@@ -1011,7 +1013,7 @@ Current Affiliation Stanford University
 
 2.  Bianchi MT and **Westover MB**. (2009) “Comment on: Analysis of SPARCL trial data for reduction of future stroke risk in older stroke patients with recent stroke or TIA.” Neurology 73(10):817-818.
 
-3.  **Westover MB, Gaspard N. “**Not a simple plumbing problem: Updating our understanding of delayed cerebral ischemia in aneurysmal subarachnoid hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):171-3. PMCID: PMC4894327. *I**nvited review as Guest Editor for a special issue of JCN on the neurophysiology of subarachnoid hemorrhage. ***
+3.  **Westover MB, Gaspard N. “**Not a simple plumbing problem: Updating our understanding of delayed cerebral ischemia in aneurysmal subarachnoid hemorrhage.” J Clin Neurophysiol. 2016 Jun;33(3):171-3. PMCID: PMC4894327. *I**nvited review as Guest Editor for a special issue of JCN on the neurophysiology of subarachnoid hemorrhage.***
 
 4.  Dreier J, Fabricius M, Cenk A, Sakowitz O, Shuttleworth C, Dohmen C, Graf R, Vajkoczy P, Helbok R, Suzuki M; Schiefecker A,; Major S, Winkler M, Kang EJ, Milakara D, Oliveira-Ferreira A, Reiffurth C, Revankar G, Sugimoto K, Dengler N, Hecht N, Foreman B, Feyen B, Kondziella D, Friberg C. Piilgaard H, Rosenthal ES, **Westover MB**, Maslarova A, Santos E, Hertle D, Sanchez-Porras R, Jewell S, Balança B, Platz J, Hinzman J, Luckl J, Schoknecht K, Schöll M, Drenckhahn C, Feuerstein D, Eriksen N, Horst V, Bretz J, Jahnke P, Scheel M, Bohner G, Rostrup E, Pakkenberg B, Heinemann U, Claassen J, Carlson A, Kowoll C, Lublinsky S, Chassidim Y, Shelef I, Friedman A, Brinker G, Reiner M, Kirov S, Andrew R, Farkas E, Gueresir, E, Vatter H, Chung L, Brennan K Lieutaud T, Marinesco S, Maas A, Sahuquillo J, Dahlem M, Richter F, Herreras O, Boutelle M, Okonkwo D, Bullock R, Witte OW, Martus P, Van den Maagdenberg A, Ferrari M, Dijkhuizen R, Shutter L, Andaluz N, Schulte A, MacVicar B, Watanabe T, Woitzik J, Lauritzen M, Strong A, Hartings J. “Recording, analysis, and interpretation of spreading depolarizations in neurointensive care: review and recommendations of the COSBID research group.” Journal of Cerebral Blood Flow and Metabolism. 2016 Jun 17. pii: 0271678X16654496. \[Epub ahead of print\] PMID: 27317657.
 
@@ -1543,44 +1545,44 @@ None.
 
 *Courses*
 
-| 2001–2002 | Instructor for Computational Neuroscience, Washington University School of Medicine, Department of Anatomy and Neurobiology.                                      |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2003      | Instructor for Detection and Estimation Theory, Washington University, Department of Electrical and Systems Engineering.                                          |
-| 2004      | Instructor for Information Theory, Washington University, Department of Electrical and Systems Engineering.                                                       |
-| 2008–2009 | Instructor for Neuroanatomy Laboratory, Harvard Medical School.                                                                                                   |
-| 2012–2025 | Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology.                     |
+| 2001–2002 | Instructor for Computational Neuroscience, Washington University School of Medicine, Department of Anatomy and Neurobiology. |
+|----|----|
+| 2003 | Instructor for Detection and Estimation Theory, Washington University, Department of Electrical and Systems Engineering. |
+| 2004 | Instructor for Information Theory, Washington University, Department of Electrical and Systems Engineering. |
+| 2008–2009 | Instructor for Neuroanatomy Laboratory, Harvard Medical School. |
+| 2012–2025 | Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology. |
 | 2013–2017 | Course Director and Lecturer for Medical Decision Analysis and Diagnostic Test Interpretation (HST-192.0), Harvard–MIT Program in Health Sciences and Technology. |
 
 *Tutorials and Lectures*
 
-| 10/2009 | Granger Causality Analysis Techniques for EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.                               |
-|---------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 5/2010  | Synchronization Likelihood for Functional Connectivity Analysis of EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA.      |
-| 7/2008  | Probability in Medical Reasoning. Neurology Residents, Brigham and Women’s Hospital, Boston, MA.                                            |
-| 9/2009  | Invited lecturer, Bayes’ Rule for Physicians. Partners Neurology, MGH/BWH, Boston, MA.                                                      |
-| 6/2010  | EEG Alphabet Soup: GCSE, NCSE, PLEDs, BIPLEDs, GPEDs, & DEADs. Partners Neurology, MGH/BWH, Boston, MA.                                     |
-| 8/2011  | Status Epilepticus: Diagnosis and Management. Partners Neurology, MGH/BWH, Boston, MA.                                                      |
-| 9/2012  | Introduction to ICU EEG: Seizures, Spikes, PEDs, Ischemia, and Coma. Partners Neurology, MGH/BWH, Boston, MA.                               |
-| 7/2018  | Quantitative Electroencephalography. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.                               |
-| 7/2019  | Recognizing Seizures and Ischemia in Critical Care EEG Monitoring. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
-| 6/2020  | Emergency Electroencephalography. Emergency Medicine Residents, Massachusetts General Hospital, Boston, MA.                                 |
-| 7/2020  | Introduction to Spectrograms in ICU EEG. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA.                           |
+| 10/2009 | Granger Causality Analysis Techniques for EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA. |
+|----|----|
+| 5/2010 | Synchronization Likelihood for Functional Connectivity Analysis of EEG Data. Clinical Neurophysiology Research Group, MGH, Boston, MA. |
+| 7/2008 | Probability in Medical Reasoning. Neurology Residents, Brigham and Women’s Hospital, Boston, MA. |
+| 9/2009 | Invited lecturer, Bayes’ Rule for Physicians. Partners Neurology, MGH/BWH, Boston, MA. |
+| 6/2010 | EEG Alphabet Soup: GCSE, NCSE, PLEDs, BIPLEDs, GPEDs, & DEADs. Partners Neurology, MGH/BWH, Boston, MA. |
+| 8/2011 | Status Epilepticus: Diagnosis and Management. Partners Neurology, MGH/BWH, Boston, MA. |
+| 9/2012 | Introduction to ICU EEG: Seizures, Spikes, PEDs, Ischemia, and Coma. Partners Neurology, MGH/BWH, Boston, MA. |
+| 7/2018 | Quantitative Electroencephalography. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
+| 7/2019 | Recognizing Seizures and Ischemia in Critical Care EEG Monitoring. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
+| 6/2020 | Emergency Electroencephalography. Emergency Medicine Residents, Massachusetts General Hospital, Boston, MA. |
+| 7/2020 | Introduction to Spectrograms in ICU EEG. Neurophysiology and Epilepsy Fellows, MGH Epilepsy Division, Boston, MA. |
 
 *Clinical Supervisory and Training*
 
-| 2012– | Supervisor, MGH Adult Epilepsy Clinic (½-day session per week).                                                                             |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 2012– | Supervisor, MGH Adult Epilepsy Clinic (½-day session per week). |
+|----|----|
 | 2012– | Attending Physician, MGH Inpatient Neurology Service (2-week block per year), supervising neurology residents and Harvard medical students. |
-| 2012– | Attending Physician, MGH General Neurology Consult Service (2-week block per year), supervising neurology residents.                        |
-| 2012– | Director, MGH Critical Care EEG Monitoring Service (≈10 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.         |
-| 2012– | Attending, MGH Epilepsy Monitoring Unit (≈6 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows.                     |
-| 2012– | Faculty, Outpatient EEG Reading Service (≈2 days per month), supervising Epilepsy and Clinical Neurophysiology Fellows.                     |
+| 2012– | Attending Physician, MGH General Neurology Consult Service (2-week block per year), supervising neurology residents. |
+| 2012– | Director, MGH Critical Care EEG Monitoring Service (≈10 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows. |
+| 2012– | Attending, MGH Epilepsy Monitoring Unit (≈6 weeks per year), supervising Epilepsy and Clinical Neurophysiology Fellows. |
+| 2012– | Faculty, Outpatient EEG Reading Service (≈2 days per month), supervising Epilepsy and Clinical Neurophysiology Fellows. |
 
 *Research Supervisory and Training Responsibilities*
 
 | 2012– | Supervisor of postdoctoral research fellows (average 5–10 fellows per year), Massachusetts General Hospital. |
-|-------|--------------------------------------------------------------------------------------------------------------|
-| 2012– | Supervisor of graduate students (average 2–4 per year), Massachusetts General Hospital and MIT.              |
+|----|----|
+| 2012– | Supervisor of graduate students (average 2–4 per year), Massachusetts General Hospital and MIT. |
 
 10. **<span class="smallcaps">Trainees</span>**
 
