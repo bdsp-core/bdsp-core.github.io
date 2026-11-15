@@ -59,6 +59,7 @@ h3{font-size:21px;font-weight:650;letter-spacing:-.01em;margin:30px 0 10px}
 .controls{display:flex;flex-wrap:wrap;gap:14px 26px;align-items:center;margin-bottom:14px}
 .ctl{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:13.5px;color:var(--muted);flex:1 1 240px;min-width:0}
 .ctl label{white-space:nowrap}
+.ctl label.wrap{white-space:normal}
 .ctl output{color:var(--ink);min-width:3.2ch;text-align:right;font-variant-numeric:tabular-nums}
 input[type=range]{flex:1;min-width:90px;accent-color:var(--ink);height:28px;margin:0}
 input.rr{accent-color:var(--look)} input.kk{accent-color:var(--win)}
@@ -200,7 +201,7 @@ table.pay tbody th{color:var(--ink)}
     <div class="verdict" id="v1" aria-live="polite"></div>
     <p class="cap">The starting values are Shannon's own example: probabilities 1/2, 1/3 and 1/6, or a fair coin followed half the time by a 2/3 against 1/3 choice.</p>
   </div>
-  <p>The other three candidates are all reasonable-sounding measures of spread, but each gives two different answers for the same situation. Only the first survives, for every setting of the sliders.</p>
+  <p>The other three candidates are all reasonable-sounding measures of spread, but each gives two different answers for the same situation, at least for some settings of the sliders. Only the first survives, for every setting of the sliders.</p>
 </section>
 
 <section id="f2">
@@ -219,6 +220,7 @@ table.pay tbody th{color:var(--ink)}
         <thead><tr><th>candidate A(n)</th><th class="t-look">A(m)</th><th class="t-leap">A(n)</th><th>A(m) + A(n)</th><th>A(m × n)</th></tr></thead>
         <tbody></tbody>
       </table>
+      <p class="cap" id="t2n" aria-live="polite" style="display:none"></p>
       </div>
     </div>
     <div class="host" id="fig2b" style="margin-top:14px"></div>
@@ -250,7 +252,7 @@ table.pay tbody th{color:var(--ink)}
   <p>The formula has a direct reading. An outcome with probability <i class="v">p</i> carries a surprise of log₂(1/<i class="v">p</i>) bits: none if it was certain, 1 bit if it was a coin flip, more as it gets rarer. Entropy is the surprise you should expect, each outcome's surprise weighted by its chance. For a choice between two outcomes it looks like this.</p>
   <div class="fig">
     <div class="controls">
-      <div class="ctl"><label for="b4p">chance of the first outcome</label><input class="rr" type="range" id="b4p" min="0.01" max="0.99" step="0.01" value="0.25"><output id="b4po"></output></div>
+      <div class="ctl"><label for="b4p" class="wrap">chance of the first outcome</label><input class="rr" type="range" id="b4p" min="0.01" max="0.99" step="0.01" value="0.25"><output id="b4po"></output></div>
     </div>
     <div class="splitfig">
       <div class="host" id="fig4" style="flex:1 1 340px"></div>
@@ -373,7 +375,8 @@ function fig1(){
   const n=NAME[r];
   $("#r1").innerHTML='all at once: '+n+'('+f2(p1)+', '+f2(p2)+', '+f2(p3)+') = <b class="'+(same?"gain":"loss")+'">'+f3(direct)+'</b><br>in stages: '+n+'('+f2(p1)+', '+f2(q)+') + '+f2(q)+' × '+n+'('+f2(t)+', '+f2(1-t)+') = '+f3(s1)+' + '+f2(q)+' × '+f3(s2)+' = <b class="'+(same?"gain":"loss")+'">'+f3(staged)+'</b>';
   const v=$("#v1");
-  if(same){v.className="verdict ok";v.innerHTML="<b>The routes agree</b> at "+f3(direct)+", for every setting of the sliders.";}
+  if(same&&r==="sh"){v.className="verdict ok";v.innerHTML="<b>The routes agree</b> at "+f3(direct)+", for every setting of the sliders.";}
+  else if(same){v.className="verdict";v.innerHTML="<b>The routes agree here</b>, at "+f3(direct)+", but not for every setting."+(r==="maxp"?" With this measure they match only while one of the last two outcomes is at least as likely as the first. Raise <i>first outcome</i> until it is the most likely and the routes come apart.":" Move the sliders and the routes come apart.");}
   else{v.className="verdict bad";v.innerHTML="<b>The routes disagree:</b> "+f3(direct)+" against "+f3(staged)+". This measure gives two different uncertainties to the same situation."+(r==="cnt"?" It also ignores the probabilities altogether.":"");}
 }
 $("#b1p").oninput=fig1;$("#b1t").oninput=()=>{tExact=null;fig1();};figs.push(fig1);
@@ -387,7 +390,10 @@ function fig2(){
    S(svg,"text",{x:x0-8,y:y0+rr*c+c/2+4,"text-anchor":"end",class:"tl"},"row");S(svg,"text",{x:x0+cc*c+c/2,y:y0-7,"text-anchor":"middle",class:"ta"},"col");
    S(svg,"text",{x:x0,y:y0+8*c+16},m+" × "+n+" = "+(m*n)+" cells");}
   const C=[["log₂ n",lg],["n − 1",v=>v-1],["√n",Math.sqrt]];
-  $("#t2 tbody").innerHTML=C.map(c=>{const a=c[1](m),b=c[1](n),s=a+b,ab=c[1](m*n),ok=Math.abs(s-ab)<1e-9;return '<tr><th>'+c[0]+'</th><td>'+f3(a)+'</td><td>'+f3(b)+'</td><td>'+f3(s)+'</td><td class="'+(ok?"gain":"loss")+'">'+f3(ab)+(ok?" ✓":" ✗")+'</td></tr>';}).join("");
+  $("#t2 tbody").innerHTML=C.map(c=>{const a=c[1](m),b=c[1](n),s=a+b,ab=c[1](m*n),ok=Math.abs(s-ab)<1e-9,lucky=ok&&c[1]!==lg;return '<tr><th>'+c[0]+'</th><td>'+f3(a)+'</td><td>'+f3(b)+'</td><td>'+f3(s)+'</td><td class="'+(lucky?"":ok?"gain":"loss")+'">'+f3(ab)+(lucky?" ✓ here only":ok?" ✓":" ✗")+'</td></tr>';}).join("");
+  const note=$("#t2n"),one=m===1||n===1,four=m===4&&n===4;
+  note.innerHTML=one?"With a single row or a single column there is nothing to combine, so any candidate that gives one option zero uncertainty passes. Try a grid with at least two rows and two columns.":four?"√n passes here by coincidence, because √4 + √4 = 4 = √16. It fails for every other grid. Only log₂ n passes for all of them.":"";
+  note.style.display=note.innerHTML?"":"none";
   {const {svg,w}=fresh("#fig2b",96);const L0=22,RR=22,PW=w-L0-RR,X=v=>L0+lg(v)/6*PW,y=52;
    S(svg,"line",{x1:L0,x2:w-RR,y1:y,y2:y,class:"s-ink"});
    [1,2,4,8,16,32,64].forEach((v,i)=>{S(svg,"line",{x1:X(v),x2:X(v),y1:y,y2:y+6,class:"s-ink",style:"stroke-width:1.2"});S(svg,"text",{x:X(v),y:y+20,"text-anchor":"middle",class:"ink"},v);S(svg,"text",{x:X(v),y:y+35,"text-anchor":"middle"},i+(i===1?" bit":w>430||i===0?" bits":""));});
@@ -401,15 +407,17 @@ function fig2(){
 function fig3(){
   const g=[+$("#b3a").value,+$("#b3b").value,+$("#b3c").value],N=g[0]+g[1]+g[2],p=g.map(v=>v/N);
   ["a","b","c"].forEach((k,i)=>$("#b3"+k+"o").textContent=g[i]);
-  const {svg,w}=fresh("#fig3",176);
+  const {svg,w}=fresh("#fig3",190);
   const L0=6,RR=6,PW=w-L0-RR,cw=PW/N,fills=["f-look-s","f-leap-s","f-pass"],soft=["f-look","f-leap","f-pass"];
   let k=0;g.forEach((n,i)=>{for(let j=0;j<n;j++){S(svg,"rect",{x:L0+k*cw+1,y:8,width:Math.max(2,cw-2),height:30,rx:2,class:fills[i]});k++;}});
-  k=0;g.forEach((n,i)=>{const x1=L0+k*cw,x2=L0+(k+n)*cw;S(svg,"text",{x:(x1+x2)/2,y:56,"text-anchor":"middle",class:"ink"},(x2-x1>70?"group "+(i+1)+": ":"")+n+"/"+N);k+=n;});
+  k=0;const rowR=[-1e9,-1e9];g.forEach((n,i)=>{const x1=L0+k*cw,x2=L0+(k+n)*cw,cx=(x1+x2)/2;const t=S(svg,"text",{x:cx,y:56,"text-anchor":"middle",class:"ink"},"group "+(i+1)+": "+n+"/"+N);let tw=t.getComputedTextLength();if(tw>x2-x1-6){t.textContent=n+"/"+N;tw=t.getComputedTextLength();}
+    const row=cx-tw/2>=rowR[0]+6?0:1;if(row)t.setAttribute("y",71);rowR[row]=cx+tw/2;k+=n;});
   const tot=lg(N),inside=p.map((v,i)=>v*lg(g[i])),ins=inside.reduce((a,b)=>a+b,0),H=tot-ins,direct=M.sh(p);
-  const y=96,bh=34,X=v=>L0+(tot>0?v/tot:0)*PW;
-  if(H>1e-9){S(svg,"rect",{x:X(0),y:y,width:Math.max(1,X(H)-X(0)-1),height:bh,rx:2,class:"f-win"});if(X(H)-X(0)>92)S(svg,"text",{x:(X(0)+X(H))/2,y:y+bh/2+4.5,"text-anchor":"middle",class:"on",style:"font-size:12.5px"},"which group");}
+  const y=108,bh=34,X=v=>L0+(tot>0?v/tot:0)*PW;
+  const brace=(a,b,full,short)=>{const t=S(svg,"text",{x:(a+b)/2,y:y-12,"text-anchor":"middle",class:"ink",style:"font-size:12.5px"},full);if(t.getComputedTextLength()>b-a-4)t.textContent=short;if(t.getComputedTextLength()>b-a-4){t.remove();return;}S(svg,"path",{d:"M"+(a+1)+" "+(y-3)+"v-4H"+(b-1)+"v4",class:"s-ink",style:"stroke-width:1.2"});};
+  if(H>1e-9){S(svg,"rect",{x:X(0),y:y,width:Math.max(1,X(H)-X(0)-1),height:bh,rx:2,class:"f-win"});brace(X(0),X(H)-1,"which group","group");}
   let acc=H;inside.forEach((v,i)=>{if(v>1e-9){S(svg,"rect",{x:X(acc)+.5,y:y,width:Math.max(1,X(acc+v)-X(acc)-1),height:bh,rx:2,class:soft[i],stroke:i===0?"var(--look)":i===1?"var(--leap)":"var(--muted)"});acc+=v;}});
-  if(ins>1e-9&&X(tot)-X(H)>150)S(svg,"text",{x:(X(H)+X(tot))/2,y:y+bh/2+4.5,"text-anchor":"middle",class:"ink",style:halo+";font-size:12.5px"},"which cell inside it");
+  if(ins>1e-9)brace(X(H)+.5,X(tot),"which cell inside it","which cell");
   S(svg,"path",{d:"M"+X(0)+" "+(y+bh+6)+"v6H"+X(tot)+"v-6",class:"s-ink",style:"stroke-width:1.2"});
   S(svg,"text",{x:(X(0)+X(tot))/2,y:y+bh+28,"text-anchor":"middle",class:"ink"},"pick one of "+N+" cells: log₂ "+N+" = "+f3(tot)+" bits");
   $("#r3").innerHTML='which group <b class="t-win">'+f3(H)+'</b> + which cell inside it, on average <b>'+f3(ins)+'</b> = <b>'+f3(tot)+'</b> bits<br>inside the groups: '+p.map((v,i)=>f2(v)+' × log₂ '+g[i]).join(' + ')+' = '+f3(ins)+'<br>the formula: −Σ p log₂ p = <b class="gain">'+f3(direct)+' ✓</b>';
