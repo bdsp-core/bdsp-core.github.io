@@ -9,7 +9,7 @@ permalink: /fun/
 
 A small collection of interactive tools, demos, and learning aids built by the lab. Most run entirely in your browser — nothing to install.
 
-### Where expected utility comes from
+### How to have rational preferences
 Von Neumann and Morgenstern showed that if your preferences among gambles obey four rules, they can be summarized by one number per outcome, and you always prefer the gamble whose number is higher on average. Four interactive figures cover the rules: measuring your own utility curve with a gamble, why preferences must not cycle, why mixing in a side possibility cannot change a preference, and a two-question test that many people's choices fail. A four-step proof follows.
 
 [**Launch the expected utility explainer →**]({{ site.url }}{{ site.baseurl }}/fun/expected_utility.html)
