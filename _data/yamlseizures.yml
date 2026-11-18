@@ -1,3 +1,15 @@
+- title: '"Automated extraction of seizures and ictal-interictal continuum patterns
+    from EEG reports to enable large-scale neurophysiology and neurocritical care
+    research."'
+  image: ''
+  description: ''
+  authors: Sartipi S, Godfrey DS, Tauțan AM, Fernandes MP, Ghanta M, Gupta A, Nearing
+    B, Kim J, Struck AF, Loddenkemper T, Peters J, Lee JW, Westover MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/43038589
+    display: 'International journal of medical informatics. 2026. 224. 106816. doi:
+      10.1016/j.ijmedinf.2026.106816. PMID: 43038589.'
+  highlight: 0
 - title: '"Quantifying Interictal Spike Asymmetry on Scalp EEG to Lateralize the Seizure-Onset
     Zone in Temporal Lobe Epilepsy."'
   image: ''
@@ -408,7 +420,8 @@
     display: 'BMC health services research. 2023. 23(1). 1234. doi: 10.1186/s12913-023-10262-8.
       PMID: 37950245.'
   highlight: 0
-- title: '"How Many Patients Do You Need? Investigating Trial Designs for Anti-Seizure Treatment in Acute Brain Injury Patients."'
+- title: '"How Many Patients Do You Need? Investigating Trial Designs for Anti-Seizure
+    Treatment in Acute Brain Injury Patients."'
   image: ''
   description: ''
   authors: Parikh H, Sun H, Amerineni R, Rosenthal ES, Volfovsky A, Rudin C, Westover

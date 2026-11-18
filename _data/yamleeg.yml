@@ -1,3 +1,15 @@
+- title: '"Automated extraction of seizures and ictal-interictal continuum patterns
+    from EEG reports to enable large-scale neurophysiology and neurocritical care
+    research."'
+  image: ''
+  description: ''
+  authors: Sartipi S, Godfrey DS, Tauțan AM, Fernandes MP, Ghanta M, Gupta A, Nearing
+    B, Kim J, Struck AF, Loddenkemper T, Peters J, Lee JW, Westover MB, Zafar SF
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/43038589
+    display: 'International journal of medical informatics. 2026. 224. 106816. doi:
+      10.1016/j.ijmedinf.2026.106816. PMID: 43038589.'
+  highlight: 0
 - title: '"GROND: automated characterization of periodic and rhythmic EEG patterns."'
   image: ''
   description: ''
