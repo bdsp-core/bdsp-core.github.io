@@ -1,4 +1,4 @@
-**Curriculum Vitae: updated November 15, 2026**
+**Curriculum Vitae: updated November 22, 2026**
 
 1.  **<span class="smallcaps">Identifying Data</span>**
 
@@ -80,7 +80,7 @@ Current Affiliation Stanford University
 
 5.  **<span class="smallcaps">Bibliography</span>**
 
-**Peer-reviewed original research (448 total, 5 in press, 10 submitted, 5 in review)**
+**Peer-reviewed original research (449 total, 5 in press, 10 submitted, 5 in review)**
 
 1.  Eliasmith C, **Westover MB**, Anderson CH. “A general framework for neurobiological modeling: An application to the vestibular system.” *Neurocomputing*. 2002. 46:1071-1076. PMCID: PMC6788744.
 
@@ -1002,6 +1002,8 @@ Current Affiliation Stanford University
 447. Jing J, Sun C, Zhang T, Byrd M, Tăuţan AM, Basovic L, Hadar PN, Fernandes MP, Goldenholz D, Kim J, Struck AF, Zafar SF, **Westover MB**. GROND: automated characterization of periodic and rhythmic EEG patterns. J Neural Eng. 2026 Nov 03;23(6):066002. doi: 10.1088/1741-2552/aeb331. PMID: 42863487; PMCID: PMC13729739.
 
 448. Bhansali RM, **Westover MB**, Goldenholz DM. Is it possible to vaccinate AI against bias? An exploratory study in epilepsy. Epilepsy Behav. 2026 Nov 10;186:111379. doi: 10.1016/j.yebeh.2026.111379. Epub ahead of print. PMID: 43014131.
+
+449. Yuan D, Sheikh IS, Katyal R, Kaplan PW, Fotedar N, Clay J, Benbadis S, Richards S, Schomer D, Vinayan KP, Pacheco V, Schuele S, McLaren J, Lin K, Fessler AJ, Yoo J, Greenblatt AS, Beniczky S, **Westover MB**, Nascimento FA. Intrarater reliability of expert electroencephalographic interpretation of 100 full-length recordings. Epilepsia. 2026 Nov 20. doi: 10.1002/epi.70620. Epub ahead of print. PMID: 43062806.
 
 **Peer-reviewed publications (accepted, in press)**
 
